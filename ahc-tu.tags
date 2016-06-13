@@ -1,0 +1,78 @@
+﻿[
+   {
+      "@" : "spotify:album:1T2wPXjEUUOPctNbjshdyO",
+      "ALBUM" : "Tango Umbrella",
+      "ARTIST" : "American Head Charge",
+      "DATE" : "2016-03-25",
+      "LABEL" : "Napalm Records",
+      "MUSICBRAINZ_ALBUMID" : "4920096d-8540-4b08-bb6c-0e7c3c1b3be1",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "9d4e0a6c-7b56-4c51-99e2-5bb03995c5b1",
+      "MUSICBRAINZ_RELEASEGROUPID" : "7c19c4f0-2f82-4d77-a1a5-9bbc0819041d",
+      "MUSICBRAINZ_TRACKID" : "eb214cf9-1c3c-471f-b11e-568800f9831d",
+      "TITLE" : "Let All The World Believe",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:1T2wPXjEUUOPctNbjshdyO|1",
+      "MUSICBRAINZ_TRACKID" : "e046518e-2dd7-4f34-99d3-1e44cee45183",
+      "TITLE" : "Drowning Under Everything",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:1T2wPXjEUUOPctNbjshdyO|2",
+      "MUSICBRAINZ_TRACKID" : "2931ac04-c906-42da-9cd3-f7ef5a9745c1",
+      "TITLE" : "Perfectionist",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:1T2wPXjEUUOPctNbjshdyO|3",
+      "MUSICBRAINZ_TRACKID" : "ef6d22f8-cefa-4d74-8944-a73cd974e6ac",
+      "TITLE" : "Sacred",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:1T2wPXjEUUOPctNbjshdyO|4",
+      "MUSICBRAINZ_TRACKID" : "5379ebee-a33d-43cd-b941-2e40cd21e9ce",
+      "TITLE" : "I Will Have My Day",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:1T2wPXjEUUOPctNbjshdyO|5",
+      "MUSICBRAINZ_TRACKID" : "0df51594-8cf1-43bd-8dc5-9e7e5a358575",
+      "TITLE" : "A King Among Men",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:1T2wPXjEUUOPctNbjshdyO|6",
+      "MUSICBRAINZ_TRACKID" : "6f8d5228-ac21-4918-b64c-643d84858056",
+      "TITLE" : "Suffer Elegantly",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:1T2wPXjEUUOPctNbjshdyO|7",
+      "MUSICBRAINZ_TRACKID" : "db9501b5-812b-48a5-af7c-7130ebd65b60",
+      "TITLE" : "Antidote",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:1T2wPXjEUUOPctNbjshdyO|8",
+      "MUSICBRAINZ_TRACKID" : "54dd62f9-d48c-4ccd-a392-5d50b1330ccd",
+      "TITLE" : "Prolific Catastrophe",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:1T2wPXjEUUOPctNbjshdyO|9",
+      "MUSICBRAINZ_TRACKID" : "b1bf5b1b-bd79-4aa8-b8de-7e07075a2269",
+      "TITLE" : "Down And Depraved",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:1T2wPXjEUUOPctNbjshdyO|10",
+      "MUSICBRAINZ_TRACKID" : "8172a029-96fd-4a06-93e0-f06b25f02f03",
+      "TITLE" : "When The Time Is Never Right",
+      "TRACKNUMBER" : "11"
+   }
+]

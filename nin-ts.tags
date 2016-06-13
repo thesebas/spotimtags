@@ -1,0 +1,55 @@
+﻿[
+   {
+      "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp",
+      "ALBUM" : "The Slip",
+      "ARTIST" : "Nine Inch Nails",
+      "DISCNUMBER" : "1",
+      "TITLE" : "999,999",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|1",
+      "TITLE" : "1,000,000",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|2",
+      "TITLE" : "Letting You",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|3",
+      "TITLE" : "Discipline",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|4",
+      "TITLE" : "Echoplex",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|5",
+      "TITLE" : "Head Down",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|6",
+      "TITLE" : "Lights In The Sky",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|7",
+      "TITLE" : "Corona Radiata",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|8",
+      "TITLE" : "The Four Of Us Are Dying",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|9",
+      "TITLE" : "Demon Seed",
+      "TRACKNUMBER" : "10"
+   }
+]

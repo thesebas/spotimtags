@@ -1,0 +1,92 @@
+﻿[
+   {
+      "@" : "spotify:album:6LTkG6sc02q4L1zCm3jD6d",
+      "ALBUM" : "Through the Ashes of Empires",
+      "ARTIST" : "Machine Head",
+      "BARCODE" : "016861836320",
+      "CATALOGNUMBER" : "168 618 363-2",
+      "DATE" : "2004-04-20",
+      "DURATION" : "402",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "df94208e-ad13-40fb-b55d-06e1333da711",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "22a1f4d7-81ff-4216-ac06-3387da6bc118",
+      "MUSICBRAINZ_RELEASEGROUPID" : "e9963308-d781-3d7b-bf00-387370fcfd94",
+      "MUSICBRAINZ_TRACKID" : "091c44d2-d0a8-4829-b548-03144a36881f",
+      "ORIGINAL RELEASE DATE" : "2003-10-27",
+      "TITLE" : "Imperium",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6LTkG6sc02q4L1zCm3jD6d|1",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "012ec3e7-ea8c-4663-b26d-c3619d6064ef",
+      "TITLE" : "Bite the Bullet",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6LTkG6sc02q4L1zCm3jD6d|2",
+      "DURATION" : "333",
+      "MUSICBRAINZ_TRACKID" : "14afb11c-c883-47b6-a5f2-9af41230b3cb",
+      "TITLE" : "Left Unfinished",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6LTkG6sc02q4L1zCm3jD6d|3",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "a6fa2e86-1673-4b3e-9d62-a04e0b4d7d69",
+      "TITLE" : "Elegy",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6LTkG6sc02q4L1zCm3jD6d|4",
+      "DURATION" : "427",
+      "MUSICBRAINZ_TRACKID" : "ae9eab41-bc6c-410f-873a-8a9d8c5a7902",
+      "TITLE" : "In the Presence of My Enemies",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6LTkG6sc02q4L1zCm3jD6d|5",
+      "DURATION" : "330",
+      "MUSICBRAINZ_TRACKID" : "f10af271-ab4b-430b-bd76-a917f6da788e",
+      "TITLE" : "Days Turn Blue to Gray",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6LTkG6sc02q4L1zCm3jD6d|6",
+      "DURATION" : "312",
+      "MUSICBRAINZ_TRACKID" : "e56af9d1-6c47-47d5-8d16-e1980bdcf8c5",
+      "TITLE" : "Vim",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6LTkG6sc02q4L1zCm3jD6d|7",
+      "DURATION" : "378",
+      "MUSICBRAINZ_TRACKID" : "738abd1a-61f2-4191-b908-93dacde011d7",
+      "TITLE" : "Seasons Wither",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:6LTkG6sc02q4L1zCm3jD6d|8",
+      "DURATION" : "270",
+      "MUSICBRAINZ_TRACKID" : "36976fb0-cbcf-4945-a20d-0ba9f590572e",
+      "TITLE" : "All Falls Down",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:6LTkG6sc02q4L1zCm3jD6d|9",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "9277b2bf-8bfe-46ee-9111-9e8f441eacd4",
+      "TITLE" : "Wipe the Tears",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:6LTkG6sc02q4L1zCm3jD6d|10",
+      "DURATION" : "465",
+      "MUSICBRAINZ_TRACKID" : "ba7de9fa-305b-43ee-be35-7f749c1dc344",
+      "TITLE" : "Descend the Shades of Night",
+      "TRACKNUMBER" : "11"
+   }
+]

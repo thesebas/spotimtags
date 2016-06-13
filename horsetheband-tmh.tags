@@ -1,0 +1,70 @@
+﻿[
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP",
+      "ALBUM" : "The Mechanical Hand",
+      "ARTIST" : "Horse The Band",
+      "DISCNUMBER" : "1",
+      "TITLE" : "Birdo",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|1",
+      "TITLE" : "A Million Exploding Suns",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|2",
+      "TITLE" : "Manateen",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|3",
+      "TITLE" : "The House Of Boo",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|4",
+      "TITLE" : "Heroes Die",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|5",
+      "TITLE" : "Softer Sounds",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|6",
+      "TITLE" : "Octopus On Fire",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|7",
+      "TITLE" : "Soaring Quails",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|8",
+      "TITLE" : "Taken By Vultures",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|9",
+      "TITLE" : "A Rusty Glove",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|10",
+      "TITLE" : "Sand",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|11",
+      "TITLE" : "Lord Gold Throneroom",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|12",
+      "TITLE" : "The Black Hole",
+      "TRACKNUMBER" : "13"
+   }
+]

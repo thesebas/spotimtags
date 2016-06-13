@@ -1,0 +1,60 @@
+﻿[
+   {
+      "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E",
+      "ALBUM" : "Redline",
+      "ARTIST" : "Lazerhawk",
+      "DISCNUMBER" : "1",
+      "TITLE" : "Redline",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|1",
+      "TITLE" : "Overdrive",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|2",
+      "TITLE" : "Electric Groove",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|3",
+      "TITLE" : "Distress Signal",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|4",
+      "TITLE" : "Dream Machine",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|5",
+      "TITLE" : "The Fixx",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|6",
+      "TITLE" : "Pedal To The Metal",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|7",
+      "TITLE" : "Interstellar",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|8",
+      "TITLE" : "So Close",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|9",
+      "TITLE" : "Space Trash",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|10",
+      "TITLE" : "Activation",
+      "TRACKNUMBER" : "11"
+   }
+]

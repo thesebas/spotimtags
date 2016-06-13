@@ -1,0 +1,80 @@
+﻿[
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH",
+      "ALBUM" : "Skull and Shark",
+      "ARTIST" : "Lazerhawk",
+      "DISCNUMBER" : "1",
+      "TITLE" : "Skull and Shark",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|1",
+      "TITLE" : "Chaos",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|2",
+      "TITLE" : "Lawless",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|3",
+      "TITLE" : "King of the Streets",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|4",
+      "TITLE" : "Massacre",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|5",
+      "TITLE" : "A Promise",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|6",
+      "TITLE" : "Dangerous After Dark",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|7",
+      "TITLE" : "The Looks That Kill",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|8",
+      "TITLE" : "China Town",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|9",
+      "TITLE" : "Built to Kill",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|10",
+      "TITLE" : "Children of the Night",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|11",
+      "TITLE" : "These Streets",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|12",
+      "TITLE" : "Fight to the Top",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|13",
+      "TITLE" : "Brothers",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|14",
+      "TITLE" : "Another Chance",
+      "TRACKNUMBER" : "15"
+   }
+]

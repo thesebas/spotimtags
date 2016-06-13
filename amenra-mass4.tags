@@ -1,0 +1,40 @@
+﻿[
+   {
+      "@" : "spotify:album:0cz4QMBLYroCWCk9lYPex4",
+      "ALBUM" : "Mass IIII",
+      "ARTIST" : "Amenra",
+      "DISCNUMBER" : "1",
+      "TITLE" : ".Silver Needle. Golden Nail.",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:0cz4QMBLYroCWCk9lYPex4|1",
+      "TITLE" : ".Le Gardien Des Rèves.",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:0cz4QMBLYroCWCk9lYPex4|2",
+      "TITLE" : ".De Dodenakker.",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:0cz4QMBLYroCWCk9lYPex4|3",
+      "TITLE" : ".TerZiele.Tottedood.",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:0cz4QMBLYroCWCk9lYPex4|4",
+      "TITLE" : ".Razoreater.",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:0cz4QMBLYroCWCk9lYPex4|5",
+      "TITLE" : ".Aorte. Nous Sommes Du Mèmes Sang.",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:0cz4QMBLYroCWCk9lYPex4|6",
+      "TITLE" : "Thurifer.Et Clamor Ad Te Veniat.",
+      "TRACKNUMBER" : "7"
+   }
+]

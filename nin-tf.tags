@@ -1,0 +1,121 @@
+﻿[
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU",
+      "ALBUM" : "The Fragile",
+      "ARTIST" : "Nine Inch Nails",
+      "DISCNUMBER" : "1",
+      "TITLE" : "Somewhat Damaged",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|1",
+      "TITLE" : "The Day The World Went Away",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|2",
+      "TITLE" : "The Frail",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|3",
+      "TITLE" : "The Wretched",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|4",
+      "TITLE" : "We're In This Together",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|5",
+      "TITLE" : "The Fragile",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|6",
+      "TITLE" : "Just Like You Imagined",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|7",
+      "TITLE" : "Even Deeper",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|8",
+      "TITLE" : "Pilgrimage",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|9",
+      "TITLE" : "No, You Don't",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|10",
+      "TITLE" : "La Mer",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|11",
+      "TITLE" : "The Great Below",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|12",
+      "DISCNUMBER" : "2",
+      "TITLE" : "The Way Out Is Through",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|13",
+      "TITLE" : "Into The Void",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|14",
+      "TITLE" : "Where Is Everybody?",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|15",
+      "TITLE" : "The Mark Has Been Made",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|16",
+      "TITLE" : "Please",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|17",
+      "TITLE" : "Starfuckers, Inc.",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|18",
+      "TITLE" : "Complication",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|19",
+      "TITLE" : "I'm Looking Forward To Joining You, Finally",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|20",
+      "TITLE" : "The Big Come Down",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|21",
+      "TITLE" : "Underneath It All",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|22",
+      "TITLE" : "Ripe (With Decay)",
+      "TRACKNUMBER" : "11"
+   }
+]

@@ -1,0 +1,90 @@
+﻿[
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv",
+      "ALBUM" : "Generation Doom (Deluxe Edition)",
+      "ARTIST" : "Otep",
+      "DISCNUMBER" : "1",
+      "TITLE" : "Zero",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|1",
+      "TITLE" : "Feeding Frenzy",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|2",
+      "TITLE" : "Lords Of War",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|3",
+      "TITLE" : "Royals",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|4",
+      "TITLE" : "In Cold Blood",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|5",
+      "TITLE" : "Down",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|6",
+      "TITLE" : "God Is A Gun",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|7",
+      "TITLE" : "Equal Rights, Equal Lefts",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|8",
+      "TITLE" : "No Color",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|9",
+      "TITLE" : "Lie",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|10",
+      "TITLE" : "Generation Doom",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|11",
+      "TITLE" : "On The Shore",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|12",
+      "TITLE" : "Lie (Acoustic Version - Bonus Track)",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|13",
+      "TITLE" : "Breathing In The Fire (Spoken Word Poem - Bonus Track)",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|14",
+      "TITLE" : "Crawling Up (Spoken Word Poem - Deluxe Bonus Track)",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|15",
+      "TITLE" : "More Fire (Deluxe Bonus Track)",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|16",
+      "TITLE" : "On The Shore (Remix - Bonus Track)",
+      "TRACKNUMBER" : "17"
+   }
+]

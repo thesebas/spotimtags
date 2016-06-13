@@ -1,0 +1,30 @@
+﻿[
+   {
+      "@" : "spotify:album:49MjUwDRu1sQynPmuvlXGy",
+      "ALBUM" : "Pizza",
+      "ARTIST" : "Horse The Band",
+      "DISCNUMBER" : "1",
+      "TITLE" : "Anti Pizza",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:49MjUwDRu1sQynPmuvlXGy|1",
+      "TITLE" : "Crippled By Pizza",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:49MjUwDRu1sQynPmuvlXGy|2",
+      "TITLE" : "We're Pizza",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:49MjUwDRu1sQynPmuvlXGy|3",
+      "TITLE" : "Pizza Nif",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:49MjUwDRu1sQynPmuvlXGy|4",
+      "TITLE" : "Teenage Mutant Ninja Turtles",
+      "TRACKNUMBER" : "5"
+   }
+]

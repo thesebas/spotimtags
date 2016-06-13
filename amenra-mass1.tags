@@ -1,0 +1,35 @@
+﻿[
+   {
+      "@" : "spotify:album:30X2eiZsPVvZrzl7pqSCUU",
+      "ALBUM" : "Mass I (Remastered)",
+      "ARTIST" : "Amenra",
+      "DISCNUMBER" : "1",
+      "TITLE" : "Change Is Always",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:30X2eiZsPVvZrzl7pqSCUU|1",
+      "TITLE" : "Dance of the Death",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:30X2eiZsPVvZrzl7pqSCUU|2",
+      "TITLE" : "Discrimen",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:30X2eiZsPVvZrzl7pqSCUU|3",
+      "TITLE" : "Hibernate",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:30X2eiZsPVvZrzl7pqSCUU|4",
+      "TITLE" : "Silent Pause",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:30X2eiZsPVvZrzl7pqSCUU|5",
+      "TITLE" : "Ode to a Broken Doll",
+      "TRACKNUMBER" : "6"
+   }
+]

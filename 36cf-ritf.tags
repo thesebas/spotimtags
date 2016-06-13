@@ -1,0 +1,60 @@
+﻿[
+   {
+      "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj",
+      "ALBUM" : "Rest Inside The Flames",
+      "ARTIST" : "36 Crazyfists",
+      "DISCNUMBER" : "1",
+      "TITLE" : "I'll Go Until My Heart Stops",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|1",
+      "TITLE" : "Felt Through A Phone Line",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|2",
+      "TITLE" : "On Any Given Night",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|3",
+      "TITLE" : "Elysium",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|4",
+      "TITLE" : "The Great Descent",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|5",
+      "TITLE" : "Midnight Swim",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|6",
+      "TITLE" : "Aurora",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|7",
+      "TITLE" : "Will Pull This In By Hand",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|8",
+      "TITLE" : "We Cannot Deny",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|9",
+      "TITLE" : "Between The Anchor And The Air",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|10",
+      "TITLE" : "The City Ignites",
+      "TRACKNUMBER" : "11"
+   }
+]

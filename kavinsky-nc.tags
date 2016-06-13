@@ -1,0 +1,40 @@
+﻿[
+   {
+      "@" : "spotify:album:55U1DpuCIiwOJHwYLU1Qe4",
+      "ALBUM" : "Nightcall",
+      "ARTIST" : "Kavinsky",
+      "DISCNUMBER" : "1",
+      "TITLE" : "Nightcall",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:55U1DpuCIiwOJHwYLU1Qe4|1",
+      "TITLE" : "Pacific Coast Highway",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:55U1DpuCIiwOJHwYLU1Qe4|2",
+      "TITLE" : "Nightcall - Dustin N'Guyen Remix",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:55U1DpuCIiwOJHwYLU1Qe4|3",
+      "TITLE" : "Pacific Coast Highway - Jackson Remix",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:55U1DpuCIiwOJHwYLU1Qe4|4",
+      "TITLE" : "Nightcall - Breakbot Remix",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:55U1DpuCIiwOJHwYLU1Qe4|5",
+      "TITLE" : "Nightcall - Robotaki Remix",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:55U1DpuCIiwOJHwYLU1Qe4|6",
+      "TITLE" : "Nightcall - Sawagii's revenge remix",
+      "TRACKNUMBER" : "7"
+   }
+]

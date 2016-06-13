@@ -1,0 +1,55 @@
+﻿[
+   {
+      "@" : "spotify:album:5SEPGnxijWdSCF1IJL28dU",
+      "ALBUM" : "Alive",
+      "ARTIST" : "Amenra",
+      "DISCNUMBER" : "1",
+      "TITLE" : "The Dying of Light",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5SEPGnxijWdSCF1IJL28dU|1",
+      "TITLE" : "Wear My Crown",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5SEPGnxijWdSCF1IJL28dU|2",
+      "TITLE" : "To Go On.: And Live With Out",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5SEPGnxijWdSCF1IJL28dU|3",
+      "TITLE" : "Parabol",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5SEPGnxijWdSCF1IJL28dU|4",
+      "TITLE" : "Buiten Datum",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5SEPGnxijWdSCF1IJL28dU|5",
+      "TITLE" : "The Longest Night",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5SEPGnxijWdSCF1IJL28dU|6",
+      "TITLE" : "September (feat. Sofie Verdoodt)",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:5SEPGnxijWdSCF1IJL28dU|7",
+      "TITLE" : "Aorte. Nous Sommes Du Même Sang",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:5SEPGnxijWdSCF1IJL28dU|8",
+      "TITLE" : "Razoreater",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:5SEPGnxijWdSCF1IJL28dU|9",
+      "TITLE" : "Het Dorp",
+      "TRACKNUMBER" : "10"
+   }
+]

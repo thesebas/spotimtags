@@ -1,0 +1,100 @@
+﻿[
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1",
+      "ADDED_TIMESTAMP" : "131098402594770358",
+      "ALBUM" : "Supercharger",
+      "ARTIST" : "Machine Head",
+      "BARCODE" : "8714221007428",
+      "CATALOGNUMBER" : "12 085002",
+      "DATE" : "2001-10-02",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "1f1905d5-4032-3d01-a39f-2f8075729072",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "22a1f4d7-81ff-4216-ac06-3387da6bc118",
+      "MUSICBRAINZ_RELEASEGROUPID" : "6a208d91-7923-3f69-92ae-c36f21482c84",
+      "MUSICBRAINZ_TRACKID" : "de1d11dc-0014-4a81-b267-19f5f5633909",
+      "ORIGINAL RELEASE DATE" : "2001-10-01",
+      "TITLE" : "Declaration",
+      "TOTALTRACKS" : "14",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|1",
+      "MUSICBRAINZ_TRACKID" : "52476f53-d0ac-4134-b301-b1f9b24a2d1b",
+      "TITLE" : "Bulldozer",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|2",
+      "MUSICBRAINZ_TRACKID" : "8669fc47-6110-4184-b038-8a5cb8f3df1e",
+      "TITLE" : "White-Knuckle Blackout!",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|3",
+      "MUSICBRAINZ_TRACKID" : "53c44c55-c7bf-498f-a07f-955ffc9c6c78",
+      "TITLE" : "Crashing Around You",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|4",
+      "MUSICBRAINZ_TRACKID" : "27bee201-28fc-4d33-aeda-1e8c90447707",
+      "TITLE" : "Kick You When You're Down",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|5",
+      "MUSICBRAINZ_TRACKID" : "59072f85-3ac5-4576-bdfd-608fb5dfafd6",
+      "TITLE" : "Only the Names",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|6",
+      "MUSICBRAINZ_TRACKID" : "91ebdc3c-3299-4438-a800-a1fb5c51e344",
+      "TITLE" : "All in Your Head",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|7",
+      "MUSICBRAINZ_TRACKID" : "fe1382b9-bdf5-4a18-b2ba-4db96185cf07",
+      "TITLE" : "American High",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|8",
+      "MUSICBRAINZ_TRACKID" : "92f3ef74-4a62-47c1-9124-3393e3e0a14f",
+      "TITLE" : "Brown Acid",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|9",
+      "MUSICBRAINZ_TRACKID" : "d40aaa2c-85da-43cf-8d7d-db52ec4deffb",
+      "TITLE" : "Nausea",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|10",
+      "MUSICBRAINZ_TRACKID" : "d38f0f7e-e152-4ec7-b685-d4103e341c9a",
+      "TITLE" : "Blank Generation",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|11",
+      "MUSICBRAINZ_TRACKID" : "3fd1bee4-ecaa-45fd-a772-975c0363981f",
+      "TITLE" : "Trephination",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|12",
+      "MUSICBRAINZ_TRACKID" : "cc636a7e-d5dd-4a6a-a61f-e742847cdfb2",
+      "TITLE" : "Deafening Silence",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:4W35ayLEiRSBBaN4Ov1of1|13",
+      "MUSICBRAINZ_TRACKID" : "f1560a42-4ac9-490b-8067-2a8b2a44f80e",
+      "TITLE" : "Supercharger",
+      "TRACKNUMBER" : "14"
+   }
+]

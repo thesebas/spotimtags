@@ -1,0 +1,77 @@
+﻿[
+   {
+      "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI",
+      "ALBUM" : "The Blackening",
+      "ARTIST" : "Machine Head",
+      "BARCODE" : "016861801663",
+      "CATALOGNUMBER" : "1686-180166",
+      "DATE" : "2008-10-28",
+      "DURATION" : "637",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "d92984ea-e145-4d5a-beb4-955907d69624",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "22a1f4d7-81ff-4216-ac06-3387da6bc118",
+      "MUSICBRAINZ_RELEASEGROUPID" : "b5464da8-ed5e-35fc-ba5d-bfc9b92ee33c",
+      "MUSICBRAINZ_TRACKID" : "485ee095-b155-4e94-b406-2622d759b35f",
+      "ORIGINAL RELEASE DATE" : "2007-03-23",
+      "TITLE" : "Clenching the Fists of Dissent",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|1",
+      "DURATION" : [],
+      "MUSICBRAINZ_TRACKID" : "89c08396-4e8c-42e1-b923-5dbdc68bf26c",
+      "TITLE" : "Beautiful Mourning",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|2",
+      "MUSICBRAINZ_TRACKID" : "26ba54a5-91fb-46fb-a26b-75e975bdbde9",
+      "TITLE" : "Aesthetics of Hate",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|3",
+      "MUSICBRAINZ_TRACKID" : "c8f5f14f-4add-4e7e-a77b-1744470aba00",
+      "TITLE" : "Now I Lay Thee Down",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|4",
+      "MUSICBRAINZ_TRACKID" : "8dda7af4-9665-437a-8e9f-45ced3d0e56a",
+      "TITLE" : "Slanderous",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|5",
+      "MUSICBRAINZ_TRACKID" : "73d38b69-5c17-4fb9-ac1c-f705bd3e843d",
+      "TITLE" : "Halo",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|6",
+      "MUSICBRAINZ_TRACKID" : "88bac627-a0bd-4ad9-a521-2e1ae3079e94",
+      "TITLE" : "Wolves",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|7",
+      "MUSICBRAINZ_TRACKID" : "8e5cce79-86ef-47e2-be25-612c5c0e8d8d",
+      "TITLE" : "A Farewell to Arms",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|8",
+      "MUSICBRAINZ_TRACKID" : "b3e50ac4-a952-498a-8b77-098d73af9697",
+      "TITLE" : "Hallowed Be Thy Name",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|9",
+      "MUSICBRAINZ_TRACKID" : "67d46849-4bae-497f-8d98-dc0f2eb4c511",
+      "TITLE" : "Battery",
+      "TRACKNUMBER" : "10"
+   }
+]

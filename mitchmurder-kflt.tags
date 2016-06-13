@@ -1,0 +1,55 @@
+﻿[
+   {
+      "@" : "spotify:album:7FVPCO3NlVMdVgybfAPD2z",
+      "ALBUM" : "Kung Fury (Lost Tapes)",
+      "ARTIST" : "Mitch Murder",
+      "DISCNUMBER" : "1",
+      "TITLE" : "Moment of Clarity",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7FVPCO3NlVMdVgybfAPD2z|1",
+      "TITLE" : "Playing for Keeps",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7FVPCO3NlVMdVgybfAPD2z|2",
+      "TITLE" : "Revenge",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7FVPCO3NlVMdVgybfAPD2z|3",
+      "TITLE" : "Communication Device",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7FVPCO3NlVMdVgybfAPD2z|4",
+      "TITLE" : "Before the Storm",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7FVPCO3NlVMdVgybfAPD2z|5",
+      "TITLE" : "Street Brawler",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:7FVPCO3NlVMdVgybfAPD2z|6",
+      "TITLE" : "Terminathor",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:7FVPCO3NlVMdVgybfAPD2z|7",
+      "TITLE" : "Face Puncher (Alternate Take)",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:7FVPCO3NlVMdVgybfAPD2z|8",
+      "TITLE" : "Arrival",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:7FVPCO3NlVMdVgybfAPD2z|9",
+      "TITLE" : "Action Tape",
+      "TRACKNUMBER" : "10"
+   }
+]

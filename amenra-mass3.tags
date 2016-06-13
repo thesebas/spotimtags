@@ -1,0 +1,35 @@
+﻿[
+   {
+      "@" : "spotify:album:17DLqqwMfej9vOeYGdDnrv",
+      "ALBUM" : "Mass III",
+      "ARTIST" : "Amenra",
+      "DISCNUMBER" : "1",
+      "TITLE" : ".The Pain. It Is Shapeless.",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:17DLqqwMfej9vOeYGdDnrv|1",
+      "TITLE" : ".Némelèndèlle.",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:17DLqqwMfej9vOeYGdDnrv|2",
+      "TITLE" : ".Am Kreuz.",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:17DLqqwMfej9vOeYGdDnrv|3",
+      "TITLE" : ".Le Fils Des Faux.",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:17DLqqwMfej9vOeYGdDnrv|4",
+      "TITLE" : ".From Birth To Grave. From Shadow To Light.",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:17DLqqwMfej9vOeYGdDnrv|5",
+      "TITLE" : ".Ritual.",
+      "TRACKNUMBER" : "6"
+   }
+]

@@ -1,0 +1,85 @@
+﻿[
+   {
+      "@" : "spotify:album:79EwDnZoH0n7vIAXmYP1cz",
+      "ALBUM" : "Unto the Locust",
+      "ARTIST" : "Machine Head",
+      "BARCODE" : "016861770259",
+      "CATALOGNUMBER" : "RR7702-5",
+      "DATE" : "2011-10-25",
+      "DURATION" : "508",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "e599395d-facb-48d3-954b-707cdce3a53e",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "22a1f4d7-81ff-4216-ac06-3387da6bc118",
+      "MUSICBRAINZ_RELEASEGROUPID" : "e36d3ace-45af-4a38-b773-df2f020a4ea5",
+      "MUSICBRAINZ_TRACKID" : "de26d4f1-c6ee-4cd1-ace5-124751ab4903",
+      "ORIGINAL RELEASE DATE" : "2011-09-21",
+      "TITLE" : "I Am Hell (Sonata in C#): I. Sangre Sani / II. I Am Hell / III. Ashes to the Sky",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:79EwDnZoH0n7vIAXmYP1cz|1",
+      "DURATION" : "344",
+      "MUSICBRAINZ_TRACKID" : "a6569af4-89f5-44c0-9f71-cfd7ee43ee43",
+      "TITLE" : "Be Still and Know",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:79EwDnZoH0n7vIAXmYP1cz|2",
+      "DURATION" : "456",
+      "MUSICBRAINZ_TRACKID" : "e589f483-a1d4-4340-9d2c-d8349f914848",
+      "TITLE" : "Locust",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:79EwDnZoH0n7vIAXmYP1cz|3",
+      "DURATION" : "371",
+      "MUSICBRAINZ_TRACKID" : "58947559-c5a7-44f5-b6ee-b7d162bdf883",
+      "TITLE" : "This Is the End",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:79EwDnZoH0n7vIAXmYP1cz|4",
+      "DURATION" : "388",
+      "MUSICBRAINZ_TRACKID" : "0ca82cc1-41c4-4c70-8818-1fb72f5c5517",
+      "TITLE" : "Darkness Within",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:79EwDnZoH0n7vIAXmYP1cz|5",
+      "DURATION" : "439",
+      "MUSICBRAINZ_TRACKID" : "c5222518-1d83-4d1b-9d59-10608d60b2dd",
+      "TITLE" : "Pearls Before the Swine",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:79EwDnZoH0n7vIAXmYP1cz|6",
+      "DURATION" : "427",
+      "MUSICBRAINZ_TRACKID" : "c3550bb1-a469-4e0f-8d8c-b78a10ff5fb2",
+      "TITLE" : "Who We Are",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:79EwDnZoH0n7vIAXmYP1cz|7",
+      "DURATION" : "313",
+      "MUSICBRAINZ_TRACKID" : "4e72c61c-63a9-4e83-b600-8322aef09d1d",
+      "TITLE" : "The Sentinel",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:79EwDnZoH0n7vIAXmYP1cz|8",
+      "DURATION" : "286",
+      "MUSICBRAINZ_TRACKID" : "f083fd51-1fe6-4302-a9c2-5a3495282bba",
+      "TITLE" : "Witch Hunt",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:79EwDnZoH0n7vIAXmYP1cz|9",
+      "DURATION" : "305",
+      "MUSICBRAINZ_TRACKID" : "cb5dfeb6-980f-478b-91da-aeffb7d4d38c",
+      "TITLE" : "Darkness Within (acoustic)",
+      "TRACKNUMBER" : "10"
+   }
+]

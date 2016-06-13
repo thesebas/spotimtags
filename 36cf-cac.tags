@@ -1,0 +1,60 @@
+﻿[
+   {
+      "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G",
+      "ALBUM" : "Collisions And Castaways",
+      "ARTIST" : "36 Crazyfists",
+      "DISCNUMBER" : "1",
+      "TITLE" : "In The Midnights",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|1",
+      "TITLE" : "Whitewater",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|2",
+      "TITLE" : "Mercy And Grace",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|3",
+      "TITLE" : "Death Renames The Light",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|4",
+      "TITLE" : "Anchors",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|5",
+      "TITLE" : "Long Road To The Late Nights",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|6",
+      "TITLE" : "Trenches",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|7",
+      "TITLE" : "Reviver",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|8",
+      "TITLE" : "Caving In Spirals",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|9",
+      "TITLE" : "The Deserter",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|10",
+      "TITLE" : "Waterhaul II",
+      "TRACKNUMBER" : "11"
+   }
+]

@@ -1,0 +1,85 @@
+﻿[
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI",
+      "ALBUM" : "Year Zero (International Version)",
+      "ARTIST" : "Nine Inch Nails",
+      "DISCNUMBER" : "1",
+      "TITLE" : "HYPERPOWER!",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|1",
+      "TITLE" : "The Beginning of the End",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|2",
+      "TITLE" : "Survivalism",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|3",
+      "TITLE" : "The Good Soldier",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|4",
+      "TITLE" : "Vessel",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|5",
+      "TITLE" : "Me, I'm Not",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|6",
+      "TITLE" : "Capital G",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|7",
+      "TITLE" : "My Violent Heart",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|8",
+      "TITLE" : "The Warning",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|9",
+      "TITLE" : "God Given",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|10",
+      "TITLE" : "Meet Your Master",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|11",
+      "TITLE" : "The Greater Good",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|12",
+      "TITLE" : "The Great Destroyer",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|13",
+      "TITLE" : "Another Version of the Truth",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|14",
+      "TITLE" : "In This Twilight",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|15",
+      "TITLE" : "Zero Sum",
+      "TRACKNUMBER" : "16"
+   }
+]

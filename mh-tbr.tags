@@ -1,0 +1,90 @@
+﻿[
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA",
+      "ALBUM" : "The Burning Red",
+      "ARTIST" : "Machine Head",
+      "BARCODE" : "016861865122",
+      "CATALOGNUMBER" : "RR 8651-2",
+      "DATE" : "1999-08-10",
+      "DURATION" : "53",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "8dc7f666-86aa-4476-84f0-a44b887f08f4",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "22a1f4d7-81ff-4216-ac06-3387da6bc118",
+      "MUSICBRAINZ_RELEASEGROUPID" : "6d320d77-2834-3233-a20f-3b9caba67467",
+      "MUSICBRAINZ_TRACKID" : "69984d65-0566-4a66-8d0c-97d0926a5960",
+      "ORIGINAL RELEASE DATE" : "1999-07-21",
+      "TITLE" : "Enter the Phoenix",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|1",
+      "DURATION" : "289",
+      "MUSICBRAINZ_TRACKID" : "ac55eaf6-fbd3-436f-bac3-b6c0317c6a2b",
+      "TITLE" : "Desire to Fire",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|2",
+      "DURATION" : "245",
+      "MUSICBRAINZ_TRACKID" : "7511d239-3d0e-4e2a-8b30-ad321a4953a6",
+      "TITLE" : "Nothing Left",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|3",
+      "MUSICBRAINZ_TRACKID" : "42df84ca-1723-4425-bb76-834d40226855",
+      "TITLE" : "The Blood, the Sweat, the Tears",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|4",
+      "MUSICBRAINZ_TRACKID" : "631854c2-dc48-43bd-98f4-6c63e0538499",
+      "TITLE" : "Silver",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|5",
+      "MUSICBRAINZ_TRACKID" : "ca16d277-1162-4240-8b5b-32ee37163501",
+      "TITLE" : "From This Day",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|6",
+      "MUSICBRAINZ_TRACKID" : "fde21ba1-edd1-42be-936c-cfa4a5a5c226",
+      "TITLE" : "Exhale the Vile",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|7",
+      "MUSICBRAINZ_TRACKID" : "e74cbeda-2f7f-4acd-bfd0-911e3c2c43a7",
+      "TITLE" : "Message in a Bottle",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|8",
+      "MUSICBRAINZ_TRACKID" : "fb0c0604-d846-4a5a-a65a-114784e9d6a0",
+      "TITLE" : "Devil With the King's Card",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|9",
+      "MUSICBRAINZ_TRACKID" : "08fa489a-cfe4-4bfe-a0c6-e25fdcb2047c",
+      "TITLE" : "I Defy",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|10",
+      "MUSICBRAINZ_TRACKID" : "357cd4de-57de-42cb-aec1-7f636efdd8dc",
+      "TITLE" : "Five",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|11",
+      "MUSICBRAINZ_TRACKID" : "92c53040-0554-4e0b-8107-fc60f2eb4459",
+      "TITLE" : "The Burning Red",
+      "TRACKNUMBER" : "12"
+   }
+]

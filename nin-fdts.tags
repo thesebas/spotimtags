@@ -1,0 +1,55 @@
+﻿[
+   {
+      "@" : "spotify:album:6v4pXGNQv0Xc81H3iYdybc",
+      "ALBUM" : "Further Down The Spiral",
+      "ARTIST" : "Nine Inch Nails",
+      "DISCNUMBER" : "1",
+      "TITLE" : "Piggy (Nothing Can Stop Me Now)",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6v4pXGNQv0Xc81H3iYdybc|1",
+      "TITLE" : "The Art Of Self Destruction, Part One",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6v4pXGNQv0Xc81H3iYdybc|2",
+      "TITLE" : "Self Destruction - Part Three",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6v4pXGNQv0Xc81H3iYdybc|3",
+      "TITLE" : "Heresy",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6v4pXGNQv0Xc81H3iYdybc|4",
+      "TITLE" : "The Downward Spiral (The Bottom)",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6v4pXGNQv0Xc81H3iYdybc|5",
+      "TITLE" : "Hurt (Quiet)",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6v4pXGNQv0Xc81H3iYdybc|6",
+      "TITLE" : "At The Heart Of It All",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6v4pXGNQv0Xc81H3iYdybc|7",
+      "TITLE" : "Ruiner",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:6v4pXGNQv0Xc81H3iYdybc|8",
+      "TITLE" : "Eraser (Denial: Realization)",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:6v4pXGNQv0Xc81H3iYdybc|9",
+      "TITLE" : "Self Destruction, Final",
+      "TRACKNUMBER" : "10"
+   }
+]
