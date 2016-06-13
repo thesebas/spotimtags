@@ -3,118 +3,182 @@
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU",
       "ALBUM" : "The Fragile",
       "ARTIST" : "Nine Inch Nails",
+      "BARCODE" : "606949047320",
+      "CATALOGNUMBER" : [
+         "490 473-2",
+         "490 474-2",
+         "490 475-2"
+      ],
+      "DATE" : "1999-09-20",
       "DISCNUMBER" : "1",
+      "DISCSUBTITLE" : "Left",
+      "DURATION" : "271",
+      "LABEL" : "Nothing Records",
+      "MUSICBRAINZ_ALBUMID" : "c162e9d3-b9f8-38ab-972e-c900dae920e5",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+      "MUSICBRAINZ_RELEASEGROUPID" : "fc4d7589-a6b9-35ca-a6b6-8c8e70c3baaa",
+      "MUSICBRAINZ_TRACKID" : "6c598944-5449-433b-a1e7-8ad43864b3e9",
       "TITLE" : "Somewhat Damaged",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "12",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|1",
-      "TITLE" : "The Day The World Went Away",
+      "DURATION" : "273",
+      "MUSICBRAINZ_TRACKID" : "7e87ef92-a0f2-4580-a4b3-758a8651926a",
+      "TITLE" : "The Day the World Went Away",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|2",
+      "DURATION" : "114",
+      "MUSICBRAINZ_TRACKID" : "c7fc8324-dd08-406a-824b-5d2146809ccc",
       "TITLE" : "The Frail",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|3",
+      "DURATION" : "325",
+      "MUSICBRAINZ_TRACKID" : "52fe12a6-4feb-43ec-889d-bf6e12b0d264",
       "TITLE" : "The Wretched",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|4",
-      "TITLE" : "We're In This Together",
+      "DURATION" : "436",
+      "MUSICBRAINZ_TRACKID" : "3a50c43e-f2f4-4b8e-86ad-0c4a95cb0c32",
+      "TITLE" : "We’re in This Together",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|5",
+      "DURATION" : "275",
+      "MUSICBRAINZ_TRACKID" : "31f9d824-0899-44c6-a277-a9dd98223bd2",
       "TITLE" : "The Fragile",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|6",
+      "DURATION" : "229",
+      "MUSICBRAINZ_TRACKID" : "bd9509a4-bf2f-4887-81e3-d0fb4bb3fcac",
       "TITLE" : "Just Like You Imagined",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|7",
+      "DURATION" : "347",
+      "MUSICBRAINZ_TRACKID" : "52be5d95-91cd-4ace-8ad0-92121d984aff",
       "TITLE" : "Even Deeper",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|8",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "681ff2a6-f849-49fa-b9d7-d0f78edb943e",
       "TITLE" : "Pilgrimage",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|9",
-      "TITLE" : "No, You Don't",
+      "DURATION" : "215",
+      "MUSICBRAINZ_TRACKID" : "11ddfc88-6548-4509-915c-032462ff412f",
+      "TITLE" : "No, You Don’t",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|10",
+      "DURATION" : "277",
+      "MUSICBRAINZ_TRACKID" : "e1839839-f55e-40dc-b148-d44128d51f36",
       "TITLE" : "La Mer",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|11",
+      "DURATION" : "317",
+      "MUSICBRAINZ_TRACKID" : "76018f0e-ef4f-409f-a5b7-2625be939474",
       "TITLE" : "The Great Below",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|12",
       "DISCNUMBER" : "2",
+      "DISCSUBTITLE" : "Right",
+      "DURATION" : "259",
+      "MUSICBRAINZ_TRACKID" : "b2d72285-a8f9-41e6-98b2-af90ba477a71",
       "TITLE" : "The Way Out Is Through",
+      "TOTALTRACKS" : "11",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|13",
-      "TITLE" : "Into The Void",
+      "DURATION" : "291",
+      "MUSICBRAINZ_TRACKID" : "9998cbc4-a74d-40ef-9313-8a4fbca23ce3",
+      "TITLE" : "Into the Void",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|14",
+      "DURATION" : "342",
+      "MUSICBRAINZ_TRACKID" : "d301294e-738c-4078-8020-550918acc5ad",
       "TITLE" : "Where Is Everybody?",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|15",
+      "DURATION" : "317",
+      "MUSICBRAINZ_TRACKID" : "a0d8186c-6b85-43b6-b165-13e4b3095717",
       "TITLE" : "The Mark Has Been Made",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|16",
+      "DURATION" : "212",
+      "MUSICBRAINZ_TRACKID" : "067518ec-2001-442b-9c7e-ea3505f8d7d6",
       "TITLE" : "Please",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|17",
+      "DURATION" : "302",
+      "MUSICBRAINZ_TRACKID" : "36acbb37-54ae-4971-9ade-5451944bdf55",
       "TITLE" : "Starfuckers, Inc.",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|18",
+      "DURATION" : "152",
+      "MUSICBRAINZ_TRACKID" : "a20d61f9-abcc-48c2-8412-86c10f9c2d7f",
       "TITLE" : "Complication",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|19",
-      "TITLE" : "I'm Looking Forward To Joining You, Finally",
+      "DURATION" : "255",
+      "MUSICBRAINZ_TRACKID" : "be16d321-c36c-4ca0-805b-1dd0f3fcd86a",
+      "TITLE" : "I’m Looking Forward to Joining You, Finally",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|20",
+      "DURATION" : "254",
+      "MUSICBRAINZ_TRACKID" : "bd4fa695-d1d1-48d3-b0f0-9d4481d80bd4",
       "TITLE" : "The Big Come Down",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|21",
+      "DURATION" : "168",
+      "MUSICBRAINZ_TRACKID" : "a5765714-dede-431a-a5fc-19ee26c1b382",
       "TITLE" : "Underneath It All",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:2aGSUmPQtxxPqr07llIBIU|22",
+      "DURATION" : "394",
+      "MUSICBRAINZ_TRACKID" : "77d49d0b-418e-4b8f-88af-e0933e6da21d",
       "TITLE" : "Ripe (With Decay)",
       "TRACKNUMBER" : "11"
    }

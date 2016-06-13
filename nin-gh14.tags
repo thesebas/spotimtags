@@ -1,184 +1,264 @@
 ﻿[
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp",
-      "ALBUM" : "Ghosts I-IV",
+      "ALBUM" : "Ghosts I–IV",
       "ARTIST" : "Nine Inch Nails",
-      "DISCNUMBER" : "1",
-      "TITLE" : "01 Ghosts I",
+      "CATALOGNUMBER" : "halo twenty six",
+      "DATE" : "2008-03-02",
+      "DURATION" : "169",
+      "LABEL" : "The Null Corporation",
+      "MUSICBRAINZ_ALBUMID" : "3af7ec8c-3bf4-4e6d-9bb3-1885d22b2b6a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+      "MUSICBRAINZ_RELEASEGROUPID" : "550bf4b9-92ca-30ba-9ea2-8b45f9d081f1",
+      "MUSICBRAINZ_TRACKID" : "b2fdf3ce-78a6-4e01-9a7b-441700e8ea66",
+      "TITLE" : "1 Ghosts I",
+      "TOTALTRACKS" : "36",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|1",
-      "TITLE" : "02 Ghosts I",
+      "DURATION" : "196",
+      "MUSICBRAINZ_TRACKID" : "1f3f0aed-47ed-42f4-b1b6-f02f2a13437c",
+      "TITLE" : "2 Ghosts I",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|2",
-      "TITLE" : "03 Ghosts I",
+      "DURATION" : "231",
+      "MUSICBRAINZ_TRACKID" : "241a460a-7118-4bf7-abec-12954ea0df4c",
+      "TITLE" : "3 Ghosts I",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|3",
-      "TITLE" : "04 Ghosts I",
+      "DURATION" : "133",
+      "MUSICBRAINZ_TRACKID" : "3f5dd67f-587d-488b-b295-59ea2e4d8aca",
+      "TITLE" : "4 Ghosts I",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|4",
-      "TITLE" : "05 Ghosts I",
+      "DURATION" : "172",
+      "MUSICBRAINZ_TRACKID" : "132a7820-4a29-4745-bf20-222386434f47",
+      "TITLE" : "5 Ghosts I",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|5",
-      "TITLE" : "06 Ghosts I",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "00a97470-5826-4cb9-81ee-2d54558054b8",
+      "TITLE" : "6 Ghosts I",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|6",
-      "TITLE" : "07 Ghosts I",
+      "DURATION" : "121",
+      "MUSICBRAINZ_TRACKID" : "1d1bb32a-5bc6-4b6f-88cc-c043f6c52509",
+      "TITLE" : "7 Ghosts I",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|7",
-      "TITLE" : "08 Ghosts I",
+      "DURATION" : "176",
+      "MUSICBRAINZ_TRACKID" : "138f7fe7-9119-4ef1-8d70-6572a3ef7b15",
+      "TITLE" : "8 Ghosts I",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|8",
-      "TITLE" : "09 Ghosts I",
+      "DURATION" : "167",
+      "MUSICBRAINZ_TRACKID" : "e89d42b8-3d02-4264-94fc-07ce09da1944",
+      "TITLE" : "9 Ghosts I",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|9",
+      "DURATION" : "162",
+      "MUSICBRAINZ_TRACKID" : "226f53e6-ec5f-4783-8684-65bc3c85665b",
       "TITLE" : "10 Ghosts II",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|10",
+      "DURATION" : "138",
+      "MUSICBRAINZ_TRACKID" : "a95eeadf-9c4a-486d-9610-58a41b6f43ed",
       "TITLE" : "11 Ghosts II",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|11",
+      "DURATION" : "137",
+      "MUSICBRAINZ_TRACKID" : "59772d56-b23e-458a-80ea-63f7469b08f4",
       "TITLE" : "12 Ghosts II",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|12",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "7ba993ec-c7c2-422b-b549-d43f940c6e27",
       "TITLE" : "13 Ghosts II",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|13",
+      "DURATION" : "186",
+      "MUSICBRAINZ_TRACKID" : "0339f547-4660-4ef7-a9a9-c61205b43c2f",
       "TITLE" : "14 Ghosts II",
       "TRACKNUMBER" : "14"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|14",
+      "DURATION" : "113",
+      "MUSICBRAINZ_TRACKID" : "2d7f08e1-be1c-4b86-b725-6e675b7b6de0",
       "TITLE" : "15 Ghosts II",
       "TRACKNUMBER" : "15"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|15",
+      "DURATION" : "150",
+      "MUSICBRAINZ_TRACKID" : "e0632d22-f355-41dd-ae01-9bcd87aaacf6",
       "TITLE" : "16 Ghosts II",
       "TRACKNUMBER" : "16"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|16",
+      "DURATION" : "133",
+      "MUSICBRAINZ_TRACKID" : "24cab93b-96e0-41fb-adbf-ba946c7c2f06",
       "TITLE" : "17 Ghosts II",
       "TRACKNUMBER" : "17"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|17",
+      "DURATION" : "323",
+      "MUSICBRAINZ_TRACKID" : "1d35585f-0e0b-41bb-89b6-07a9351d77e7",
       "TITLE" : "18 Ghosts II",
       "TRACKNUMBER" : "18"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|18",
+      "DURATION" : "132",
+      "MUSICBRAINZ_TRACKID" : "1668f841-f56b-4dc6-a0b2-482bd30f98d6",
       "TITLE" : "19 Ghosts III",
       "TRACKNUMBER" : "19"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|19",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "217438c6-4f6a-480b-a483-b028d03035fb",
       "TITLE" : "20 Ghosts III",
       "TRACKNUMBER" : "20"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|20",
+      "DURATION" : "174",
+      "MUSICBRAINZ_TRACKID" : "888974e2-f43c-48e3-91e2-6a091a414469",
       "TITLE" : "21 Ghosts III",
       "TRACKNUMBER" : "21"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|21",
+      "DURATION" : "151",
+      "MUSICBRAINZ_TRACKID" : "c8795f14-8162-4caa-98c2-0d80b1338034",
       "TITLE" : "22 Ghosts III",
       "TRACKNUMBER" : "22"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|22",
+      "DURATION" : "164",
+      "MUSICBRAINZ_TRACKID" : "653bec24-9274-404b-bebd-a0550b30784a",
       "TITLE" : "23 Ghosts III",
       "TRACKNUMBER" : "23"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|23",
+      "DURATION" : "159",
+      "MUSICBRAINZ_TRACKID" : "3fffc4ec-6cf0-4e4c-b1e5-5c988f07bf3e",
       "TITLE" : "24 Ghosts III",
       "TRACKNUMBER" : "24"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|24",
+      "DURATION" : "119",
+      "MUSICBRAINZ_TRACKID" : "68d1bdc5-4af4-4f16-9277-96cb4c909635",
       "TITLE" : "25 Ghosts III",
       "TRACKNUMBER" : "25"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|25",
+      "DURATION" : "146",
+      "MUSICBRAINZ_TRACKID" : "26f09300-1e78-4f79-aba9-834e705b7e04",
       "TITLE" : "26 Ghosts III",
       "TRACKNUMBER" : "26"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|26",
+      "DURATION" : "172",
+      "MUSICBRAINZ_TRACKID" : "0ab398d5-f7af-4839-b42a-e4397cf42809",
       "TITLE" : "27 Ghosts III",
       "TRACKNUMBER" : "27"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|27",
+      "DURATION" : "322",
+      "MUSICBRAINZ_TRACKID" : "e491d339-8f23-4941-af6d-d151bd6a3bfd",
       "TITLE" : "28 Ghosts IV",
       "TRACKNUMBER" : "28"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|28",
+      "DURATION" : "175",
+      "MUSICBRAINZ_TRACKID" : "02f7533f-7d00-4014-ada5-6710c55bff73",
       "TITLE" : "29 Ghosts IV",
       "TRACKNUMBER" : "29"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|29",
+      "DURATION" : "179",
+      "MUSICBRAINZ_TRACKID" : "4bda7ccb-c3dd-48e2-9bf3-014b0e127d56",
       "TITLE" : "30 Ghosts IV",
       "TRACKNUMBER" : "30"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|30",
+      "DURATION" : "146",
+      "MUSICBRAINZ_TRACKID" : "761cc5ef-f91f-45eb-b9e9-66f02c239254",
       "TITLE" : "31 Ghosts IV",
       "TRACKNUMBER" : "31"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|31",
+      "DURATION" : "266",
+      "MUSICBRAINZ_TRACKID" : "a44f8ef3-64c4-4818-aa0e-c7f15422f983",
       "TITLE" : "32 Ghosts IV",
       "TRACKNUMBER" : "32"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|32",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "51234920-358e-4daf-867c-85ed97704acf",
       "TITLE" : "33 Ghosts IV",
       "TRACKNUMBER" : "33"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|33",
+      "DURATION" : "352",
+      "MUSICBRAINZ_TRACKID" : "6f975d58-c074-4fc2-8bfb-34cc7f1a25fd",
       "TITLE" : "34 Ghosts IV",
       "TRACKNUMBER" : "34"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|34",
+      "DURATION" : "210",
+      "MUSICBRAINZ_TRACKID" : "6ebbb1de-71db-4ecf-9b90-5554c036b0fc",
       "TITLE" : "35 Ghosts IV",
       "TRACKNUMBER" : "35"
    },
    {
       "@" : "spotify:album:0lOn8nKk4dzzRfnCCCRbwp|35",
+      "DURATION" : "138",
+      "MUSICBRAINZ_TRACKID" : "e2c0fc50-94fa-4919-8c64-2dbfc9ec1c07",
       "TITLE" : "36 Ghosts IV",
       "TRACKNUMBER" : "36"
    }

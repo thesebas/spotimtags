@@ -3,52 +3,80 @@
       "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp",
       "ALBUM" : "The Slip",
       "ARTIST" : "Nine Inch Nails",
-      "DISCNUMBER" : "1",
+      "CATALOGNUMBER" : "HALO 27",
+      "DATE" : "2008-05-05",
+      "DURATION" : "85",
+      "LABEL" : "The Null Corporation",
+      "MUSICBRAINZ_ALBUMID" : "12b57d46-a192-499e-a91f-7da66790a1c1",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+      "MUSICBRAINZ_RELEASEGROUPID" : "5990b23f-6412-3eaf-989c-a4831f4f95f7",
+      "MUSICBRAINZ_TRACKID" : "30f3f33e-8d0c-4e69-8539-cbd701d18f28",
       "TITLE" : "999,999",
+      "TOTALTRACKS" : "10",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|1",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "99244237-850b-4a93-904d-57305bcadb4e",
       "TITLE" : "1,000,000",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|2",
+      "DURATION" : "229",
+      "MUSICBRAINZ_TRACKID" : "b4a88e68-f66e-4155-8ef4-9f9f46944767",
       "TITLE" : "Letting You",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|3",
+      "DURATION" : "259",
+      "MUSICBRAINZ_TRACKID" : "a58a2b13-70b5-44c2-9fd5-67f93db17de7",
       "TITLE" : "Discipline",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|4",
+      "DURATION" : "285",
+      "MUSICBRAINZ_TRACKID" : "52646e3f-1fc0-4a1d-a089-08ac33a30973",
       "TITLE" : "Echoplex",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|5",
+      "DURATION" : "295",
+      "MUSICBRAINZ_TRACKID" : "b4f9917f-4514-4e3e-aea3-3f901a9c69a7",
       "TITLE" : "Head Down",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|6",
-      "TITLE" : "Lights In The Sky",
+      "DURATION" : "209",
+      "MUSICBRAINZ_TRACKID" : "d7d5eb38-bb10-4cd8-9542-f489e9f16e73",
+      "TITLE" : "Lights in the Sky",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|7",
+      "DURATION" : "453",
+      "MUSICBRAINZ_TRACKID" : "3c55ef28-626b-4cb2-81a6-acc37b189a3f",
       "TITLE" : "Corona Radiata",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|8",
-      "TITLE" : "The Four Of Us Are Dying",
+      "DURATION" : "277",
+      "MUSICBRAINZ_TRACKID" : "d7cbbdd6-96da-4da5-b01f-53eb72e73d16",
+      "TITLE" : "The Four of Us Are Dying",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:6Et26zmZ0Gu4ocrxyU3dSp|9",
+      "DURATION" : "299",
+      "MUSICBRAINZ_TRACKID" : "9f06df64-a373-492e-9a23-6a14a3fde97e",
       "TITLE" : "Demon Seed",
       "TRACKNUMBER" : "10"
    }

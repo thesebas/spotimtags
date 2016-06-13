@@ -1,75 +1,116 @@
 ﻿[
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw",
-      "ALBUM" : "With Teeth (International Version)",
+      "ALBUM" : "With Teeth",
       "ARTIST" : "Nine Inch Nails",
-      "DISCNUMBER" : "1",
-      "TITLE" : "All The Love In The World",
+      "BARCODE" : "0602498814390",
+      "CATALOGNUMBER" : "0602498814390",
+      "DATE" : "2005-04-29",
+      "DURATION" : "315",
+      "LABEL" : [
+         "Interscope Records",
+         "Nothing Records"
+      ],
+      "MUSICBRAINZ_ALBUMID" : "59740bac-77f4-3732-8816-b1b7d89c9bd8",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+      "MUSICBRAINZ_RELEASEGROUPID" : "10224fb3-a861-3247-9eab-81b7b0fbb0d4",
+      "MUSICBRAINZ_TRACKID" : "b2e0a60a-19f3-4a11-8adf-1827e68257d4",
+      "ORIGINAL RELEASE DATE" : "2005-04-27",
+      "TITLE" : "All the Love in the World",
+      "TOTALTRACKS" : "14",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|1",
+      "DURATION" : "221",
+      "MUSICBRAINZ_TRACKID" : "a9b52c7e-30bb-439e-924a-9d7b5790a3ac",
       "TITLE" : "You Know What You Are?",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|2",
+      "DURATION" : "187",
+      "MUSICBRAINZ_TRACKID" : "b4723bb5-207d-4b0d-82ca-54ae8d6eeac6",
       "TITLE" : "The Collector",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|3",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "8a15bbc9-e742-42ed-8bd9-089e20059922",
       "TITLE" : "The Hand That Feeds",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|4",
+      "DURATION" : "221",
+      "MUSICBRAINZ_TRACKID" : "7e847735-ec7b-4c11-adac-1f86197899b4",
       "TITLE" : "Love Is Not Enough",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|5",
-      "TITLE" : "Every Day Is Exactly The Same",
+      "DURATION" : "294",
+      "MUSICBRAINZ_TRACKID" : "7d4afa1f-cdd4-4b8d-b783-becba69fb903",
+      "TITLE" : "Every Day Is Exactly the Same",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|6",
+      "DURATION" : "337",
+      "MUSICBRAINZ_TRACKID" : "e9e4aa1e-aefe-4994-aabc-bd22f2e35c85",
       "TITLE" : "With Teeth",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|7",
+      "DURATION" : "263",
+      "MUSICBRAINZ_TRACKID" : "55844e7e-eed5-4533-b429-681da9c81616",
       "TITLE" : "Only",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|8",
+      "DURATION" : "215",
+      "MUSICBRAINZ_TRACKID" : "4114e40d-5e72-43fb-a9e7-7fa88a37b38e",
       "TITLE" : "Getting Smaller",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|9",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "b8db3d62-d8f2-484c-81ae-115bbcfdcb2a",
       "TITLE" : "Sunspots",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|10",
-      "TITLE" : "The Line Begins To Blur",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "79a25615-cd16-4300-baf3-3c4edc5f6a07",
+      "TITLE" : "The Line Begins to Blur",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|11",
-      "TITLE" : "Beside You In Time",
+      "DURATION" : "324",
+      "MUSICBRAINZ_TRACKID" : "582e98f6-8847-40e1-97d3-b2599fd5bcf4",
+      "TITLE" : "Beside You in Time",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|12",
+      "DURATION" : "307",
+      "MUSICBRAINZ_TRACKID" : "9e6474b8-96a4-4328-86fd-e9070610687a",
       "TITLE" : "Right Where It Belongs",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:2sLBoJS1XhiDdw1ktuA9Nw|13",
-      "TITLE" : "Home - Non-LP Version",
+      "DURATION" : "191",
+      "MUSICBRAINZ_TRACKID" : "5f119480-4cdd-43ad-bfe0-e987dd20cd76",
+      "TITLE" : "Home",
       "TRACKNUMBER" : "14"
    }
 ]
