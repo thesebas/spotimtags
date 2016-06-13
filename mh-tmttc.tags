@@ -6,6 +6,7 @@
       "BARCODE" : "016861886028",
       "CATALOGNUMBER" : "RR 8860-2",
       "DATE" : "1997-03-25",
+      "DURATION" : "254",
       "LABEL" : "Roadrunner Records",
       "MUSICBRAINZ_ALBUMID" : "adea7de6-9eba-3a8f-b902-38718fda8d52",
       "MUSICBRAINZ_ALBUMSTATUS" : "Official",
@@ -20,54 +21,63 @@
    },
    {
       "@" : "spotify:album:60l0eb8lzf8jNF0K6XsbWL|1",
+      "DURATION" : "259",
       "MUSICBRAINZ_TRACKID" : "5affdcbf-c88d-4e26-98c4-1280a187e473",
       "TITLE" : "Take My Scars",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:60l0eb8lzf8jNF0K6XsbWL|2",
+      "DURATION" : "213",
       "MUSICBRAINZ_TRACKID" : "1db16235-4777-46b8-b710-1f3a13038978",
       "TITLE" : "Struck a Nerve",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:60l0eb8lzf8jNF0K6XsbWL|3",
+      "DURATION" : "328",
       "MUSICBRAINZ_TRACKID" : "da4a18de-440f-46e4-833f-722d22ee4867",
       "TITLE" : "Down to None",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:60l0eb8lzf8jNF0K6XsbWL|4",
+      "DURATION" : "350",
       "MUSICBRAINZ_TRACKID" : "901b4b77-b383-4abc-9bc9-cc6fcf437c4d",
       "TITLE" : "The Frontlines",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:60l0eb8lzf8jNF0K6XsbWL|5",
+      "DURATION" : "397",
       "MUSICBRAINZ_TRACKID" : "d9b9825f-331f-4093-8c47-7e1a235a35ee",
       "TITLE" : "Spine",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:60l0eb8lzf8jNF0K6XsbWL|6",
+      "DURATION" : "225",
       "MUSICBRAINZ_TRACKID" : "94804af4-8975-45a3-9572-e453162aecb5",
       "TITLE" : "Bay of Pigs",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:60l0eb8lzf8jNF0K6XsbWL|7",
+      "DURATION" : "440",
       "MUSICBRAINZ_TRACKID" : "8dd4c4b8-8134-44f6-a08e-879397726fc5",
       "TITLE" : "Violate",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:60l0eb8lzf8jNF0K6XsbWL|8",
+      "DURATION" : "298",
       "MUSICBRAINZ_TRACKID" : "2b59421d-7e17-46ea-b3f1-a58b0e12aa26",
       "TITLE" : "Blistering",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:60l0eb8lzf8jNF0K6XsbWL|9",
+      "DURATION" : "398",
       "MUSICBRAINZ_TRACKID" : "c943c47c-67d2-40eb-af43-5b8d6d0d6178",
       "TITLE" : "Blood of the Zodiac",
       "TRACKNUMBER" : "10"

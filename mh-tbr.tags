@@ -35,54 +35,63 @@
    },
    {
       "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|3",
+      "DURATION" : "251",
       "MUSICBRAINZ_TRACKID" : "42df84ca-1723-4425-bb76-834d40226855",
       "TITLE" : "The Blood, the Sweat, the Tears",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|4",
+      "DURATION" : "231",
       "MUSICBRAINZ_TRACKID" : "631854c2-dc48-43bd-98f4-6c63e0538499",
       "TITLE" : "Silver",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|5",
+      "DURATION" : "234",
       "MUSICBRAINZ_TRACKID" : "ca16d277-1162-4240-8b5b-32ee37163501",
       "TITLE" : "From This Day",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|6",
+      "DURATION" : "295",
       "MUSICBRAINZ_TRACKID" : "fde21ba1-edd1-42be-936c-cfa4a5a5c226",
       "TITLE" : "Exhale the Vile",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|7",
+      "DURATION" : "210",
       "MUSICBRAINZ_TRACKID" : "e74cbeda-2f7f-4acd-bfd0-911e3c2c43a7",
       "TITLE" : "Message in a Bottle",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|8",
+      "DURATION" : "246",
       "MUSICBRAINZ_TRACKID" : "fb0c0604-d846-4a5a-a65a-114784e9d6a0",
       "TITLE" : "Devil With the King's Card",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|9",
+      "DURATION" : "221",
       "MUSICBRAINZ_TRACKID" : "08fa489a-cfe4-4bfe-a0c6-e25fdcb2047c",
       "TITLE" : "I Defy",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|10",
+      "DURATION" : "317",
       "MUSICBRAINZ_TRACKID" : "357cd4de-57de-42cb-aec1-7f636efdd8dc",
       "TITLE" : "Five",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:3hOfgUH1xNzCeJgANjO5dA|11",
+      "DURATION" : "403",
       "MUSICBRAINZ_TRACKID" : "92c53040-0554-4e0b-8107-fc60f2eb4459",
       "TITLE" : "The Burning Red",
       "TRACKNUMBER" : "12"

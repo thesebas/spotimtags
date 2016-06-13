@@ -28,48 +28,56 @@
    },
    {
       "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|2",
+      "DURATION" : "390",
       "MUSICBRAINZ_TRACKID" : "26ba54a5-91fb-46fb-a26b-75e975bdbde9",
       "TITLE" : "Aesthetics of Hate",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|3",
+      "DURATION" : "334",
       "MUSICBRAINZ_TRACKID" : "c8f5f14f-4add-4e7e-a77b-1744470aba00",
       "TITLE" : "Now I Lay Thee Down",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|4",
+      "DURATION" : "316",
       "MUSICBRAINZ_TRACKID" : "8dda7af4-9665-437a-8e9f-45ced3d0e56a",
       "TITLE" : "Slanderous",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|5",
+      "DURATION" : "543",
       "MUSICBRAINZ_TRACKID" : "73d38b69-5c17-4fb9-ac1c-f705bd3e843d",
       "TITLE" : "Halo",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|6",
+      "DURATION" : "541",
       "MUSICBRAINZ_TRACKID" : "88bac627-a0bd-4ad9-a521-2e1ae3079e94",
       "TITLE" : "Wolves",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|7",
+      "DURATION" : "612",
       "MUSICBRAINZ_TRACKID" : "8e5cce79-86ef-47e2-be25-612c5c0e8d8d",
       "TITLE" : "A Farewell to Arms",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|8",
+      "DURATION" : "448",
       "MUSICBRAINZ_TRACKID" : "b3e50ac4-a952-498a-8b77-098d73af9697",
       "TITLE" : "Hallowed Be Thy Name",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:5sZi94xs9Q1aUpFVLx9RLI|9",
+      "DURATION" : "302",
       "MUSICBRAINZ_TRACKID" : "67d46849-4bae-497f-8d98-dc0f2eb4c511",
       "TITLE" : "Battery",
       "TRACKNUMBER" : "10"

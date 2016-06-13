@@ -4,8 +4,12 @@
       "ALBUM" : "Bloodstone & Diamonds",
       "ARTIST" : "Machine Head",
       "BARCODE" : "727361332228",
-      "CATALOGNUMBER" : [ "27361 33222", "NB 3322-2" ],
+      "CATALOGNUMBER" : [
+         "27361 33222",
+         "NB 3322-2"
+      ],
       "DATE" : "2014-11-07",
+      "DURATION" : "430",
       "LABEL" : "Nuclear Blast",
       "MUSICBRAINZ_ALBUMID" : "f3aaff96-cf44-49ae-9d74-4251f66e86bc",
       "MUSICBRAINZ_ALBUMSTATUS" : "Official",
@@ -20,66 +24,77 @@
    },
    {
       "@" : "spotify:album:5tC5plFI31vFzgBzZT6E4d|1",
+      "DURATION" : "272",
       "MUSICBRAINZ_TRACKID" : "23c3082a-8c44-4ada-989d-ac1af851df38",
       "TITLE" : "Killers & Kings",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:5tC5plFI31vFzgBzZT6E4d|2",
+      "DURATION" : "366",
       "MUSICBRAINZ_TRACKID" : "46e41116-0ab9-465e-9294-df9ba86cba72",
       "TITLE" : "Ghosts Will Haunt My Bones",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:5tC5plFI31vFzgBzZT6E4d|3",
+      "DURATION" : "408",
       "MUSICBRAINZ_TRACKID" : "dbd804e6-8cc3-49c1-8a41-6b32fbe1c424",
       "TITLE" : "Night of Long Knives",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:5tC5plFI31vFzgBzZT6E4d|4",
+      "DURATION" : "509",
       "MUSICBRAINZ_TRACKID" : "7b5220e3-bbc8-4654-9de0-6e234117c65a",
       "TITLE" : "Sail Into the Black",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:5tC5plFI31vFzgBzZT6E4d|5",
+      "DURATION" : "385",
       "MUSICBRAINZ_TRACKID" : "34582196-d597-4fc0-b952-b4061e588f97",
       "TITLE" : "Eyes of the Dead",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:5tC5plFI31vFzgBzZT6E4d|6",
+      "DURATION" : "283",
       "MUSICBRAINZ_TRACKID" : "45f6a404-7693-46e8-8f51-2451631dd237",
       "TITLE" : "Beneath the Silt",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:5tC5plFI31vFzgBzZT6E4d|7",
+      "DURATION" : "442",
       "MUSICBRAINZ_TRACKID" : "a2b45b7d-ecc9-4eda-8af1-12d5ec6b34ec",
       "TITLE" : "In Comes the Flood",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:5tC5plFI31vFzgBzZT6E4d|8",
+      "DURATION" : "204",
       "MUSICBRAINZ_TRACKID" : "081bb71f-b116-4966-8ee9-47dbc4ed0b09",
       "TITLE" : "Damage Inside",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:5tC5plFI31vFzgBzZT6E4d|9",
+      "DURATION" : "396",
       "MUSICBRAINZ_TRACKID" : "a59acff7-f917-48a4-b2f2-9cf30396ec36",
       "TITLE" : "Game Over",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:5tC5plFI31vFzgBzZT6E4d|10",
+      "DURATION" : "216",
       "MUSICBRAINZ_TRACKID" : "e6e598f2-b480-4579-878e-e82414fcbbe1",
       "TITLE" : "Imaginal Cells",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:5tC5plFI31vFzgBzZT6E4d|11",
+      "DURATION" : "348",
       "MUSICBRAINZ_TRACKID" : "f7d8ddbb-00e7-447d-b452-73526a2aebf6",
       "TITLE" : "Take Me Through the Fire",
       "TRACKNUMBER" : "12"
