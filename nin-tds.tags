@@ -3,139 +3,208 @@
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf",
       "ALBUM" : "The Downward Spiral",
       "ARTIST" : "Nine Inch Nails",
+      "BARCODE" : "602498647288",
+      "CATALOGNUMBER" : "B0003739-36",
+      "DATE" : "2004-11-23",
       "DISCNUMBER" : "1",
+      "DISCSUBTITLE" : "The Downward Spiral",
+      "DURATION" : "270",
+      "LABEL" : "Interscope Records",
+      "MUSICBRAINZ_ALBUMID" : "79180d6f-cace-35c7-a305-9c7924faedef",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+      "MUSICBRAINZ_RELEASEGROUPID" : "7c4cab8d-dead-3870-b501-93c90fd0a580",
+      "MUSICBRAINZ_TRACKID" : "96f64611-49df-4e54-84e7-0f9a30f01766",
+      "ORIGINAL RELEASE DATE" : "1994-03-08",
       "TITLE" : "Mr. Self Destruct",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "14",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|1",
+      "DURATION" : "264",
+      "MUSICBRAINZ_TRACKID" : "429f0b1a-0293-4793-993b-0bb5f73567f2",
       "TITLE" : "Piggy",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|2",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "3c6e9da3-e16f-47e3-a5b8-bc16c04184e3",
       "TITLE" : "Heresy",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|3",
-      "TITLE" : "March Of The Pigs",
+      "DURATION" : "178",
+      "MUSICBRAINZ_TRACKID" : "787cf6d0-a44b-4562-aa5c-5c4b244576c6",
+      "TITLE" : "March of the Pigs",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|4",
+      "DURATION" : "373",
+      "MUSICBRAINZ_TRACKID" : "13dd61c7-ce73-4e97-9f0c-9f0e53144411",
       "TITLE" : "Closer",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|5",
+      "DURATION" : "298",
+      "MUSICBRAINZ_TRACKID" : "941b357e-f763-4eff-85e0-16a033b94038",
       "TITLE" : "Ruiner",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|6",
+      "DURATION" : "331",
+      "MUSICBRAINZ_TRACKID" : "d5c0f5fe-f27a-492e-acd4-032d0b2aa747",
       "TITLE" : "The Becoming",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|7",
+      "DURATION" : "341",
+      "MUSICBRAINZ_TRACKID" : "70d25e69-b939-4898-a97d-780ac978afbd",
       "TITLE" : "I Do Not Want This",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|8",
-      "TITLE" : "Big Man With A Gun",
+      "DURATION" : "96",
+      "MUSICBRAINZ_TRACKID" : "c0fa02fe-93cd-4a28-9574-ef11788b2704",
+      "TITLE" : "Big Man With a Gun",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|9",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "688301b0-ae38-4aeb-8a4d-993330a74ba8",
       "TITLE" : "A Warm Place",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|10",
+      "DURATION" : "293",
+      "MUSICBRAINZ_TRACKID" : "0ec126f3-a608-46dc-9210-90ad42fc1ee6",
       "TITLE" : "Eraser",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|11",
+      "DURATION" : "412",
+      "MUSICBRAINZ_TRACKID" : "adc19475-b1b9-49a0-a966-45f4a7d35bb5",
       "TITLE" : "Reptile",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|12",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "05166c96-7f2f-42f2-8b8c-de0fc58e34b2",
       "TITLE" : "The Downward Spiral",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|13",
+      "DURATION" : "374",
+      "MUSICBRAINZ_TRACKID" : "ab7805a8-c161-403d-92bf-a92c8b8e17dc",
       "TITLE" : "Hurt",
       "TRACKNUMBER" : "14"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|14",
       "DISCNUMBER" : "2",
-      "TITLE" : "Burn - From \"Natural Born Killers\" Soundtrack",
+      "DISCSUBTITLE" : "Remixes, B-Sides, Demos, and Non-Album Tracks",
+      "DURATION" : "300",
+      "MUSICBRAINZ_TRACKID" : "ee95d076-40f2-4ccd-b707-36e39562646e",
+      "TITLE" : "Burn",
+      "TOTALTRACKS" : "13",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|15",
+      "DURATION" : "436",
+      "MUSICBRAINZ_TRACKID" : "fc24fd73-6232-4e36-992e-8f41698eb9fb",
       "TITLE" : "Closer (Precursor)",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|16",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "7ad693df-b012-427c-8d2b-3d85f493a9db",
       "TITLE" : "Piggy (Nothing Can Stop Me Now)",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|17",
+      "DURATION" : "64",
+      "MUSICBRAINZ_TRACKID" : "2d89ec45-3155-4c45-8a5c-509ed67c8ec0",
       "TITLE" : "A Violet Fluid",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|18",
-      "TITLE" : "Dead Souls - From \"The Crow\" Soundtrack",
+      "DURATION" : "293",
+      "MUSICBRAINZ_TRACKID" : "dd40751c-6dc5-4578-bda5-e06c4d638056",
+      "TITLE" : "Dead Souls",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|19",
+      "DURATION" : "308",
+      "MUSICBRAINZ_TRACKID" : "92c12a6b-9f48-40a4-ad05-86b86339253a",
       "TITLE" : "Hurt (Quiet)",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|20",
-      "TITLE" : "Closer To God",
+      "DURATION" : "305",
+      "MUSICBRAINZ_TRACKID" : "a464ad87-a3be-427e-8a96-4651b53ce811",
+      "TITLE" : "Closer to God",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|21",
-      "TITLE" : "All The Pigs, All Lined Up",
+      "DURATION" : "446",
+      "MUSICBRAINZ_TRACKID" : "9efd70c0-d465-4f69-9699-51e2642094fa",
+      "TITLE" : "All the Pigs, All Lined Up",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|22",
+      "DURATION" : "441",
+      "MUSICBRAINZ_TRACKID" : "566156e4-cc6f-4fa4-b205-5463b68ec081",
       "TITLE" : "Memorabilia",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|23",
+      "DURATION" : "449",
+      "MUSICBRAINZ_TRACKID" : "f531393f-e6f9-4dba-b740-bff5cff08b37",
       "TITLE" : "The Downward Spiral (The Bottom)",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|24",
-      "TITLE" : "Ruiner - Demo",
+      "DURATION" : "291",
+      "MUSICBRAINZ_TRACKID" : "e20ca5af-0197-4d97-8854-96c1dbd12996",
+      "TITLE" : "Ruiner (demo)",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|25",
-      "TITLE" : "Liar - Reptile Demo",
+      "DURATION" : "417",
+      "MUSICBRAINZ_TRACKID" : "7a695b22-18df-46d0-a19c-659aa01a6b15",
+      "TITLE" : "Liar (Reptile demo)",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:4OJNzJQ209FcLJg2CLz5mf|26",
-      "TITLE" : "Heresy - Demo",
+      "DURATION" : "240",
+      "MUSICBRAINZ_TRACKID" : "fa4fc9d1-0479-45d7-bd45-0eca87e49823",
+      "TITLE" : "Heresy (demo)",
       "TRACKNUMBER" : "13"
    }
 ]

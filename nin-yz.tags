@@ -1,85 +1,127 @@
 ﻿[
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI",
-      "ALBUM" : "Year Zero (International Version)",
+      "ALBUM" : "Year Zero",
       "ARTIST" : "Nine Inch Nails",
-      "DISCNUMBER" : "1",
+      "BARCODE" : "602517324237",
+      "CATALOGNUMBER" : "0602517324237",
+      "DATE" : "2007-04-16",
+      "DURATION" : "102",
+      "LABEL" : "Interscope Records",
+      "MUSICBRAINZ_ALBUMID" : "8067f190-dc3e-362a-8117-8a13df522b2c",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+      "MUSICBRAINZ_RELEASEGROUPID" : "3bd76d40-7f0e-36b7-9348-91a33afee20e",
+      "MUSICBRAINZ_TRACKID" : "35518724-a25a-4627-a2cc-0786dd1d2272",
+      "ORIGINAL RELEASE DATE" : "2007-04-14",
       "TITLE" : "HYPERPOWER!",
+      "TOTALTRACKS" : "16",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|1",
+      "DURATION" : "167",
+      "MUSICBRAINZ_TRACKID" : "52aac264-b3e7-4879-9a8a-eb152e838337",
       "TITLE" : "The Beginning of the End",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|2",
+      "DURATION" : "264",
+      "MUSICBRAINZ_TRACKID" : "97d09e1b-8812-45fd-830f-0200a3c0e3b8",
       "TITLE" : "Survivalism",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|3",
+      "DURATION" : "203",
+      "MUSICBRAINZ_TRACKID" : "d576e2d8-9e25-4686-b4a5-c96663e6f2ef",
       "TITLE" : "The Good Soldier",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|4",
+      "DURATION" : "293",
+      "MUSICBRAINZ_TRACKID" : "80e502a8-27eb-4ad5-80e6-6de2fc21c027",
       "TITLE" : "Vessel",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|5",
-      "TITLE" : "Me, I'm Not",
+      "DURATION" : "292",
+      "MUSICBRAINZ_TRACKID" : "872ef730-6718-4d38-9c71-a52f32879d7f",
+      "TITLE" : "Me, I’m Not",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|6",
+      "DURATION" : "230",
+      "MUSICBRAINZ_TRACKID" : "24f6297b-8afa-44a9-8ab7-e18c496ae752",
       "TITLE" : "Capital G",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|7",
+      "DURATION" : "254",
+      "MUSICBRAINZ_TRACKID" : "482864df-6b9d-441b-8d36-9fbc4c36522d",
       "TITLE" : "My Violent Heart",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|8",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "67bcde07-bfb1-4b30-88ba-6b995ec04123",
       "TITLE" : "The Warning",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|9",
+      "DURATION" : "231",
+      "MUSICBRAINZ_TRACKID" : "06c5617a-ca0b-4dfc-ac45-0fda38845135",
       "TITLE" : "God Given",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|10",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "f0186207-2706-4be5-a5ec-16a08b5abc59",
       "TITLE" : "Meet Your Master",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|11",
+      "DURATION" : "292",
+      "MUSICBRAINZ_TRACKID" : "962ad5f0-bb94-42a1-868d-271e3c6d2ef7",
       "TITLE" : "The Greater Good",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|12",
+      "DURATION" : "197",
+      "MUSICBRAINZ_TRACKID" : "eb575db3-983f-4484-8388-98a5c52d8c0a",
       "TITLE" : "The Great Destroyer",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|13",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "c9b82865-1d4b-424e-9493-5b66f974ec65",
       "TITLE" : "Another Version of the Truth",
       "TRACKNUMBER" : "14"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|14",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "fc4bcb1c-7bee-4a49-8277-66777cc087f2",
       "TITLE" : "In This Twilight",
       "TRACKNUMBER" : "15"
    },
    {
       "@" : "spotify:album:4RkqkXcW8lmRLjCIiPPToI|15",
-      "TITLE" : "Zero Sum",
+      "DURATION" : "375",
+      "MUSICBRAINZ_TRACKID" : "b0fbf9f3-9d77-46dc-ad94-7182324b6b77",
+      "TITLE" : "Zero‐Sum",
       "TRACKNUMBER" : "16"
    }
 ]

@@ -1,90 +1,143 @@
 ﻿[
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH",
-      "ALBUM" : "Hesitation Marks (Deluxe Edition)",
+      "ALBUM" : "Hesitation Marks",
       "ARTIST" : "Nine Inch Nails",
+      "BARCODE" : "888837449625",
+      "CATALOGNUMBER" : [
+         "88883 74496 2",
+         "halo 28dcd"
+      ],
+      "DATE" : "2013-09-03",
       "DISCNUMBER" : "1",
-      "TITLE" : "The Eater Of Dreams",
+      "DISCSUBTITLE" : "Hesitation Marks",
+      "DURATION" : "52",
+      "LABEL" : "Columbia",
+      "MUSICBRAINZ_ALBUMID" : "633d1439-6c82-4b4c-9f9f-5f844434c6ca",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+      "MUSICBRAINZ_RELEASEGROUPID" : "5abc64d9-2699-4f26-82cb-87ed127f42eb",
+      "MUSICBRAINZ_TRACKID" : "8095cb37-481c-4073-ac5d-b9234c60284e",
+      "ORIGINAL RELEASE DATE" : "2013-08-30",
+      "TITLE" : "The Eater of Dreams",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "14",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|1",
-      "TITLE" : "Copy Of A",
+      "DURATION" : "322",
+      "MUSICBRAINZ_TRACKID" : "ad18c587-c25b-4ab0-8575-c00f70c12de9",
+      "TITLE" : "Copy of A",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|2",
+      "DURATION" : "317",
+      "MUSICBRAINZ_TRACKID" : "4ceb4f25-9412-44fb-adbd-ba50b9a58130",
       "TITLE" : "Came Back Haunted",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|3",
+      "DURATION" : "315",
+      "MUSICBRAINZ_TRACKID" : "728c6817-b29a-457a-a9b1-ec80e215facb",
       "TITLE" : "Find My Way",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|4",
+      "DURATION" : "377",
+      "MUSICBRAINZ_TRACKID" : "6ee3668b-b857-4b44-954e-a61454da4157",
       "TITLE" : "All Time Low",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|5",
+      "DURATION" : "344",
+      "MUSICBRAINZ_TRACKID" : "73907a63-d4cf-4464-9718-578fc7e282d3",
       "TITLE" : "Disappointed",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|6",
+      "DURATION" : "199",
+      "MUSICBRAINZ_TRACKID" : "a7ed9e5c-043f-480b-88f5-13a9945ac2ea",
       "TITLE" : "Everything",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|7",
+      "DURATION" : "302",
+      "MUSICBRAINZ_TRACKID" : "f6ad91a0-af1d-44b4-8fa7-d8b6f1e65c85",
       "TITLE" : "Satellite",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|8",
-      "TITLE" : "Various Methods Of Escape",
+      "DURATION" : "301",
+      "MUSICBRAINZ_TRACKID" : "4dd30033-9bdc-4244-bf69-9604c2dc005b",
+      "TITLE" : "Various Methods of Escape",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|9",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "c2055db1-3254-48ca-8562-3bee27020d5e",
       "TITLE" : "Running",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|10",
-      "TITLE" : "I Would For You",
+      "DURATION" : "272",
+      "MUSICBRAINZ_TRACKID" : "a47a9de2-9889-4b15-9a29-f7384d61e62a",
+      "TITLE" : "I Would for You",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|11",
+      "DURATION" : "331",
+      "MUSICBRAINZ_TRACKID" : "291dcf5e-45f6-4145-b777-df9736908cf2",
       "TITLE" : "In Two",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|12",
-      "TITLE" : "While I'm Still Here",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "3a788eab-9bb2-403d-8c67-9b87c5bf9891",
+      "TITLE" : "While I’m Still Here",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|13",
+      "DURATION" : "89",
+      "MUSICBRAINZ_TRACKID" : "c99c1f14-5fc4-4356-b560-054a51e3f6ac",
       "TITLE" : "Black Noise",
       "TRACKNUMBER" : "14"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|14",
-      "TITLE" : "Find My Way - Oneohtrix Point Never Remix",
-      "TRACKNUMBER" : "15"
+      "DISCNUMBER" : "2",
+      "DISCSUBTITLE" : "Remixes",
+      "DURATION" : "288",
+      "MUSICBRAINZ_TRACKID" : "1e662882-f509-4182-b758-ce5df03eeab9",
+      "TITLE" : "Find My Way (Oneohtrix Point Never remix)",
+      "TOTALTRACKS" : "3",
+      "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|15",
-      "TITLE" : "All Time Low - Todd Rundgren Remix",
-      "TRACKNUMBER" : "16"
+      "DURATION" : "349",
+      "MUSICBRAINZ_TRACKID" : "1e873b9c-fcd5-4b86-a39e-3e6664ce7948",
+      "TITLE" : "All Time Low (Todd Rundgren remix)",
+      "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:7vy9VtJkTnY1xTIBeLAgCH|16",
-      "TITLE" : "While I'm Still Here - Breyer P-Orridge 'Howler' Remix",
-      "TRACKNUMBER" : "17"
+      "DURATION" : "423",
+      "MUSICBRAINZ_TRACKID" : "822cc705-5d67-49fe-b30f-94f1f0ba1a28",
+      "TITLE" : "While I’m Still Here (Breyer P-Orridge ‘Howler’ remix)",
+      "TRACKNUMBER" : "3"
    }
 ]
