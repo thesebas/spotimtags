@@ -1,129 +1,189 @@
 ﻿[
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH",
-      "ALBUM" : "Deus Ex: Human Revolution \"Original Soundtrack\"",
+      "ALBUM" : "Deus Ex: Human Revolution",
       "ARTIST" : "Michael McCann",
-      "DISCNUMBER" : "1",
-      "TITLE" : "Icarus - Main Theme",
+      "BARCODE" : "669311301727",
+      "CATALOGNUMBER" : "SE-3017-2",
+      "DATE" : "2011-11-15",
+      "DURATION" : "221",
+      "LABEL" : "Sumthing Else Music Works",
+      "MUSICBRAINZ_ALBUMID" : "46231ef3-5b2e-401c-b0f5-bb19e09f8945",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Soundtrack",
+      "MUSICBRAINZ_ARTISTID" : "3331f9fe-fa0d-469d-af79-dbdf370c8a07",
+      "MUSICBRAINZ_RELEASEGROUPID" : "e9224f7c-8bf7-4daa-b141-4ef60ff4b3be",
+      "MUSICBRAINZ_TRACKID" : "5b47cd3e-9605-4669-89f9-839ea00431cd",
+      "ORIGINAL RELEASE DATE" : "2011-08-23",
+      "TITLE" : "Icarus (main theme)",
+      "TOTALTRACKS" : "25",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|1",
+      "DURATION" : "135",
+      "MUSICBRAINZ_TRACKID" : "eb756146-9ceb-46ba-987e-e7e382752c96",
       "TITLE" : "Opening Credits",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|2",
+      "DURATION" : "110",
+      "MUSICBRAINZ_TRACKID" : "e3c41026-8c63-40ef-8934-c0b992472cbe",
       "TITLE" : "Main Menu",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|3",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "e381eac1-38e2-4f1c-83ec-706c8c403c2f",
       "TITLE" : "First and Last",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|4",
-      "TITLE" : "Detroit City Ambient (Part 1)",
+      "DURATION" : "123",
+      "MUSICBRAINZ_TRACKID" : "7f9f81bb-6aff-464a-81ba-d0fdf8676904",
+      "TITLE" : "Detroit City Ambient, Part 1",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|5",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "16368504-36c2-436e-9568-e9bb978419fd",
       "TITLE" : "Detroit Marketplace",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|6",
+      "DURATION" : "144",
+      "MUSICBRAINZ_TRACKID" : "9ff227b2-a248-4e27-b86e-96c40e634edf",
       "TITLE" : "The Mole",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|7",
-      "TITLE" : "Barrett Boss Fight",
+      "DURATION" : "169",
+      "MUSICBRAINZ_TRACKID" : "6fad42b5-37c8-47a6-84b4-7261316a37a8",
+      "TITLE" : "Barret Boss Fight",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|8",
+      "DURATION" : "137",
+      "MUSICBRAINZ_TRACKID" : "ea90ed24-3e0e-445c-b353-33724cd9eca6",
       "TITLE" : "Home",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|9",
-      "TITLE" : "Jewel Of The Orient",
+      "DURATION" : "64",
+      "MUSICBRAINZ_TRACKID" : "91d183ab-c60f-4f80-9b1b-e375bd25f131",
+      "TITLE" : "Jewel of the Orient",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|10",
-      "TITLE" : "Lower Hengsha Ambient (Part 1)",
+      "DURATION" : "141",
+      "MUSICBRAINZ_TRACKID" : "80a0dd0c-e170-43e1-b776-f9b30e513012",
+      "TITLE" : "Lower Hengsha Ambient, Part 1",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|11",
-      "TITLE" : "Singapore Ambient (Part 2)",
+      "DURATION" : "144",
+      "MUSICBRAINZ_TRACKID" : "de3c421d-8243-49cb-93aa-7bf50ce9a623",
+      "TITLE" : "Singapore Ambient, Part 2",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|12",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "8a02016f-8752-492a-a7f9-e1dfbf13e756",
       "TITLE" : "After the Crash",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|13",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "fe4f608b-7982-45f9-872c-76183ca89be6",
       "TITLE" : "The Hive",
       "TRACKNUMBER" : "14"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|14",
+      "DURATION" : "177",
+      "MUSICBRAINZ_TRACKID" : "f09a9b4d-9480-4440-ab78-29693e3b7804",
       "TITLE" : "Harvesters",
       "TRACKNUMBER" : "15"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|15",
-      "TITLE" : "Hung Hua Brothel (Extended)",
+      "DURATION" : "198",
+      "MUSICBRAINZ_TRACKID" : "1a830999-aa89-41a5-bb55-4f390e6a0708",
+      "TITLE" : "Hung Hua Brothel (extended)",
       "TRACKNUMBER" : "16"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|16",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "b2e7c4b9-47ff-4ce0-ba12-c76a599dc63c",
       "TITLE" : "Everybody Lies",
       "TRACKNUMBER" : "17"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|17",
+      "DURATION" : "104",
+      "MUSICBRAINZ_TRACKID" : "a7c1bebe-dea2-43ec-a676-3918a4c6e845",
       "TITLE" : "LIMB Clinic",
       "TRACKNUMBER" : "18"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|18",
+      "DURATION" : "96",
+      "MUSICBRAINZ_TRACKID" : "4a678fa8-4fc8-4278-af5e-bc001a269c85",
       "TITLE" : "Penthouse",
       "TRACKNUMBER" : "19"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|19",
-      "TITLE" : "Hengsha Daylight (Part 1)",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "acc42445-352d-42a6-8e3f-011a61afaa1e",
+      "TITLE" : "Hengsha Daylight, Part 1",
       "TRACKNUMBER" : "20"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|20",
+      "DURATION" : "114",
+      "MUSICBRAINZ_TRACKID" : "00d4d725-5803-42d9-8cce-94438ae7dd5f",
       "TITLE" : "Entering TYM",
       "TRACKNUMBER" : "21"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|21",
-      "TITLE" : "Return To Hengsha",
+      "DURATION" : "163",
+      "MUSICBRAINZ_TRACKID" : "cabde75f-630d-41ad-a548-19376e459859",
+      "TITLE" : "Return to Hengsha",
       "TRACKNUMBER" : "22"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|22",
+      "DURATION" : "77",
+      "MUSICBRAINZ_TRACKID" : "98fe0767-65a3-4bbe-bc51-edee68210286",
       "TITLE" : "And Away We Go",
       "TRACKNUMBER" : "23"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|23",
-      "TITLE" : "Namir (Trailer Edit)",
+      "DURATION" : "150",
+      "MUSICBRAINZ_TRACKID" : "c3c8de29-1950-4958-9985-4020c68af649",
+      "TITLE" : "Namir (trailer edit)",
       "TRACKNUMBER" : "24"
    },
    {
       "@" : "spotify:album:2LE9BDji49rYh3p3a3o1KH|24",
+      "DURATION" : "130",
+      "MUSICBRAINZ_TRACKID" : "85c01adb-bd3d-474d-baf8-d49a84b09547",
       "TITLE" : "Endings",
       "TRACKNUMBER" : "25"
    }
