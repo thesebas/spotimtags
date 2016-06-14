@@ -1,75 +1,119 @@
 ﻿[
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18",
-      "ALBUM" : "Y34RZ3r0r3mix3d",
+      "ALBUM" : "Y34RZ3R0R3M1X3D",
+      "ALBUM ARTIST" : "Nine Inch Nails",
       "ARTIST" : "Nine Inch Nails",
-      "DISCNUMBER" : "1",
-      "TITLE" : "Gunshots by Computer - Saul Williams",
+      "DATE" : "2007-11-20",
+      "DURATION" : "103",
+      "LABEL" : "Interscope Records",
+      "MUSICBRAINZ_ALBUMARTISTID" : "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+      "MUSICBRAINZ_ALBUMID" : "61638deb-6bce-3795-a26c-ac2a92b7e66c",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Remix",
+      "MUSICBRAINZ_ARTISTID" : "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+      "MUSICBRAINZ_RELEASEGROUPID" : "19e3391a-99e8-3496-9379-7e526d6bb599",
+      "MUSICBRAINZ_TRACKID" : "b1694a93-61e3-4b39-b602-e302b443af52",
+      "TITLE" : "Gunshots by Computer",
+      "TOTALTRACKS" : "14",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|1",
-      "TITLE" : "The Great Destroyer - modwheelmood",
+      "DURATION" : "259",
+      "MUSICBRAINZ_TRACKID" : "ca57a362-2ca1-4667-917e-123bffa51c32",
+      "TITLE" : "The Great Destroyer (remixed by Modwheelmood)",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|2",
-      "TITLE" : "My Violent Heart - pirate robot midget",
+      "DURATION" : "154",
+      "MUSICBRAINZ_TRACKID" : "fb2c59bf-3d29-4666-92ca-13ebe8dda8cf",
+      "TITLE" : "My Violent Heart (PRM dance mix)",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|3",
-      "TITLE" : "The Beginning of the End - ladytron",
+      "DURATION" : "261",
+      "MUSICBRAINZ_TRACKID" : "78ce8ff8-fcf0-4fc4-9a97-452d0d4f6288",
+      "TITLE" : "The Beginning of the End (remixed by Ladytron)",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|4",
-      "TITLE" : "Survivalism - Saul Williams",
+      "DURATION" : "259",
+      "MUSICBRAINZ_TRACKID" : "276de38a-8598-48a5-8cd5-6b55b8624de7",
+      "TITLE" : "Survivalism_tardusted",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|5",
-      "TITLE" : "Capital G - Paul Epworth Phones 666 Revolutions Mix",
+      "DURATION" : "446",
+      "MUSICBRAINZ_TRACKID" : "1c522c6c-ddc1-48ac-ba34-38b82ca824d1",
+      "TITLE" : "Capital G (Phones 666 RPM mix - main)",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|6",
-      "TITLE" : "Vessel - bill laswell",
+      "DURATION" : "371",
+      "MUSICBRAINZ_TRACKID" : "d104f94d-dc80-4b57-a15d-f1c3a4cdac7d",
+      "TITLE" : "Vessel (remixed by Bill Laswell)",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|7",
-      "TITLE" : "The Warning - Stefan Goodchild Feat. Doudou N'Diaye Rose",
+      "ARTIST" : "Nine Inch Nails feat. Doudou N'diaye Rose",
+      "DURATION" : "224",
+      "MUSICBRAINZ_ARTISTID" : [
+         "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+         "6db0aa2f-7d59-4c9e-a3cb-730f3a127a9a"
+      ],
+      "MUSICBRAINZ_TRACKID" : "5a9eeac4-39c9-4795-aad3-32bd451532c7",
+      "TITLE" : "The Warning (Real World remix by Stefan Goodchild)",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|8",
-      "TITLE" : "Meet Your Master - the faint",
+      "ARTIST" : "Nine Inch Nails",
+      "DURATION" : "215",
+      "MUSICBRAINZ_ARTISTID" : "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+      "MUSICBRAINZ_TRACKID" : "fbae297b-28e2-434a-9369-5428b3a54aa8",
+      "TITLE" : "Meet Your Master (remixed by The Faint)",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|9",
-      "TITLE" : "God Given - Stephen Morris And Gillian Gilbert",
+      "DURATION" : "268",
+      "MUSICBRAINZ_TRACKID" : "2c46358c-1887-4480-8d73-7daf4be2a64b",
+      "TITLE" : "God Given (remixed by Stephen Morris & Gillian Gilbert)",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|10",
-      "TITLE" : "Me, I'm Not - olof dreijer",
+      "DURATION" : "841",
+      "MUSICBRAINZ_TRACKID" : "4ab32ad3-c086-4ddb-8eb3-8a32d82545c8",
+      "TITLE" : "Me, I’m Not (remixed by Olof Dreijer)",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|11",
-      "TITLE" : "Another Version of the Truth - kronos and enrique gonzalez muller",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "aef938ba-65ba-4573-81a7-21d0b9a5dadf",
+      "TITLE" : "Another Version of the Truth (remixed by Kronos Quartet & Enrique Gonzalez Müller)",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|12",
-      "TITLE" : "In This Twilight - fennesz",
+      "DURATION" : "277",
+      "MUSICBRAINZ_TRACKID" : "5bb16109-57e4-4d52-bc32-e6d7b9c97669",
+      "TITLE" : "In This Twilight (remixed by Fennesz)",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:6PrjhMgbkkhSJEaBSPjO18|13",
-      "TITLE" : "Zero Sum - Stephen Morris And Gillian Gilbert",
+      "DURATION" : "339",
+      "MUSICBRAINZ_TRACKID" : "6549151f-5aa3-4a20-ba57-aad212875eb1",
+      "TITLE" : "Zero-Sum (remixed by Stephen Morris & Gillian Gilbert)",
       "TRACKNUMBER" : "14"
    }
 ]
