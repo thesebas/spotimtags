@@ -1,90 +1,131 @@
 ﻿[
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv",
-      "ALBUM" : "Generation Doom (Deluxe Edition)",
+      "ALBUM" : "Generation Doom",
       "ARTIST" : "Otep",
-      "DISCNUMBER" : "1",
+      "DATE" : "2016-04-15",
+      "DURATION" : "192",
+      "LABEL" : "Napalm Records",
+      "MUSICBRAINZ_ALBUMID" : "3e96e900-5a5f-41b8-a915-e9c5d8ca39c3",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "83766a73-9c8a-481e-82ca-11853015cd2d",
+      "MUSICBRAINZ_RELEASEGROUPID" : "c5eab980-f970-480f-8aac-15385c7c7b26",
+      "MUSICBRAINZ_TRACKID" : "2b0178b5-1c80-40b3-ade7-b075bece2292",
       "TITLE" : "Zero",
+      "TOTALTRACKS" : "17",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|1",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "3fb61383-2a89-419a-9fe4-7fcc8d6a461d",
       "TITLE" : "Feeding Frenzy",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|2",
-      "TITLE" : "Lords Of War",
+      "DURATION" : "306",
+      "MUSICBRAINZ_TRACKID" : "741e42f1-5d26-4312-a8ee-897317f0197a",
+      "TITLE" : "Lords of War",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|3",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "79c283aa-39d6-4186-8123-a59b0db00a67",
       "TITLE" : "Royals",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|4",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "13b86b03-181f-4284-927d-7d8acb32146b",
       "TITLE" : "In Cold Blood",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|5",
+      "DURATION" : "174",
+      "MUSICBRAINZ_TRACKID" : "a8d72049-4980-4a3c-8681-60b7dd4e025d",
       "TITLE" : "Down",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|6",
-      "TITLE" : "God Is A Gun",
+      "DURATION" : "167",
+      "MUSICBRAINZ_TRACKID" : "8bd3951d-d44a-43c6-8b96-08ad8d012697",
+      "TITLE" : "God Is a Gun",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|7",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "4342ca9a-b9c0-4e97-bd78-e8e2622010c9",
       "TITLE" : "Equal Rights, Equal Lefts",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|8",
+      "DURATION" : "343",
+      "MUSICBRAINZ_TRACKID" : "c61cb618-c1e4-4e11-912c-ab177dd20e1a",
       "TITLE" : "No Color",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|9",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "879d20f6-8a9a-4a47-b653-339fdec0f78c",
       "TITLE" : "Lie",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|10",
+      "DURATION" : "268",
+      "MUSICBRAINZ_TRACKID" : "d48b7435-6a98-41e9-b789-a0853f4cf336",
       "TITLE" : "Generation Doom",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|11",
-      "TITLE" : "On The Shore",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "1510a523-958b-4889-8a59-d4dda0cd2b4d",
+      "TITLE" : "On the Shore",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|12",
-      "TITLE" : "Lie (Acoustic Version - Bonus Track)",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "ef6a8571-90c7-480f-bcb5-b61d255f7617",
+      "TITLE" : "Lie (acoustic version)",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|13",
-      "TITLE" : "Breathing In The Fire (Spoken Word Poem - Bonus Track)",
+      "DURATION" : "141",
+      "MUSICBRAINZ_TRACKID" : "fc131b43-5109-4a66-8ab7-8ada39262709",
+      "TITLE" : "Breathing in the Fire (Spoken Word Poem)",
       "TRACKNUMBER" : "14"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|14",
-      "TITLE" : "Crawling Up (Spoken Word Poem - Deluxe Bonus Track)",
+      "DURATION" : "168",
+      "MUSICBRAINZ_TRACKID" : "bc6a7adc-3b60-46f4-8553-a2f26d57d613",
+      "TITLE" : "Crawling Up (Spoken Word Poem)",
       "TRACKNUMBER" : "15"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|15",
-      "TITLE" : "More Fire (Deluxe Bonus Track)",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "9fa4e7e1-c637-4de7-b94f-314be2cb58ee",
+      "TITLE" : "More Fire",
       "TRACKNUMBER" : "16"
    },
    {
       "@" : "spotify:album:2IqcTmNz7PUvRt07crGqUv|16",
-      "TITLE" : "On The Shore (Remix - Bonus Track)",
+      "DURATION" : "616",
+      "MUSICBRAINZ_TRACKID" : "eb11626d-17a6-414d-a856-efad348214dd",
+      "TITLE" : "On the Shore (Jonny Dope remix)",
       "TRACKNUMBER" : "17"
    }
 ]

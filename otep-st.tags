@@ -3,67 +3,101 @@
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA",
       "ALBUM" : "Sevas Tra",
       "ARTIST" : "Otep",
-      "DISCNUMBER" : "1",
+      "CATALOGNUMBER" : "724353334604",
+      "DATE" : "2002-06-18",
+      "DURATION" : "99",
+      "LABEL" : "Capitol Records",
+      "MUSICBRAINZ_ALBUMID" : "26b922bd-a931-4938-93f5-b9a09d227c10",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "83766a73-9c8a-481e-82ca-11853015cd2d",
+      "MUSICBRAINZ_RELEASEGROUPID" : "b49d6a63-208d-3ca9-9519-3cccce13192d",
+      "MUSICBRAINZ_TRACKID" : "500b8557-c90e-4da5-b83c-249d30b15571",
       "TITLE" : "Tortured",
+      "TOTALTRACKS" : "13",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|1",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "1ab055c1-86f2-402a-bb12-71ab7f76b6d5",
       "TITLE" : "Blood Pigs",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|2",
+      "DURATION" : "185",
+      "MUSICBRAINZ_TRACKID" : "9960d738-dfe3-48bf-8ce2-2e3db7fd090c",
       "TITLE" : "T.R.I.C.",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|3",
+      "DURATION" : "331",
+      "MUSICBRAINZ_TRACKID" : "7b85ba5c-e361-4873-85ea-c8bc4f1296e4",
       "TITLE" : "My Confession",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|4",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "ff4d7352-ca0a-4c41-8214-cc7d3807f1b2",
       "TITLE" : "Sacrilege",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|5",
+      "DURATION" : "261",
+      "MUSICBRAINZ_TRACKID" : "9093dfbf-b784-4ab3-adff-8397efa259c4",
       "TITLE" : "Battle Ready",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|6",
+      "DURATION" : "238",
+      "MUSICBRAINZ_TRACKID" : "6ffebb0b-df41-40ec-a92c-062d0ed9918f",
       "TITLE" : "Emtee",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|7",
+      "DURATION" : "294",
+      "MUSICBRAINZ_TRACKID" : "8b4f3d3e-2d0a-4772-8eda-dde9e7dbd639",
       "TITLE" : "Possession",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|8",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "d20e039c-058c-4923-bc97-812e6b6b119d",
       "TITLE" : "Thots",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|9",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "40caea68-29e4-4520-a9e1-6363caac3944",
       "TITLE" : "Fillthee",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|10",
+      "DURATION" : "291",
+      "MUSICBRAINZ_TRACKID" : "7390dbd8-dc01-4e24-864a-1160122b5a50",
       "TITLE" : "Menocide",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|11",
+      "DURATION" : "587",
+      "MUSICBRAINZ_TRACKID" : "a8e900e8-69a8-45f8-ad6e-38fb9190ed54",
       "TITLE" : "Jonestown Tea",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:1vQRctOyiOZlxElJNOWjdA|12",
+      "DURATION" : "425",
+      "MUSICBRAINZ_TRACKID" : "f807879f-fc29-42ba-b8e5-0ed65ba77d1d",
       "TITLE" : "Brother",
       "TRACKNUMBER" : "13"
    }
