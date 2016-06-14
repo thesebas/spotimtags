@@ -3,67 +3,101 @@
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM",
       "ALBUM" : "Visitors",
       "ARTIST" : "Lazerhawk",
-      "DISCNUMBER" : "1",
+      "CATALOGNUMBER" : "RCR006",
+      "DATE" : "2012-02-06",
+      "DURATION" : "160",
+      "LABEL" : "Rosso Corsa Records",
+      "MUSICBRAINZ_ALBUMID" : "1924bf90-15e3-4a34-902e-18ba2f11acef",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b9e46d1a-9068-4615-9200-90b3d5eae68b",
+      "MUSICBRAINZ_RELEASEGROUPID" : "b2415927-a69a-40e3-afe7-fccec81d2d46",
+      "MUSICBRAINZ_TRACKID" : "0ff05574-a4c5-4b25-a3fb-8f61d8b0643e",
       "TITLE" : "Lazerhawk's Theme",
+      "TOTALTRACKS" : "13",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|1",
+      "DURATION" : "259",
+      "MUSICBRAINZ_TRACKID" : "acfdf715-2e68-4851-8b10-d751c32bcf66",
       "TITLE" : "Visitors",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|2",
+      "DURATION" : "171",
+      "MUSICBRAINZ_TRACKID" : "6f394e02-c6cb-4853-9d83-4a227b616313",
       "TITLE" : "Distant Signal 001",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|3",
+      "DURATION" : "347",
+      "MUSICBRAINZ_TRACKID" : "b03b40ef-1619-44a8-88c6-d6c40c308a09",
       "TITLE" : "Space Is the Place",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|4",
+      "DURATION" : "272",
+      "MUSICBRAINZ_TRACKID" : "a8e817e8-0d48-4608-8291-af6cc7e4d80b",
       "TITLE" : "The Voyage",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|5",
+      "DURATION" : "161",
+      "MUSICBRAINZ_TRACKID" : "d940c3ee-818a-4025-9fd9-c84912878d6e",
       "TITLE" : "Distant Signal 002",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|6",
+      "DURATION" : "291",
+      "MUSICBRAINZ_TRACKID" : "fbb1c872-ce85-4297-bcc2-ffca6fbbde19",
       "TITLE" : "Disco Planet",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|7",
+      "DURATION" : "302",
+      "MUSICBRAINZ_TRACKID" : "3c29c93f-8bf5-4ad1-bdfb-c6429c19fb7d",
       "TITLE" : "Shoulder of Orion",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|8",
+      "DURATION" : "282",
+      "MUSICBRAINZ_TRACKID" : "9f7a1f60-f7ee-4919-a5ac-53bf1cd10fb8",
       "TITLE" : "So Far Away",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|9",
+      "DURATION" : "171",
+      "MUSICBRAINZ_TRACKID" : "ddd343c5-cba3-4baf-8dab-806884f9320d",
       "TITLE" : "Distant Signal 003",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|10",
+      "DURATION" : "267",
+      "MUSICBRAINZ_TRACKID" : "180e54d0-1fba-4429-8cde-6928db110063",
       "TITLE" : "Beyond the Infinite Void",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|11",
+      "DURATION" : "283",
+      "MUSICBRAINZ_TRACKID" : "6b389277-03c6-4c33-8990-dabcd0ec3d20",
       "TITLE" : "Star Hustler",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:7gT2kKK6QOjrc2dY5V0NzM|12",
+      "DURATION" : "327",
+      "MUSICBRAINZ_TRACKID" : "77bc9c59-5235-4474-923d-c946c814a25d",
       "TITLE" : "Arrival",
       "TRACKNUMBER" : "13"
    }

@@ -3,77 +3,115 @@
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH",
       "ALBUM" : "Skull and Shark",
       "ARTIST" : "Lazerhawk",
-      "DISCNUMBER" : "1",
+      "CATALOGNUMBER" : "RCR016",
+      "DATE" : "2013-10-24",
+      "DURATION" : "290",
+      "LABEL" : "Rosso Corsa Records",
+      "MUSICBRAINZ_ALBUMID" : "db0517fd-f170-4351-9348-174e930486a0",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b9e46d1a-9068-4615-9200-90b3d5eae68b",
+      "MUSICBRAINZ_RELEASEGROUPID" : "ce790a26-24d8-4903-9449-1e925cd3e58a",
+      "MUSICBRAINZ_TRACKID" : "561150a9-b826-4a8f-8798-bd98cdbd37c4",
       "TITLE" : "Skull and Shark",
+      "TOTALTRACKS" : "15",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|1",
+      "DURATION" : "290",
+      "MUSICBRAINZ_TRACKID" : "4c59c07d-9ac0-44d1-bf79-078c7a50f8a1",
       "TITLE" : "Chaos",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|2",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "a4076743-6ed9-45d9-85eb-d5a7186e8f03",
       "TITLE" : "Lawless",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|3",
-      "TITLE" : "King of the Streets",
+      "DURATION" : "297",
+      "MUSICBRAINZ_TRACKID" : "23f81806-32bd-4206-84e1-db14dd9afc4a",
+      "TITLE" : "The King of the Streets",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|4",
+      "DURATION" : "287",
+      "MUSICBRAINZ_TRACKID" : "538df53d-18d6-4506-ae05-f1961ef24903",
       "TITLE" : "Massacre",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|5",
+      "DURATION" : "453",
+      "MUSICBRAINZ_TRACKID" : "38a40a29-f39c-4447-8dd1-719962002f7c",
       "TITLE" : "A Promise",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|6",
+      "DURATION" : "274",
+      "MUSICBRAINZ_TRACKID" : "4bb861a8-65e8-4ef4-a7b2-51aa402f3bcf",
       "TITLE" : "Dangerous After Dark",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|7",
+      "DURATION" : "248",
+      "MUSICBRAINZ_TRACKID" : "775792d2-7992-4220-910e-385da9db0b75",
       "TITLE" : "The Looks That Kill",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|8",
+      "DURATION" : "316",
+      "MUSICBRAINZ_TRACKID" : "7fb57aec-d3e2-44c5-9971-79f033d3f679",
       "TITLE" : "China Town",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|9",
+      "DURATION" : "330",
+      "MUSICBRAINZ_TRACKID" : "cf231dcc-ce8f-4605-9ede-4932b533a1b7",
       "TITLE" : "Built to Kill",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|10",
+      "DURATION" : "320",
+      "MUSICBRAINZ_TRACKID" : "83c32b93-9c23-4231-9b5b-fda0a6d9d538",
       "TITLE" : "Children of the Night",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|11",
+      "DURATION" : "315",
+      "MUSICBRAINZ_TRACKID" : "e297b081-bb9f-4965-a793-6bbf7ba5e840",
       "TITLE" : "These Streets",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|12",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "8df88059-b878-48a2-bb4c-0652c99c9acc",
       "TITLE" : "Fight to the Top",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|13",
+      "DURATION" : "285",
+      "MUSICBRAINZ_TRACKID" : "86daf832-5d98-46de-960e-cd9d2777503c",
       "TITLE" : "Brothers",
       "TRACKNUMBER" : "14"
    },
    {
       "@" : "spotify:album:7H4C6SZtg3ZeAq2UfCptbH|14",
+      "DURATION" : "371",
+      "MUSICBRAINZ_TRACKID" : "1cb1377c-69a7-46b6-9071-8174d7003dd7",
       "TITLE" : "Another Chance",
       "TRACKNUMBER" : "15"
    }

@@ -3,57 +3,87 @@
       "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E",
       "ALBUM" : "Redline",
       "ARTIST" : "Lazerhawk",
-      "DISCNUMBER" : "1",
+      "CATALOGNUMBER" : "RCR001",
+      "DATE" : "2010-01-15",
+      "DURATION" : "244",
+      "LABEL" : "Rosso Corsa Records",
+      "MUSICBRAINZ_ALBUMID" : "72ad964b-bcfe-41f0-bf35-43800106a1f6",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b9e46d1a-9068-4615-9200-90b3d5eae68b",
+      "MUSICBRAINZ_RELEASEGROUPID" : "9f941f8c-7f68-4627-8814-3d9a3a436940",
+      "MUSICBRAINZ_TRACKID" : "b4527472-7286-4603-84ef-ba3fabf33d7c",
       "TITLE" : "Redline",
+      "TOTALTRACKS" : "11",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|1",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "6177b5ae-0ddf-4c58-b7fe-7cd60e560c28",
       "TITLE" : "Overdrive",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|2",
+      "DURATION" : "290",
+      "MUSICBRAINZ_TRACKID" : "a6c156cf-e20e-4094-9d06-abcbba2801ba",
       "TITLE" : "Electric Groove",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|3",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "4fad1be9-b3b8-4078-9764-64de4d76fdc1",
       "TITLE" : "Distress Signal",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|4",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "06486363-3cde-4155-8c61-f4aa9d2ff37f",
       "TITLE" : "Dream Machine",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|5",
+      "DURATION" : "272",
+      "MUSICBRAINZ_TRACKID" : "cb6a0c88-58b3-4883-8d3b-e3c55c0b06e0",
       "TITLE" : "The Fixx",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|6",
-      "TITLE" : "Pedal To The Metal",
+      "DURATION" : "317",
+      "MUSICBRAINZ_TRACKID" : "c07287db-4ae2-4f6e-b61a-417e7d31cd3e",
+      "TITLE" : "Pedal to the Metal",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|7",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "87a1408c-5438-4f1f-b1ff-97aceffc5be7",
       "TITLE" : "Interstellar",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|8",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "828f15de-cca9-43d8-aff8-6070dc5032fa",
       "TITLE" : "So Close",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|9",
+      "DURATION" : "284",
+      "MUSICBRAINZ_TRACKID" : "a8c1078c-d4ca-45a9-95e7-99114ef44313",
       "TITLE" : "Space Trash",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:3kSrTpwccZKsWf2XJl6Y0E|10",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "08ea5bad-b223-4b1b-93d6-1818a80b06ec",
       "TITLE" : "Activation",
       "TRACKNUMBER" : "11"
    }
