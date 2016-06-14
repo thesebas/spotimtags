@@ -2,63 +2,131 @@
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4",
       "ALBUM" : "Desperate Living",
-      "ARTIST" : "Horse The Band",
-      "DISCNUMBER" : "1",
+      "ALBUM ARTIST" : "HORSE the band",
+      "ARTIST" : "HORSE the band",
+      "BARCODE" : "601091054820",
+      "CATALOGNUMBER" : "VR548",
+      "DATE" : "2009-10-06",
+      "DURATION" : "288",
+      "LABEL" : "Vagrant Records",
+      "MUSICBRAINZ_ALBUMARTISTID" : "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+      "MUSICBRAINZ_ALBUMID" : "0356e5b1-e599-32e8-9d08-13fb5c807322",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "4dfeb568-e28e-4880-9ed0-1bbded484e8d",
+      "MUSICBRAINZ_TRACKID" : "45638147-7d6a-453f-b3a7-de447ca482b0",
+      "ORIGINAL RELEASE DATE" : "2009-10-02",
       "TITLE" : "Cloudwalker",
+      "TOTALTRACKS" : "12",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4|1",
-      "TITLE" : "The Failure Of All Things",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "d736d494-9537-4760-af20-3fc9895ff68a",
+      "TITLE" : "Desperate Living",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4|2",
-      "TITLE" : "Horse The Song",
+      "DURATION" : "287",
+      "MUSICBRAINZ_TRACKID" : "390d7849-ff39-4b57-aa12-2143a5452e02",
+      "TITLE" : "The Failure of All Things",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4|3",
-      "TITLE" : "Desperate Living",
+      "ARTIST" : "HORSE the band feat. K‐SLAX",
+      "DURATION" : "260",
+      "MUSICBRAINZ_ARTISTID" : [
+         "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+         "cdc2aa78-2a10-4c1b-ac25-7d4ba2b7f2e9"
+      ],
+      "MUSICBRAINZ_TRACKID" : "67f4fe60-9737-471d-8b7a-4ad641fb731f",
+      "TITLE" : "HORSE the song",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4|4",
+      "ARTIST" : "HORSE the band",
+      "DURATION" : "226",
+      "MUSICBRAINZ_ARTISTID" : "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+      "MUSICBRAINZ_TRACKID" : "e4552722-4bed-4ee4-a363-0605861c516f",
       "TITLE" : "Science Police",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4|5",
+      "ARTIST" : "HORSE the band feat. Jamie Stewart",
+      "DURATION" : "307",
+      "MUSICBRAINZ_ARTISTID" : [
+         "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+         "77d5b063-3b60-4edd-b65a-0a2bba1b3980"
+      ],
+      "MUSICBRAINZ_TRACKID" : "584bac21-ca7b-49ac-a409-0f91846f1854",
       "TITLE" : "Shapeshift",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4|6",
-      "TITLE" : "Between The Trees",
+      "ARTIST" : "HORSE the band",
+      "DURATION" : "231",
+      "MUSICBRAINZ_ARTISTID" : "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+      "MUSICBRAINZ_TRACKID" : "b103cd24-d61f-4e78-a9bd-0f6b253e4a1e",
+      "TITLE" : "Between the Trees",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4|7",
+      "DURATION" : "282",
+      "MUSICBRAINZ_TRACKID" : "4d65d304-9303-472b-827c-c1ec15e975bf",
       "TITLE" : "Golden Mummy Golden Bird",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4|8",
-      "TITLE" : "Lord Gold Wand Of Unyielding",
+      "ARTIST" : "HORSE the band feat. Lord Gold and His Purple Majesty",
+      "DURATION" : "148",
+      "MUSICBRAINZ_ARTISTID" : [
+         "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+         "45d6fa2f-ecb0-47a1-9420-ae2c348f3709",
+         "f5363cc6-6233-4bdb-942d-7ad6f57507a6"
+      ],
+      "MUSICBRAINZ_TRACKID" : "4b6e5202-6867-4420-9656-b41d4db4f363",
+      "TITLE" : "Lord Gold Wand of Unyielding",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4|9",
+      "ARTIST" : "HORSE the band feat. Ed Edge",
+      "DURATION" : "292",
+      "MUSICBRAINZ_ARTISTID" : [
+         "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+         "7fd57f3c-e7d6-42e9-8c80-efcac7ba7ed0"
+      ],
+      "MUSICBRAINZ_TRACKID" : "233a0f5c-932f-433c-9523-11b8cc1eedcb",
       "TITLE" : "Big Business",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4|10",
+      "ARTIST" : "HORSE the band feat. Valentina Lisitsa",
+      "DURATION" : "428",
+      "MUSICBRAINZ_ARTISTID" : [
+         "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+         "81c9ae67-9eaf-4e47-836a-62b7bbc91664"
+      ],
+      "MUSICBRAINZ_TRACKID" : "2a2add6a-9021-4078-a632-9151f22b6272",
       "TITLE" : "Rape Escape",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:5GYmoT9Ge8TONfs6IiwEM4|11",
+      "ARTIST" : "HORSE the band",
+      "DURATION" : "250",
+      "MUSICBRAINZ_ARTISTID" : "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+      "MUSICBRAINZ_TRACKID" : "a983537c-7470-4270-8e63-c464006676ed",
       "TITLE" : "Arrive",
       "TRACKNUMBER" : "12"
    }

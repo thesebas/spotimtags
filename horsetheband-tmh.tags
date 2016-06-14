@@ -2,68 +2,106 @@
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP",
       "ALBUM" : "The Mechanical Hand",
-      "ARTIST" : "Horse The Band",
-      "DISCNUMBER" : "1",
+      "ARTIST" : "HORSE the band",
+      "BARCODE" : "099923994329",
+      "CATALOGNUMBER" : "KOC-CD-9943",
+      "DATE" : "2005-09-20",
+      "DURATION" : "202",
+      "LABEL" : [
+         "Koch Records",
+         "Combat Records"
+      ],
+      "MUSICBRAINZ_ALBUMID" : "d9c2c83b-95e7-4889-82d7-65ff6bf7353c",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "8acad8ec-a8b1-39c2-8bbc-bb5a82df831e",
+      "MUSICBRAINZ_TRACKID" : "9bf08df8-91ff-4a93-8e7d-c3916fbafe1b",
       "TITLE" : "Birdo",
+      "TOTALTRACKS" : "13",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|1",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "a5e494b9-e86d-4d4b-97a8-9fd264af1bd2",
       "TITLE" : "A Million Exploding Suns",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|2",
+      "DURATION" : "307",
+      "MUSICBRAINZ_TRACKID" : "8f78c3c5-3586-4098-bd70-85f15f79f174",
       "TITLE" : "Manateen",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|3",
-      "TITLE" : "The House Of Boo",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "746e4c44-2195-46e7-adb2-9b7bbba07877",
+      "TITLE" : "The House of Boo",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|4",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "925315e6-6d25-4e80-a949-70184d4cbd82",
       "TITLE" : "Heroes Die",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|5",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "2dba16e6-2a8c-4860-ac68-954dac4454ea",
       "TITLE" : "Softer Sounds",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|6",
-      "TITLE" : "Octopus On Fire",
+      "DURATION" : "266",
+      "MUSICBRAINZ_TRACKID" : "eac7fe4a-4139-45c2-9415-bf4bbef56537",
+      "TITLE" : "Octopus on Fire",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|7",
+      "DURATION" : "66",
+      "MUSICBRAINZ_TRACKID" : "33c74edf-4e0d-4c06-9426-031222ee12ed",
       "TITLE" : "Soaring Quails",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|8",
-      "TITLE" : "Taken By Vultures",
+      "DURATION" : "92",
+      "MUSICBRAINZ_TRACKID" : "204d08ba-11bd-4d42-9f1e-e27af8e5130f",
+      "TITLE" : "Taken by Vultures",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|9",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "3512ab5c-cfcd-40a3-a1a8-a076ffd6b362",
       "TITLE" : "A Rusty Glove",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|10",
+      "DURATION" : "262",
+      "MUSICBRAINZ_TRACKID" : "3fbd2d1a-421f-4961-9e61-26de884d637a",
       "TITLE" : "Sand",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|11",
+      "DURATION" : "309",
+      "MUSICBRAINZ_TRACKID" : "c023a849-55ff-4089-b8bb-3ea093c10e76",
       "TITLE" : "Lord Gold Throneroom",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:0nGauiKLkUNorNEJyJldlP|12",
+      "DURATION" : "333",
+      "MUSICBRAINZ_TRACKID" : "4b5b29e6-e2f4-4ec0-8f64-ffb99a145549",
       "TITLE" : "The Black Hole",
       "TRACKNUMBER" : "13"
    }

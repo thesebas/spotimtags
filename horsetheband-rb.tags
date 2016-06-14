@@ -2,63 +2,97 @@
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ",
       "ALBUM" : "R. Borlax",
-      "ARTIST" : "Horse The Band",
-      "DISCNUMBER" : "1",
+      "ARTIST" : "HORSE the band",
+      "BARCODE" : "658445003720",
+      "CATALOGNUMBER" : "PLU037",
+      "DATE" : "2007-08-21",
+      "DURATION" : "190",
+      "LABEL" : "Pluto Records",
+      "MUSICBRAINZ_ALBUMID" : "9423fbcf-c2ac-49ee-a967-76f2ca97d6f3",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "612d4679-b989-349f-88b1-ee253c8e1e59",
+      "MUSICBRAINZ_TRACKID" : "34e43199-ce23-4562-b34e-278b71655678",
+      "ORIGINAL RELEASE DATE" : "2003-09-23",
       "TITLE" : "Seven Tentacles and Eight Flames",
+      "TOTALTRACKS" : "12",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ|1",
+      "DURATION" : "231",
+      "MUSICBRAINZ_TRACKID" : "01b4cae9-3f34-470c-84f3-97897a0e5e87",
       "TITLE" : "Cutsman",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ|2",
+      "DURATION" : "257",
+      "MUSICBRAINZ_TRACKID" : "d385ca90-84bd-45fe-9adf-091752c2a4ba",
       "TITLE" : "In the Wake of the Bunt",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ|3",
-      "TITLE" : "Stabbers of the Knife, By Kenny Pelts",
+      "DURATION" : "182",
+      "MUSICBRAINZ_TRACKID" : "a7370dc5-ea86-46de-9a33-c9f5fbc587ef",
+      "TITLE" : "Stabbers of the Knife, by Kenny Pelts",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ|4",
+      "DURATION" : "213",
+      "MUSICBRAINZ_TRACKID" : "cea789ef-d7ba-4189-b9bd-21c5870910e0",
       "TITLE" : "Bunnies",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ|5",
+      "DURATION" : "288",
+      "MUSICBRAINZ_TRACKID" : "766c156c-abc5-4808-b8c3-5dbb5d01eafe",
       "TITLE" : "Purple",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ|6",
+      "DURATION" : "203",
+      "MUSICBRAINZ_TRACKID" : "4900ed84-5aaa-4b13-bbba-c0c76f00147f",
       "TITLE" : "Handsome Shoved His Gloves",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ|7",
+      "DURATION" : "83",
+      "MUSICBRAINZ_TRACKID" : "2e706d41-f2b4-48b7-a91a-649645fa8028",
       "TITLE" : "The Immense Defecation of the Buntaluffigus",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ|8",
-      "TITLE" : "Pol's Voice",
+      "DURATION" : "240",
+      "MUSICBRAINZ_TRACKID" : "79ede8b1-25fe-4241-af7d-99bc7d593466",
+      "TITLE" : "Pol’s Voice",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ|9",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "ad99954c-5a74-46af-a65a-afb38fb7c973",
       "TITLE" : "Big Blue Violence",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ|10",
+      "DURATION" : "279",
+      "MUSICBRAINZ_TRACKID" : "6d4a353e-6035-41ce-a399-64375ba9b8fe",
       "TITLE" : "The Legend of the Flower of Woe",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:2kDvb3GkyNk1JJxHwuWfGJ|11",
+      "DURATION" : "133",
+      "MUSICBRAINZ_TRACKID" : "f7cdf1fc-6e1e-4fce-bcc8-f0229db94117",
       "TITLE" : "Kangarooster 4057",
       "TRACKNUMBER" : "12"
    }

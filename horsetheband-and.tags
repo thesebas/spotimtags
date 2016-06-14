@@ -2,83 +2,125 @@
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc",
       "ALBUM" : "A Natural Death",
-      "ARTIST" : "Horse The Band",
-      "DISCNUMBER" : "1",
+      "ARTIST" : "HORSE the band",
+      "BARCODE" : "828136010225",
+      "CATALOGNUMBER" : "FER102CD",
+      "DATE" : "2008-05-05",
+      "DURATION" : "165",
+      "LABEL" : "Ferret Music",
+      "MUSICBRAINZ_ALBUMID" : "768c913d-70e5-4460-838f-1eac46b4fbed",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "783bec6a-886a-36e6-b934-ad5800f562dc",
+      "MUSICBRAINZ_TRACKID" : "da481149-271b-4949-851f-a09e9a6a2332",
+      "ORIGINAL RELEASE DATE" : "2007-08-28",
       "TITLE" : "Hyperborea",
+      "TOTALTRACKS" : "16",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|1",
+      "DURATION" : "254",
+      "MUSICBRAINZ_TRACKID" : "797ca917-32b4-491f-bfc1-cac025a7484e",
       "TITLE" : "Murder",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|2",
-      "TITLE" : "The Startling Secret Of Super Sapphire",
+      "DURATION" : "198",
+      "MUSICBRAINZ_TRACKID" : "f0bf1fc2-8b54-4fd9-97ff-8723757a3f4a",
+      "TITLE" : "The Startling Secret of Super Sapphire",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|3",
+      "DURATION" : "67",
+      "MUSICBRAINZ_TRACKID" : "bc0ad0ba-1ee8-4ad4-916b-cd1eba3ca12d",
       "TITLE" : "The Beach",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|4",
-      "TITLE" : "Face Of Bear",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "b0cd3444-a83e-4e01-9706-21247094342b",
+      "TITLE" : "Face of Bear",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|5",
+      "DURATION" : "66",
+      "MUSICBRAINZ_TRACKID" : "25a6bb55-768e-4c7d-a19a-f1953108a2d9",
       "TITLE" : "Crickets",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|6",
+      "DURATION" : "287",
+      "MUSICBRAINZ_TRACKID" : "16a88369-6bfb-4199-8521-0f184ce31256",
       "TITLE" : "New York City",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|7",
+      "DURATION" : "198",
+      "MUSICBRAINZ_TRACKID" : "bd0182c7-1202-4684-94f1-ec3a52cfc0dd",
       "TITLE" : "Sex Raptor",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|8",
+      "DURATION" : "196",
+      "MUSICBRAINZ_TRACKID" : "a2178485-0868-46b7-a190-db7236fbeb51",
       "TITLE" : "Broken Trail",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|9",
+      "DURATION" : "222",
+      "MUSICBRAINZ_TRACKID" : "2075ca28-0a23-40c1-a70d-5c5cb0671f9f",
       "TITLE" : "The Red Tornado",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|10",
+      "DURATION" : "177",
+      "MUSICBRAINZ_TRACKID" : "a739d8fd-c0dd-4de3-aadd-8cdcc520c7e5",
       "TITLE" : "Treasure Train",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|11",
+      "DURATION" : "184",
+      "MUSICBRAINZ_TRACKID" : "be487f89-831f-4949-9c78-80281588b17a",
       "TITLE" : "His Purple Majesty",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|12",
+      "DURATION" : "83",
+      "MUSICBRAINZ_TRACKID" : "8ad70ca5-2443-4c45-a060-35cb3c804449",
       "TITLE" : "Kangarooster Meadows",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|13",
+      "DURATION" : "268",
+      "MUSICBRAINZ_TRACKID" : "7ed7682b-e37d-4fdf-a7cb-68bac6f245f5",
       "TITLE" : "Rotting Horse",
       "TRACKNUMBER" : "14"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|14",
-      "TITLE" : "I Think We Are Both Suffering From The Same Crushing Metaphysical Crisis",
+      "DURATION" : "444",
+      "MUSICBRAINZ_TRACKID" : "26f1783c-df9f-49fa-ad2f-ce2c853ef0f2",
+      "TITLE" : "I Think We Are Both Suffering From the Same Crushing Metaphysical Crisis",
       "TRACKNUMBER" : "15"
    },
    {
       "@" : "spotify:album:3v3Ul3lnBD7CHb1QJB4ucc|15",
+      "DURATION" : "285",
+      "MUSICBRAINZ_TRACKID" : "9d9c852e-16fe-43e2-a457-e43f4c5edd02",
       "TITLE" : "Lif",
       "TRACKNUMBER" : "16"
    }

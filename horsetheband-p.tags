@@ -2,29 +2,48 @@
    {
       "@" : "spotify:album:49MjUwDRu1sQynPmuvlXGy",
       "ALBUM" : "Pizza",
-      "ARTIST" : "Horse The Band",
-      "DISCNUMBER" : "1",
-      "TITLE" : "Anti Pizza",
+      "ARTIST" : "HORSE the band",
+      "BARCODE" : "099923415824",
+      "CATALOGNUMBER" : "KOC-D5-4158",
+      "DATE" : "2006-09-05",
+      "DURATION" : "274",
+      "LABEL" : "Koch Records",
+      "MUSICBRAINZ_ALBUMID" : "0f015f88-66a6-4f70-92da-850610c1e80a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "EP",
+      "MUSICBRAINZ_ARTISTID" : "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "c27105d9-6135-376b-8005-9efdf2897729",
+      "MUSICBRAINZ_TRACKID" : "7a6959e3-0755-4804-b5fd-16b03b4f039e",
+      "TITLE" : "Anti‐Pizza",
+      "TOTALTRACKS" : "5",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:49MjUwDRu1sQynPmuvlXGy|1",
-      "TITLE" : "Crippled By Pizza",
+      "DURATION" : "189",
+      "MUSICBRAINZ_TRACKID" : "7a2bf62f-5ec5-421a-8f20-dd86a4cd851e",
+      "TITLE" : "Crippled by Pizza (Pizzarrhea in the Pizzeria)",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:49MjUwDRu1sQynPmuvlXGy|2",
-      "TITLE" : "We're Pizza",
+      "DURATION" : "393",
+      "MUSICBRAINZ_TRACKID" : "4a453d1d-ce04-4f58-8475-5ea29ffe4ed7",
+      "TITLE" : "Werepizza",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:49MjUwDRu1sQynPmuvlXGy|3",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "fb140420-d6a8-4925-9e1c-bc63c8f609d0",
       "TITLE" : "Pizza Nif",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:49MjUwDRu1sQynPmuvlXGy|4",
-      "TITLE" : "Teenage Mutant Ninja Turtles",
+      "DURATION" : "148",
+      "MUSICBRAINZ_TRACKID" : "15415b57-73e0-48dc-a610-478ae16818ed",
+      "TITLE" : "T.M.N.T.",
       "TRACKNUMBER" : "5"
    }
 ]
