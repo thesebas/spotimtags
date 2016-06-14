@@ -1,0 +1,95 @@
+﻿[
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD",
+      "ALBUM" : "Black Feather Wings",
+      "ARTIST" : "Bourbon Princess",
+      "DATE" : "2003",
+      "DURATION" : "290",
+      "MUSICBRAINZ_ALBUMID" : "cca320ca-91ce-4610-94e8-2515b0dabbf2",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "5abc6363-70a4-40f9-b0d1-4880c2ea10a5",
+      "MUSICBRAINZ_RELEASEGROUPID" : "5d3cd759-0af2-33d1-8754-c282d7c911fa",
+      "MUSICBRAINZ_TRACKID" : "fe713512-c059-4e4e-b0dd-ed11bfe761b7",
+      "TITLE" : "Stretcher",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD|1",
+      "DURATION" : "311",
+      "MUSICBRAINZ_TRACKID" : "fea9cca9-c124-464d-977c-b943ff583ebb",
+      "TITLE" : "Another Day",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD|2",
+      "DURATION" : "205",
+      "MUSICBRAINZ_TRACKID" : "14fe12a0-05b9-4815-897f-a896fae01d42",
+      "TITLE" : "I'll Take a Cab",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD|3",
+      "DURATION" : "189",
+      "MUSICBRAINZ_TRACKID" : "4f166378-3233-4317-84b5-9abcc2cc4970",
+      "TITLE" : "The Spider Sings",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD|4",
+      "DURATION" : "182",
+      "MUSICBRAINZ_TRACKID" : "05913078-0f3e-4725-b2e6-42085d12e932",
+      "TITLE" : "Early Train",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD|5",
+      "DURATION" : "195",
+      "MUSICBRAINZ_TRACKID" : "9a975442-0ef7-4b2a-b4e7-9f67ff1c2718",
+      "TITLE" : "Sunset",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD|6",
+      "DURATION" : "369",
+      "MUSICBRAINZ_TRACKID" : "8f806010-b5e2-45ec-a537-f668d0386244",
+      "TITLE" : "The Dream",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD|7",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "e4c8d3fe-3db0-4864-bfa4-40a69effa0f9",
+      "TITLE" : "Black Feather Wings",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD|8",
+      "DURATION" : "159",
+      "MUSICBRAINZ_TRACKID" : "df38596a-c00f-4bd7-938a-346c39688602",
+      "TITLE" : "Jerkoff",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD|9",
+      "DURATION" : "186",
+      "MUSICBRAINZ_TRACKID" : "30438a4a-d94d-4b1d-aec1-6e54d2b51342",
+      "TITLE" : "Sleep Deep",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD|10",
+      "DURATION" : "302",
+      "MUSICBRAINZ_TRACKID" : "c123b6be-c2d6-4ccc-b9c6-bb33c0e98b49",
+      "TITLE" : "One of These Days",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:6CtxfPbGGnstYCWCiLHqkD|11",
+      "DURATION" : "91",
+      "MUSICBRAINZ_TRACKID" : "27f6d793-ec16-42df-ba1b-682950ad537e",
+      "TITLE" : "Late Train",
+      "TRACKNUMBER" : "12"
+   }
+]
