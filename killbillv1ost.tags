@@ -1,133 +1,209 @@
 ﻿[
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ",
-      "ALBUM" : "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
+      "ALBUM" : "Kill Bill: Vol. 1",
       "ALBUM ARTIST" : "Various Artists",
       "ARTIST" : "Nancy Sinatra",
-      "DISCNUMBER" : "1",
-      "TITLE" : "Bang Bang - My Baby Shot Me Down",
+      "BARCODE" : "093624857020",
+      "CATALOGNUMBER" : "9362-48570-2",
+      "DATE" : "2003",
+      "DURATION" : "160",
+      "LABEL" : "Maverick",
+      "MUSICBRAINZ_ALBUMARTISTID" : "89ad4ac3-39f7-470e-963a-56509c546377",
+      "MUSICBRAINZ_ALBUMID" : "30863582-a315-4b0e-acea-bd95f451276d",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Soundtrack",
+      "MUSICBRAINZ_ARTISTID" : "c2e36518-9c3b-4dcb-82ad-a3fc7fe99c67",
+      "MUSICBRAINZ_RELEASEGROUPID" : "9a0145c1-0b30-3a5f-8752-314914b7f22f",
+      "MUSICBRAINZ_TRACKID" : "ec73978f-5f34-4bce-87f8-c1f6438d7ee7",
+      "ORIGINAL RELEASE DATE" : "2003-09-23",
+      "TITLE" : "Bang Bang (My Baby Shot Me Down)",
+      "TOTALTRACKS" : "22",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|1",
       "ARTIST" : "Charlie Feathers",
+      "DURATION" : "182",
+      "MUSICBRAINZ_ARTISTID" : "2189f0ca-a063-4c33-8f48-1dd12c6ef6b6",
+      "MUSICBRAINZ_TRACKID" : "e06e7afe-1273-4193-85dc-1c056163cc87",
       "TITLE" : "That Certain Female",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|2",
       "ARTIST" : "Luis Bacalov",
-      "TITLE" : "The Grand Duel - Parte Prima",
+      "DURATION" : "205",
+      "MUSICBRAINZ_ARTISTID" : "500053c3-d673-4768-94d0-9e02aea5d0bf",
+      "MUSICBRAINZ_TRACKID" : "7a119375-a05d-4492-9296-452ee5dc3ca1",
+      "TITLE" : "The Grand Duel (Parte Prima)",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|3",
       "ARTIST" : "Bernard Herrmann",
+      "DURATION" : "87",
+      "MUSICBRAINZ_ARTISTID" : "74cad662-0eb6-4044-908e-04680457957a",
+      "MUSICBRAINZ_TRACKID" : "27475ab8-3e53-4afd-b788-bfa4e599c4d2",
       "TITLE" : "Twisted Nerve",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|4",
-      "ARTIST" : "Kill Bill Soundtrack",
-      "TITLE" : "Queen Of The Crime Council",
+      "ARTIST" : "[dialogue]",
+      "DURATION" : "57",
+      "MUSICBRAINZ_ARTISTID" : "314e1c25-dde7-4e4d-b2f4-0a7b9f7c56dc",
+      "MUSICBRAINZ_TRACKID" : "6243e088-4002-46f6-8cc2-ac23942e01b6",
+      "TITLE" : "Queen of the Crime Council",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|5",
-      "ARTIST" : "Vincent Tempera & Orchestra",
-      "TITLE" : "Ode To Oren Ishii (feat. The RZA)",
+      "ARTIST" : "RZA",
+      "DURATION" : "125",
+      "MUSICBRAINZ_ARTISTID" : "29c28ac3-27c5-4822-8eb6-0af89a3a7240",
+      "MUSICBRAINZ_TRACKID" : "6b3c2e0b-da82-4e69-8caf-dc588cdf79dd",
+      "TITLE" : "Ode to Oren Ishii",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|6",
       "ARTIST" : "Isaac Hayes",
+      "DURATION" : "166",
+      "MUSICBRAINZ_ARTISTID" : "a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21",
+      "MUSICBRAINZ_TRACKID" : "49189f6f-b52a-4ec8-8429-f1a669f7d6ae",
       "TITLE" : "Run Fay Run",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|7",
       "ARTIST" : "Al Hirt",
+      "DURATION" : "138",
+      "MUSICBRAINZ_ARTISTID" : "d14ab1ae-0400-4345-9f5b-6083110a5c7a",
+      "MUSICBRAINZ_TRACKID" : "84ae0208-e39f-4f32-b117-2586422f85b5",
       "TITLE" : "Green Hornet",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|8",
-      "ARTIST" : "Tomoyasu Hotei",
-      "TITLE" : "Battle Without Honor Or Humanity",
+      "ARTIST" : "布袋寅泰",
+      "DURATION" : "149",
+      "MUSICBRAINZ_ARTISTID" : "5565ae4b-bb20-48a4-a8b0-dfdeb53b555a",
+      "MUSICBRAINZ_TRACKID" : "14705abb-92f4-4889-bed8-6b6eb55b75b4",
+      "TITLE" : "Battle Without Honor or Humanity",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|9",
       "ARTIST" : "Santa Esmeralda",
-      "TITLE" : "Don't Let Me Be Misunderstood",
+      "DURATION" : "630",
+      "MUSICBRAINZ_ARTISTID" : "b233a9a9-2538-4c5b-986a-5843650e2611",
+      "MUSICBRAINZ_TRACKID" : "1b938313-f881-4ea0-b170-787181a01be0",
+      "TITLE" : "Don’t Let Me Be Misunderstood / Esmeralda Suite",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|10",
-      "ARTIST" : "The 5.6.7.8's",
+      "ARTIST" : "The 5.6.7.8’s",
+      "DURATION" : "119",
+      "MUSICBRAINZ_ARTISTID" : "c7caf86a-cf4d-41d3-b68a-eaeab80da4b8",
+      "MUSICBRAINZ_TRACKID" : "6d12b53e-b665-43cb-81dc-7880bedd694d",
       "TITLE" : "Woo Hoo",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|11",
-      "ARTIST" : "The RZA/Charles Bernstein",
-      "TITLE" : "Crane/White Lightning",
+      "ARTIST" : "RZA / Charles Bernstein",
+      "DURATION" : "97",
+      "MUSICBRAINZ_ARTISTID" : [
+         "29c28ac3-27c5-4822-8eb6-0af89a3a7240",
+         "d4f228c9-f845-4ee7-9550-48fcaa76b223"
+      ],
+      "MUSICBRAINZ_TRACKID" : "6ad65805-4a75-4ee3-8827-ab2b261a4fd0",
+      "TITLE" : "Crane / White Lightning",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|12",
-      "ARTIST" : "Meiko Kaji",
-      "TITLE" : "The Flower Of Carnage",
+      "ARTIST" : "梶芽衣子",
+      "DURATION" : "232",
+      "MUSICBRAINZ_ARTISTID" : "fb5280b5-9e0c-439d-b275-2d8b5bffc19a",
+      "MUSICBRAINZ_TRACKID" : "876d75ae-ef4a-4518-8b05-7f8875e64d50",
+      "TITLE" : "修羅の花",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|13",
-      "ARTIST" : "Zamfir",
+      "ARTIST" : "Gheorghe Zamfir",
+      "DURATION" : "261",
+      "MUSICBRAINZ_ARTISTID" : "4024e553-6dd7-426c-9ff4-323b17a01063",
+      "MUSICBRAINZ_TRACKID" : "188b25d3-b7a9-4f18-ad41-914c1e43bca7",
       "TITLE" : "The Lonely Shepherd",
       "TRACKNUMBER" : "14"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|14",
-      "ARTIST" : "Kill Bill Soundtrack",
-      "TITLE" : "You're My Wicked Life",
+      "ARTIST" : "[dialogue]",
+      "DURATION" : "74",
+      "MUSICBRAINZ_ARTISTID" : "314e1c25-dde7-4e4d-b2f4-0a7b9f7c56dc",
+      "MUSICBRAINZ_TRACKID" : "6d8a1afb-f49c-4a4c-9e82-35c82947f8df",
+      "TITLE" : "You’re My Wicked Life",
       "TRACKNUMBER" : "15"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|15",
       "ARTIST" : "Quincy Jones",
-      "TITLE" : "Ironside - Excerpt",
+      "DURATION" : "16",
+      "MUSICBRAINZ_ARTISTID" : "5803c81e-739a-4057-9a5c-cf84e55db630",
+      "MUSICBRAINZ_TRACKID" : "9caf526e-67ad-4cb7-aba6-2e3a19662e0b",
+      "TITLE" : "Ironside (excerpt)",
       "TRACKNUMBER" : "16"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|16",
-      "ARTIST" : "NEU!",
-      "TITLE" : "Super 16 - Excerpt",
+      "ARTIST" : "Neu!",
+      "DURATION" : "66",
+      "MUSICBRAINZ_ARTISTID" : "adec1fc3-83c1-48f7-9e49-8347ac6d40b0",
+      "MUSICBRAINZ_TRACKID" : "b3648d0b-2f41-4624-b42c-bbe752f61a8a",
+      "TITLE" : "Super 16 (excerpt)",
       "TRACKNUMBER" : "17"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|17",
       "ARTIST" : "RZA",
+      "DURATION" : "23",
+      "MUSICBRAINZ_ARTISTID" : "29c28ac3-27c5-4822-8eb6-0af89a3a7240",
+      "MUSICBRAINZ_TRACKID" : "b6cb949e-8fe1-4a9b-b44a-e2e793686a85",
       "TITLE" : "Yakuza Oren 1",
       "TRACKNUMBER" : "18"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|18",
+      "DURATION" : "21",
+      "MUSICBRAINZ_TRACKID" : "157b2940-3791-41b8-8f10-7c50bc5fe9c6",
       "TITLE" : "Banister Fight",
       "TRACKNUMBER" : "19"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|19",
-      "ARTIST" : "Kill Bill Soundtrack",
+      "ARTIST" : "[no artist]",
+      "DURATION" : "4",
+      "MUSICBRAINZ_ARTISTID" : "eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61",
+      "MUSICBRAINZ_TRACKID" : "2b09cf17-36ac-403c-917e-b894da07ba5e",
       "TITLE" : "Flip Sting",
       "TRACKNUMBER" : "20"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|20",
+      "DURATION" : "5",
+      "MUSICBRAINZ_TRACKID" : "e26fc9ef-eacd-4687-abe4-8ecea4ec5e16",
       "TITLE" : "Sword Swings",
       "TRACKNUMBER" : "21"
    },
    {
       "@" : "spotify:album:1FpzNqDbugk77xUj0qOrtQ|21",
+      "DURATION" : "11",
+      "MUSICBRAINZ_TRACKID" : "cba34575-e679-4948-925b-433f8635d1c1",
       "TITLE" : "Axe Throws",
       "TRACKNUMBER" : "22"
    }
