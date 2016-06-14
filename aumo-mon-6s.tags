@@ -1,0 +1,111 @@
+﻿[
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|6",
+      "ALBUM" : "Montuenga + 6 songs",
+      "ARTIST" : "Aussitôt Mort",
+      "CATALOGNUMBER" : "MUF018",
+      "DATE" : "2012",
+      "DURATION" : "386",
+      "LABEL" : "Music Fear Satan",
+      "MUSICBRAINZ_ALBUMID" : "068046db-f0c8-415c-8c0d-50cd5d752f8f",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Compilation",
+      "MUSICBRAINZ_ARTISTID" : "7ca295b6-b20d-4644-8870-f92522c26b0e",
+      "MUSICBRAINZ_RELEASEGROUPID" : "3754f5f7-69bd-46a8-adbb-01fac15e6fe2",
+      "MUSICBRAINZ_TRACKID" : "710fe636-0c34-468f-adf6-e547a2a5faf2",
+      "TITLE" : "Mort ! Mort ! Mort !",
+      "TOTALTRACKS" : "14",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|7",
+      "DURATION" : "314",
+      "MUSICBRAINZ_TRACKID" : "13890f17-4bf7-4fd0-a0e7-6143b55ff7a2",
+      "TITLE" : "Une heure plus tard",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|8",
+      "DURATION" : "153",
+      "MUSICBRAINZ_TRACKID" : "b45dc7ca-0f07-4f75-909c-e95c8d1fad01",
+      "TITLE" : "Le veilleur du grand marché",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|9",
+      "DURATION" : "109",
+      "MUSICBRAINZ_TRACKID" : "b4f2aefa-8fd6-4d9a-ae98-bda7d07729e7",
+      "TITLE" : "Huit, Part 1",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|10",
+      "DURATION" : "191",
+      "MUSICBRAINZ_TRACKID" : "48da6c72-90ef-44e3-abe2-c8410e466394",
+      "TITLE" : "Huit, Part 2",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|11",
+      "DURATION" : "358",
+      "MUSICBRAINZ_TRACKID" : "ac80b241-a77d-42ca-932d-4a028523bfdc",
+      "TITLE" : "Le Kid de la plage",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|12",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "06191aa9-de75-4b23-9d23-e1663e3bdc56",
+      "TITLE" : "On a qu'a se dire qu'on s'en fout",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|13",
+      "DURATION" : "393",
+      "MUSICBRAINZ_TRACKID" : "adaeb31e-d23c-4839-b8cd-394576e88b6d",
+      "TITLE" : "Prophète de malheur",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "dee67bad-3ab8-424c-bedf-1b86a7487b09",
+      "TITLE" : "Memoria Grigia",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|1",
+      "DURATION" : "203",
+      "MUSICBRAINZ_TRACKID" : "6983b24d-79f5-4425-8cf2-64ad544bffb6",
+      "TITLE" : "Aussitôt dort, aussitôt mort",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|2",
+      "DURATION" : "296",
+      "MUSICBRAINZ_TRACKID" : "196cda0d-d50f-45a6-878b-5f8dcf93318e",
+      "TITLE" : "Une once de courage",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|3",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "19209ac3-0001-4121-ab71-daf7106e8d9a",
+      "TITLE" : "Le désespoir des singes",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|4",
+      "DURATION" : "231",
+      "MUSICBRAINZ_TRACKID" : "93727124-bbec-4baa-b824-a9b5bef34e0a",
+      "TITLE" : "Dur comme la banalité",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:7dVYhaLYjulHNW0vMLnnEO|5",
+      "DURATION" : "386",
+      "MUSICBRAINZ_TRACKID" : "8d22602f-2000-427d-87a3-8ff0d65b4da4",
+      "TITLE" : "Percuté",
+      "TRACKNUMBER" : "14"
+   }
+]

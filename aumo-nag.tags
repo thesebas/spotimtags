@@ -1,0 +1,48 @@
+﻿[
+   {
+      "@" : "spotify:album:1A1ay8JXy8ZrSgZQF4ujF6",
+      "ALBUM" : "Nagykanizsa",
+      "ARTIST" : "Aussitôt Mort",
+      "CATALOGNUMBER" : "D29",
+      "DATE" : "2012-02-10",
+      "DURATION" : "501",
+      "LABEL" : "Destructure Records",
+      "MUSICBRAINZ_ALBUMID" : "7a0aad75-f36e-4530-aabd-b5040b05cd78",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "EP",
+      "MUSICBRAINZ_ARTISTID" : "7ca295b6-b20d-4644-8870-f92522c26b0e",
+      "MUSICBRAINZ_RELEASEGROUPID" : "4a3dcf3f-aa05-47d8-ba5f-58092e1176e6",
+      "MUSICBRAINZ_TRACKID" : "cef74151-2c80-46a8-a317-457b15a24c01",
+      "TITLE" : "La ride du lion",
+      "TOTALTRACKS" : "5",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:1A1ay8JXy8ZrSgZQF4ujF6|1",
+      "DURATION" : "501",
+      "MUSICBRAINZ_TRACKID" : "11887c95-d1a2-4cf3-8082-b65b8e7ac2b1",
+      "TITLE" : "Sur un radeau, des cannibales...",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:1A1ay8JXy8ZrSgZQF4ujF6|2",
+      "DURATION" : "380",
+      "MUSICBRAINZ_TRACKID" : "61688377-01ef-4c44-9acd-d9c15e039480",
+      "TITLE" : "Une défaite à la piaule",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:1A1ay8JXy8ZrSgZQF4ujF6|3",
+      "DURATION" : "362",
+      "MUSICBRAINZ_TRACKID" : "45b28523-fd2e-4ce3-8653-fb571bf59f26",
+      "TITLE" : "Supraliminaire",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:1A1ay8JXy8ZrSgZQF4ujF6|4",
+      "DURATION" : "365",
+      "MUSICBRAINZ_TRACKID" : "39903ca1-fec5-41f8-98db-63a84b3e7a76",
+      "TITLE" : "La bourse ou la vie",
+      "TRACKNUMBER" : "5"
+   }
+]
