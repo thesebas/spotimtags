@@ -1,0 +1,75 @@
+﻿[
+   {
+      "@" : "spotify:album:7jaarY0CjGKOqSvCgeYvak",
+      "ALBUM" : "Open the Mind to Discomfort",
+      "ARTIST" : "Will Haven",
+      "DATE" : "2015-05-18",
+      "DURATION" : "22",
+      "LABEL" : "Artery Recordings",
+      "MUSICBRAINZ_ALBUMID" : "5229d38f-f9b9-4fc2-8f9e-c0e6828d0f99",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "EP",
+      "MUSICBRAINZ_ARTISTID" : "915d3d51-8a51-4864-a1f4-016bae819c7f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "52884280-00d6-443f-8a37-1a44e7ea4d7f",
+      "MUSICBRAINZ_TRACKID" : "d3fa4910-09f8-4eff-8a49-ccfe277862ef",
+      "TITLE" : "A",
+      "TOTALTRACKS" : "9",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7jaarY0CjGKOqSvCgeYvak|1",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "a1c8e9ee-c469-441c-bd56-0e34628838ac",
+      "TITLE" : "Soul Leach",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7jaarY0CjGKOqSvCgeYvak|2",
+      "DURATION" : "196",
+      "MUSICBRAINZ_TRACKID" : "8938a945-40b9-47e9-aa79-b169b37e59e7",
+      "TITLE" : "Do You Have a Light",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7jaarY0CjGKOqSvCgeYvak|3",
+      "DURATION" : "75",
+      "MUSICBRAINZ_TRACKID" : "2fe0478f-435c-4f66-ab63-35a624c62854",
+      "TITLE" : "B",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7jaarY0CjGKOqSvCgeYvak|4",
+      "DURATION" : "215",
+      "MUSICBRAINZ_TRACKID" : "0f227844-369d-4e82-8528-dc591cae4ab2",
+      "TITLE" : "Hermit",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7jaarY0CjGKOqSvCgeYvak|5",
+      "DURATION" : "84",
+      "MUSICBRAINZ_TRACKID" : "2e8b45ea-3f6c-4dc6-ba6d-c62f77d60329",
+      "TITLE" : "C",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:7jaarY0CjGKOqSvCgeYvak|6",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "631618d6-3f06-4cf7-ba38-b6f1d0bfb902",
+      "TITLE" : "The Comet",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:7jaarY0CjGKOqSvCgeYvak|7",
+      "DURATION" : "60",
+      "MUSICBRAINZ_TRACKID" : "b16ad8da-8145-4565-a117-d6f38693a6b0",
+      "TITLE" : "D",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:7jaarY0CjGKOqSvCgeYvak|8",
+      "DURATION" : "330",
+      "MUSICBRAINZ_TRACKID" : "2b3a9e65-1576-41fe-8559-4be1fd858fb8",
+      "TITLE" : "Pop 14",
+      "TRACKNUMBER" : "9"
+   }
+]

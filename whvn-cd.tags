@@ -1,0 +1,84 @@
+﻿[
+   {
+      "@" : "spotify:album:2dluf7MMM4UL5K7S0etJDr",
+      "ALBUM" : "Carpe Diem",
+      "ARTIST" : "Will Haven",
+      "BARCODE" : "5016583126926",
+      "CATALOGNUMBER" : "CDMFN 269",
+      "DATE" : "2001-10-21",
+      "DURATION" : "68",
+      "LABEL" : "Music for Nations",
+      "MUSICBRAINZ_ALBUMID" : "6e10e102-d535-4f7c-8ba5-a05f14a29682",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "915d3d51-8a51-4864-a1f4-016bae819c7f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "1c72031d-991f-35be-916e-b233cd2d06fa",
+      "MUSICBRAINZ_TRACKID" : "b78ad50e-19de-4eaa-80ec-a4dca46c418d",
+      "TITLE" : "S.H.R.",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:2dluf7MMM4UL5K7S0etJDr|1",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "ae9ceeb0-0197-4652-9764-b77bd0dcec31",
+      "TITLE" : "Saga",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:2dluf7MMM4UL5K7S0etJDr|2",
+      "DURATION" : "228",
+      "MUSICBRAINZ_TRACKID" : "2efcc3b2-4fa2-4ad3-b36e-988a5624d405",
+      "TITLE" : "Carpe Diem",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:2dluf7MMM4UL5K7S0etJDr|3",
+      "DURATION" : "446",
+      "MUSICBRAINZ_TRACKID" : "d7ef4412-2800-4e76-a21f-3d2f3ab6c9b3",
+      "TITLE" : "BATS",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:2dluf7MMM4UL5K7S0etJDr|4",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "ee73711c-ff89-4a2a-8e48-1ca8c70c0431",
+      "TITLE" : "Dressed in Night Clothes",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:2dluf7MMM4UL5K7S0etJDr|5",
+      "DURATION" : "200",
+      "MUSICBRAINZ_TRACKID" : "75d2cd86-d5ea-4929-b032-5b81eecbfc08",
+      "TITLE" : "Dolph Lundgren",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:2dluf7MMM4UL5K7S0etJDr|6",
+      "DURATION" : "285",
+      "MUSICBRAINZ_TRACKID" : "d5eda70d-2a2f-4c3a-a159-9078b3b6a274",
+      "TITLE" : "Finest Our",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:2dluf7MMM4UL5K7S0etJDr|7",
+      "DURATION" : "263",
+      "MUSICBRAINZ_TRACKID" : "4cd3511e-da18-4849-a85a-dad7525abe13",
+      "TITLE" : "Alpha Male",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:2dluf7MMM4UL5K7S0etJDr|8",
+      "DURATION" : "275",
+      "MUSICBRAINZ_TRACKID" : "b555412b-83b4-4de0-8cdb-021ba2910f5b",
+      "TITLE" : "Miguel Encontro La Fe Otra Vez",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:2dluf7MMM4UL5K7S0etJDr|9",
+      "DURATION" : "537",
+      "MUSICBRAINZ_TRACKID" : "119aacd6-7ea7-4fa9-9034-c336ca8eeb41",
+      "TITLE" : "Moving to Montana",
+      "TRACKNUMBER" : "10"
+   }
+]

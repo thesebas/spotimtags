@@ -1,0 +1,104 @@
+﻿[
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq",
+      "ALBUM" : "WHVN",
+      "ARTIST" : "Will Haven",
+      "CATALOGNUMBER" : "REV:79",
+      "DATE" : "1999",
+      "DURATION" : "331",
+      "LABEL" : "Revelation Records",
+      "MUSICBRAINZ_ALBUMID" : "c7616f5d-a982-4938-bdd8-dea1b40ec268",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "915d3d51-8a51-4864-a1f4-016bae819c7f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "ae6bb734-7112-3faa-b47b-258f067595f0",
+      "MUSICBRAINZ_TRACKID" : "e83d4874-eea2-4a54-a6aa-754b076fba74",
+      "TITLE" : "Fresno",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|1",
+      "DURATION" : "187",
+      "MUSICBRAINZ_TRACKID" : "ce5603b6-84b4-4819-b0bf-07a7105aa0c3",
+      "TITLE" : "If She Could Speak",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|2",
+      "DURATION" : "154",
+      "MUSICBRAINZ_TRACKID" : "848f17ee-8853-4199-9b3c-01571fe04d66",
+      "TITLE" : "Jaworski",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|3",
+      "DURATION" : "428",
+      "MUSICBRAINZ_TRACKID" : "a3760ce0-ce79-4f06-aa55-bb871089dcfc",
+      "TITLE" : "Slopez",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|4",
+      "DURATION" : "169",
+      "MUSICBRAINZ_TRACKID" : "eccce0b5-86f9-45b4-8205-da2022459684",
+      "TITLE" : "End Summary",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|5",
+      "DURATION" : "70",
+      "MUSICBRAINZ_TRACKID" : "9f766dca-bed7-4ad2-8306-42e4b8ea3fc5",
+      "TITLE" : "Subtitles",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|6",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "4b1b3433-b3fa-4036-a03a-280c503fd8e2",
+      "TITLE" : "Genesis 11",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|7",
+      "DURATION" : "240",
+      "MUSICBRAINZ_TRACKID" : "8aeb8796-124f-486d-9ca8-ed74590940b3",
+      "TITLE" : "Dallass Drake",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|8",
+      "DURATION" : "311",
+      "MUSICBRAINZ_TRACKID" : "d2493228-c097-4ee8-a0df-d7cf254cedb1",
+      "TITLE" : "Death Do Us Part",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|9",
+      "DURATION" : "205",
+      "MUSICBRAINZ_TRACKID" : "29c4d022-3dc5-4dd6-bc8c-7c81a4d4b7b1",
+      "TITLE" : "Muse",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|10",
+      "DURATION" : "524",
+      "MUSICBRAINZ_TRACKID" : "933b588a-caac-4708-bb19-9b795b803e0a",
+      "TITLE" : "Miguel Abburido",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|11",
+      "DURATION" : "341",
+      "MUSICBRAINZ_TRACKID" : "01176818-a52f-497f-8618-f868e4d7af48",
+      "TITLE" : "I've Seen My Fate (Appliance remix)",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:4ByIDvTGyKu0wcUAHVw2Bq|12",
+      "DURATION" : "259",
+      "MUSICBRAINZ_TRACKID" : "8becfa9d-3714-4424-82ab-2a76e58b1d0f",
+      "TITLE" : "Sign Off",
+      "TRACKNUMBER" : "13"
+   }
+]

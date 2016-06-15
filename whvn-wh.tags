@@ -1,0 +1,62 @@
+﻿[
+   {
+      "@" : "spotify:album:5Zac847mKof4R4lF6QdoV5",
+      "ALBUM" : "Will Haven",
+      "ARTIST" : "Will Haven",
+      "CATALOGNUMBER" : "LS-001",
+      "DATE" : "1996",
+      "DURATION" : "239",
+      "LABEL" : "Landspeed Records",
+      "MUSICBRAINZ_ALBUMID" : "bd843531-02cc-4c30-a762-fda22ce27c80",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "EP",
+      "MUSICBRAINZ_ARTISTID" : "915d3d51-8a51-4864-a1f4-016bae819c7f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "4c1d7d79-122d-3a03-a95a-fae5d25888ea",
+      "MUSICBRAINZ_TRACKID" : "57f7eaf2-7d65-4aea-9dab-8449420aa7c0",
+      "TITLE" : "Choke",
+      "TOTALTRACKS" : "7",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5Zac847mKof4R4lF6QdoV5|1",
+      "DURATION" : "141",
+      "MUSICBRAINZ_TRACKID" : "535b17e2-da7f-46cf-9029-21a7e855bb91",
+      "TITLE" : "Rut",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5Zac847mKof4R4lF6QdoV5|2",
+      "DURATION" : "235",
+      "MUSICBRAINZ_TRACKID" : "18c1d238-85bb-4068-8f9e-ae199f052f66",
+      "TITLE" : "Labcoats",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5Zac847mKof4R4lF6QdoV5|3",
+      "DURATION" : "174",
+      "MUSICBRAINZ_TRACKID" : "0d451512-bb7e-4958-9dcf-d19f307a4986",
+      "TITLE" : "Fisk",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5Zac847mKof4R4lF6QdoV5|4",
+      "DURATION" : "199",
+      "MUSICBRAINZ_TRACKID" : "3000cb39-24e7-44dc-b52e-d7b23e212157",
+      "TITLE" : "Veg",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5Zac847mKof4R4lF6QdoV5|5",
+      "DURATION" : "282",
+      "MUSICBRAINZ_TRACKID" : "2f2ee6a2-b0fd-4d91-ae34-6b4268cd32a1",
+      "TITLE" : "Both Ways",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5Zac847mKof4R4lF6QdoV5|6",
+      "DURATION" : "210",
+      "MUSICBRAINZ_TRACKID" : "d37d3357-d333-442e-9468-bcd942923614",
+      "TITLE" : "Asking",
+      "TRACKNUMBER" : "7"
+   }
+]

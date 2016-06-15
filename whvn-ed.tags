@@ -1,0 +1,84 @@
+﻿[
+   {
+      "@" : "spotify:album:6kJfDi0J9dC7ZgR0rWJKrg",
+      "ALBUM" : "El Diablo",
+      "ARTIST" : "Will Haven",
+      "BARCODE" : "098796997925",
+      "CATALOGNUMBER" : "CRISIS 15",
+      "DATE" : "1997-07-07",
+      "DURATION" : "360",
+      "LABEL" : "Crisis Records",
+      "MUSICBRAINZ_ALBUMID" : "9d863bdd-3287-4e89-9845-07a022cfa522",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "915d3d51-8a51-4864-a1f4-016bae819c7f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "e87983da-2e35-36ee-a25d-41d1765e5501",
+      "MUSICBRAINZ_TRACKID" : "6c9762e2-5998-4e43-bf2b-a7810ba31235",
+      "TITLE" : "Stick Up Kid",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6kJfDi0J9dC7ZgR0rWJKrg|1",
+      "DURATION" : "228",
+      "MUSICBRAINZ_TRACKID" : "7465924b-a037-4094-bf61-d955c7c72945",
+      "TITLE" : "I've Seen My Fate",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6kJfDi0J9dC7ZgR0rWJKrg|2",
+      "DURATION" : "238",
+      "MUSICBRAINZ_TRACKID" : "4014eb7f-6b5b-4348-ab89-3075c8e0b82c",
+      "TITLE" : "Ego's Game",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6kJfDi0J9dC7ZgR0rWJKrg|3",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "84998d74-8c73-456f-8dde-f9bb61be5b0b",
+      "TITLE" : "Mason",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6kJfDi0J9dC7ZgR0rWJKrg|4",
+      "DURATION" : "251",
+      "MUSICBRAINZ_TRACKID" : "9824f5b5-6efb-4135-b95c-97539e47c429",
+      "TITLE" : "Climbing Out This Bottle",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6kJfDi0J9dC7ZgR0rWJKrg|5",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "33906e41-2fcb-4bca-b957-7278ecc8e502",
+      "TITLE" : "Extinguish",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6kJfDi0J9dC7ZgR0rWJKrg|6",
+      "DURATION" : "161",
+      "MUSICBRAINZ_TRACKID" : "e06da6dc-541c-4530-a0e8-9179a8fde7d2",
+      "TITLE" : "Baseball Theory",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6kJfDi0J9dC7ZgR0rWJKrg|7",
+      "DURATION" : "267",
+      "MUSICBRAINZ_TRACKID" : "ec37c351-72da-435a-8a8c-065fa24c8259",
+      "TITLE" : "June",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:6kJfDi0J9dC7ZgR0rWJKrg|8",
+      "DURATION" : "295",
+      "MUSICBRAINZ_TRACKID" : "f910a19f-ebdd-4815-8b60-23a961917086",
+      "TITLE" : "Foreign Film",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:6kJfDi0J9dC7ZgR0rWJKrg|9",
+      "DURATION" : "556",
+      "MUSICBRAINZ_TRACKID" : "0547dcac-75e0-4950-8923-c2ad85dc7b1d",
+      "TITLE" : "¡Escucha!",
+      "TRACKNUMBER" : "10"
+   }
+]
