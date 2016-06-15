@@ -1,75 +1,110 @@
 ﻿[
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL",
-      "ALBUM" : "Time And Trauma (Deluxe)",
+      "ALBUM" : "Time and Trauma",
       "ARTIST" : "36 Crazyfists",
-      "DISCNUMBER" : "1",
+      "DATE" : "2015-02-16",
+      "DURATION" : "230",
+      "LABEL" : "Spinefarm Records",
+      "MUSICBRAINZ_ALBUMID" : "35aafd5b-e651-4363-a49f-6851100d8b61",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "781167d7-b9e5-48ea-9f66-67c4a6739562",
+      "MUSICBRAINZ_RELEASEGROUPID" : "503a0890-5534-4d21-b5fb-65a895248016",
+      "MUSICBRAINZ_TRACKID" : "4032e808-766c-4154-85af-72acfb808086",
       "TITLE" : "Vanish",
+      "TOTALTRACKS" : "14",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|1",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "a8612b9e-8563-4615-8f58-04d119346a48",
       "TITLE" : "11.24.11",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|2",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "30d17b33-7c93-41ad-92ff-65eb6197444c",
       "TITLE" : "Sorrow Sings",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|3",
+      "DURATION" : "175",
+      "MUSICBRAINZ_TRACKID" : "2dad868a-1a00-46cf-9ff4-6733df93e0a9",
       "TITLE" : "Lightless",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|4",
-      "TITLE" : "Time And Trauma",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "14de50fb-5488-4081-8673-997f7c5a8515",
+      "TITLE" : "Time and Trauma",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|5",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "ec5b14e7-838f-43bc-ae23-5617be34ea11",
       "TITLE" : "Also Am I",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|6",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "e2cfc897-3df1-40c7-b2e1-7d8377362049",
       "TITLE" : "Translator",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|7",
+      "DURATION" : "287",
+      "MUSICBRAINZ_TRACKID" : "331fab75-90c7-4aff-a235-abfc1fdf8379",
       "TITLE" : "Silencer",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|8",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "3f6c913d-8c68-4e9b-a144-6a0945de16c9",
       "TITLE" : "Slivers",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|9",
-      "TITLE" : "Swing The Noose",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "0ac360d0-21b6-445f-925c-1efd49e41da6",
+      "TITLE" : "Swing the Noose",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|10",
+      "DURATION" : "274",
+      "MUSICBRAINZ_TRACKID" : "d0a3fc61-4aa9-410a-a30d-777e99362c40",
       "TITLE" : "Gathering Bones",
       "TRACKNUMBER" : "11"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|11",
+      "DURATION" : "352",
+      "MUSICBRAINZ_TRACKID" : "16aab61e-069e-4598-a76c-8efd39211a9a",
       "TITLE" : "Marrow",
       "TRACKNUMBER" : "12"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|12",
-      "TITLE" : "Edge Of The End",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "a0062fbd-46ac-4768-90a4-4217a1dbd3d3",
+      "TITLE" : "Edge of the End",
       "TRACKNUMBER" : "13"
    },
    {
       "@" : "spotify:album:18DdA78UfJycj2rbcIM3sL|13",
-      "TITLE" : "I Erase",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "565395a4-5876-4824-8840-7326887dd073",
+      "TITLE" : "I Erease",
       "TRACKNUMBER" : "14"
    }
 ]

@@ -1,59 +1,89 @@
 ﻿[
    {
       "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G",
-      "ALBUM" : "Collisions And Castaways",
+      "ALBUM" : "Collisions and Castaways",
       "ARTIST" : "36 Crazyfists",
-      "DISCNUMBER" : "1",
-      "TITLE" : "In The Midnights",
+      "CATALOGNUMBER" : "RR77472",
+      "DATE" : "2010-07-26",
+      "DURATION" : "334",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "d7c4c20a-f84b-4b13-980d-b36bd143a23a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "781167d7-b9e5-48ea-9f66-67c4a6739562",
+      "MUSICBRAINZ_RELEASEGROUPID" : "93b36e64-76e2-4af7-9b1e-6b2bf8239f95",
+      "MUSICBRAINZ_TRACKID" : "cc1bf277-c666-4f38-8791-38636d45d889",
+      "TITLE" : "In the Midnights",
+      "TOTALTRACKS" : "11",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|1",
+      "DURATION" : "201",
+      "MUSICBRAINZ_TRACKID" : "8445237f-72ee-446b-9320-8247b17bb4af",
       "TITLE" : "Whitewater",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|2",
-      "TITLE" : "Mercy And Grace",
+      "DURATION" : "230",
+      "MUSICBRAINZ_TRACKID" : "b55ae8d5-04b6-4d03-9e12-4195d0c51be5",
+      "TITLE" : "Mercy and Grace",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|3",
-      "TITLE" : "Death Renames The Light",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "759b533f-80d8-4c58-ab0d-9ab39fd68d4b",
+      "TITLE" : "Death Renames the Light",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|4",
+      "DURATION" : "340",
+      "MUSICBRAINZ_TRACKID" : "4ffb02ef-5908-4568-82e0-072312b91e66",
       "TITLE" : "Anchors",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|5",
-      "TITLE" : "Long Road To The Late Nights",
+      "DURATION" : "106",
+      "MUSICBRAINZ_TRACKID" : "e81d7863-7834-4cfd-bea9-189c570866d5",
+      "TITLE" : "Long Roads to Late Nights",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|6",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "9a2b358b-24b2-42ca-8140-b5a53a33fda1",
       "TITLE" : "Trenches",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|7",
+      "DURATION" : "222",
+      "MUSICBRAINZ_TRACKID" : "09d02d11-2754-40d5-b376-46da104fb046",
       "TITLE" : "Reviver",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|8",
-      "TITLE" : "Caving In Spirals",
+      "DURATION" : "261",
+      "MUSICBRAINZ_TRACKID" : "7513dd46-5188-49f5-aaa9-f88b33eb4452",
+      "TITLE" : "Caving in Spirals",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|9",
+      "DURATION" : "262",
+      "MUSICBRAINZ_TRACKID" : "98a68969-710c-4f1b-bdcc-b585f4063e66",
       "TITLE" : "The Deserter",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:2qmojIKgS0TkpukaRCkg3G|10",
+      "DURATION" : "304",
+      "MUSICBRAINZ_TRACKID" : "954b8956-e4a2-4a85-9cef-6209350864a9",
       "TITLE" : "Waterhaul II",
       "TRACKNUMBER" : "11"
    }

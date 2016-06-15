@@ -1,90 +1,106 @@
 ﻿[
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c",
-      "ALBUM" : "Bitterness the Star (Special Edition)",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr",
+      "ALBUM" : "Bitterness the Star",
       "ARTIST" : "36 Crazyfists",
-      "DISCNUMBER" : "1",
+      "BARCODE" : "016861848323",
+      "CATALOGNUMBER" : "RR 8483-2",
+      "DATE" : "2002-04-02",
+      "DURATION" : "197",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "4baf2240-f0a3-312d-9a48-430cfbe4f97c",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "781167d7-b9e5-48ea-9f66-67c4a6739562",
+      "MUSICBRAINZ_RELEASEGROUPID" : "954284df-2aa3-33b1-998c-9d8f6fdc42b6",
+      "MUSICBRAINZ_TRACKID" : "733e935c-22bc-481f-be7f-e0a373021db6",
+      "ORIGINAL RELEASE DATE" : "2002-04-01",
       "TITLE" : "Turns to Ashes",
+      "TOTALTRACKS" : "13",
       "TRACKNUMBER" : "1"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|1",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|1",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "e87cdc01-37e4-450b-ae74-09236e04d002",
       "TITLE" : "One More Word",
       "TRACKNUMBER" : "2"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|2",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|2",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "aac66d12-4bd9-4bf5-83b9-56e76973473c",
       "TITLE" : "An Agreement Called Forever",
       "TRACKNUMBER" : "3"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|3",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|3",
+      "DURATION" : "197",
+      "MUSICBRAINZ_TRACKID" : "2e4ace33-8227-4dba-ae4f-1b45c087ee87",
       "TITLE" : "Eightminutesupsidedown",
       "TRACKNUMBER" : "4"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|4",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|4",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "eb79a18d-79b4-4a6e-88cb-d0814e02186d",
       "TITLE" : "Slit Wrist Theory",
       "TRACKNUMBER" : "5"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|5",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|5",
+      "DURATION" : "215",
+      "MUSICBRAINZ_TRACKID" : "2a22c2d8-030e-4fd1-b57d-1ccf5bdd0756",
       "TITLE" : "Bury Me Where I Fall",
       "TRACKNUMBER" : "6"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|6",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|6",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "61c7466b-d7ff-4c5a-9dfc-bf87ba6e4187",
       "TITLE" : "Dislocate",
       "TRACKNUMBER" : "7"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|7",
-      "TITLE" : "Two Months From A Year",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|7",
+      "DURATION" : "264",
+      "MUSICBRAINZ_TRACKID" : "03260777-0408-4a00-844f-abeaa283b65f",
+      "TITLE" : "Two Months From a Year",
       "TRACKNUMBER" : "8"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|8",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|8",
+      "DURATION" : "221",
+      "MUSICBRAINZ_TRACKID" : "4e22d62e-e01f-416d-97c2-55f16c700f93",
       "TITLE" : "Chalk White",
       "TRACKNUMBER" : "9"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|9",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|9",
+      "DURATION" : "270",
+      "MUSICBRAINZ_TRACKID" : "01f39dc2-a558-4336-92c5-90446f629d78",
       "TITLE" : "All I Am",
       "TRACKNUMBER" : "10"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|10",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|10",
+      "DURATION" : "183",
+      "MUSICBRAINZ_TRACKID" : "6c328e2c-3606-436f-9f31-c22965926880",
       "TITLE" : "Ceramic",
       "TRACKNUMBER" : "11"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|11",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|11",
+      "DURATION" : "221",
+      "MUSICBRAINZ_TRACKID" : "d506eb66-8127-444d-b679-e46291397fbc",
       "TITLE" : "Circle the Drain",
       "TRACKNUMBER" : "12"
    },
    {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|12",
+      "@" : "spotify:album:4hzwLmrJFYcWXoWd7FzoUr|12",
+      "DURATION" : "135",
+      "MUSICBRAINZ_TRACKID" : "07134f42-f0f4-412c-910c-244eee06cb1a",
       "TITLE" : "Left Hand Charity",
       "TRACKNUMBER" : "13"
-   },
-   {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|13",
-      "TITLE" : "Crutch",
-      "TRACKNUMBER" : "14"
-   },
-   {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|14",
-      "TITLE" : "Circle the Drain - Demo",
-      "TRACKNUMBER" : "15"
-   },
-   {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|15",
-      "TITLE" : "Chalk White - Demo",
-      "TRACKNUMBER" : "16"
-   },
-   {
-      "@" : "spotify:album:3hdKaAVpNOpXSBHF7yrc2c|16",
-      "TITLE" : "Disarray - Demo",
-      "TRACKNUMBER" : "17"
    }
 ]

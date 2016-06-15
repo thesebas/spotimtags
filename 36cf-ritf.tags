@@ -1,59 +1,91 @@
 ﻿[
    {
       "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj",
-      "ALBUM" : "Rest Inside The Flames",
+      "ALBUM" : "Rest Inside the Flames",
       "ARTIST" : "36 Crazyfists",
-      "DISCNUMBER" : "1",
+      "BARCODE" : "0828730044824",
+      "CATALOGNUMBER" : "DRT448",
+      "DATE" : "2006-11-07",
+      "DURATION" : "225",
+      "LABEL" : "DRT Entertainment",
+      "MUSICBRAINZ_ALBUMID" : "86682a5b-ffe8-3662-9aae-e45c906422a4",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "781167d7-b9e5-48ea-9f66-67c4a6739562",
+      "MUSICBRAINZ_RELEASEGROUPID" : "2691fd21-ed72-3663-bef3-b5e0c9e20e39",
+      "MUSICBRAINZ_TRACKID" : "a833e3c5-160b-4e6f-a77b-95095f58eec7",
+      "ORIGINAL RELEASE DATE" : "2006-06-12",
       "TITLE" : "I'll Go Until My Heart Stops",
+      "TOTALTRACKS" : "11",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|1",
-      "TITLE" : "Felt Through A Phone Line",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "1f5cb27f-5c7c-4186-b5cd-13c18a4033ec",
+      "TITLE" : "Felt Through a Phone Line",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|2",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "63c132e8-798a-4f96-acd0-33930629a81d",
       "TITLE" : "On Any Given Night",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|3",
+      "DURATION" : "183",
+      "MUSICBRAINZ_TRACKID" : "0bcfb24e-3796-45fc-bcea-277681b47f0b",
       "TITLE" : "Elysium",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|4",
+      "DURATION" : "275",
+      "MUSICBRAINZ_TRACKID" : "2e225024-32b7-4c96-ac8f-bd9440090916",
       "TITLE" : "The Great Descent",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|5",
+      "DURATION" : "223",
+      "MUSICBRAINZ_TRACKID" : "337ad752-197e-4514-baac-d0a97567eb4f",
       "TITLE" : "Midnight Swim",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|6",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "61e967e3-9c71-49e9-befb-2e506aaa8023",
       "TITLE" : "Aurora",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|7",
-      "TITLE" : "Will Pull This In By Hand",
+      "DURATION" : "169",
+      "MUSICBRAINZ_TRACKID" : "32320435-a14a-4250-baf4-1d78fc09e4fd",
+      "TITLE" : "Will Pull This in by Hand",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|8",
+      "DURATION" : "222",
+      "MUSICBRAINZ_TRACKID" : "0d3e56b1-45e9-4487-964d-358f10a0671c",
       "TITLE" : "We Cannot Deny",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|9",
-      "TITLE" : "Between The Anchor And The Air",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "cfea8752-fc57-4484-9051-d36a6eacfc31",
+      "TITLE" : "Between the Anchor and the Air",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:1LJRykAUs5DCigHfXG30bj|10",
+      "DURATION" : "203",
+      "MUSICBRAINZ_TRACKID" : "3c705ed2-674e-4817-bf88-df4fcdee51a8",
       "TITLE" : "The City Ignites",
       "TRACKNUMBER" : "11"
    }

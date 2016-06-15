@@ -1,60 +1,91 @@
 ﻿[
    {
       "@" : "spotify:album:118OFLdSXUpbFAqOXEyyXx",
-      "ALBUM" : "The Tide And Its Takers",
+      "ALBUM" : "The Tide and Its Takers",
       "ARTIST" : "36 Crazyfists",
-      "DISCNUMBER" : "1",
+      "BARCODE" : "828136009823",
+      "CATALOGNUMBER" : "F0982",
+      "DATE" : "2008-05-27",
+      "DURATION" : "211",
+      "LABEL" : "Ferret Music",
+      "MUSICBRAINZ_ALBUMID" : "c690941d-c70e-4ee9-bbc4-5281b181dbf1",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "781167d7-b9e5-48ea-9f66-67c4a6739562",
+      "MUSICBRAINZ_RELEASEGROUPID" : "c554535b-a51c-3e25-80e2-dcc64d800cba",
+      "MUSICBRAINZ_TRACKID" : "88159ec6-b8be-4e39-84ab-6237647124ff",
       "TITLE" : "The All Night Lights",
+      "TOTALTRACKS" : "11",
       "TRACKNUMBER" : "1"
    },
    {
       "@" : "spotify:album:118OFLdSXUpbFAqOXEyyXx|1",
+      "DURATION" : "192",
+      "MUSICBRAINZ_TRACKID" : "85db6b3e-460c-4b6c-b8c2-0eeeb95cffc1",
       "TITLE" : "We Gave It Hell",
       "TRACKNUMBER" : "2"
    },
    {
       "@" : "spotify:album:118OFLdSXUpbFAqOXEyyXx|2",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "5a82a341-a956-461e-b404-6c914d263434",
       "TITLE" : "The Back Harlow Road",
       "TRACKNUMBER" : "3"
    },
    {
       "@" : "spotify:album:118OFLdSXUpbFAqOXEyyXx|3",
-      "TITLE" : "Clear The Coast",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "89bb1837-5c45-4330-8c59-faaa109d429a",
+      "TITLE" : "Clear the Coast",
       "TRACKNUMBER" : "4"
    },
    {
       "@" : "spotify:album:118OFLdSXUpbFAqOXEyyXx|4",
-      "TITLE" : "Waiting On A War",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "d67b3c46-cdcb-4f56-8d30-158481d48d7d",
+      "TITLE" : "Waiting on a War",
       "TRACKNUMBER" : "5"
    },
    {
       "@" : "spotify:album:118OFLdSXUpbFAqOXEyyXx|5",
-      "TITLE" : "Only A Year Or So...",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "d23c5509-3edc-4111-9872-e0b223361589",
+      "TITLE" : "Only a Year or So...",
       "TRACKNUMBER" : "6"
    },
    {
       "@" : "spotify:album:118OFLdSXUpbFAqOXEyyXx|6",
-      "TITLE" : "Absent Are The Saints",
+      "DURATION" : "230",
+      "MUSICBRAINZ_TRACKID" : "0fd38b4d-5bb0-46ad-a371-af5e2940dda8",
+      "TITLE" : "Absent Are the Saints",
       "TRACKNUMBER" : "7"
    },
    {
       "@" : "spotify:album:118OFLdSXUpbFAqOXEyyXx|7",
-      "TITLE" : "Vast And Vague",
+      "DURATION" : "254",
+      "MUSICBRAINZ_TRACKID" : "4fb473df-b943-4626-9bd6-0c9deced6fbf",
+      "TITLE" : "Vast and Vague",
       "TRACKNUMBER" : "8"
    },
    {
       "@" : "spotify:album:118OFLdSXUpbFAqOXEyyXx|8",
-      "TITLE" : "When Distance Is The Closest Reminder",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "d1de0392-2189-433b-b592-9e0bfbdff1ca",
+      "TITLE" : "When Distance Is the Closest Reminder",
       "TRACKNUMBER" : "9"
    },
    {
       "@" : "spotify:album:118OFLdSXUpbFAqOXEyyXx|9",
+      "DURATION" : "300",
+      "MUSICBRAINZ_TRACKID" : "e574017a-df1b-4289-aea8-fe30f84c0f95",
       "TITLE" : "Northern November",
       "TRACKNUMBER" : "10"
    },
    {
       "@" : "spotify:album:118OFLdSXUpbFAqOXEyyXx|10",
-      "TITLE" : "The Tide And Its Takers",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "a9e002f6-e007-4720-bbe7-1d748b5d23f5",
+      "TITLE" : "The Tide and Its Takers",
       "TRACKNUMBER" : "11"
    }
 ]

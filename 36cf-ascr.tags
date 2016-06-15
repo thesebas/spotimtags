@@ -1,80 +1,90 @@
 ﻿[
    {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE",
-      "ALBUM" : "A Snow Capped Romance [Special Edition]",
+      "@" : "spotify:album:4RXbqQIZqHp5VhyhQZkvD9",
+      "ALBUM" : "A Snow Capped Romance",
       "ARTIST" : "36 Crazyfists",
-      "DISCNUMBER" : "1",
-      "TITLE" : "At The End Of August",
+      "CATALOGNUMBER" : "RR PROMO 729",
+      "DATE" : "2003",
+      "DURATION" : "237",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "15afe807-58e8-3359-91bc-8129f0c49b1e",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Promotion",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "781167d7-b9e5-48ea-9f66-67c4a6739562",
+      "MUSICBRAINZ_RELEASEGROUPID" : "6845bbd5-6af9-3bbf-9235-d8beea55da1a",
+      "MUSICBRAINZ_TRACKID" : "f367cb5f-bdfd-4dcb-9b7a-e96238a1c404",
+      "TITLE" : "At the End of August",
+      "TOTALTRACKS" : "11",
       "TRACKNUMBER" : "1"
    },
    {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|1",
-      "TITLE" : "The Heart And The Shape",
+      "@" : "spotify:album:4RXbqQIZqHp5VhyhQZkvD9|1",
+      "DURATION" : "190",
+      "MUSICBRAINZ_TRACKID" : "37e3896c-3f7a-4556-a631-0f27e1d4098a",
+      "TITLE" : "The Heart and the Shape",
       "TRACKNUMBER" : "2"
    },
    {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|2",
+      "@" : "spotify:album:4RXbqQIZqHp5VhyhQZkvD9|2",
+      "DURATION" : "198",
+      "MUSICBRAINZ_TRACKID" : "6e487095-07d0-4b8e-8711-5e50f7511199",
       "TITLE" : "Bloodwork",
       "TRACKNUMBER" : "3"
    },
    {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|3",
+      "@" : "spotify:album:4RXbqQIZqHp5VhyhQZkvD9|3",
+      "DURATION" : "167",
+      "MUSICBRAINZ_TRACKID" : "895f7be4-e0e0-4c5b-b158-571e580ebcb1",
       "TITLE" : "Kenai",
       "TRACKNUMBER" : "4"
    },
    {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|4",
-      "TITLE" : "Skin And Atmosphere",
+      "@" : "spotify:album:4RXbqQIZqHp5VhyhQZkvD9|4",
+      "DURATION" : "252",
+      "MUSICBRAINZ_TRACKID" : "5ca0ef84-413e-45b3-9ece-a799b579dfb5",
+      "TITLE" : "Skin and Atmosphere",
       "TRACKNUMBER" : "5"
    },
    {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|5",
-      "TITLE" : "Song For The Fisherman",
+      "@" : "spotify:album:4RXbqQIZqHp5VhyhQZkvD9|5",
+      "DURATION" : "87",
+      "MUSICBRAINZ_TRACKID" : "6605b178-d1dc-4312-9120-9cecf0439f9f",
+      "TITLE" : "Song for the Fisherman",
       "TRACKNUMBER" : "6"
    },
    {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|6",
+      "@" : "spotify:album:4RXbqQIZqHp5VhyhQZkvD9|6",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "70a1adad-2fdf-4ddb-b46a-e002c5121889",
       "TITLE" : "With Nothing Underneath",
       "TRACKNUMBER" : "7"
    },
    {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|7",
-      "TITLE" : "Destroy The Map",
+      "@" : "spotify:album:4RXbqQIZqHp5VhyhQZkvD9|7",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "90a765e0-82df-4b44-b96f-12b37f2743a0",
+      "TITLE" : "Destroy the Map",
       "TRACKNUMBER" : "8"
    },
    {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|8",
-      "TITLE" : "Installing The Catheter",
+      "@" : "spotify:album:4RXbqQIZqHp5VhyhQZkvD9|8",
+      "DURATION" : "231",
+      "MUSICBRAINZ_TRACKID" : "7350bb62-9108-4c0e-923f-542492144530",
+      "TITLE" : "Installing the Catheter",
       "TRACKNUMBER" : "9"
    },
    {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|9",
+      "@" : "spotify:album:4RXbqQIZqHp5VhyhQZkvD9|9",
+      "DURATION" : "212",
+      "MUSICBRAINZ_TRACKID" : "5c837d7e-10fb-46d0-9d3a-8b02eedfd3d5",
       "TITLE" : "Cure Eclipse",
       "TRACKNUMBER" : "10"
    },
    {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|10",
+      "@" : "spotify:album:4RXbqQIZqHp5VhyhQZkvD9|10",
+      "DURATION" : "291",
+      "MUSICBRAINZ_TRACKID" : "9f30f961-815a-43fc-8b88-31c0acd02af5",
       "TITLE" : "Waterhaul",
       "TRACKNUMBER" : "11"
-   },
-   {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|11",
-      "TITLE" : "Workhorse",
-      "TRACKNUMBER" : "12"
-   },
-   {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|12",
-      "TITLE" : "Sad Lisa",
-      "TRACKNUMBER" : "13"
-   },
-   {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|13",
-      "TITLE" : "Mother Mary",
-      "TRACKNUMBER" : "14"
-   },
-   {
-      "@" : "spotify:album:2HuHRXsn4CDJJlMom8UfGE|14",
-      "TITLE" : "Digging The Grave",
-      "TRACKNUMBER" : "15"
    }
 ]
