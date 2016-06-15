@@ -1,0 +1,95 @@
+﻿[
+   {
+      "@" : "spotify:track:0PicuPCfXDJyyRtOR1ukGW",
+      "ALBUM" : "Adrenaline",
+      "ARTIST" : "Deftones",
+      "BARCODE" : "093624605423",
+      "CATALOGNUMBER" : "9 46054-2",
+      "DATE" : "1995-10-03",
+      "DURATION" : "246",
+      "LABEL" : [
+         "Maverick",
+         "Warner Bros. Records"
+      ],
+      "MUSICBRAINZ_ALBUMID" : "d84c56e7-2bd7-4547-a62b-0cffce02e02e",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "MUSICBRAINZ_RELEASEGROUPID" : "0b4ea447-444c-34ba-ba87-96496f2e15b8",
+      "MUSICBRAINZ_TRACKID" : "02a5e8e3-2b6e-4c58-b4c1-cf54532c6dce",
+      "ORIGINAL RELEASE DATE" : "1995-09-29",
+      "TITLE" : "Bored",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:5zFalOg043nNnRYtU7TS1T",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "fd3c748f-64b4-4ff6-b7de-d6793de0c62d",
+      "TITLE" : "Minus Blindfold",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4Bj9dhsxbIwrblcmBs9BpZ",
+      "DURATION" : "268",
+      "MUSICBRAINZ_TRACKID" : "011697a8-ea3d-4c4f-8a75-2b703decf1f0",
+      "TITLE" : "One Weak",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5JspPZ5QoUxVmhefk0UVgB",
+      "DURATION" : "266",
+      "MUSICBRAINZ_TRACKID" : "1da70975-2cbe-49e8-abc1-3fba89e26dc3",
+      "TITLE" : "Nosebleed",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:129Jx52FwTa2pilZohst80",
+      "DURATION" : "283",
+      "MUSICBRAINZ_TRACKID" : "2f183e18-7b41-44dd-8f95-2a1f142cf840",
+      "TITLE" : "Lifter",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:2jkZB94i573H134wKmsw2y",
+      "DURATION" : "221",
+      "MUSICBRAINZ_TRACKID" : "2258241d-9037-4cf6-915b-f354dc6b49f5",
+      "TITLE" : "Root",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6DoXuH326aAYEN8CnlLmhP",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "3e146264-5159-48e5-8940-db20aa99f482",
+      "TITLE" : "7 Words",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0gWVilx5PbHEf0zrpp1TmQ",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "c409b0f2-29c4-4d89-aaa5-21e8f3c8f1fc",
+      "TITLE" : "Birthmark",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:5vVKkF3xih38Vcoo4HgAo8",
+      "DURATION" : "205",
+      "MUSICBRAINZ_TRACKID" : "cd9311bb-3713-4ef1-b394-b54f7d8eeb95",
+      "TITLE" : "Engine No. 9",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:3DirQ2Hsctqp8pIIVDxz8L",
+      "DURATION" : "395",
+      "MUSICBRAINZ_TRACKID" : "9dab0525-0ae3-40c1-9ea4-649579c7dce7",
+      "TITLE" : "Fireal",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:1Oii7zshrI6ihftpguVoj8",
+      "DURATION" : "215",
+      "MUSICBRAINZ_TRACKID" : "879ccf75-15db-420f-b568-4b256474bd12",
+      "TITLE" : "Fist",
+      "TRACKNUMBER" : "11"
+   }
+]
