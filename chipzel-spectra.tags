@@ -1,0 +1,103 @@
+﻿[
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59",
+      "ALBUM" : "Spectra",
+      "ARTIST" : "chipzel",
+      "DATE" : "2013-09-01",
+      "DURATION" : "236",
+      "LABEL" : "[no label]",
+      "MUSICBRAINZ_ALBUMID" : "7b4198f8-806f-4eeb-a6c6-54f24d27c501",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "a09cea0e-9d05-48f7-9507-7f60532cf53f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "fcee5c91-1797-4789-b75f-129ca5cbadbe",
+      "MUSICBRAINZ_TRACKID" : "cdd678ba-3cf0-474c-9967-a35746ee8d90",
+      "TITLE" : "Spectra",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|1",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "b9495805-2b69-4f08-841f-1983706005f9",
+      "TITLE" : "Tokyo Skies",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|2",
+      "DURATION" : "196",
+      "MUSICBRAINZ_TRACKID" : "9c92416c-caf1-4cbf-b7f7-78844a145490",
+      "TITLE" : "Forged in Stars",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|3",
+      "DURATION" : "142",
+      "MUSICBRAINZ_TRACKID" : "503d0a5a-ce67-492b-9416-f5e2d8ccaade",
+      "TITLE" : "Formed in the Clouds (interlude)",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|4",
+      "DURATION" : "238",
+      "MUSICBRAINZ_TRACKID" : "110965b0-bd67-49e9-8641-c1d24b1d4629",
+      "TITLE" : "Only Human",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|5",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "4f8ee9cb-decc-460a-b8b6-9e20ace2a389",
+      "TITLE" : "Aurora Borealis",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|6",
+      "DURATION" : "335",
+      "MUSICBRAINZ_TRACKID" : "6840fbd7-4a80-48bf-b2dd-05b35ba64f05",
+      "TITLE" : "Evolution",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|7",
+      "DURATION" : "213",
+      "MUSICBRAINZ_TRACKID" : "dc63ca44-60c8-4c2a-aac7-3c5902613ca9",
+      "TITLE" : "Beyond the Cosmos",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|8",
+      "DURATION" : "240",
+      "MUSICBRAINZ_TRACKID" : "4ff7cc0f-5b5a-43a4-ba0d-31a751d7397e",
+      "TITLE" : "Veteran",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|9",
+      "DURATION" : "220",
+      "MUSICBRAINZ_TRACKID" : "c469f919-73b8-4096-a3d6-e6ce001eaab4",
+      "TITLE" : "Sonnet",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|10",
+      "DURATION" : "226",
+      "MUSICBRAINZ_TRACKID" : "f4dfd051-6608-4886-adcf-5550765859d9",
+      "TITLE" : "Sunday",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|11",
+      "DURATION" : "193",
+      "MUSICBRAINZ_TRACKID" : "1baaecfb-0dc6-47af-9645-b30e52d3da06",
+      "TITLE" : "The Art of War",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:7wEQJQl3cAb30RyzmBCl59|12",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "d6ae556f-1939-47a5-9d46-8855311808e1",
+      "TITLE" : "Final Credits",
+      "TRACKNUMBER" : "13"
+   }
+]
