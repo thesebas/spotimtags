@@ -1,0 +1,123 @@
+﻿[
+   {
+      "@" : "spotify:track:5rkucFfs0gMVUmsgcnBjtw",
+      "ALBUM" : "B-Sides & Rarities",
+      "ALBUM ARTIST" : "Deftones",
+      "ARTIST" : "Far & Deftones",
+      "BARCODE" : "081227646028",
+      "CATALOGNUMBER" : "R2 76460",
+      "DATE" : "2005-10-04",
+      "DISCNUMBER" : "1",
+      "DURATION" : "277",
+      "LABEL" : "Maverick",
+      "MUSICBRAINZ_ALBUMARTISTID" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "MUSICBRAINZ_ALBUMID" : "024083ba-cffd-4ca8-b3b1-c5371b5e46e2",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Compilation",
+      "MUSICBRAINZ_ARTISTID" : [
+         "e48fa0b9-7e30-4406-aed2-3605854c9e52",
+         "7527f6c2-d762-4b88-b5e2-9244f1e34c46"
+      ],
+      "MUSICBRAINZ_RELEASEGROUPID" : "78b906d6-0cb5-3570-bce6-30e28771ed86",
+      "MUSICBRAINZ_TRACKID" : "f6ccf952-240e-43ba-b8cf-ba65aaa757f5",
+      "SPOTIFY:ALBUM" : "spotify:album:3hBCkMqaYnCmJciEUKqyfC",
+      "SPOTIFY:ARTIST" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+      "TITLE" : "Savory",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "14",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:4SkKv1DdU52DJHLNZHZB4t",
+      "ARTIST" : "Deftones",
+      "DURATION" : "249",
+      "MUSICBRAINZ_ARTISTID" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "MUSICBRAINZ_TRACKID" : "28787b81-1998-40ff-b04c-9166f9d56aa5",
+      "TITLE" : "Wax and Wane",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0ovy04t3RUHvnkijp62ITq",
+      "DURATION" : "316",
+      "MUSICBRAINZ_TRACKID" : "fab0d5ab-3f6f-47d0-84fe-168085242f38",
+      "TITLE" : "Change (In the House of Flies) (acoustic)",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:4eAh9bzurTIp34TREqa8cg",
+      "DURATION" : "381",
+      "MUSICBRAINZ_TRACKID" : "2c717be1-990f-405c-8e3f-7bd9c5030c9f",
+      "TITLE" : "Simple Man",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6VmVP87sjXVODCfWcX0AZx",
+      "DURATION" : "283",
+      "MUSICBRAINZ_TRACKID" : "8d89f59d-710b-4fd9-9020-3763fe30fc73",
+      "TITLE" : "Sinatra",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:3dxW4bDfwEf9czzg0yh8eb",
+      "DURATION" : "331",
+      "MUSICBRAINZ_TRACKID" : "952af296-b68f-449f-bb1b-c0b3bcda9ae2",
+      "TITLE" : "No Ordinary Love",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3b5QHkQG13eYj6fiT09thS",
+      "DURATION" : "226",
+      "MUSICBRAINZ_TRACKID" : "39d8b1c2-1d0a-4d0c-8646-13eaacc252ba",
+      "TITLE" : "Teenager (Idiot version)",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3p8yn6XDGT6sFI1BkBy2YH",
+      "DURATION" : "289",
+      "MUSICBRAINZ_TRACKID" : "787052e2-77d7-48cc-b1d2-475cf8afbe94",
+      "TITLE" : "Crenshaw Punch/I’ll Throw Rocks at You",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:1N5dezg6AuzSijDtCZ1ym1",
+      "DURATION" : "198",
+      "MUSICBRAINZ_TRACKID" : "c673cd03-16ea-4945-986c-579a795f8eb2",
+      "TITLE" : "Black Moon",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:5sLq9heK7USTfUM2ScLTCm",
+      "DURATION" : "306",
+      "MUSICBRAINZ_TRACKID" : "1c4dff38-eb75-413c-8723-125b7bf4aa25",
+      "TITLE" : "If Only Tonight We Could Sleep",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:68FuXWn3fGYMB7sJzdRHPz",
+      "DURATION" : "124",
+      "MUSICBRAINZ_TRACKID" : "217dd9ef-f36a-4b6e-83cb-5201badbd5b7",
+      "TITLE" : "Please Please Please Let Me Get What I Want",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:0MW4jNykIevNtlz39gZ4WA",
+      "DURATION" : "288",
+      "MUSICBRAINZ_TRACKID" : "9d4d4fbf-9645-484e-90eb-c2c0b37eb999",
+      "TITLE" : "Digital Bath (acoustic)",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:1bQKQbps9rsrz6sw2MT0nx",
+      "DURATION" : "324",
+      "MUSICBRAINZ_TRACKID" : "06eafcc6-3f36-4753-9f27-6a9b2d9d49c3",
+      "TITLE" : "The Chauffeur",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:38EwsVqVQnTnHn90LzDaIf",
+      "DURATION" : "272",
+      "MUSICBRAINZ_TRACKID" : "6b4a24ce-a2d8-499e-8dd2-3d9760d5c86b",
+      "TITLE" : "Be Quiet and Drive (Far Away) (acoustic)",
+      "TRACKNUMBER" : "14"
+   }
+]

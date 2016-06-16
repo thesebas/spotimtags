@@ -1,0 +1,98 @@
+﻿[
+   {
+      "@" : "spotify:track:0Qrb3L8JgreLBW8g4qyan9",
+      "ALBUM" : "White Pony",
+      "ARTIST" : "Deftones",
+      "DATE" : "2000-05-16",
+      "DURATION" : "237",
+      "LABEL" : "Maverick",
+      "MUSICBRAINZ_ALBUMID" : "a30f099b-2632-44a4-9527-e6b7c12c672e",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "MUSICBRAINZ_RELEASEGROUPID" : "a7d33e96-8e09-3aff-8629-44812a1b8489",
+      "MUSICBRAINZ_TRACKID" : "49f5cd8b-6b15-460f-8302-c404d0e9de1d",
+      "SPOTIFY:ALBUM" : "spotify:album:5LEXck3kfixFaA3CqVE7bC",
+      "SPOTIFY:ARTIST" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+      "TITLE" : "Back to School (Mini Maggit)",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:0FpYnuKYFJXHAmHbS1CycY",
+      "DURATION" : "190",
+      "MUSICBRAINZ_TRACKID" : "57fd843e-dfc0-46c8-bb47-709dec4e88cb",
+      "TITLE" : "Feiticeira",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2jSJm3Gv6GLxduWLenmjKS",
+      "DURATION" : "255",
+      "MUSICBRAINZ_TRACKID" : "175c8439-b607-4cf9-9e25-b9066e62b126",
+      "TITLE" : "Digital Bath",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3jnYlchDDAiLzfkPPy12ig",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "0f1636f7-e09d-45d6-a2db-f90c9ac264e9",
+      "TITLE" : "Elite",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6HgrJfzfj9WRBABdussy8z",
+      "DURATION" : "268",
+      "MUSICBRAINZ_TRACKID" : "c51feb13-7114-451f-8291-f370c681d4e0",
+      "TITLE" : "RX Queen",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5qNr7GnEmD3zA2oQTAdI3a",
+      "DURATION" : "162",
+      "MUSICBRAINZ_TRACKID" : "623c87aa-1402-4910-b26d-9b802cbd72c6",
+      "TITLE" : "Street Carp",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3JVtnUPy4JhlbhQnfzw85l",
+      "DURATION" : "200",
+      "MUSICBRAINZ_TRACKID" : "1d98eaf8-fa99-408e-b0a8-80038bc221c6",
+      "TITLE" : "Teenager",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:42Kv1RoTAm09FeytxiuZIB",
+      "DURATION" : "289",
+      "MUSICBRAINZ_TRACKID" : "1471b26e-50aa-4b74-8257-e57040faca1e",
+      "TITLE" : "Knife Prty",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:7cYKGj2j9AWNwQukTl2Jev",
+      "DURATION" : "204",
+      "MUSICBRAINZ_TRACKID" : "65381578-a7f6-40a0-836c-a48970ddf7f5",
+      "TITLE" : "Korea",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:7IoK6jZBxY7NMoQPoPXZCF",
+      "DURATION" : "369",
+      "MUSICBRAINZ_TRACKID" : "119c683c-d078-41f3-b63c-cb92816d7329",
+      "TITLE" : "Passenger",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:51c94ac31swyDQj9B3Lzs3",
+      "DURATION" : "300",
+      "MUSICBRAINZ_TRACKID" : "af7f2f8b-68ce-47fd-a088-ed3a29edd96f",
+      "TITLE" : "Change (In the House of Flies)",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:0FrT8a39eo6siL1yIxVGTP",
+      "DURATION" : "453",
+      "MUSICBRAINZ_TRACKID" : "1e94ab43-617a-4e42-8657-98fec22a60f3",
+      "TITLE" : "Pink Maggit",
+      "TRACKNUMBER" : "12"
+   }
+]

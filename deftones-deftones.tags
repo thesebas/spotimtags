@@ -1,0 +1,91 @@
+﻿[
+   {
+      "@" : "spotify:track:2xgvuJvwjnaJHFHb66E3nq",
+      "ALBUM" : "Deftones",
+      "ARTIST" : "Deftones",
+      "DATE" : "2003-05-19",
+      "DURATION" : "251",
+      "LABEL" : "Maverick",
+      "MUSICBRAINZ_ALBUMID" : "02ca5c29-ebfb-4029-942a-48314b8094a1",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "MUSICBRAINZ_RELEASEGROUPID" : "f423c6e6-410c-3b43-94ec-8f7a2c02f052",
+      "MUSICBRAINZ_TRACKID" : "f3fddac1-55d4-4d26-8422-592de0f69a77",
+      "SPOTIFY:ALBUM" : "spotify:album:6252G7bGCVijXlqAjtjeDP",
+      "SPOTIFY:ARTIST" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+      "TITLE" : "Hexagram",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1oTKnx7AgEhA5wUs3Z8rrr",
+      "DURATION" : "203",
+      "MUSICBRAINZ_TRACKID" : "fcd441c2-6f41-4557-a4a7-3d1da56dd4c5",
+      "TITLE" : "Needles and Pins",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1gzWd0ILFaCoHUfQSkCIvl",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "5988fcde-1fee-45f4-b644-cee2b239c9e6",
+      "TITLE" : "Minerva",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:72thVF831OMzeCZzlkDN6R",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "915b2fdf-0f00-44b5-a808-0e0749e7348e",
+      "TITLE" : "Good Morning Beautiful",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:09QuitJuAP87RoBSpiCXPs",
+      "DURATION" : "328",
+      "MUSICBRAINZ_TRACKID" : "b46f4636-a8a3-4c10-b90f-03546497ad86",
+      "TITLE" : "Deathblow",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6xK3sBdRm99g9T8Ov0gjdF",
+      "DURATION" : "276",
+      "MUSICBRAINZ_TRACKID" : "3bc2c1a9-43bc-45b2-87fc-4313eb2534fe",
+      "TITLE" : "When Girls Telephone Boys",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2ouqll9zsD2cjcGUfgtInW",
+      "DURATION" : "302",
+      "MUSICBRAINZ_TRACKID" : "054f3e6c-3678-4ba3-9d44-d222d3f42d13",
+      "TITLE" : "Battle‐Axe",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3r2vN7RNfvpgOUqKSRRlFr",
+      "DURATION" : "251",
+      "MUSICBRAINZ_TRACKID" : "e9a24982-41be-4f61-996a-9984477ca1ad",
+      "TITLE" : "Lucky You",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:66ace8nbTVjgHTed107cDn",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "3bc7d59b-9c45-469f-ad0c-2728e0c55f88",
+      "TITLE" : "Bloody Cape",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:27gb40S6AIpP5lrhLxlfXj",
+      "DURATION" : "237",
+      "MUSICBRAINZ_TRACKID" : "5569d826-c8ea-4821-8c49-77c4585c937e",
+      "TITLE" : "Anniversary of an Uninteresting Event",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:25JBkmVl8pInIZw0YnydmK",
+      "DURATION" : "302",
+      "MUSICBRAINZ_TRACKID" : "fad666f7-7530-464f-8678-69f81fa8d640",
+      "TITLE" : "Moana",
+      "TRACKNUMBER" : "11"
+   }
+]

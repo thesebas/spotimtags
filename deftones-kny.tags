@@ -1,0 +1,93 @@
+﻿[
+   {
+      "@" : "spotify:track:2OUR8g12h5qsGDs1v5lqvp",
+      "ALBUM" : "Koi No Yokan",
+      "ARTIST" : "Deftones",
+      "CATALOGNUMBER" : "HD093624946649",
+      "DATE" : "2012-11-13",
+      "DURATION" : "165",
+      "LABEL" : "Reprise Records",
+      "MUSICBRAINZ_ALBUMID" : "8e0c1aae-806c-4a2d-a973-a8acd1f4b540",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "MUSICBRAINZ_RELEASEGROUPID" : "87338b87-34e2-4f11-8e2e-600636b6dbcb",
+      "MUSICBRAINZ_TRACKID" : "9dad3412-2529-44b6-9e1f-0ad895015638",
+      "ORIGINAL RELEASE DATE" : "2012-11-09",
+      "SPOTIFY:ALBUM" : "spotify:album:4PIVdqvL1Rc7T7Vfsr8n8Q",
+      "SPOTIFY:ARTIST" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+      "TITLE" : "Swerve City",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:23ZfYXdy2deoaf4u1XObHZ",
+      "DURATION" : "278",
+      "MUSICBRAINZ_TRACKID" : "66f8e1a6-307d-441d-b60a-70d8a62b60ca",
+      "TITLE" : "Romantic Dreams",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0RLhtEt50QUwKXNwKI4dSJ",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "eee2d7fb-bc15-49e4-9481-3bc88c729453",
+      "TITLE" : "Leathers",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:109Reh7np1btqIGNbVTAq3",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "184d4590-de41-4ed3-a1f8-0f7b80528651",
+      "TITLE" : "Poltergeist",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:4bLCPfBLKlqiONo6TALTh5",
+      "DURATION" : "299",
+      "MUSICBRAINZ_TRACKID" : "cdf4e60d-aefa-4378-bf18-fcf89506900d",
+      "TITLE" : "Entombed",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:7HLDvobIFC895EGNMzhdZb",
+      "DURATION" : "272",
+      "MUSICBRAINZ_TRACKID" : "7d7cc6aa-548b-4a60-a22c-8209c6088db2",
+      "TITLE" : "Graphic Nature",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:1parffUcsk8pfGbyMtGnmW",
+      "DURATION" : "365",
+      "MUSICBRAINZ_TRACKID" : "60af11e6-26a2-4d12-86c1-ec6ca13875e1",
+      "TITLE" : "Tempest",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:6ApFw0KmCRA0X0p2Vbqm0U",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "3eab1102-a45e-4ea6-8639-ca29a65b42e8",
+      "TITLE" : "Gauze",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4FEr6dIdH6EqLKR0jB560J",
+      "DURATION" : "413",
+      "MUSICBRAINZ_TRACKID" : "721d1946-0e06-4b01-bb0b-a68d5eced2a0",
+      "TITLE" : "Rosemary",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:0vB4pHzanZWUMprHnlsafz",
+      "DURATION" : "340",
+      "MUSICBRAINZ_TRACKID" : "b46e4509-8d75-4657-a043-82d5700455ad",
+      "TITLE" : "Goon Squad",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3GXmLpYjgpjXFtDkS4wtJ7",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "00a1ced0-dd2e-4e62-ba8a-97ffc5b67239",
+      "TITLE" : "What Happened to You?",
+      "TRACKNUMBER" : "11"
+   }
+]

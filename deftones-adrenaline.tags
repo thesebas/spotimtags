@@ -3,21 +3,17 @@
       "@" : "spotify:track:0PicuPCfXDJyyRtOR1ukGW",
       "ALBUM" : "Adrenaline",
       "ARTIST" : "Deftones",
-      "BARCODE" : "093624605423",
-      "CATALOGNUMBER" : "9 46054-2",
-      "DATE" : "1995-10-03",
+      "DATE" : "1995-09-29",
       "DURATION" : "246",
-      "LABEL" : [
-         "Maverick",
-         "Warner Bros. Records"
-      ],
-      "MUSICBRAINZ_ALBUMID" : "d84c56e7-2bd7-4547-a62b-0cffce02e02e",
+      "LABEL" : "Maverick",
+      "MUSICBRAINZ_ALBUMID" : "7fe5c92f-b784-478e-90f5-990d412c99fb",
       "MUSICBRAINZ_ALBUMSTATUS" : "Official",
       "MUSICBRAINZ_ALBUMTYPE" : "Album",
       "MUSICBRAINZ_ARTISTID" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
       "MUSICBRAINZ_RELEASEGROUPID" : "0b4ea447-444c-34ba-ba87-96496f2e15b8",
       "MUSICBRAINZ_TRACKID" : "02a5e8e3-2b6e-4c58-b4c1-cf54532c6dce",
-      "ORIGINAL RELEASE DATE" : "1995-09-29",
+      "SPOTIFY:ALBUM" : "spotify:album:30YN03R4Bjl8Qwz8wPRoXG",
+      "SPOTIFY:ARTIST" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
       "TITLE" : "Bored",
       "TOTALTRACKS" : "11",
       "TRACKNUMBER" : "1"
@@ -31,7 +27,7 @@
    },
    {
       "@" : "spotify:track:4Bj9dhsxbIwrblcmBs9BpZ",
-      "DURATION" : "268",
+      "DURATION" : "269",
       "MUSICBRAINZ_TRACKID" : "011697a8-ea3d-4c4f-8a75-2b703decf1f0",
       "TITLE" : "One Weak",
       "TRACKNUMBER" : "3"

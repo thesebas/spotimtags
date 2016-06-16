@@ -1,0 +1,94 @@
+﻿[
+   {
+      "@" : "spotify:track:6nmDEbjMZru5j55HIkX2yZ",
+      "ALBUM" : "Diamond Eyes",
+      "ARTIST" : "Deftones",
+      "BARCODE" : "093624984801",
+      "CATALOGNUMBER" : "511922-2",
+      "DATE" : "2010-05-04",
+      "DURATION" : "188",
+      "LABEL" : "Reprise Records",
+      "MUSICBRAINZ_ALBUMID" : "3adb1b5b-b766-4e7d-bec0-653b5f87a0b0",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "MUSICBRAINZ_RELEASEGROUPID" : "f21cec66-4e3a-42fc-b7e4-59b17bed0cca",
+      "MUSICBRAINZ_TRACKID" : "ba3b92a2-187f-49a0-a484-49e6fcc848ec",
+      "ORIGINAL RELEASE DATE" : "2010-03-24",
+      "SPOTIFY:ALBUM" : "spotify:album:1GjjBpY2iDwSQs5bykQI5e",
+      "SPOTIFY:ARTIST" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+      "TITLE" : "Diamond Eyes",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:08BFm5Pkw9KThqUb0KL1tH",
+      "DURATION" : "213",
+      "MUSICBRAINZ_TRACKID" : "dfbc5508-0b14-48b0-83d5-af609341eabe",
+      "TITLE" : "Royal",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4Srdlb9TIrmstXJqwyeIyo",
+      "DURATION" : "145",
+      "MUSICBRAINZ_TRACKID" : "60c3c56f-b947-45c7-822d-104c3d2ad57b",
+      "TITLE" : "CMND/CTRL",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:0oHj2DHtNVWEgBqOa1bejc",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "f3549675-0d18-425d-96e8-02d6cc29d5e3",
+      "TITLE" : "You’ve Seen the Butcher",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5sUCU4eiyf0pplIJ7OGEoc",
+      "DURATION" : "288",
+      "MUSICBRAINZ_TRACKID" : "51be5dfa-2a59-4795-882a-1ab7390557d7",
+      "TITLE" : "Beauty School",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:2OxSyTC8KDXIVKufIZLlVk",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "6123b398-bf08-4fa8-bb1c-0d55dc5d2bff",
+      "TITLE" : "Prince",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6Q7POvDeFGVFDYPmz7huYP",
+      "DURATION" : "254",
+      "MUSICBRAINZ_TRACKID" : "7996770f-ee74-44c4-ae2c-97daac28c79d",
+      "TITLE" : "Rocket Skates",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "5a97b963-3f1a-4da0-8b08-add3cb57fdca",
+      "TITLE" : "Sextape",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:0lqHgjNrXmtFroWDqwV1iQ",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "7cca3e33-b2c5-43fd-83f4-47a93b8e90ac",
+      "TITLE" : "Risk",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:3hb4W4FUPjyWUbYY2Sfih5",
+      "DURATION" : "273",
+      "MUSICBRAINZ_TRACKID" : "d5361d6b-cd8c-4359-86e2-528d355870af",
+      "TITLE" : "976-EVIL",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:6ECuUSXzcYP0xX8jQkfY2A",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "a5447ffe-efbb-48fb-8c80-568425306beb",
+      "TITLE" : "This Place Is Death",
+      "TRACKNUMBER" : "11"
+   }
+]

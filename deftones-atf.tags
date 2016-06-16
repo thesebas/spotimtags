@@ -1,0 +1,86 @@
+﻿[
+   {
+      "@" : "spotify:track:1158ckiB5S4cpsdYHDB9IF",
+      "ALBUM" : "Around the Fur",
+      "ARTIST" : "Deftones",
+      "BARCODE" : "093624681021",
+      "CATALOGNUMBER" : "9362-46810-2",
+      "DATE" : "1997-10-27",
+      "DURATION" : "215",
+      "LABEL" : "Maverick",
+      "MUSICBRAINZ_ALBUMID" : "8df53c9c-157e-3262-a212-517d411efda0",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "MUSICBRAINZ_RELEASEGROUPID" : "6f935b80-160f-3787-97d6-a4ce342cf8c5",
+      "MUSICBRAINZ_TRACKID" : "288296a3-f4a8-44b4-94a9-424daeba362a",
+      "SPOTIFY:ALBUM" : "spotify:album:7o4UsmV37Sg5It2Eb7vHzu",
+      "SPOTIFY:ARTIST" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+      "TITLE" : "My Own Summer (Shove It)",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:28q0pUwcJRS2tGZsYH6xL5",
+      "DURATION" : "251",
+      "MUSICBRAINZ_TRACKID" : "be91d52c-1f71-452e-8d54-3f3ae1445170",
+      "TITLE" : "Lhabia",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "eae8685c-0a07-4636-8e7a-153c33affe60",
+      "TITLE" : "Mascara",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3Fwe3XoPOiyWUPYdBKMTqV",
+      "DURATION" : "212",
+      "MUSICBRAINZ_TRACKID" : "5a2c10a9-6040-499f-8118-5421ea889e44",
+      "TITLE" : "Around the Fur",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:7Ca5yTC81P0AtRnNKHKzwJ",
+      "DURATION" : "163",
+      "MUSICBRAINZ_TRACKID" : "c51ee9bf-c293-4531-b26e-b246d096e103",
+      "TITLE" : "Rickets",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:4Uiw0Sl9yskBaC6P4DcdVD",
+      "DURATION" : "300",
+      "MUSICBRAINZ_TRACKID" : "4683a53b-800b-4cee-923b-a129ca43c9af",
+      "TITLE" : "Be Quiet and Drive (Far Away)",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:7iiULg8Kmbnh1vWbh9rnBA",
+      "DURATION" : "238",
+      "MUSICBRAINZ_TRACKID" : "63a37afa-5c7c-4114-a542-4c293bee2882",
+      "TITLE" : "Lotion",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:2cN7qiHMJflO91pkG9HoO1",
+      "DURATION" : "277",
+      "MUSICBRAINZ_TRACKID" : "47653032-a588-4da9-898a-3b35f1b571b7",
+      "TITLE" : "Dai the Flu",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4dfvPFbLEa6JzZV4dZTWt7",
+      "DURATION" : "373",
+      "MUSICBRAINZ_TRACKID" : "6a107c0c-fd4e-4ee3-8ac4-9f14e7be40e3",
+      "TITLE" : "Headup",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:0CSZ1DMvRZH0WLB5V0WSom",
+      "DURATION" : "2239",
+      "MUSICBRAINZ_TRACKID" : "c15f5fa1-22f8-4024-9ca4-ee2dca134f88",
+      "TITLE" : "MX / Bong Hit / Damone",
+      "TRACKNUMBER" : "10"
+   }
+]

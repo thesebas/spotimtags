@@ -1,0 +1,101 @@
+﻿[
+   {
+      "@" : "spotify:track:5Bpc360LNUScK53FrM8nvB",
+      "ALBUM" : "Saturday Night Wrist",
+      "ARTIST" : "Deftones",
+      "BARCODE" : "093624323921",
+      "CATALOGNUMBER" : "43239-2",
+      "DATE" : "2006-10-31",
+      "DURATION" : "249",
+      "LABEL" : "Maverick",
+      "MUSICBRAINZ_ALBUMID" : "94e45b3f-3669-3e9a-a53b-d7a104ac83e4",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "MUSICBRAINZ_RELEASEGROUPID" : "82be2ea8-9c50-3024-a1be-cf35c2e5fd69",
+      "MUSICBRAINZ_TRACKID" : "9e143a9b-8b24-4e52-aac7-726bb2740825",
+      "ORIGINAL RELEASE DATE" : "2006-10-30",
+      "SPOTIFY:ALBUM" : "spotify:album:4ilqDlqD37nilewk9x8tyZ",
+      "SPOTIFY:ARTIST" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+      "TITLE" : "Hole in the Earth",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:620AufYgDC98tSaVvGjnpL",
+      "DURATION" : "206",
+      "MUSICBRAINZ_TRACKID" : "486b811b-8300-4a51-8aa0-2d78d66f8a34",
+      "TITLE" : "Rapture",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2ASygm7048ssav4ekbehPS",
+      "DURATION" : "361",
+      "MUSICBRAINZ_TRACKID" : "74ecea2c-63ed-429e-ac83-d4db849a242e",
+      "TITLE" : "Beware",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:70L6nHORQsblY813yNqUR3",
+      "DURATION" : "318",
+      "MUSICBRAINZ_TRACKID" : "9dcacfe4-bf73-4906-ab97-2a709c3578d7",
+      "TITLE" : "Cherry Waves",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:7vfUhnW7qDtkFId4GJnvtA",
+      "DURATION" : "238",
+      "MUSICBRAINZ_TRACKID" : "b1bdaca0-73c3-49b0-b1bc-ba4f5f50aa83",
+      "TITLE" : "Mein",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:1JxbSOaffUJEldOpXLK2Gh",
+      "DURATION" : "253",
+      "MUSICBRAINZ_TRACKID" : "57e70253-46ac-4792-a432-3b51a4cb4b65",
+      "TITLE" : "U,U,D,D,L,R,L,R,A,B,Select,Start",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:5hxcxipGOjgTzrPOkfsyyS",
+      "DURATION" : "222",
+      "MUSICBRAINZ_TRACKID" : "bd21a5d3-2436-47ac-94c0-2207bfc3fe5f",
+      "TITLE" : "Xerces",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5uKr5OFPYPvPs7bIwZdxi0",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "7846de39-4303-44e6-ba54-df490f798ffe",
+      "TITLE" : "Rats!Rats!Rats!",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:7andb4aBDbdxMUMcAWh5DN",
+      "DURATION" : "305",
+      "MUSICBRAINZ_TRACKID" : "712ce2e2-bc9c-4de8-9c41-6b3836eaeae2",
+      "TITLE" : "Pink Cellphone",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:2tdzFXOsJLLI20QdnSqxr1",
+      "DURATION" : "286",
+      "MUSICBRAINZ_TRACKID" : "87ea57ce-72d3-42ca-81b0-4dd13cde889c",
+      "TITLE" : "Combat",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:4m8wPzkI1y0sUdqEh4A7fq",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "3a41be2b-fb86-48d0-83b9-45fcb07cc96f",
+      "TITLE" : "Kimdracula",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:1A6Y3Ntkk4oeQ9FUskNMkY",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "ca61a0c3-3359-4864-b537-794a31cfc050",
+      "TITLE" : "Rivière",
+      "TRACKNUMBER" : "12"
+   }
+]
