@@ -1,1 +1,93 @@
-﻿[{"@":"spotify:track:0B1Iqqq8wVoXM5R5glHQES","ALBUM":"Gore","ARTIST":"Deftones","spotify:artist":"spotify:artist:6Ghvu1VvMGScGpOUJBAHNH","TITLE":"Prayers / Triangles","TRACKNUMBER":"1","spotify:album":"spotify:album:3tsXyEbUQehXPaRFCS8K1n","DURATION":"218"},{"@":"spotify:track:7t2JgdeMxaw7cRhJbtUcm2","ALBUM":"Gore","ARTIST":"Deftones","spotify:artist":"spotify:artist:6Ghvu1VvMGScGpOUJBAHNH","TITLE":"Acid Hologram","TRACKNUMBER":"2","spotify:album":"spotify:album:3tsXyEbUQehXPaRFCS8K1n","DURATION":"246"},{"@":"spotify:track:6eMGp0jmEbFxy42ZnyzsLJ","ALBUM":"Gore","ARTIST":"Deftones","spotify:artist":"spotify:artist:6Ghvu1VvMGScGpOUJBAHNH","TITLE":"Doomed User","TRACKNUMBER":"3","spotify:album":"spotify:album:3tsXyEbUQehXPaRFCS8K1n","DURATION":"267"},{"@":"spotify:track:45VAWfiWf1aX6yKMhb7nDp","ALBUM":"Gore","ARTIST":"Deftones","spotify:artist":"spotify:artist:6Ghvu1VvMGScGpOUJBAHNH","TITLE":"Geometric Headdress","TRACKNUMBER":"4","spotify:album":"spotify:album:3tsXyEbUQehXPaRFCS8K1n","DURATION":"209"},{"@":"spotify:track:1SeMnyEb5dwCBLU3QUC0K2","ALBUM":"Gore","ARTIST":"Deftones","spotify:artist":"spotify:artist:6Ghvu1VvMGScGpOUJBAHNH","TITLE":"Hearts / Wires","TRACKNUMBER":"5","spotify:album":"spotify:album:3tsXyEbUQehXPaRFCS8K1n","DURATION":"321"},{"@":"spotify:track:5WhRD87Q9qx388WdiIdQ0b","ALBUM":"Gore","ARTIST":"Deftones","spotify:artist":"spotify:artist:6Ghvu1VvMGScGpOUJBAHNH","TITLE":"Pittura Infamante","TRACKNUMBER":"6","spotify:album":"spotify:album:3tsXyEbUQehXPaRFCS8K1n","DURATION":"244"},{"@":"spotify:track:3DjG5WXxqUyYBdeHdQZb80","ALBUM":"Gore","ARTIST":"Deftones","spotify:artist":"spotify:artist:6Ghvu1VvMGScGpOUJBAHNH","TITLE":"Xenon","TRACKNUMBER":"7","spotify:album":"spotify:album:3tsXyEbUQehXPaRFCS8K1n","DURATION":"197"},{"@":"spotify:track:4hYNZvsCnAOZP0lADhpmgC","ALBUM":"Gore","ARTIST":"Deftones","spotify:artist":"spotify:artist:6Ghvu1VvMGScGpOUJBAHNH","TITLE":"(L)MIRL","TRACKNUMBER":"8","spotify:album":"spotify:album:3tsXyEbUQehXPaRFCS8K1n","DURATION":"302"},{"@":"spotify:track:0u1vgJ4L1Fb3JQUxpNV1He","ALBUM":"Gore","ARTIST":"Deftones","spotify:artist":"spotify:artist:6Ghvu1VvMGScGpOUJBAHNH","TITLE":"Gore","TRACKNUMBER":"9","spotify:album":"spotify:album:3tsXyEbUQehXPaRFCS8K1n","DURATION":"299"}]
+﻿[
+   {
+      "@" : "spotify:track:0B1Iqqq8wVoXM5R5glHQES",
+      "ALBUM" : "Gore",
+      "ARTIST" : "Deftones",
+      "BARCODE" : "093624926481",
+      "CATALOGNUMBER" : [ "550092-2", "9362-49264-8" ],
+      "DATE" : "2016-04-08",
+      "DURATION" : "218",
+      "LABEL" : "Reprise Records",
+      "MUSICBRAINZ_ALBUMID" : "6350b720-15b7-479a-8d4f-c17e5f933624",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "MUSICBRAINZ_RELEASEGROUPID" : "4c0a6c9b-090b-4159-a359-a328d94c50d3",
+      "MUSICBRAINZ_TRACKID" : "15809606-c87e-4b0a-a424-8d15e6adfb59",
+      "SPOTIFY:ALBUM" : "spotify:album:3tsXyEbUQehXPaRFCS8K1n",
+      "SPOTIFY:ARTIST" : "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+      "TITLE" : "Prayers/Triangles",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7t2JgdeMxaw7cRhJbtUcm2",
+      "DURATION" : "246",
+      "MUSICBRAINZ_TRACKID" : "d787f68d-e587-4875-8efc-ed8feea3beaa",
+      "TITLE" : "Acid Hologram",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6eMGp0jmEbFxy42ZnyzsLJ",
+      "DURATION" : "267",
+      "MUSICBRAINZ_TRACKID" : "6554eb52-beec-4fb1-9422-a513d24d2263",
+      "TITLE" : "Doomed User",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:45VAWfiWf1aX6yKMhb7nDp",
+      "DURATION" : "209",
+      "MUSICBRAINZ_TRACKID" : "c1dd49b4-ee78-48e1-976b-7df0a96721b2",
+      "TITLE" : "Geometric Headdress",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1SeMnyEb5dwCBLU3QUC0K2",
+      "DURATION" : "321",
+      "MUSICBRAINZ_TRACKID" : "6a126bff-8d69-439a-a35e-1a74da7b3333",
+      "TITLE" : "Hearts/Wires",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5WhRD87Q9qx388WdiIdQ0b",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "2fae8306-14d8-419a-ad38-f84cab098150",
+      "TITLE" : "Pittura Infamante",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3DjG5WXxqUyYBdeHdQZb80",
+      "DURATION" : "197",
+      "MUSICBRAINZ_TRACKID" : "5f45736c-3a37-4966-add8-9bbf1a3e0689",
+      "TITLE" : "Xenon",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:4hYNZvsCnAOZP0lADhpmgC",
+      "DURATION" : "302",
+      "MUSICBRAINZ_TRACKID" : "e6d6c85e-b82b-4399-8ea4-03af9cd7ef4c",
+      "TITLE" : "(L)MIRL",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:0u1vgJ4L1Fb3JQUxpNV1He",
+      "DURATION" : "299",
+      "MUSICBRAINZ_TRACKID" : "25436271-5bbc-40c9-886b-92805ccdbc24",
+      "TITLE" : "Gore",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:33qrQEXQJg4uk6k8fZgoOa",
+      "DURATION" : "293",
+      "MUSICBRAINZ_TRACKID" : "6c504aff-a32b-4df3-bfeb-bde8b1b0b8b1",
+      "TITLE" : "Phantom Bride",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:7GmxcKBzgT3LdOQJ07dYPa",
+      "DURATION" : "298",
+      "MUSICBRAINZ_TRACKID" : "ed13fd32-4a80-4306-b3cb-057fb74cd2a3",
+      "TITLE" : "Rubicon",
+      "TRACKNUMBER" : "11"
+   }
+]
