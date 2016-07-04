@@ -1,0 +1,93 @@
+﻿[
+   {
+      "@" : "spotify:track:7zhRpQXt7uzOklBM50CbvI",
+      "ALBUM" : "Miss Machine",
+      "ARTIST" : "The Dillinger Escape Plan",
+      "BARCODE" : "781676658725",
+      "CATALOGNUMBER" : "DEP:MM 6587-2",
+      "DATE" : "2004-07-20",
+      "DURATION" : "147",
+      "LABEL" : "Relapse Records",
+      "MUSICBRAINZ_ALBUMID" : "3b2d67cb-35cd-42d7-a193-eaaeeca43f17",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "1bc41dff-5397-4c53-bb50-469d2c277197",
+      "MUSICBRAINZ_RELEASEGROUPID" : "60089b39-412b-326c-afc7-aaa47113d84f",
+      "MUSICBRAINZ_TRACKID" : "a100efb8-0f18-44ed-8383-a503a4b7c728",
+      "SPOTIFY:ALBUM" : "spotify:album:6WcZTpAxpMYHAunYfI24X7",
+      "SPOTIFY:ARTIST" : "spotify:artist:7IGcjaMGAtsvKBLQX26W4i",
+      "TITLE" : "Panasonic Youth",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1L1vm8bkIyaSXLHiQkr8DV",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "3f13fda2-2f04-468b-80d4-32fad0490caf",
+      "TITLE" : "Sunshine the Werewolf",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2ZqjLGpNLrMefnnG81QPbI",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "4e01aada-0835-48be-a220-1bac3c534149",
+      "TITLE" : "Highway Robbery",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:2ronNzFbdPNVygv4cIr3vO",
+      "DURATION" : "179",
+      "MUSICBRAINZ_TRACKID" : "a7f07719-4bb3-4496-aec1-21c111352c50",
+      "TITLE" : "Van Damsel",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:4A4WFWShfFMs64EBnaneMS",
+      "DURATION" : "256",
+      "MUSICBRAINZ_TRACKID" : "e89a86c4-5535-4036-a58b-7f7cb924ec46",
+      "TITLE" : "Phone Home",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6zkTYKCmx2YUzHwK8mARyL",
+      "DURATION" : "279",
+      "MUSICBRAINZ_TRACKID" : "0f2cd959-ea60-4dd8-8878-1e8aa73dc980",
+      "TITLE" : "We Are the Storm",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:5qUIIariiqQ4uqH1JG4Bqv",
+      "DURATION" : "53",
+      "MUSICBRAINZ_TRACKID" : "07624d83-a359-43cb-bae9-395728453cce",
+      "TITLE" : "Crutch Field Tongs",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:2ZyNYdziwt0ZS9mxRiwnXM",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "8e9c710a-c5c9-4ddb-b3ed-11e6d064246e",
+      "TITLE" : "Setting Fire to Sleeping Giants",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:2FAXNQ7wRx9cAE9a4wDxRa",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "83d4889c-971c-4f4b-9a92-5c7983e219a5",
+      "TITLE" : "Baby’s First Coffin",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:0jHt88E5zeabxoTM3c0W1t",
+      "DURATION" : "338",
+      "MUSICBRAINZ_TRACKID" : "31bdadf6-47ee-4f39-8054-3af0f8652878",
+      "TITLE" : "Unretrofied",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3aJIkO0bWF81JRFDugbEg4",
+      "DURATION" : "230",
+      "MUSICBRAINZ_TRACKID" : "9ab22af5-77fb-4755-a842-b6ad41f1e2db",
+      "TITLE" : "The Perfect Design",
+      "TRACKNUMBER" : "11"
+   }
+]

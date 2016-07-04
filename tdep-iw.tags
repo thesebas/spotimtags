@@ -1,0 +1,107 @@
+﻿[
+   {
+      "@" : "spotify:track:5IataNH8QUBNvRx4d3lurP",
+      "ALBUM" : "Ire Works",
+      "ARTIST" : "The Dillinger Escape Plan",
+      "BARCODE" : "781676669929",
+      "CATALOGNUMBER" : "RR6699",
+      "DATE" : "2007-11-13",
+      "DURATION" : "162",
+      "LABEL" : "Relapse Records",
+      "MUSICBRAINZ_ALBUMID" : "535df16d-28f5-4118-8a5b-08623b521651",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "1bc41dff-5397-4c53-bb50-469d2c277197",
+      "MUSICBRAINZ_RELEASEGROUPID" : "1608b4bf-4909-3a7a-b318-f3b045a090f6",
+      "MUSICBRAINZ_TRACKID" : "2ec3c9e1-85b7-4b42-b972-b9caca96c5af",
+      "SPOTIFY:ALBUM" : "spotify:album:65ai7QRrruWGNPcVU23PgD",
+      "SPOTIFY:ARTIST" : "spotify:artist:7IGcjaMGAtsvKBLQX26W4i",
+      "TITLE" : "Fix Your Face",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7cceojpcDFkIOYUqcrCj3U",
+      "DURATION" : "123",
+      "MUSICBRAINZ_TRACKID" : "3a2cd4cb-cf7d-46da-a493-8ec9f2f02d88",
+      "TITLE" : "Lurch",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:10d9HLkpBvtWf5uhZeoSJE",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "b28607a0-e4cc-4c4d-83eb-3240bfbace2b",
+      "TITLE" : "Black Bubblegum",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:7hrpw3dDn2Nrhi1L7FLR38",
+      "DURATION" : "130",
+      "MUSICBRAINZ_TRACKID" : "47858047-d8bd-4a3a-a357-21912de82546",
+      "TITLE" : "Sick on Sunday",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5UQbNhJIBqQisdbQ20oFTP",
+      "DURATION" : "83",
+      "MUSICBRAINZ_TRACKID" : "860d788e-8b47-4da3-8ddc-a9160ce29bca",
+      "TITLE" : "When Acting as a Particle",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5sHXdj0JvRXaqYCPDfVzdd",
+      "DURATION" : "76",
+      "MUSICBRAINZ_TRACKID" : "e47929d4-836e-4829-ab01-5a3a47e6a0fe",
+      "TITLE" : "Nong Eye Gong",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2oY1BluSK1K0ITe74I91Pn",
+      "DURATION" : "93",
+      "MUSICBRAINZ_TRACKID" : "64c34ff3-544d-4560-965e-b5f4bb211ba9",
+      "TITLE" : "When Acting as a Wave",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3tS9boNFoElRhCXG1ceCYR",
+      "DURATION" : "117",
+      "MUSICBRAINZ_TRACKID" : "0010a9a5-c4a9-4309-9e7c-58a0f7caaa7d",
+      "TITLE" : "82588",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4TOZ8TuZQRMEgJjNsgewg2",
+      "DURATION" : "235",
+      "MUSICBRAINZ_TRACKID" : "15a2ed7a-7d60-433e-b22e-fe6e558a07b7",
+      "TITLE" : "Milk Lizard",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:7D96FRFBAzdjokigZD7RtD",
+      "DURATION" : "117",
+      "MUSICBRAINZ_TRACKID" : "1a16cabf-d19e-4199-9ea3-f3ce702a9966",
+      "TITLE" : "Party Smasher",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:4MgSNKWuF9ibOVXNg5n6dx",
+      "DURATION" : "329",
+      "MUSICBRAINZ_TRACKID" : "4e5690de-aeff-4241-883f-19e5c80af4be",
+      "TITLE" : "Dead as History",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:0QFn1Q6FF1aLrBaFLp42O7",
+      "DURATION" : "191",
+      "MUSICBRAINZ_TRACKID" : "c4798528-e654-48d2-86fb-a60eae0c1536",
+      "TITLE" : "Horse Hunter",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:0Le202Yj1zphNm3QyfN1sB",
+      "DURATION" : "410",
+      "MUSICBRAINZ_TRACKID" : "dc79b6d5-f167-4874-95c0-32c3b3e7be48",
+      "TITLE" : "Mouth of Ghosts",
+      "TRACKNUMBER" : "13"
+   }
+]

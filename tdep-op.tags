@@ -1,0 +1,118 @@
+﻿[
+   {
+      "@" : "spotify:track:4h14RgzJitjF2yP4XeVz4x",
+      "ALBUM" : "Option Paralysis",
+      "ARTIST" : "The Dillinger Escape Plan",
+      "DATE" : "2013-06-18",
+      "DURATION" : "323",
+      "MUSICBRAINZ_ALBUMID" : "6059cc39-1426-41ef-a73b-60a96d0519b0",
+      "MUSICBRAINZ_ALBUMSTATUS" : "(None)",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "1bc41dff-5397-4c53-bb50-469d2c277197",
+      "MUSICBRAINZ_RELEASEGROUPID" : "e05a00dc-83f8-4ad3-b5f0-c952624226ce",
+      "MUSICBRAINZ_TRACKID" : "e272602f-b598-412d-8d4f-6f7e926742d7",
+      "SPOTIFY:ALBUM" : "spotify:album:5vSIIYJWSMBSs0hL3HJBWZ",
+      "SPOTIFY:ARTIST" : "spotify:artist:7IGcjaMGAtsvKBLQX26W4i",
+      "TITLE" : "Farewell, Mona Lisa",
+      "TOTALTRACKS" : "15",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:49wEDt86KoVKIBbQCVXJu3",
+      "DURATION" : "150",
+      "MUSICBRAINZ_TRACKID" : "6f892dbb-9c19-4c01-87bb-ba0a3376667b",
+      "TITLE" : "Good Neighbor",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:3ISbi8NgZoUhWmWsXhItSy",
+      "DURATION" : "323",
+      "MUSICBRAINZ_TRACKID" : "5696d305-ca48-41e5-8d72-86fdfed0a586",
+      "TITLE" : "Gold Teeth on a Bum",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3ZwtOFpAkyhP1zrxbIbnZB",
+      "DURATION" : "122",
+      "MUSICBRAINZ_TRACKID" : "8da6b5b0-179a-4c2d-922c-88e1204976eb",
+      "TITLE" : "Crystal Morning",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:10eAkmF6l4zLMQSBRDnUPC",
+      "DURATION" : "153",
+      "MUSICBRAINZ_TRACKID" : "bc8aec1e-7c7e-4736-9855-3d7f2368e816",
+      "TITLE" : "Endless Endings",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:53ggbuKCCTmJ1QoduRnAsB",
+      "DURATION" : "384",
+      "MUSICBRAINZ_TRACKID" : "f1fb32f4-fcd1-4c3b-9ba5-db5212204728",
+      "TITLE" : "Widower",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2LivaLjBvBEPHHRkY9LSDH",
+      "DURATION" : "256",
+      "MUSICBRAINZ_TRACKID" : "1f7d4122-a23c-4965-abdc-77def7866c4c",
+      "TITLE" : "Room Full of Eyes",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5R1CSygr0DF7bAvtyXC8Be",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "869e80c4-c184-4b9b-855d-1ddcacdbc9cf",
+      "TITLE" : "Chinese Whispers",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:0kt9GQ2MiGNJtvHKYDkxSu",
+      "DURATION" : "254",
+      "MUSICBRAINZ_TRACKID" : "c54aec36-db67-4ab5-9716-598af8bdaefc",
+      "TITLE" : "I Wouldn't If You Didn't",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:6s9Oi0gc36PoUcv9MP6biK",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "c6f0c062-6c3c-4a38-a72b-9887df6c273d",
+      "TITLE" : "Parasitic Twins",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:1rtxdfph83B18iUBhDIqoZ",
+      "DURATION" : "172",
+      "MUSICBRAINZ_TRACKID" : "1c588139-cbf5-4a1d-b4e5-94443c294125",
+      "TITLE" : "Heat Deaf Melted Grill",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:2icw1Pwq6RIJBmE8yMjBSJ",
+      "DURATION" : "143",
+      "MUSICBRAINZ_TRACKID" : "144ca3d0-6e56-4cc2-9de4-eab8e5fda7e4",
+      "TITLE" : "Chuck McChip",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:6x4nXR1OORXAS5fISKydZY",
+      "DURATION" : "297",
+      "MUSICBRAINZ_TRACKID" : "8a2c15a8-d411-49e7-bc7c-0b58774f0b9b",
+      "TITLE" : "Farewell, Mona Lisa",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:0MpbbqoCNeSSe0WTVygyiI",
+      "DURATION" : "165",
+      "MUSICBRAINZ_TRACKID" : "8b3cb1df-3e28-403a-9232-e9b66b8b3608",
+      "TITLE" : "Endless Endings",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:5ctmnRkN3mE572bf8egooD",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "f4c10d8c-5830-487c-8062-227ad040ebef",
+      "TITLE" : "Parasitic Twins (instrumental)",
+      "TRACKNUMBER" : "15"
+   }
+]

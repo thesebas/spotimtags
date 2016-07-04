@@ -1,0 +1,108 @@
+﻿[
+   {
+      "@" : "spotify:track:7jMl0r6ROhuUSaTj40INId",
+      "ALBUM" : "Under the Running Board",
+      "ARTIST" : "The Dillinger Escape Plan",
+      "BARCODE" : "781676702220",
+      "CATALOGNUMBER" : "RR 7022",
+      "DATE" : "2008-10-14",
+      "DURATION" : "111",
+      "LABEL" : "Relapse Records",
+      "MUSICBRAINZ_ALBUMID" : "c81c2f64-b726-4199-8a49-6e82fbe1ce99",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "EP",
+      "MUSICBRAINZ_ARTISTID" : "1bc41dff-5397-4c53-bb50-469d2c277197",
+      "MUSICBRAINZ_RELEASEGROUPID" : "6d6740bb-21dc-3f65-8cf9-5837591c9a0d",
+      "MUSICBRAINZ_TRACKID" : "31feade0-f515-4a0c-ae6f-fa224f7834c7",
+      "ORIGINAL RELEASE DATE" : "1998-10-22",
+      "SPOTIFY:ALBUM" : "spotify:album:5RTcg3hyd7ON4vBfYIx0Nl",
+      "SPOTIFY:ARTIST" : "spotify:artist:7IGcjaMGAtsvKBLQX26W4i",
+      "TITLE" : "The Mullet Burden",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1piW0gumM5RVAL9zoBcJkq",
+      "DURATION" : "152",
+      "MUSICBRAINZ_TRACKID" : "9069f290-e435-457a-bac7-d9172f9ce8dc",
+      "TITLE" : "Sandbox Magician",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:25WLBliIDXBwnQqxSgf29E",
+      "DURATION" : "191",
+      "MUSICBRAINZ_TRACKID" : "ddfd28c3-0947-4d11-9d26-fc28be034f74",
+      "TITLE" : "Abe the Cop",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:7BxX9TIXVy0qbLoivslGQ0",
+      "DURATION" : "126",
+      "MUSICBRAINZ_TRACKID" : "82db03df-9fe6-44e1-b70f-104edf3b2f61",
+      "TITLE" : "Sandbox Magician",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:2iLYdAJK2aIScb3rkSMbm8",
+      "DURATION" : "175",
+      "MUSICBRAINZ_TRACKID" : "1095dc88-69db-49b3-86ac-7a705b703a38",
+      "TITLE" : "Jim Fear",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:4fP2ux1VG5HTY0Qd2769RV",
+      "DURATION" : "150",
+      "MUSICBRAINZ_TRACKID" : "1d4792f6-1d17-4f44-8d90-15d95b2090e7",
+      "TITLE" : "Destro's Secret",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:4h3q6CaBNtvRwG5jOd398o",
+      "DURATION" : "289",
+      "MUSICBRAINZ_TRACKID" : "e2e7180f-aaab-4944-8a66-0bef6137f83a",
+      "TITLE" : "Clip the Apex... Accept Instruction",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0GpIwQO5UvrW61Lu7ncMPZ",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "79848339-fc6b-4622-a3ea-568209fa74a7",
+      "TITLE" : "43% Burnt",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:1Vk8MhpwigBbRCK5gPGE2M",
+      "DURATION" : "116",
+      "MUSICBRAINZ_TRACKID" : "ed5d61ca-4ea8-4701-a347-5fd621fba380",
+      "TITLE" : "The Mullet Burden",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:2j3lezeMgzWG7xVdejW8uS",
+      "DURATION" : "212",
+      "MUSICBRAINZ_TRACKID" : "6d31c65e-9a42-4b0f-aaee-69ed718825ad",
+      "TITLE" : "Sugar Coated Sour",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:6pkHZ3aSM0LrqQSjEEGQZo",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "6c7f32b7-26f0-4e28-9c31-6e4d3800fbaf",
+      "TITLE" : "The Running Board",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:2adRqVQ4fK9bHTpOA2VWZE",
+      "DURATION" : "293",
+      "MUSICBRAINZ_TRACKID" : "891d1465-de50-443f-bb49-d20b7cdbc024",
+      "TITLE" : "Abe the Cop",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:6FmnEk4xCJMq5eiMDyXuWC",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "a8281974-e4b7-42c6-b65c-e207449a4c59",
+      "TITLE" : "Paranoid",
+      "TRACKNUMBER" : "13"
+   }
+]

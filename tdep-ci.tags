@@ -1,0 +1,93 @@
+﻿[
+   {
+      "@" : "spotify:track:2UcpjCU2cpRx7DurSQb7U1",
+      "ALBUM" : "Calculating Infinity",
+      "ARTIST" : "The Dillinger Escape Plan",
+      "BARCODE" : "781676642724",
+      "CATALOGNUMBER" : "RR 6427-2",
+      "DATE" : "1999-09-28",
+      "DURATION" : "144",
+      "LABEL" : "Relapse Records",
+      "MUSICBRAINZ_ALBUMID" : "b37590d5-8bb9-456f-944d-a92251a70a00",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "1bc41dff-5397-4c53-bb50-469d2c277197",
+      "MUSICBRAINZ_RELEASEGROUPID" : "3db16ade-a4ad-3db8-a7b3-943a9c97b6b5",
+      "MUSICBRAINZ_TRACKID" : "0a5d67e4-91fe-400a-97ff-775590ceceea",
+      "SPOTIFY:ALBUM" : "spotify:album:0lUmhvC9JtPpU8LEYHVdyS",
+      "SPOTIFY:ARTIST" : "spotify:artist:7IGcjaMGAtsvKBLQX26W4i",
+      "TITLE" : "Sugar Coated Sour",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3zlaF6d64vPWScaR0hSaqB",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "e3ab6f56-160b-4b48-b722-529d60367e59",
+      "TITLE" : "43% Burnt",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6Wt5BTiXVKPqEhCfSj77QZ",
+      "DURATION" : "142",
+      "MUSICBRAINZ_TRACKID" : "3c154603-42eb-42ec-a245-923474761f67",
+      "TITLE" : "Jim Fear",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:64CAJlurlZd8e8Rz8i5Mp2",
+      "DURATION" : "161",
+      "MUSICBRAINZ_TRACKID" : "6284fe20-9e0a-40f9-8e00-17c1ac33114a",
+      "TITLE" : "*#..",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1Tq8OFKWccjquHdBqmCub6",
+      "DURATION" : "116",
+      "MUSICBRAINZ_TRACKID" : "46320060-0b8b-4d34-ac13-319221951423",
+      "TITLE" : "Destro’s Secret",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5TaqJBVJBIv6plUfAdNl9D",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "e2ea90d2-ec22-44b2-9e6d-c704575a8fc9",
+      "TITLE" : "The Running Board",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6kaYoWPZFjsGTG2jFVgfBl",
+      "DURATION" : "209",
+      "MUSICBRAINZ_TRACKID" : "979c57ce-80c8-494a-ac4c-43d8bcf853f2",
+      "TITLE" : "Clip the Apex…Accept Instruction",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:1GdvplkzMWe5f3vgUMeLbr",
+      "DURATION" : "122",
+      "MUSICBRAINZ_TRACKID" : "ddae49b6-9f70-4135-ad51-133efad27ecb",
+      "TITLE" : "Calculating Infinity",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:5X0geOnVNaB7wVPy9uoUXN",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "b2bbdb34-76dd-4cf9-9bce-8fa426fb6c22",
+      "TITLE" : "4th Grade Dropout",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:0ZvoRLaP0trHV92SjN8dtc",
+      "DURATION" : "192",
+      "MUSICBRAINZ_TRACKID" : "da10cceb-2e36-4a89-ad7f-f6c77ed3efdc",
+      "TITLE" : "Weekend Sex Change",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:596mckm1dbzrzSdJBv3iqx",
+      "DURATION" : "476",
+      "MUSICBRAINZ_TRACKID" : "38cdc15b-a83f-4e98-85fa-d5a67a2949a8",
+      "TITLE" : "Variations on a Cocktail Dress",
+      "TRACKNUMBER" : "11"
+   }
+]
