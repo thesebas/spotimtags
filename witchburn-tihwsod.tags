@@ -1,0 +1,104 @@
+﻿[
+   {
+      "@" : "spotify:track:0u2ip71vOJbEW7r4eWEhUD",
+      "ALBUM" : "This Is How We Slay Our Demons...",
+      "ARTIST" : "Witchburn",
+      "DATE" : "2010",
+      "DURATION" : "298",
+      "MUSICBRAINZ_ALBUMID" : "162bc10e-2cfa-4048-9163-7e8b20178bff",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "af0dd6b4-f1e1-4078-996d-e6a979764042",
+      "MUSICBRAINZ_RELEASEGROUPID" : "efb9f5a8-3a05-4a2e-9965-181ebc0c0c58",
+      "MUSICBRAINZ_TRACKID" : "9354b1da-881b-4f21-ba71-e68291bcc963",
+      "SPOTIFY:ALBUM" : "spotify:album:0kz7514CCsTiyd1ndsbrAQ",
+      "SPOTIFY:ARTIST" : "spotify:artist:4tcFvBAknXwLBaOAvYbVcv",
+      "TITLE" : "Bleed the Stone",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:5HCSlh9Y4hpqpIi0SjGALc",
+      "DURATION" : "297",
+      "MUSICBRAINZ_TRACKID" : "4209ff78-64ca-44dd-bcbc-9e90ff17f11a",
+      "TITLE" : "Call to Arms",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2bO4Io2259O07d8QEXSwXf",
+      "DURATION" : "436",
+      "MUSICBRAINZ_TRACKID" : "d6b65fd7-5333-4918-a64f-27a524fd18be",
+      "TITLE" : "The Hunted",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5SI3cmkXohxqduLA2BPlbX",
+      "DURATION" : "302",
+      "MUSICBRAINZ_TRACKID" : "6c25b988-565d-4250-8095-c4b0256601e1",
+      "TITLE" : "Stand Up and Be Counted",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1PMYoDAZm2vu2uWF4edF62",
+      "DURATION" : "404",
+      "MUSICBRAINZ_TRACKID" : "49321a4b-1be5-46e2-96f3-8b3faa868214",
+      "TITLE" : "Heaven's Wake",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5bGct468wt4XvxeEQ11H8v",
+      "DURATION" : "199",
+      "MUSICBRAINZ_TRACKID" : "11ccfe84-b7a5-4d07-982d-ee3a06fc5e93",
+      "TITLE" : "Be Purified",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:1CorqSqdpUvonqcr49u7Rs",
+      "DURATION" : "317",
+      "MUSICBRAINZ_TRACKID" : "0e1e224d-3f1b-43e4-ae47-17ccc790e8eb",
+      "TITLE" : "Whiskey on My Breath",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3V9QHaUR2z5KiIfWKlEZah",
+      "DURATION" : "427",
+      "MUSICBRAINZ_TRACKID" : "82af4c1a-7386-4224-a498-726192c21346",
+      "TITLE" : "Rain Come, Cleanse Me",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:0FL4nEd9YkqzWr7GWmE5b3",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "b2eaffff-c768-4bbf-af6a-ddd485b2e0c2",
+      "TITLE" : "Blood Soaked Banner",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:5sVaLKJxqPPQznjVvD4eOY",
+      "DURATION" : "261",
+      "MUSICBRAINZ_TRACKID" : "b2993480-624e-4fda-a36e-7575f22ec602",
+      "TITLE" : "Army of Voices",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:5cXiBeZnyRPtv0DVfyaELp",
+      "DURATION" : "370",
+      "MUSICBRAINZ_TRACKID" : "8db2de4c-7b42-4186-85ed-394bfb0e3586",
+      "TITLE" : "The Storm",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:4gFjeLaxoPRDgSrTJrE6YG",
+      "DURATION" : "253",
+      "MUSICBRAINZ_TRACKID" : "920f84a7-6c77-45b2-9440-b4d11008e729",
+      "TITLE" : "Hallowed Ground",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:2Pq1EmEHRDw7oGnrtnI01x",
+      "DURATION" : "559",
+      "MUSICBRAINZ_TRACKID" : "933bd9f0-ae84-40d4-8cda-7807de13322a",
+      "TITLE" : "Perseverance",
+      "TRACKNUMBER" : "13"
+   }
+]

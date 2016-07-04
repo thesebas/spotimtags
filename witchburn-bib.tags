@@ -1,0 +1,82 @@
+﻿[
+   {
+      "@" : "spotify:track:3rtsQR3mwGCjDS0qanUMwi",
+      "ALBUM" : "Bathed In Blood",
+      "ARTIST" : "Witchburn",
+      "DURATION" : "286",
+      "MUSICBRAINZ_ALBUMID" : "9b821631-fbb8-40b2-a3b8-817524db3494",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "af0dd6b4-f1e1-4078-996d-e6a979764042",
+      "MUSICBRAINZ_RELEASEGROUPID" : "eac26d2d-875e-4063-8f26-cb1247cf61a6",
+      "MUSICBRAINZ_TRACKID" : "a15a3093-131c-44b8-a4cb-cc964a441b3e",
+      "SPOTIFY:ALBUM" : "spotify:album:6xuO8ITbF786llD1VgZSz1",
+      "SPOTIFY:ARTIST" : "spotify:artist:4tcFvBAknXwLBaOAvYbVcv",
+      "TITLE" : "Warning to the Weak",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:032YgKZED3praHpdOUCGUJ",
+      "DURATION" : "388",
+      "MUSICBRAINZ_TRACKID" : "8587daa9-d8f7-4ed3-b5c5-2acbfb1506e6",
+      "TITLE" : "(Ghosts Walking) Into a Black Sunrise",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:3z95Po2d9YFI003ZNTJrEw",
+      "DURATION" : "260",
+      "MUSICBRAINZ_TRACKID" : "4eb88fd9-9aab-4510-b220-c44565e22e96",
+      "TITLE" : "Shuffle Up and Deal",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:7AqDvT33YPUOV7Ui5i1PGR",
+      "DURATION" : "383",
+      "MUSICBRAINZ_TRACKID" : "38054886-bb1d-41ce-9859-6bd8cb59fa75",
+      "TITLE" : "Before the Sun",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5SuPmu3kCpebSZT6iHGRSz",
+      "DURATION" : "268",
+      "MUSICBRAINZ_TRACKID" : "cd1ac264-ddbf-40d5-b819-664bcaf906db",
+      "TITLE" : "Der Hexenhammer",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:20duADujb2w1nHl5vsQfjj",
+      "DURATION" : "274",
+      "MUSICBRAINZ_TRACKID" : "4cd9440a-916d-430e-bc21-9f1776c67766",
+      "TITLE" : "One and the Same",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2S4MS3ZCTzfPepWmrzxAeR",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "90809252-adb2-47f7-85ac-653cc8f12712",
+      "TITLE" : "Evolve",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5QAZ6vJzVreLfACTE5XGao",
+      "DURATION" : "304",
+      "MUSICBRAINZ_TRACKID" : "f60bb6bf-990b-4003-8c83-4b798b91dc8c",
+      "TITLE" : "Resurrection of Rebellion",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:0AG4CVBSiYDzQ1qJT0TSI9",
+      "DURATION" : "252",
+      "MUSICBRAINZ_TRACKID" : "0e45f8cd-e27e-4196-9335-9af6e81860d9",
+      "TITLE" : "Sweet Rock N' Roll",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:1oFBZFfoV1A77crpvy7Inc",
+      "DURATION" : "617",
+      "MUSICBRAINZ_TRACKID" : "4e7a0d08-7a4b-42df-a4e0-75530238d47c",
+      "TITLE" : "Hymn for the Damned",
+      "TRACKNUMBER" : "10"
+   }
+]
