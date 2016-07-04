@@ -1,0 +1,85 @@
+﻿[
+   {
+      "@" : "spotify:track:2ScRtWUawU2flMAI0d7zzg",
+      "ALBUM" : "Paradigm in Entropy",
+      "ARTIST" : "Bleed the Sky",
+      "DATE" : "2006-08-15",
+      "DURATION" : "252",
+      "LABEL" : "Nuclear Blast GmbH",
+      "MUSICBRAINZ_ALBUMID" : "6aad5f24-cef0-4193-aa8c-ba1848344428",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "3dd5e428-5770-4cfe-bc65-5972f00fbfe1",
+      "MUSICBRAINZ_RELEASEGROUPID" : "c99b8659-27c3-3f95-9cd0-ec0489da5c91",
+      "MUSICBRAINZ_TRACKID" : "48b0193c-8317-45a8-807e-9a95903164cd",
+      "ORIGINAL RELEASE DATE" : "2005-04-19",
+      "SPOTIFY:ALBUM" : "spotify:album:0MIojnzaN8DL0UuQuzsd0H",
+      "SPOTIFY:ARTIST" : "spotify:artist:5Uja5NwAaord75KaD0jLXv",
+      "TITLE" : "Minion",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7hqu0ETKTfESOnMjMporbI",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "cb92894b-2a24-4a6d-bb31-eb4ef6aceac1",
+      "TITLE" : "Leverage",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2n74iQebfUCR1JoVHGucgJ",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "0f8deccf-acbc-4fa8-b690-62860ed8c80a",
+      "TITLE" : "Paradigm in Entropy",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:1ST9lDFJ1pK98wNi9NRDFI",
+      "DURATION" : "248",
+      "MUSICBRAINZ_TRACKID" : "59b6b928-c3d9-4294-b3dd-3f44cd4f87d3",
+      "TITLE" : "Skin Un Skin",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:7z0AAw5Rc6QxKvWSKuyM7f",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "3a3d95ce-c885-4bc7-851d-3c9bedf6d1e5",
+      "TITLE" : "Killtank",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:0wYsN571nphjsJtENmidNL",
+      "DURATION" : "350",
+      "MUSICBRAINZ_TRACKID" : "d1f19903-bdf8-47ed-aad2-944f76d110e9",
+      "TITLE" : "The Martyr",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:184sNjPzuZVyCJNDe4uIgB",
+      "DURATION" : "182",
+      "MUSICBRAINZ_TRACKID" : "2383924d-b904-4950-a14e-2a1d42d8e60c",
+      "TITLE" : "Gated",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5jQtVdcrLOy62qSdxXISSs",
+      "DURATION" : "237",
+      "MUSICBRAINZ_TRACKID" : "0221d38e-0453-4f1b-acd4-dd4b24a71f16",
+      "TITLE" : "God in the Frame",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:3JreQDheXIPw3sOZJT03os",
+      "DURATION" : "206",
+      "MUSICBRAINZ_TRACKID" : "271d1b67-ba19-4df0-8a40-c61ae1bc41dc",
+      "TITLE" : "Division",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:2ueMeCtShQ51ZKGwJxWgOW",
+      "DURATION" : "310",
+      "MUSICBRAINZ_TRACKID" : "ad08f69c-0568-4492-b1cf-d72bb79fd5a6",
+      "TITLE" : "Borrelia Mass",
+      "TRACKNUMBER" : "10"
+   }
+]
