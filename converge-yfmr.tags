@@ -1,0 +1,105 @@
+﻿[
+   {
+      "@" : "spotify:track:7D8uBlsN5ZvEJ66WHjALY3",
+      "ALBUM" : "You Fail Me",
+      "ARTIST" : "Converge",
+      "DATE" : "2004",
+      "DURATION" : "60",
+      "MUSICBRAINZ_ALBUMID" : "e3f3dd24-798c-4d2e-8f34-7e97d3ced433",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "fa31e7d4-a03a-4110-98fc-f8826e95ec25",
+      "MUSICBRAINZ_RELEASEGROUPID" : "2b5ed727-a499-3b2c-ae17-3daeac886d14",
+      "MUSICBRAINZ_TRACKID" : "43e0c118-2418-4064-a2e2-ab4382c36609",
+      "ORIGINAL RELEASE DATE" : "2004-09-21",
+      "SPOTIFY:ALBUM" : "spotify:album:3wOokyD0PiNT4CkaUnqdse",
+      "SPOTIFY:ARTIST" : "spotify:artist:7kHzfxMLtVHHb523s43rY1",
+      "TITLE" : "First Light",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:2XYUlhreSKS7Zf5f628u7f",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "fa122671-4ca9-4823-aa3f-b3e93df67b9d",
+      "TITLE" : "Last Light",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:5LqvYgSeISsO6FFMS5g78k",
+      "DURATION" : "139",
+      "MUSICBRAINZ_TRACKID" : "652d0e27-3f08-4800-b33d-1e3cb829e68c",
+      "TITLE" : "Black Cloud",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:05nAFJVaOXca8EhtUZXkPf",
+      "DURATION" : "152",
+      "MUSICBRAINZ_TRACKID" : "7017aafd-afed-406f-883b-7edd347fe874",
+      "TITLE" : "Drop Out",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:2o7ci0a0YLkeiM0mVP9PMK",
+      "DURATION" : "67",
+      "MUSICBRAINZ_TRACKID" : "afcaeac1-8333-4a11-bed1-6dfe3900ed71",
+      "TITLE" : "Hope Street",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:1iUezVILL5vhi1tgftzNed",
+      "DURATION" : "148",
+      "MUSICBRAINZ_TRACKID" : "aa5b065d-5d21-4934-98db-8332a7b28004",
+      "TITLE" : "Heartless",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:7evelL4L45vzRu894VMaoh",
+      "DURATION" : "337",
+      "MUSICBRAINZ_TRACKID" : "17259ee5-603a-4a49-b82e-c58893a4783a",
+      "TITLE" : "You Fail Me",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:65TlAqrFDrbHiFAJmKkAOc",
+      "DURATION" : "386",
+      "MUSICBRAINZ_TRACKID" : "6d0de7d0-d706-4587-808b-3227d7128463",
+      "TITLE" : "In Her Shadow",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:3LjuE3zQIP7HZSf7nI8XY2",
+      "DURATION" : "132",
+      "MUSICBRAINZ_TRACKID" : "a4f6c65f-3fee-41e3-bda0-6358d9cbcbd6",
+      "TITLE" : "Eagles Become Vultures",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:2dydQCLtaka1FVckMgqlY5",
+      "DURATION" : "153",
+      "MUSICBRAINZ_TRACKID" : "0d044639-3996-4b89-b799-52d9d69478ea",
+      "TITLE" : "Wolves at My Door",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:47se3vbsYL29huQIQ3Y3cL",
+      "DURATION" : "128",
+      "MUSICBRAINZ_TRACKID" : "b5eea020-236f-4236-89e4-4a6f2b899bda",
+      "TITLE" : "Death King",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:55pe8Q88gwJSEedmXwK6sp",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "f74b5d11-8ccd-47ac-850b-d0318ea53ded",
+      "TITLE" : "In Her Blood",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:1bu605IzDQSxwFBcechQo2",
+      "DURATION" : "124",
+      "MUSICBRAINZ_TRACKID" : "64e7cbe5-f322-4420-86c9-e168c60629ea",
+      "TITLE" : "Hanging Moon",
+      "TRACKNUMBER" : "13"
+   }
+]
