@@ -1,0 +1,93 @@
+﻿[
+   {
+      "@" : "spotify:track:2fsL0tTdpSQnktNRUwRTiK",
+      "ALBUM" : "Mudvayne",
+      "ARTIST" : "Mudvayne",
+      "BARCODE" : "886973026526",
+      "CATALOGNUMBER" : "88697302652",
+      "DATE" : "2009-12-21",
+      "DURATION" : "303",
+      "LABEL" : "Epic",
+      "MUSICBRAINZ_ALBUMID" : "2d7d12dd-7f64-3cd5-9b7c-91842bff0187",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "f1c8da15-b408-4149-b863-f1cbe9971f19",
+      "MUSICBRAINZ_RELEASEGROUPID" : "5b4c691a-e678-4e81-9d5b-57d5455289ea",
+      "MUSICBRAINZ_TRACKID" : "7aebe8fc-3906-4fa7-9bae-8fd8853807c0",
+      "SPOTIFY:ALBUM" : "spotify:album:6yLcsHhdfUAug0lIWqxuxS",
+      "SPOTIFY:ARTIST" : "spotify:artist:2Pfv2w8a20xzC7Dr7QXRqM",
+      "TITLE" : "Beautiful and Strange",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3VZ3FQEuhXLMll86i4mbEH",
+      "DURATION" : "357",
+      "MUSICBRAINZ_TRACKID" : "91f386eb-6411-484b-b126-12d9ca33a257",
+      "TITLE" : "1000 Mile Journey",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:7ss73yV5efYHgm9bAQ98JM",
+      "DURATION" : "173",
+      "MUSICBRAINZ_TRACKID" : "a13ea21a-0e69-482e-a343-5cf6570207e1",
+      "TITLE" : "Scream With Me",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:1Hp7LP0VU8FN5fMjlvgbyf",
+      "DURATION" : "201",
+      "MUSICBRAINZ_TRACKID" : "6688014b-fe91-412b-b54a-26f0e8a00c46",
+      "TITLE" : "Closer",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5cozFCkv98UAKT9GYsret6",
+      "DURATION" : "366",
+      "MUSICBRAINZ_TRACKID" : "03b78458-7c1d-4278-8f6d-13c6e74be98f",
+      "TITLE" : "Heard It All Before",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:7eFoWIlwcODd9TALQgoA00",
+      "DURATION" : "183",
+      "MUSICBRAINZ_TRACKID" : "63715644-362b-4597-b413-b34f28d17836",
+      "TITLE" : "I Can't Wait",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:5Yhfi1xf6HXwgoYctW3LIG",
+      "DURATION" : "287",
+      "MUSICBRAINZ_TRACKID" : "32f4b1f1-68d9-4b49-9a51-34db13948c5f",
+      "TITLE" : "Beyond the Pale",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:2N0yIGs5DbmqAFRfVzgWGF",
+      "DURATION" : "173",
+      "MUSICBRAINZ_TRACKID" : "f0e7987e-9db3-4b81-be7d-3326209a1181",
+      "TITLE" : "All Talk",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:27l4Vv5jsWdYcZOgTZxErW",
+      "DURATION" : "347",
+      "MUSICBRAINZ_TRACKID" : "848515ed-659a-4b5f-9801-a79d09825b5c",
+      "TITLE" : "Out to Pasture",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:0yZWhkpsJBPbRGOVKnGGlc",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "cc1e8fa9-0068-4212-a7f7-c5cfbb13bdbe",
+      "TITLE" : "Burn the Bridge",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3KC2CER0sTOo8aNgMRR4Mm",
+      "DURATION" : "295",
+      "MUSICBRAINZ_TRACKID" : "b6cd3296-a443-41b7-a981-68e0a480fa7a",
+      "TITLE" : "Dead Inside",
+      "TRACKNUMBER" : "11"
+   }
+]

@@ -1,0 +1,93 @@
+﻿[
+   {
+      "@" : "spotify:track:6UQjO5DdugATtUvn5mJ1OV",
+      "ALBUM" : "The Beginning of All Things to End",
+      "ARTIST" : "Mudvayne",
+      "BARCODE" : "696998599529",
+      "CATALOGNUMBER" : "EK 85995",
+      "DATE" : "2001-11-20",
+      "DURATION" : "82",
+      "LABEL" : "Epic",
+      "MUSICBRAINZ_ALBUMID" : "220b926c-dabe-4be9-8768-209137155a46",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "f1c8da15-b408-4149-b863-f1cbe9971f19",
+      "MUSICBRAINZ_RELEASEGROUPID" : "fa73fe8c-1c82-35e0-9d17-b9fe16e347bc",
+      "MUSICBRAINZ_TRACKID" : "cfc48165-6c55-4c59-bf9e-81b3e2783eeb",
+      "SPOTIFY:ALBUM" : "spotify:album:2mEyxEdb2Hrn4B9DrcTnCz",
+      "SPOTIFY:ARTIST" : "spotify:artist:2Pfv2w8a20xzC7Dr7QXRqM",
+      "TITLE" : "Poop Loser",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:2MCpY0WsrLYiI8871maxmO",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "8a552b79-51c2-4f6c-896e-0a96eb931cfd",
+      "TITLE" : "Seed",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6AQs4OdEECBQ8VWXSrbTQO",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "3a78c7f9-836a-4200-a0d0-a888bbde51dc",
+      "TITLE" : "Cultivate",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:278tsIVEtz9skvsj3tr8P7",
+      "DURATION" : "167",
+      "MUSICBRAINZ_TRACKID" : "9c4c29f4-590e-45ef-a52a-49f06946644d",
+      "TITLE" : "Some Assembly Required",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3q3T1rqw9nMxF8ZaEqdwUq",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "b484f5d5-f4ca-4642-a2b8-ac03cfc20f01",
+      "TITLE" : "I.D.I.O.T.",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6OgfQQFP6Ew0LPw2hISA9v",
+      "DURATION" : "197",
+      "MUSICBRAINZ_TRACKID" : "617d5af3-23f1-455d-a340-48751691363b",
+      "TITLE" : "Central Disposal",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2pr5LL2ayrZWZZ7r6jln2e",
+      "DURATION" : "304",
+      "MUSICBRAINZ_TRACKID" : "af6dccc0-95d3-4706-b7d1-eb9925359171",
+      "TITLE" : "Coal",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5Lk9RTsJimkwfzT13C8Jkp",
+      "DURATION" : "287",
+      "MUSICBRAINZ_TRACKID" : "25c2e781-3867-4891-969b-9eed0649307d",
+      "TITLE" : "Fear",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:1ibV3eEfTHqtfIh8mRZ8FU",
+      "DURATION" : "342",
+      "MUSICBRAINZ_TRACKID" : "de0a8358-da77-4e9b-be7f-fa2994668d50",
+      "TITLE" : "Dig (Future Evolution remix)",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4mvNHPEn1RF0ZnbkJjAcH9",
+      "DURATION" : "297",
+      "MUSICBRAINZ_TRACKID" : "9be615de-d06b-482d-9742-23e15008ec8c",
+      "TITLE" : "Dig (Everything and Nothing remix)",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:4X50LPEpZxb2F3wf7zfbBE",
+      "DURATION" : "1035",
+      "MUSICBRAINZ_TRACKID" : "7dbf8ed8-fdc1-428c-9988-835199206c55",
+      "TITLE" : "L.D. 50",
+      "TRACKNUMBER" : "11"
+   }
+]

@@ -1,0 +1,110 @@
+﻿[
+   {
+      "@" : "spotify:track:5RDqGhMi8dw7ou1PFAN9Br",
+      "ALBUM" : "The End of All Things to Come",
+      "ARTIST" : "Mudvayne",
+      "BARCODE" : "5099750993897",
+      "CATALOGNUMBER" : "509938 9",
+      "DATE" : "2003",
+      "DISCNUMBER" : "1",
+      "DURATION" : "181",
+      "LABEL" : "Epic",
+      "MUSICBRAINZ_ALBUMID" : "95587fcc-2007-3672-9769-1da1ccc5569e",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "f1c8da15-b408-4149-b863-f1cbe9971f19",
+      "MUSICBRAINZ_RELEASEGROUPID" : "04044784-0918-379e-8ab8-9f9b343b1b2b",
+      "MUSICBRAINZ_TRACKID" : "7f6b97db-c69e-4a77-a8da-c5aaddd1ea84",
+      "ORIGINAL RELEASE DATE" : "2002",
+      "SPOTIFY:ALBUM" : "spotify:album:4CE5Dwiroop0DKR2SlC3fp",
+      "SPOTIFY:ARTIST" : "spotify:artist:2Pfv2w8a20xzC7Dr7QXRqM",
+      "TITLE" : "Silenced",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:0hE8p14uelBSwO25M0towr",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "ac8eb10d-e649-4ad1-96a5-396f598e760f",
+      "TITLE" : "Trapped in the Wake of a Dream",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0ss3ny5ZmAYMpTWJDLgnV8",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "56e10825-0230-4cfc-86a2-5beccad8867e",
+      "TITLE" : "Not Falling",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6vFEiV2nCgC04tILiEpx8j",
+      "DURATION" : "280",
+      "MUSICBRAINZ_TRACKID" : "57c550b6-840b-4543-90f2-8c96554cbac4",
+      "TITLE" : "(Per)Version of a Truth",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1U4UIfwXwTtzfRDWqIYRGo",
+      "DURATION" : "295",
+      "MUSICBRAINZ_TRACKID" : "42a255fa-9f59-45ba-87d8-028746c5d6f7",
+      "TITLE" : "Mercy, Severity",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:0iZbC7hLkOdBhewWb4nqff",
+      "DURATION" : "337",
+      "MUSICBRAINZ_TRACKID" : "2a5a4de0-a78d-4382-89c3-c8a4307213c9",
+      "TITLE" : "World So Cold",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:4a59uJeZg1TkpLg218cfUn",
+      "DURATION" : "279",
+      "MUSICBRAINZ_TRACKID" : "dac49991-9989-48a3-ae43-931284b715a1",
+      "TITLE" : "The Patient Mental",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5wTg2LYXUOs6eJf268bcOj",
+      "DURATION" : "338",
+      "MUSICBRAINZ_TRACKID" : "299e8194-3876-404e-b2c2-05d4bfdd794e",
+      "TITLE" : "Skrying",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:7wvtEPRcroKhbBPhv6RHlX",
+      "DURATION" : "169",
+      "MUSICBRAINZ_TRACKID" : "77dffb1d-fe9b-4f10-b00e-bc815beaa80b",
+      "TITLE" : "Solve Et Coagula",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:2DvRlLWL2b4ymoVfHkmynH",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "19868309-3c54-4321-9aa7-78ce3ccc58b2",
+      "TITLE" : "Shadow of a Man",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:1U6PNws3PKE3iW2G5Sbwlk",
+      "DURATION" : "10",
+      "MUSICBRAINZ_TRACKID" : "c3c785b3-ed84-419a-bb82-c2797b510985",
+      "TITLE" : "12:97:24:99",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:3ZmoNcfUzmv4akxdbddGrp",
+      "DURATION" : "181",
+      "MUSICBRAINZ_TRACKID" : "c861ce0e-693b-4be8-b869-6e40fdd5399c",
+      "TITLE" : "The End of All Things to Come",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:5qKn5QZwDidvT9hQFbcsqb",
+      "DURATION" : "307",
+      "MUSICBRAINZ_TRACKID" : "0b693aed-2640-4360-a65f-c1e71e804366",
+      "TITLE" : "A Key to Nothing",
+      "TRACKNUMBER" : "13"
+   }
+]

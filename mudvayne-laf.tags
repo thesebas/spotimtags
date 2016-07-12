@@ -1,0 +1,101 @@
+﻿[
+   {
+      "@" : "spotify:track:0GBiT1wHV68bU0Cv8ZU2HZ",
+      "ALBUM" : "Lost and Found",
+      "ARTIST" : "Mudvayne",
+      "BARCODE" : "827969445624",
+      "CATALOGNUMBER" : "EN 94456",
+      "DATE" : "2005-04-12",
+      "DURATION" : "159",
+      "LABEL" : "Epic",
+      "MUSICBRAINZ_ALBUMID" : "fabf5469-81f9-3e9d-902a-29b2c692aa79",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "f1c8da15-b408-4149-b863-f1cbe9971f19",
+      "MUSICBRAINZ_RELEASEGROUPID" : "7923a965-9d6a-385a-a6d0-c6c5927dd196",
+      "MUSICBRAINZ_TRACKID" : "9d1ec3a6-e4b4-4faf-8e56-bd013ce2830b",
+      "ORIGINAL RELEASE DATE" : "2005-03-28",
+      "SPOTIFY:ALBUM" : "spotify:album:0dCRu5tVhx9fvbVZSxfjfP",
+      "SPOTIFY:ARTIST" : "spotify:artist:2Pfv2w8a20xzC7Dr7QXRqM",
+      "TITLE" : "Determined",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:4hvq2Q3Ykt1pEsk13E25Se",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "38df1eb0-0f74-44cc-8f34-8f507545f14c",
+      "TITLE" : "Pushing Through",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0INUE1K7cEiE8VH63Rv5RJ",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "3cab3867-d999-4822-8623-27017ddbeac0",
+      "TITLE" : "Happy?",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5g924DBWMk3Crw134IO0Sj",
+      "DURATION" : "351",
+      "MUSICBRAINZ_TRACKID" : "d647c983-1dc8-4669-91be-6cb489cbff3a",
+      "TITLE" : "IMN",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:0UvuqCD6ktYwIW97Pn4p2o",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "7e73e131-aae2-42a4-bcd2-75f69d71b2cd",
+      "TITLE" : "Fall Into Sleep",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:1iucJEoiORwMis2joz7LpB",
+      "DURATION" : "276",
+      "MUSICBRAINZ_TRACKID" : "149cd34a-e2f2-497d-99c8-443055e1d5a9",
+      "TITLE" : "Rain. Sun. Gone.",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3DOOH85hBBJw0a9oMujR1j",
+      "DURATION" : "485",
+      "MUSICBRAINZ_TRACKID" : "11bd96d1-0f41-4642-a1d1-fada40ff2e02",
+      "TITLE" : "Choices",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0h5D9uxuZRAfq6qMMX34vN",
+      "DURATION" : "215",
+      "MUSICBRAINZ_TRACKID" : "78096941-d805-4a74-bf6f-a8afc32b0a66",
+      "TITLE" : "Forget to Remember",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:12Kjf4pmhzIVFRbIdNhs5p",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "0f6514fc-20de-4e07-9d92-1794d31921a7",
+      "TITLE" : "TV Radio",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:1QLr6gymdozD537PWqepBf",
+      "DURATION" : "180",
+      "MUSICBRAINZ_TRACKID" : "23f60304-a5ce-44f2-866f-d673ad7052bc",
+      "TITLE" : "Just",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:17PdfAI6vqyxZrBc4cpTm4",
+      "DURATION" : "372",
+      "MUSICBRAINZ_TRACKID" : "7b0af574-f632-47fc-8b70-e0cdaecf78c3",
+      "TITLE" : "All That You Are",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:332bwMr9bTlpLCslGhUq6c",
+      "DURATION" : "305",
+      "MUSICBRAINZ_TRACKID" : "d396a290-81a9-4f5a-9667-7572ce2bc89c",
+      "TITLE" : "Pulling the String",
+      "TRACKNUMBER" : "12"
+   }
+]

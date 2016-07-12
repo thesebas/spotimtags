@@ -1,0 +1,135 @@
+﻿[
+   {
+      "@" : "spotify:track:35ByCF1r56S7o1Oo7ball1",
+      "ALBUM" : "L.D. 50",
+      "ARTIST" : "Mudvayne",
+      "BARCODE" : "074646382127",
+      "CATALOGNUMBER" : "EK 63821",
+      "DATE" : "2000-08-29",
+      "DURATION" : "113",
+      "LABEL" : "Epic",
+      "MUSICBRAINZ_ALBUMID" : "ac888539-4c63-46b0-ac0c-f7efff96ce53",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "f1c8da15-b408-4149-b863-f1cbe9971f19",
+      "MUSICBRAINZ_RELEASEGROUPID" : "a7fc1d25-7b86-3c76-bcbb-64ab29287a70",
+      "MUSICBRAINZ_TRACKID" : "fde95aad-c608-46d2-9339-1f5bb5d87025",
+      "SPOTIFY:ALBUM" : "spotify:album:79cxLehm2WE9NMIRcJaqK9",
+      "SPOTIFY:ARTIST" : "spotify:artist:2Pfv2w8a20xzC7Dr7QXRqM",
+      "TITLE" : "Monolith",
+      "TOTALTRACKS" : "17",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7vrLphPq4yjaX7jiDdd2Nc",
+      "DURATION" : "162",
+      "MUSICBRAINZ_TRACKID" : "6a6cbfc3-849f-4369-92ea-2b3836869a68",
+      "TITLE" : "Dig",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1mhwzvD3iVSR1SUOemLAHc",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "7a7d818e-a36d-480c-9b90-b2f5c6adf8a6",
+      "TITLE" : "Internal Primates Forever",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:2v4OZx6CBj631eoyayjYn1",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "553e262a-ff4b-4025-8458-d46e829aeedc",
+      "TITLE" : "-1",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3Y4rNagSf2IukhcOTWYJuV",
+      "DURATION" : "292",
+      "MUSICBRAINZ_TRACKID" : "d894f15c-d6f4-482c-8645-f7d2fcdaff39",
+      "TITLE" : "Death Blooms",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:3UXtbm5mwH3uzlH1dqOMwi",
+      "DURATION" : "55",
+      "MUSICBRAINZ_TRACKID" : "716fc0ca-a25b-4f89-a01b-591e1cbebb68",
+      "TITLE" : "Golden Ratio",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:339NCIqLkMpKZprr5e4cDY",
+      "DURATION" : "315",
+      "MUSICBRAINZ_TRACKID" : "fc88ac46-ab43-4763-8e7b-e1f21cf9caa4",
+      "TITLE" : "Cradle",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:099F8DBwudywg5KK6WVFox",
+      "DURATION" : "329",
+      "MUSICBRAINZ_TRACKID" : "d6e272fc-ee31-48f9-9e90-de8fae888975",
+      "TITLE" : "Nothing to Gein",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4NtkM21zL2O7IGp21DUzcp",
+      "DURATION" : "104",
+      "MUSICBRAINZ_TRACKID" : "f634cd64-8e0e-4a35-8295-45b27776f3d1",
+      "TITLE" : "Mutatis Mutandis",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4Gwbr87Gyn7KJkZJZPareN",
+      "DURATION" : "195",
+      "MUSICBRAINZ_TRACKID" : "b03da43d-8a2d-4065-933b-4152841d5116",
+      "TITLE" : "Everything and Nothing",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:2IIXuRuxo5uZSENXWGNsVr",
+      "DURATION" : "389",
+      "MUSICBRAINZ_TRACKID" : "b5f14de4-320d-4e91-a9c6-e09577e64931",
+      "TITLE" : "Severed",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:2z0UIFzsoKwHPm8eaQPC3C",
+      "DURATION" : "122",
+      "MUSICBRAINZ_TRACKID" : "36e3768f-55aa-4e40-9015-01ae45a15bb5",
+      "TITLE" : "Recombinant Resurgence",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:14O8hBkMXUXUhlUfWDezHq",
+      "DURATION" : "364",
+      "MUSICBRAINZ_TRACKID" : "3f0c3d94-01f2-4fb5-9d85-1bfdb4ed2bf7",
+      "TITLE" : "Prod",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:6xsoH6nI7BW1Zxf2z62TqD",
+      "DURATION" : "335",
+      "MUSICBRAINZ_TRACKID" : "d5098220-9ab8-4212-bf3b-a4ae807ac5c1",
+      "TITLE" : "Pharmaecopia",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:6jryVg8V79kUVqFNUP9njw",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "a4fbc573-c2aa-40c5-8dde-0afc1bf5cd89",
+      "TITLE" : "Under My Skin",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:5hTYQweKsoFEijpgvgnJ9q",
+      "DURATION" : "426",
+      "MUSICBRAINZ_TRACKID" : "b4fb9274-0635-4d6f-b4d3-6d8c602762ce",
+      "TITLE" : "(K)now F(orever)",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:65dlyPATDAJsADkDRyxzEV",
+      "DURATION" : "179",
+      "MUSICBRAINZ_TRACKID" : "a8c4ecfc-7b54-4504-a70a-a47322041849",
+      "TITLE" : "Lethal Dosage",
+      "TRACKNUMBER" : "17"
+   }
+]
