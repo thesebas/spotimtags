@@ -1,0 +1,51 @@
+﻿[
+   {
+      "@" : "spotify:track:6cnR1U5bIJUMzNOlaQOjAh",
+      "ALBUM" : "Take Refuge in Clean Living",
+      "ARTIST" : "Grails",
+      "BARCODE" : "793447519029",
+      "CATALOGNUMBER" : "imprec190",
+      "DATE" : "2008-05-12",
+      "DURATION" : "455",
+      "LABEL" : "Important Records",
+      "MUSICBRAINZ_ALBUMID" : "ad759dd8-3e5c-4ea9-a337-f9d898712a7a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "2f911bc5-8619-40c9-ae9a-9c6250ba5b25",
+      "MUSICBRAINZ_RELEASEGROUPID" : "94a283ff-ae40-35e8-af95-3b804f7f8447",
+      "MUSICBRAINZ_TRACKID" : "dcfcbc73-436c-4b48-a8fb-d320a40868be",
+      "SPOTIFY:ALBUM" : "spotify:album:1Md0UlsOq0TgGecPoQs856",
+      "SPOTIFY:ARTIST" : "spotify:artist:3VdjlG06JkVAnZ19TR7ZHZ",
+      "TITLE" : "Stoned at the Taj Again",
+      "TOTALTRACKS" : "5",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:4bMzVPr6qiNQdvIKUV0TSt",
+      "DURATION" : "411",
+      "MUSICBRAINZ_TRACKID" : "8d04d4f7-2511-4bde-9dee-c5d3f626f7a9",
+      "TITLE" : "PTSD",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:5uZBEQiw6VccpcQ3mSjoRs",
+      "DURATION" : "248",
+      "MUSICBRAINZ_TRACKID" : "d855743d-2203-4321-9142-4cec4cba0d0e",
+      "TITLE" : "11th Hour",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:47zN46BhsAKKqRCzthE74K",
+      "DURATION" : "486",
+      "MUSICBRAINZ_TRACKID" : "6f0760b9-d616-4cd2-b82b-57039acc1418",
+      "TITLE" : "Take Refuge",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6SlXQXO9UDVxneDOYUtQVp",
+      "DURATION" : "351",
+      "MUSICBRAINZ_TRACKID" : "dc45f8d2-3a65-4f4d-bcb2-5d55ce10cc97",
+      "TITLE" : "Clean Living",
+      "TRACKNUMBER" : "5"
+   }
+]

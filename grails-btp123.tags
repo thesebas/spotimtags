@@ -1,0 +1,79 @@
+﻿[
+   {
+      "@" : "spotify:track:0qelRB1CuwBwA1nxNrLdaZ",
+      "ALBUM" : "Black Tar Prophecies, Volumes 1, 2, & 3",
+      "ARTIST" : "Grails",
+      "BARCODE" : "793447510521",
+      "CATALOGNUMBER" : "imprec105",
+      "DATE" : "2006-08-28",
+      "DURATION" : "306",
+      "LABEL" : "Important Records",
+      "MUSICBRAINZ_ALBUMID" : "cc4e4dd1-5ba7-4fd9-b110-8fa3d93cfefe",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Compilation",
+      "MUSICBRAINZ_ARTISTID" : "2f911bc5-8619-40c9-ae9a-9c6250ba5b25",
+      "MUSICBRAINZ_RELEASEGROUPID" : "7c95b71e-f10c-3d7e-98cb-26349537618a",
+      "MUSICBRAINZ_TRACKID" : "52b9cdb7-0898-41fe-8530-815c18903d07",
+      "SPOTIFY:ALBUM" : "spotify:album:5ZVQ3Pfs2hRfbBDKx3EJBX",
+      "SPOTIFY:ARTIST" : "spotify:artist:3VdjlG06JkVAnZ19TR7ZHZ",
+      "TITLE" : "Back to the Monastery",
+      "TOTALTRACKS" : "9",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3vgtghZlDUBQ5UeeFJCGUU",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "e26f1c19-0802-40ce-937a-dcc6a296b9ac",
+      "TITLE" : "Bad Bhang Recipe",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:055yEyWqSteY7tYPrYFEtP",
+      "DURATION" : "237",
+      "MUSICBRAINZ_TRACKID" : "475d4807-d3dd-4943-acef-89ed48f726e5",
+      "TITLE" : "Belgian Wake-Up Drill",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:0tv4ir4p3AbsoTGYWKx4F5",
+      "DURATION" : "189",
+      "MUSICBRAINZ_TRACKID" : "e07904cd-b084-4f4a-ab8b-1957b1f3ccea",
+      "TITLE" : "Smokey Room",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:0uGHYsRnHgQiBNwT6BrtLx",
+      "DURATION" : "309",
+      "MUSICBRAINZ_TRACKID" : "0e21d0c4-1fd3-4974-8536-502e7028bd50",
+      "TITLE" : "Black Tar Frequencies",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5AxNzaj7UZgtJrp7qWgwgo",
+      "DURATION" : "358",
+      "MUSICBRAINZ_TRACKID" : "408cdd50-161d-4c98-80e3-67b4e2b14a39",
+      "TITLE" : "Stray Dog",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6THa4E42fGWjEP7tJWYAUU",
+      "DURATION" : "295",
+      "MUSICBRAINZ_TRACKID" : "00a0e557-a0f1-491f-9a67-28351a17074a",
+      "TITLE" : "Erosion Blues",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:7For4KwaHS6GGr16u2HQzK",
+      "DURATION" : "317",
+      "MUSICBRAINZ_TRACKID" : "b2132a80-d81f-4d84-a95a-7bf0a3386189",
+      "TITLE" : "More Erosion",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:1q3Fau1jGCDrZctWfl9VlL",
+      "DURATION" : "482",
+      "MUSICBRAINZ_TRACKID" : "7adee0ed-d0b2-428a-aee8-4fd076ae7517",
+      "TITLE" : "Black Tar Prophecy",
+      "TRACKNUMBER" : "9"
+   }
+]

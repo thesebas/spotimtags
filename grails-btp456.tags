@@ -1,0 +1,100 @@
+﻿[
+   {
+      "@" : "spotify:track:0Ltdk2YNuNonNLUPakT52s",
+      "ALBUM" : "Black Tar Prophecies, Volumes 4, 5 & 6",
+      "ARTIST" : "Grails",
+      "BARCODE" : "656605318721",
+      "CATALOGNUMBER" : "trr187",
+      "DATE" : "2013-10-01",
+      "DURATION" : "161",
+      "LABEL" : "Temporary Residence Limited",
+      "MUSICBRAINZ_ALBUMID" : "f6e63b11-86b1-484c-9522-f8babb3e8012",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Compilation",
+      "MUSICBRAINZ_ARTISTID" : "2f911bc5-8619-40c9-ae9a-9c6250ba5b25",
+      "MUSICBRAINZ_RELEASEGROUPID" : "d4745003-b808-4e38-b534-05fd211f15ad",
+      "MUSICBRAINZ_TRACKID" : "b75ec1cb-bf1c-40d7-8d6c-aa939340477c",
+      "SPOTIFY:ALBUM" : "spotify:album:6hj9TfUvGYtpGZ2gz9wn2y",
+      "SPOTIFY:ARTIST" : "spotify:artist:3VdjlG06JkVAnZ19TR7ZHZ",
+      "TITLE" : "I Want a New Drug",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3I3J3qgGguS2FqcYHDszeK",
+      "DURATION" : "487",
+      "MUSICBRAINZ_TRACKID" : "e6ae75f2-1863-47db-af1c-e0aed1f0036e",
+      "TITLE" : "Self-Hypnosis",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:01w0VohZPaaDpGJDkEP7El",
+      "DURATION" : "155",
+      "MUSICBRAINZ_TRACKID" : "28de7b4a-d670-4dd2-8eb4-b99ce69166e4",
+      "TITLE" : "Invitation to Ruin",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5MZtMrFOGKy3l2a8s4ZWbc",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "b4f6adae-1435-42cf-bbc0-340003cd1a24",
+      "TITLE" : "Wake Up Drill II",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1zLPCI9QQdkf762QrxFP9C",
+      "DURATION" : "339",
+      "MUSICBRAINZ_TRACKID" : "007b7bc2-610a-4388-aba7-a2acf6ec07b9",
+      "TITLE" : "Up All Night",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:0MVH3reYrXbmthrUezTsJL",
+      "DURATION" : "270",
+      "MUSICBRAINZ_TRACKID" : "ca0ff330-bc34-4641-9f97-03eb0a17f6c3",
+      "TITLE" : "Pale Purple Blues",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6C3bzePTdxRSnjmhxxZ40j",
+      "DURATION" : "284",
+      "MUSICBRAINZ_TRACKID" : "05d5df95-b17e-4abd-b477-b24904e56027",
+      "TITLE" : "Chariots",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0zpFcA1fAwMHtPau629ZqA",
+      "DURATION" : "171",
+      "MUSICBRAINZ_TRACKID" : "58b1ace9-c218-45d8-a40c-01fa044acadc",
+      "TITLE" : "New Drug II",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:5DDkPnErxTroMVEv9uDjQm",
+      "DURATION" : "170",
+      "MUSICBRAINZ_TRACKID" : "8fafa8fb-8cf0-49cd-9868-c48643fbd09e",
+      "TITLE" : "A Mansion Has Many Rooms",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4fPxRDtURvXbpBqcGRAUQw",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "b1ae5ec7-66c8-478e-87c7-27bfbef9b18c",
+      "TITLE" : "Corridors of Power III",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:75UHcxZzQWFeNqdZQIRvve",
+      "DURATION" : "277",
+      "MUSICBRAINZ_TRACKID" : "df971c3f-2ff8-4bbd-b01d-ef989d087f3f",
+      "TITLE" : "Ice Station Zebra",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:1G1JpXdQzJYYGO9wdwVEG1",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "5b920d81-e0cc-4f61-bade-5dc4d5704bee",
+      "TITLE" : "Penalty Box",
+      "TRACKNUMBER" : "12"
+   }
+]
