@@ -1,0 +1,101 @@
+﻿[
+   {
+      "@" : "spotify:track:4mYpmNDyJv3HEl22hfrDnL",
+      "ALBUM" : "Blood Mountain",
+      "ARTIST" : "Mastodon",
+      "BARCODE" : "093624436423",
+      "CATALOGNUMBER" : "9362-44450-2",
+      "DATE" : "2006-09-12",
+      "DURATION" : "214",
+      "LABEL" : "Reprise Records",
+      "MUSICBRAINZ_ALBUMID" : "ac953525-a900-49b7-b6ea-b6fb40a06697",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "bc5e2ad6-0a4a-4d90-b911-e9a7e6861727",
+      "MUSICBRAINZ_RELEASEGROUPID" : "8f2bde3a-8af2-3049-833b-b490ce78ae1c",
+      "MUSICBRAINZ_TRACKID" : "0bd11fe0-af40-412b-800d-2e2ae7890f27",
+      "ORIGINAL RELEASE DATE" : "2006-09-08",
+      "SPOTIFY:ALBUM" : "spotify:album:1n8QZFcwx5aQ2LIIlj0iYe",
+      "SPOTIFY:ARTIST" : "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT",
+      "TITLE" : "The Wolf Is Loose",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:6H6jikiotP4Ygv5oxPGPDW",
+      "DURATION" : "205",
+      "MUSICBRAINZ_TRACKID" : "5e2a587b-8b74-4496-9e5f-b5f97d34dd6b",
+      "TITLE" : "Crystal Skull",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1Ph2EtzV2wW7I4AC2YjoJn",
+      "DURATION" : "336",
+      "MUSICBRAINZ_TRACKID" : "5ddf1e8e-33c6-4691-8046-50d8175d6c06",
+      "TITLE" : "Sleeping Giant",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:4GZ3qSMYlQODUdxAzM1S1E",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "737c3a03-c7d1-4404-9192-6ec0fee1684a",
+      "TITLE" : "Capillarian Crest",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:02YSFQqaj2WClCrMmfIW4V",
+      "DURATION" : "199",
+      "MUSICBRAINZ_TRACKID" : "cc23a2e6-ad8f-496a-a90f-e93176da50b4",
+      "TITLE" : "Circle of Cysquatch",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6U46FfYqamToQr4uZfGW3Y",
+      "DURATION" : "201",
+      "MUSICBRAINZ_TRACKID" : "6b940875-bdc2-4489-9514-1948ecbc51f9",
+      "TITLE" : "Bladecatcher",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6nmsnhkJYvyYu8TheUa0Xf",
+      "DURATION" : "260",
+      "MUSICBRAINZ_TRACKID" : "c71b791a-aedb-40d7-ab63-928e67da89e9",
+      "TITLE" : "Colony of Birchmen",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:7gM4VvZGhvwyCpxjTUkEvW",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "e16aa34d-c53d-4666-b124-403f85872f84",
+      "TITLE" : "Hunters of the Sky",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:23CVktH7y4pl4qUJ43qc3w",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "6f81d02d-f567-4597-b38a-010d6dc7653a",
+      "TITLE" : "Hand of Stone",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:2dqT4WPOLNm9wIRFOAMTLl",
+      "DURATION" : "301",
+      "MUSICBRAINZ_TRACKID" : "51b06db4-826b-4b76-bbde-3b7799d8c5f3",
+      "TITLE" : "This Mortal Soil",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:46U7SVM5rsLs7EZaCczHHp",
+      "DURATION" : "329",
+      "MUSICBRAINZ_TRACKID" : "3cc5c6f8-5cde-409f-8e65-e5e63b1fffbd",
+      "TITLE" : "Siberian Divide",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:5uF9aihxBSiESSz2AeLqD7",
+      "DURATION" : "304",
+      "MUSICBRAINZ_TRACKID" : "264aa15b-f695-48d2-a88c-84ebf09f94ae",
+      "TITLE" : "Pendulous Skin",
+      "TRACKNUMBER" : "12"
+   }
+]

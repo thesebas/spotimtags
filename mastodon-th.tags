@@ -1,0 +1,120 @@
+﻿[
+   {
+      "@" : "spotify:track:324yL3CzQe3sPabwjcMc97",
+      "ALBUM" : "The Hunter",
+      "ARTIST" : "Mastodon",
+      "BARCODE" : "093624954538",
+      "DATE" : "2011-09-27",
+      "DURATION" : "207",
+      "LABEL" : "Reprise Records",
+      "MUSICBRAINZ_ALBUMID" : "e349eaf2-865c-4b47-b719-29d4b5f8e789",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "bc5e2ad6-0a4a-4d90-b911-e9a7e6861727",
+      "MUSICBRAINZ_RELEASEGROUPID" : "3c73bc27-4567-4957-8cfb-929d79b3a6ce",
+      "MUSICBRAINZ_TRACKID" : "1b87cd42-bb1c-42ff-969e-f9b1789638f7",
+      "SPOTIFY:ALBUM" : "spotify:album:7lObP1GanG65wToWzufQtq",
+      "SPOTIFY:ARTIST" : "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT",
+      "TITLE" : "Black Tongue",
+      "TOTALTRACKS" : "15",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:6PPQEvj7UZ2hXM80Qo7gR1",
+      "DURATION" : "220",
+      "MUSICBRAINZ_TRACKID" : "b2708012-840a-4bf9-bc11-bab17c041e36",
+      "TITLE" : "Curl of the Burl",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1jJ2pE8M6yLac4VzyEMKaZ",
+      "DURATION" : "156",
+      "MUSICBRAINZ_TRACKID" : "c614711d-cb28-4536-82f5-16b41a4c9dc4",
+      "TITLE" : "Blasteroid",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:0UZiNwIurGaNHouuckyJB4",
+      "DURATION" : "280",
+      "MUSICBRAINZ_TRACKID" : "7a82312a-0b4e-4ec3-ac9e-84927ec01a01",
+      "TITLE" : "Stargasm",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:7Eanm7pVWYkCswfGCGEik5",
+      "DURATION" : "229",
+      "MUSICBRAINZ_TRACKID" : "77f6c0a9-9cb0-4ba6-a75c-142751834fbf",
+      "TITLE" : "Octopus Has No Friends",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:0fpMCjAfsoFWp7qjswe6BH",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "1889a8e4-1025-49e8-bcd4-5473ad8af894",
+      "TITLE" : "All the Heavy Lifting",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:1lTw24sk4k6MON6aWymh4J",
+      "DURATION" : "318",
+      "MUSICBRAINZ_TRACKID" : "94cd597d-4da5-4994-b1c8-6f700f8f249c",
+      "TITLE" : "The Hunter",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:7xy5lovNuY5mk5akK6IgyC",
+      "DURATION" : "240",
+      "MUSICBRAINZ_TRACKID" : "a6e952da-3a32-473b-963b-da84624290b0",
+      "TITLE" : "Dry Bone Valley",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:6PFcp94JQWgFsIGOcWm0SU",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "45535fde-0cb1-464c-9db2-d513a2e2e611",
+      "TITLE" : "Thickening",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:5laME4AkZ3PzWbTY7yek8k",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "48770edd-9465-4b2a-958d-e4829c580318",
+      "TITLE" : "Creature Lives",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3AKcNDLUt04FMROb2YXbgL",
+      "DURATION" : "190",
+      "MUSICBRAINZ_TRACKID" : "b1e81327-0ff0-45f0-a037-6c77081655c0",
+      "TITLE" : "Spectrelight",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:08SLr6lxiAp6TnINF0wCcS",
+      "DURATION" : "188",
+      "MUSICBRAINZ_TRACKID" : "42cadfd8-5ae5-48c3-ac9c-2761f308d1e5",
+      "TITLE" : "Bedazzled Fingernails",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:68LvFcDLqo1cejJi9oVVOV",
+      "DURATION" : "331",
+      "MUSICBRAINZ_TRACKID" : "8fce5abe-3168-4618-8ea3-dc6c27c20727",
+      "TITLE" : "The Sparrow",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:6qmI9qqYqWgwMOgAr135V8",
+      "DURATION" : "192",
+      "MUSICBRAINZ_TRACKID" : "8e9564b1-79e9-45c5-a51c-a48704f2a7bf",
+      "TITLE" : "The Ruiner",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:2v1cXLn9Y2HywPsdkTr53e",
+      "DURATION" : "168",
+      "MUSICBRAINZ_TRACKID" : "571ff9a6-1db1-4014-a336-b57ced2f3e90",
+      "TITLE" : "Deathbound",
+      "TRACKNUMBER" : "15"
+   }
+]

@@ -1,0 +1,94 @@
+﻿[
+   {
+      "@" : "spotify:track:46PDxEshU0SPeKY36Pu3FY",
+      "ALBUM" : "Once More ’Round the Sun",
+      "ARTIST" : "Mastodon",
+      "BARCODE" : "093624937654",
+      "CATALOGNUMBER" : "543021-2",
+      "DATE" : "2014-06-24",
+      "DURATION" : "314",
+      "LABEL" : "Reprise Records",
+      "MUSICBRAINZ_ALBUMID" : "70372f7b-f713-4b55-9497-f62d6f008ff9",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "bc5e2ad6-0a4a-4d90-b911-e9a7e6861727",
+      "MUSICBRAINZ_RELEASEGROUPID" : "be9c455b-d2cd-4738-8105-e42712f38e74",
+      "MUSICBRAINZ_TRACKID" : "e20034e0-e41a-45f5-aea4-7838b660d3ff",
+      "ORIGINAL RELEASE DATE" : "2014-06-20",
+      "SPOTIFY:ALBUM" : "spotify:album:7mEkBi9a2p2f1WQbnH8Qk5",
+      "SPOTIFY:ARTIST" : "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT",
+      "TITLE" : "Tread Lightly",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:6EF0xhfKtQNqUPz2mnE5BD",
+      "DURATION" : "300",
+      "MUSICBRAINZ_TRACKID" : "4d12db4b-5eb8-415d-9b0b-42006a4ef830",
+      "TITLE" : "The Motherload",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4coYVm83MTdcEKlWcbU4Zh",
+      "DURATION" : "256",
+      "MUSICBRAINZ_TRACKID" : "a28120fc-f0e3-4f42-b464-7c01086f5600",
+      "TITLE" : "High Road",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5tWHXNwoIZsSL7qnmsgfpO",
+      "DURATION" : "179",
+      "MUSICBRAINZ_TRACKID" : "c9bf7d1c-97ae-40ea-ab3d-a99dcef20185",
+      "TITLE" : "Once More ’Round the Sun",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:4KYy8DKz2E9DSnlgN0YJOs",
+      "DURATION" : "332",
+      "MUSICBRAINZ_TRACKID" : "20be249b-ee5f-4e70-b19a-2feaac578a30",
+      "TITLE" : "Chimes at Midnight",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6yiFbPkFbHzuzQsEatSc03",
+      "DURATION" : "373",
+      "MUSICBRAINZ_TRACKID" : "20e12336-d98a-4ff5-b7e8-dddd8a649f5d",
+      "TITLE" : "Asleep in the Deep",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3qwRA8Q3e77HVNnBqMoRko",
+      "DURATION" : "204",
+      "MUSICBRAINZ_TRACKID" : "f0fd6072-cd75-410b-a8b6-0056058ad213",
+      "TITLE" : "Feast Your Eyes",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:4wLKVG0c7xvLDrILLfDhLk",
+      "DURATION" : "248",
+      "MUSICBRAINZ_TRACKID" : "c68910e9-af20-4a99-a308-b642ff02cf23",
+      "TITLE" : "Aunt Lisa",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:6rjuwrocj624fmnVvPTzAP",
+      "DURATION" : "299",
+      "MUSICBRAINZ_TRACKID" : "49f53484-439e-49f5-843d-e36ce5eff6f8",
+      "TITLE" : "Ember City",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:17S89qlqmhEtGbHjzWWLaT",
+      "DURATION" : "279",
+      "MUSICBRAINZ_TRACKID" : "82d54cc1-5135-40c3-b202-743e41eada2f",
+      "TITLE" : "Halloween",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:5upCi1uIRam5kkJ1f27PYn",
+      "DURATION" : "469",
+      "MUSICBRAINZ_TRACKID" : "e1b1fa3d-1048-463a-9547-d808ce0db630",
+      "TITLE" : "Diamond in the Witch House",
+      "TRACKNUMBER" : "11"
+   }
+]

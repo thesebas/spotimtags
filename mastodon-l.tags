@@ -1,0 +1,86 @@
+﻿[
+   {
+      "@" : "spotify:track:3jagGO7eHHuaD53ibehkux",
+      "ALBUM" : "Leviathan",
+      "ARTIST" : "Mastodon",
+      "BARCODE" : "781676662227",
+      "CATALOGNUMBER" : "RR6622-2",
+      "DATE" : "2004-08-31",
+      "DURATION" : "229",
+      "LABEL" : "Relapse Records",
+      "MUSICBRAINZ_ALBUMID" : "9a5820c8-dbc6-34eb-97dd-401d3c421dd0",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "bc5e2ad6-0a4a-4d90-b911-e9a7e6861727",
+      "MUSICBRAINZ_RELEASEGROUPID" : "7902c486-f670-3336-9850-b4112079d9e6",
+      "MUSICBRAINZ_TRACKID" : "25d63bb6-4303-43d4-9f8c-097c68d9294c",
+      "SPOTIFY:ALBUM" : "spotify:album:6khFoLWnJZDQvZ7Pijym3b",
+      "SPOTIFY:ARTIST" : "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT",
+      "TITLE" : "Blood and Thunder",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:0gr97EET1vP85jcFESMYRK",
+      "DURATION" : "166",
+      "MUSICBRAINZ_TRACKID" : "04d39191-a5bf-4d8d-9b75-721dca211ffc",
+      "TITLE" : "I Am Ahab",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4dlsUdGXRe5nkxMIauacJq",
+      "DURATION" : "255",
+      "MUSICBRAINZ_TRACKID" : "a116fc1e-7115-44d7-82de-5a182c57b222",
+      "TITLE" : "Seabeast",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6UQj5lRRVDJfaWpzCLOCAH",
+      "DURATION" : "206",
+      "MUSICBRAINZ_TRACKID" : "f3604515-b9c2-40a1-ab1d-dfec7a4c8e36",
+      "TITLE" : "Ísland",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:7zF8QWnnpQ1xNTWmCdsQCX",
+      "DURATION" : "183",
+      "MUSICBRAINZ_TRACKID" : "d7e01291-89ac-4eb4-af62-b1a287d2bb44",
+      "TITLE" : "Iron Tusk",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:1rLDTmI8quVUsGy9mzrXBx",
+      "DURATION" : "263",
+      "MUSICBRAINZ_TRACKID" : "6810c29d-1041-476c-95e4-d35be5c27dcf",
+      "TITLE" : "Megalodon",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:348pOMYZ4f4j8bkbX0hQcZ",
+      "DURATION" : "222",
+      "MUSICBRAINZ_TRACKID" : "9270febd-5e72-40cb-bbcb-ea179379a1f8",
+      "TITLE" : "Naked Burn",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:03Gs3eAOlUkCJIsCX63qhD",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "398d4425-0939-4f84-91cb-c803e49fd335",
+      "TITLE" : "Aqua Dementia",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:5ZwXpxkFA2qW0nGCXwpIx4",
+      "DURATION" : "820",
+      "MUSICBRAINZ_TRACKID" : "866a70c8-562d-4056-a9ad-a1a1886cfd2a",
+      "TITLE" : "Hearts Alive",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:10DrDEatayhTM9dx9FIHSF",
+      "DURATION" : "213",
+      "MUSICBRAINZ_TRACKID" : "a205249a-c11f-4c80-bdd3-4a339acb5f65",
+      "TITLE" : "Joseph Merrick",
+      "TRACKNUMBER" : "10"
+   }
+]

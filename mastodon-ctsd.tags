@@ -1,0 +1,119 @@
+﻿[
+   {
+      "@" : "spotify:track:1kMSSKwKnPkYs5e4BeCfk3",
+      "ALBUM" : "Crack the Skye",
+      "ARTIST" : "Mastodon",
+      "BARCODE" : "093624972068",
+      "CATALOGNUMBER" : "521635-2",
+      "DATE" : "2009-12-15",
+      "DISCNUMBER" : "1",
+      "DURATION" : "347",
+      "LABEL" : "Reprise Records",
+      "MUSICBRAINZ_ALBUMID" : "013ee6f7-864c-45a3-aff9-42af1000cb54",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "bc5e2ad6-0a4a-4d90-b911-e9a7e6861727",
+      "MUSICBRAINZ_RELEASEGROUPID" : "defcc444-7255-320d-bf21-888eb4d53ff9",
+      "MUSICBRAINZ_TRACKID" : "252b48d1-94c7-4345-8221-328a7029ec0c",
+      "ORIGINAL RELEASE DATE" : "2009-02-23",
+      "SPOTIFY:ALBUM" : "spotify:album:2cyPixuhzJiiOzTClfodlN",
+      "SPOTIFY:ARTIST" : "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT",
+      "TITLE" : "Oblivion",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "7",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7yKdW31ILnov5nRkXlOeBU",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "a9ff9b67-487c-418e-8d69-ba1b8e53e720",
+      "TITLE" : "Divinations",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0Yoyy2IqDpEmmVJW2JcnQW",
+      "DURATION" : "327",
+      "MUSICBRAINZ_TRACKID" : "48c9df01-2073-4e21-b4b1-7f7ddf5eabc9",
+      "TITLE" : "Quintessence",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:0Ph2UrHT9a0gynNbTQMIHB",
+      "DURATION" : "654",
+      "MUSICBRAINZ_TRACKID" : "6604d480-d606-40ae-b987-57fbb28b4cfc",
+      "TITLE" : "The Czar: I. Usurper / II. Escape / III. Martyr / IV. Spiral",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1nuiXXwB5yk0mPhWtMIp9x",
+      "DURATION" : "325",
+      "MUSICBRAINZ_TRACKID" : "5f4f996b-b3d5-4a71-b8b9-e34d6ff1dd22",
+      "TITLE" : "Ghost of Karelia",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:4RTll2sVM2EHY0WnfuKWMx",
+      "DURATION" : "354",
+      "MUSICBRAINZ_TRACKID" : "df215040-ea51-40a5-ae8a-0eae95fa02b3",
+      "TITLE" : "Crack the Skye",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:7kbWwvh1oJDwon3dkUqpCU",
+      "DURATION" : "781",
+      "MUSICBRAINZ_TRACKID" : "ed660f6e-23dc-4ce7-9866-e44ad7a8cc96",
+      "TITLE" : "The Last Baron",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:6Q49W7wGbeNJHe5eNMHhsf",
+      "DISCNUMBER" : "2",
+      "DISCSUBTITLE" : "Instrumentals",
+      "DURATION" : "346",
+      "MUSICBRAINZ_TRACKID" : "9598e75d-5d64-47c5-a73e-572ac2b89e12",
+      "TITLE" : "Oblivion (instrumental)",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1qZMLYIoylhcL7mXra54jf",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "45627085-a9c2-40e7-bf36-fa0389cad4aa",
+      "TITLE" : "Divinations (instrumental)",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6wUyIkRPVtTuxJqK9Txeng",
+      "DURATION" : "340",
+      "MUSICBRAINZ_TRACKID" : "0add168c-4c47-4a41-85d3-0d4859c983a8",
+      "TITLE" : "Quintessence (instrumental)",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:0VVQwvlnEF8kR7wgfpsco7",
+      "DURATION" : "654",
+      "MUSICBRAINZ_TRACKID" : "892a4da5-3f05-41a1-9978-6f7faca4a7b7",
+      "TITLE" : "The Czar: I. Usurper / II. Escape / III. Martyr / IV. Spiral (instrumental)",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3VhsBUpxiyCGgdB0PHO1cT",
+      "DURATION" : "349",
+      "MUSICBRAINZ_TRACKID" : "cbff67b5-6b6d-454c-8eec-9c3190f052cf",
+      "TITLE" : "Ghost of Karelia (instrumental)",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:1FjLpZ5WvCNG3hJ1EbVdX8",
+      "DURATION" : "357",
+      "MUSICBRAINZ_TRACKID" : "6d059227-c14b-41da-9527-8d1300af7891",
+      "TITLE" : "Crack the Skye (instrumental)",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:7BPNjR2WOVxM4BmFT3sYhP",
+      "DURATION" : "783",
+      "MUSICBRAINZ_TRACKID" : "06747237-b0f3-4895-8869-5518e92c0f72",
+      "TITLE" : "The Last Baron (instrumental)",
+      "TRACKNUMBER" : "7"
+   }
+]
