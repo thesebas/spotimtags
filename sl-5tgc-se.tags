@@ -1,0 +1,127 @@
+﻿[
+   {
+      "@" : "spotify:track:1RATRzrRf7DBCFbkYIlGTe",
+      "ALBUM" : ".5: The Gray Chapter",
+      "ARTIST" : "Slipknot",
+      "DATE" : "2014-10-21",
+      "DURATION" : "190",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "f66b0034-2511-4d5f-b0a7-345e330604d3",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "7ae66014-0153-4f48-ad22-973b0582261c",
+      "MUSICBRAINZ_TRACKID" : "c1bdde55-2aa5-4d66-bd48-eeb67c526473",
+      "ORIGINAL RELEASE DATE" : "2014-10-15",
+      "SPOTIFY:ALBUM" : "spotify:album:0ApKaazNHf0gzjAYZauexq",
+      "SPOTIFY:ARTIST" : "spotify:artist:05fG473iIaoy82BF1aGhL8",
+      "TITLE" : "XIX",
+      "TOTALTRACKS" : "16",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:6IQdurAwr84AhnVWnrxrDP",
+      "DURATION" : "306",
+      "MUSICBRAINZ_TRACKID" : "c85c4edb-d213-4344-8e2a-4ae0e7cd28b4",
+      "TITLE" : "Sarcastrophe",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2qfLaOWD7bB4J1Val3vO4K",
+      "DURATION" : "333",
+      "MUSICBRAINZ_TRACKID" : "6ff47bd3-8945-4cff-8493-53ff95300736",
+      "TITLE" : "AOV",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5hheGdf1cb4rK0FNiedCfK",
+      "DURATION" : "343",
+      "MUSICBRAINZ_TRACKID" : "73f3c73c-ea85-48b9-9556-2537cd594ea1",
+      "TITLE" : "The Devil in I",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6AAZigYqOch79lKcrSBOv0",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "a4e4672c-d7f7-4301-9c05-d4fab80422db",
+      "TITLE" : "Killpop",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:7yzFUknHiad4kRBfHq2ki1",
+      "DURATION" : "287",
+      "MUSICBRAINZ_TRACKID" : "dd7e6ba1-5b51-411c-9a19-02898486e12e",
+      "TITLE" : "Skeptic",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:4V3E6xAnGspUos2Sx74w6n",
+      "DURATION" : "290",
+      "MUSICBRAINZ_TRACKID" : "c31466b5-962b-4619-a765-26f719f166de",
+      "TITLE" : "Lech",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0GXmTWQBqvNZwpcfNeijlt",
+      "DURATION" : "275",
+      "MUSICBRAINZ_TRACKID" : "cc15f8c1-a63b-4b30-adff-3f634ebd1b9f",
+      "TITLE" : "Goodbye",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4vCG26vd7hzGdLq84pl1tf",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "f26c6ac0-4e4d-4808-9f06-55791f9da675",
+      "TITLE" : "Nomadic",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:0Ud0WfZOV5JGgSgagaGS2v",
+      "DURATION" : "252",
+      "MUSICBRAINZ_TRACKID" : "ef8bbcef-eeff-45c1-a91c-9486e274ff59",
+      "TITLE" : "The One That Kills the Least",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3GiJq4AQK7324mfIQbpiTf",
+      "DURATION" : "254",
+      "MUSICBRAINZ_TRACKID" : "b6b7e79d-a4c9-44ae-b0ee-b1fcc0475833",
+      "TITLE" : "Custer",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:1Xp8idJ4Eqj083ZA86L35q",
+      "DURATION" : "118",
+      "MUSICBRAINZ_TRACKID" : "d82f3c61-8f7b-44f9-875f-414c6fb2b240",
+      "TITLE" : "Be Prepared for Hell",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:2ugAOltSeiFqKHItLMKFK3",
+      "DURATION" : "325",
+      "MUSICBRAINZ_TRACKID" : "b0d658ba-4967-473e-b828-e31aa4f55b68",
+      "TITLE" : "The Negative One",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:1JP26wqamuPK9rdwF126rQ",
+      "DURATION" : "381",
+      "MUSICBRAINZ_TRACKID" : "a1b389bc-f7fe-4868-a410-bedbd9ef0d20",
+      "TITLE" : "If Rain Is What You Want",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:57WMQgEqr9lRCCuy6eiQEq",
+      "DURATION" : "337",
+      "MUSICBRAINZ_TRACKID" : "38467846-bccf-40a4-9547-70b66eb1ccce",
+      "TITLE" : "Override",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:1y2Eef8fVUIaqTrPPmIowD",
+      "DURATION" : "323",
+      "MUSICBRAINZ_TRACKID" : "6139a89a-1ce9-4f7e-8227-530c583edc12",
+      "TITLE" : "The Burden",
+      "TRACKNUMBER" : "16"
+   }
+]

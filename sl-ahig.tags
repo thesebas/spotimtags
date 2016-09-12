@@ -1,0 +1,122 @@
+﻿[
+   {
+      "@" : "spotify:track:6MD0Qj81tJbQHx2rCHYIP3",
+      "ALBUM" : "All Hope Is Gone",
+      "ARTIST" : "Slipknot",
+      "BARCODE" : "016861793852",
+      "CATALOGNUMBER" : "1686-179385",
+      "DATE" : "2008-08-26",
+      "DURATION" : "109",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "2a8652f0-6d68-45e0-814c-aad9e216420a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "6a75b970-84c9-3794-bafd-261f82f1343c",
+      "MUSICBRAINZ_TRACKID" : "b33c82f9-78c9-4f77-b72a-5d79fadcfc54",
+      "ORIGINAL RELEASE DATE" : "2008-08-20",
+      "SPOTIFY:ALBUM" : "spotify:album:0hFWapnP7orzXCMwNU5DuA",
+      "SPOTIFY:ARTIST" : "spotify:artist:05fG473iIaoy82BF1aGhL8",
+      "TITLE" : ".execute.",
+      "TOTALTRACKS" : "15",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:5rAIqtGPZNiCojmpRjuZW5",
+      "DURATION" : "362",
+      "MUSICBRAINZ_TRACKID" : "7dab4a5e-c6a6-4559-a5b4-7e6c9531f0a5",
+      "TITLE" : "Gematria (The Killing Name)",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4g3QZlvz39UllCcRXDZ0Do",
+      "DURATION" : "278",
+      "MUSICBRAINZ_TRACKID" : "6c9507a6-f142-4ff1-b49a-70504a9780b8",
+      "TITLE" : "Sulfur",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:2MvIMgtWyK88OiPi0J8Dg3",
+      "DURATION" : "284",
+      "MUSICBRAINZ_TRACKID" : "99eafe91-a43c-4adc-b3ea-8b6f8e0e4966",
+      "TITLE" : "Psychosocial",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:0HAr4QR1xI8nwC7VfzYidu",
+      "DURATION" : "269",
+      "MUSICBRAINZ_TRACKID" : "85aab8cf-5ab3-4742-b908-31c97070ea1e",
+      "TITLE" : "Dead Memories",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5frNnyWkKzKdiKPLhkdY9L",
+      "DURATION" : "316",
+      "MUSICBRAINZ_TRACKID" : "5fbb3722-ad02-4428-9f68-94e0e9461aa1",
+      "TITLE" : "Vendetta",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:0E96VyYWCyRC0gG9yvPFcu",
+      "DURATION" : "255",
+      "MUSICBRAINZ_TRACKID" : "7d400df0-80e7-42d3-bc39-e650da2d3e7e",
+      "TITLE" : "Butcher's Hook",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:1Xc5je0OAbXF8yhtXhdPEW",
+      "DURATION" : "413",
+      "MUSICBRAINZ_TRACKID" : "95b8c13a-a5bc-45b2-b34d-de57f52a13b6",
+      "TITLE" : "Gehenna",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4EgPYu8GCjfXu2cp34e7Z0",
+      "DURATION" : "280",
+      "MUSICBRAINZ_TRACKID" : "8be9bacc-6d69-46d2-9be0-16a1623729c8",
+      "TITLE" : "This Cold Black",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4nmXKnPOuMDVI8gVir3D9C",
+      "DURATION" : "337",
+      "MUSICBRAINZ_TRACKID" : "fbda0ef8-b0bb-4430-b975-c1eb6a75b69b",
+      "TITLE" : "Wherein Lies Continue",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3RptaQ5Xb8WvtpItZ2f9Hi",
+      "DURATION" : "276",
+      "MUSICBRAINZ_TRACKID" : "45a001b3-7c7c-41b7-97c2-39d368b8351b",
+      "TITLE" : "Snuff",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:431a6o9W8aYTQWNGmdgDm0",
+      "DURATION" : "285",
+      "MUSICBRAINZ_TRACKID" : "f359006d-8a85-4866-b581-fea454a7f23d",
+      "TITLE" : "All Hope Is Gone",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:2bUqWO1Q8SeILAS2YMA1oF",
+      "DURATION" : "310",
+      "MUSICBRAINZ_TRACKID" : "0f8b50c4-9223-48da-aab8-ae5658285bcb",
+      "TITLE" : "Child of Burning Time",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:2BhemxZQbpPgcqrgIMtxAk",
+      "DURATION" : "220",
+      "MUSICBRAINZ_TRACKID" : "d274e7c5-6913-4690-90c3-6622d3b785d0",
+      "TITLE" : "Vermilion, Part 2 (Bloodstone mix)",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:7bhfCl1a1InaSy8NOWVswk",
+      "DURATION" : "346",
+      "MUSICBRAINZ_TRACKID" : "6e56449f-68d8-4731-90c3-95f4fb6b75ed",
+      "TITLE" : "'til We Die",
+      "TRACKNUMBER" : "15"
+   }
+]

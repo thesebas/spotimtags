@@ -1,0 +1,175 @@
+﻿[
+   {
+      "@" : "spotify:track:6M3Qat8CTPMnagoVSSOXvI",
+      "ALBUM" : "Vol. 3: (The Subliminal Verses)",
+      "ARTIST" : "Slipknot",
+      "BARCODE" : "016861815820",
+      "CATALOGNUMBER" : "168 618 158-2",
+      "DATE" : "2005-04-12",
+      "DISCNUMBER" : "1",
+      "DURATION" : "237",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "d990b8af-01db-46f1-a2cb-d9ca19f57e94",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "aa38e6f0-e748-35c8-a8d4-04ff660e9354",
+      "MUSICBRAINZ_TRACKID" : "77d7867d-c6ed-406c-9bbb-59756f9f8ded",
+      "ORIGINAL RELEASE DATE" : "2004-05-21",
+      "SPOTIFY:ALBUM" : "spotify:album:4ZDBQSIDIZRUBOG2OHcN3T",
+      "SPOTIFY:ARTIST" : "spotify:artist:05fG473iIaoy82BF1aGhL8",
+      "TITLE" : "Prelude 3.0",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "14",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3q7GKmKaiktt57PVIxKOm8",
+      "DURATION" : "319",
+      "MUSICBRAINZ_TRACKID" : "0f78f171-42a0-4751-acad-6ab5c9c99646",
+      "TITLE" : "The Blister Exists",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:61KpjCXatXtHSv7z9hsv7B",
+      "DURATION" : "288",
+      "MUSICBRAINZ_TRACKID" : "c0c17030-9148-4779-8ae0-f2f95afb53ae",
+      "TITLE" : "Three Nil",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:61mWefnWQOLf90gepjOCb3",
+      "DURATION" : "253",
+      "MUSICBRAINZ_TRACKID" : "50052fc5-7a97-479a-8563-299844846ad8",
+      "TITLE" : "Duality",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3wWBjqx2dJlJRVJdnPzXsr",
+      "DURATION" : "193",
+      "MUSICBRAINZ_TRACKID" : "1fbf1d5e-35b0-4c41-a100-9dd93ff59fef",
+      "TITLE" : "Opium of the People",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6do7nVH4UOuZlKcA2ZBHbh",
+      "DURATION" : "263",
+      "MUSICBRAINZ_TRACKID" : "f45bf6bc-2e2b-469d-bc6d-f214edaead12",
+      "TITLE" : "Circle",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2PrUECwPIU40LSiS7vNqbz",
+      "DURATION" : "195",
+      "MUSICBRAINZ_TRACKID" : "5b3a179d-67f6-45b1-8897-914a0317d6b6",
+      "TITLE" : "Welcome",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0fX9KPa0i9RGDI59gI90i9",
+      "DURATION" : "317",
+      "MUSICBRAINZ_TRACKID" : "cd56a9dd-2f70-4014-b2fe-2c9e552fd7f9",
+      "TITLE" : "Vermilion",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:0at89DgpVeImkVrQ0htbVm",
+      "DURATION" : "260",
+      "MUSICBRAINZ_TRACKID" : "2a6f3f44-02f7-4e90-8852-fe38d54a7387",
+      "TITLE" : "Pulse of the Maggots",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:6wqJeItl3Vc3az4ZicSQAB",
+      "DURATION" : "279",
+      "MUSICBRAINZ_TRACKID" : "0692129f-cfb5-4ca2-a2a5-e2c03251388f",
+      "TITLE" : "Before I Forget",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:0O7lENhqOySbsL743G7PqD",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "1dbc2d31-9733-4a84-9eda-88f97a10b55f",
+      "TITLE" : "Vermilion, Part 2",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:6GCusUym0CAdFS2g1qG79Y",
+      "DURATION" : "268",
+      "MUSICBRAINZ_TRACKID" : "bab25906-dd09-4796-92c0-94ca5c3a33b7",
+      "TITLE" : "The Nameless",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:23rh8RLJIZ6UTjWc5ta8zh",
+      "DURATION" : "325",
+      "MUSICBRAINZ_TRACKID" : "41ccfd98-8e03-4fe5-8226-4434b57bb5ff",
+      "TITLE" : "The Virus of Life",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:6zZl4RKS9pRRlQHIk4CG7A",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "cd696f56-883f-44b3-b056-053dec5bc6b3",
+      "TITLE" : "Danger - Keep Away",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:0mMeNL8Q6GMi8YHItNIFAr",
+      "DISCNUMBER" : "2",
+      "DURATION" : "228",
+      "MUSICBRAINZ_TRACKID" : "59aaff12-a59a-4e7f-80a9-feb7c418a460",
+      "TITLE" : "Don't Get Close",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1MxB3Qw6wz8IZYSmIPyH6I",
+      "DURATION" : "272",
+      "MUSICBRAINZ_TRACKID" : "02efaa3a-1912-47a1-8bf4-204cd4570591",
+      "TITLE" : "Scream",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2P3InepiBsZzL9riFWgqql",
+      "DURATION" : "326",
+      "MUSICBRAINZ_TRACKID" : "ebca3260-3e00-4816-ad52-6c23c4fe6fb3",
+      "TITLE" : "Vermillion (Terry Date mix)",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:4kfAd4MNa0GRYVUxjQ98Ll",
+      "DURATION" : "476",
+      "MUSICBRAINZ_TRACKID" : "4e8c89c5-68ac-45f0-acdb-a27e9d3dd2ce",
+      "TITLE" : "Danger, Keep Away (full length version)",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3NTztXizm4z0np6dapD3WR",
+      "DURATION" : "321",
+      "MUSICBRAINZ_TRACKID" : "151d5c06-fb31-4889-9fe4-f3d648ce78e0",
+      "TITLE" : "The Blister Exists (live)",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6C78QyE1V0idsM6zzfjVml",
+      "DURATION" : "298",
+      "MUSICBRAINZ_TRACKID" : "b02a3c4c-cd7f-4894-bd75-2aa743d849db",
+      "TITLE" : "Three Nil (live)",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:0C8Mr7G9cSubSmCCILELM6",
+      "DURATION" : "326",
+      "MUSICBRAINZ_TRACKID" : "13e385ad-f72b-45e9-9c5f-4750d1af49e7",
+      "TITLE" : "Disasterpiece (live)",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0qZfT9TjlX2fQeJiFUZIYy",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "fce177e8-392c-4d03-977a-559e10920fbb",
+      "TITLE" : "People = Shit (live)",
+      "TRACKNUMBER" : "8"
+   }
+]

@@ -1,0 +1,253 @@
+﻿[
+   {
+      "@" : "spotify:track:5IcKIrmgAhaevCJ8dGQ4jE",
+      "ALBUM" : "Iowa",
+      "ARTIST" : "Slipknot",
+      "BARCODE" : "016861769451",
+      "CATALOGNUMBER" : "RR7694-5",
+      "DATE" : "2011-10-31",
+      "DISCNUMBER" : "1",
+      "DISCSUBTITLE" : "Iowa",
+      "DURATION" : "60",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "f4020a33-180f-45e6-9b0b-52e186b7cc47",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "082c68eb-d993-36cf-9b32-6663cba2d052",
+      "MUSICBRAINZ_TRACKID" : "b4d9ec72-e4ac-4604-b420-4d7f2b50a3bc",
+      "ORIGINAL RELEASE DATE" : "2001-08-22",
+      "SPOTIFY:ALBUM" : "spotify:album:5Zs0mNCTs73CqPKbZPWFX9",
+      "SPOTIFY:ARTIST" : "spotify:artist:05fG473iIaoy82BF1aGhL8",
+      "TITLE" : "(515)",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "15",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:0Y2i84QWPFiFHQfEQDgHya",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "db8b8bc1-8e55-4ebf-bcea-34ea0064eb33",
+      "TITLE" : "People = Shit",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:47VSmPTydr0saGjbQGwCeg",
+      "DURATION" : "308",
+      "MUSICBRAINZ_TRACKID" : "353baeba-8a86-4bd5-aa80-ff4123f27627",
+      "TITLE" : "Disasterpiece",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:74WIE2htPZwxx4HgGhpf8i",
+      "DURATION" : "220",
+      "MUSICBRAINZ_TRACKID" : "023c18c0-f139-4699-b746-e97f3c25c2c4",
+      "TITLE" : "My Plague",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:11SQnfm9cxgIjRREQWgbsP",
+      "DURATION" : "254",
+      "MUSICBRAINZ_TRACKID" : "50cd0b80-ff60-4dc3-9999-7a7c257719d2",
+      "TITLE" : "Everything Ends",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:3OYZWMm5m2DEwq2Tc1ukTh",
+      "MUSICBRAINZ_TRACKID" : "5c9d63fe-db1f-4ab7-8e86-22f40090001d",
+      "TITLE" : "The Heretic Anthem",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:00WbLoO3bSlUdAy8al106S",
+      "DURATION" : "294",
+      "MUSICBRAINZ_TRACKID" : "f8057f19-fd01-4207-80be-8c4e8f712910",
+      "TITLE" : "Gently",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:4l3Vmsw0KO8HJqFtnbqaqu",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "67fc9f3b-714f-4002-b627-480c2143a151",
+      "TITLE" : "Left Behind",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:7oq2elG5ZmLVOkyoETo12d",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "621734e7-9850-4cc9-b35b-e859844df078",
+      "TITLE" : "The Shape",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:1hrDDgkVbbS5bySL8uHLh3",
+      "DURATION" : "158",
+      "MUSICBRAINZ_TRACKID" : "e2dbce45-26b0-4836-8834-4307a88c791b",
+      "TITLE" : "I Am Hated",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3S4oKUWMTeLNthKP2BX8eF",
+      "DURATION" : "401",
+      "MUSICBRAINZ_TRACKID" : "e831991e-f380-4b9b-8422-2f9813362309",
+      "TITLE" : "Skin Ticket",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:2xFZNy2zdXgMCjjLnIRm96",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "40350d44-c1af-432c-856c-d5b0fe856919",
+      "TITLE" : "New Abortion",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:5i2MXxinpfJCj1ynihiNnt",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "50aea4b4-6b8c-4115-8d6e-2a65371882a1",
+      "TITLE" : "Metabolic",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:1Z2hqYB4SEwUAH2LP7eprO",
+      "DURATION" : "905",
+      "MUSICBRAINZ_TRACKID" : "c6dc0772-5a93-4c8a-93ba-d6961c785d96",
+      "TITLE" : "Iowa",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:09BtumkU2nu4VJZTwCIH39",
+      "DURATION" : "183",
+      "MUSICBRAINZ_TRACKID" : "ed88b3f6-223b-4a57-a156-1890f92220a2",
+      "TITLE" : "My Plague (New Abuse Mix)",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:017pTb3lEu8w5xlmPewcaY",
+      "DISCNUMBER" : "2",
+      "DISCSUBTITLE" : "Disasterpieces",
+      "DURATION" : "245",
+      "MUSICBRAINZ_TRACKID" : "a0ffbc4c-3e24-4b77-8940-750fcbe921fd",
+      "TITLE" : "(515)",
+      "TOTALTRACKS" : "18",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:4Bq8GhS2Yz8fWaks6AvzTO",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "51f0155b-aedf-4d81-ab19-f5c69cd3f027",
+      "TITLE" : "People = Shit",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:5NKI8bo875m5AwFaJR8tFL",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "7627519b-43f9-4cfa-b8c1-0a8402d80024",
+      "TITLE" : "Liberate",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3ejdYVenTaYHRK3valtPW4",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "518e8bf4-9963-46db-82e8-022152d503a5",
+      "TITLE" : "Left Behind",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:4LUxH0tF9bG5iQEsZALoJv",
+      "DURATION" : "158",
+      "MUSICBRAINZ_TRACKID" : "3c848a98-a4e2-4f47-b552-afe51cf05340",
+      "TITLE" : "Eeyore",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:73uvgdJ9NNvrNE2OyzVQCu",
+      "DURATION" : "323",
+      "MUSICBRAINZ_TRACKID" : "c12842db-caf8-44c0-a115-4a037e97acf1",
+      "TITLE" : "Disasterpiece",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6oBm2EGi7P3kT4hs7xZspf",
+      "DURATION" : "327",
+      "MUSICBRAINZ_TRACKID" : "00fdeec2-ec17-4979-a965-7e1efa6ae687",
+      "TITLE" : "Purity",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0EINBbR8TRYn8HLTZwJnDv",
+      "DURATION" : "276",
+      "MUSICBRAINZ_TRACKID" : "f0e322de-17a0-48a4-86c4-fb0319ead475",
+      "TITLE" : "Gently",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:0XLErFqjGpQCE5TOZ68bGb",
+      "DURATION" : "298",
+      "MUSICBRAINZ_TRACKID" : "65251528-8ad1-4b30-8808-b7098417583b",
+      "TITLE" : "Eyeless",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4FWYvSwYFAPH9H8AemlR1c",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "84ecceb3-5ea0-47c2-89f2-b20124aaccb5",
+      "TITLE" : "[drum solo]",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:4KVlSjGOkJG37qF2B6i58Q",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "693bed09-85af-4e64-a5fc-26c4ccb31dd7",
+      "TITLE" : "My Plague",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:7JlwZ5qklRjVBaxf0Xr5b2",
+      "DURATION" : "263",
+      "MUSICBRAINZ_TRACKID" : "112a278b-9fd0-44b9-ac5a-5b96d7717f86",
+      "TITLE" : "New Abortion",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:0fyMyhTOK5iXZ9p1zbqyL7",
+      "DURATION" : "299",
+      "MUSICBRAINZ_TRACKID" : "abb411e1-1115-4892-9d22-16503ae8a88b",
+      "TITLE" : "The Heretic Anthem",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:7AW1PmQsyi5QE8Qs1oRoJR",
+      "DURATION" : "464",
+      "MUSICBRAINZ_TRACKID" : "f526fd00-5519-4fe4-9671-6b9f1d1a145f",
+      "TITLE" : "Spit It Out",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:12gq4txZaRbRGdEqxDPOp3",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "40b0ab19-034f-47fa-9d04-b2628e1eb277",
+      "TITLE" : "Wait and Bleed",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:0cOaky492ZzfobCc1quo6j",
+      "DURATION" : "105",
+      "MUSICBRAINZ_TRACKID" : "caca99ac-83a5-4f2b-99ac-c3d44e0c81a3",
+      "TITLE" : "742617000027",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:7b0WsTNCMuROxP8HuDwiFX",
+      "DURATION" : "262",
+      "MUSICBRAINZ_TRACKID" : "307ec79c-c319-4bb5-80c5-ebb5d9e9bb79",
+      "TITLE" : "(Sic)",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:track:2FsXUCmJylyrkxmxLLQLC5",
+      "DURATION" : "334",
+      "MUSICBRAINZ_TRACKID" : "47d349a9-33a2-44a7-ba71-924aaabf48c3",
+      "TITLE" : "Surfacing",
+      "TRACKNUMBER" : "18"
+   }
+]

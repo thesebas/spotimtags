@@ -1,0 +1,192 @@
+﻿[
+   {
+      "@" : "spotify:track:0rA9HonPSSxTbPJkB81Qqh",
+      "ALBUM" : "Slipknot",
+      "ARTIST" : "Slipknot",
+      "BARCODE" : "016861865580",
+      "CATALOGNUMBER" : "RR 8082-5",
+      "DATE" : "2009-09-08",
+      "DURATION" : "36",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "b51dff7f-3c08-40df-b795-134b71afdfa9",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "5140eef4-5b5d-309c-a3aa-5c5da107b1da",
+      "MUSICBRAINZ_TRACKID" : "a80c5cf7-588a-411d-bab8-bc02d16325f5",
+      "ORIGINAL RELEASE DATE" : "1999-06-29",
+      "SPOTIFY:ALBUM" : "spotify:album:2dL9Q5AtIv4Rw1L6lKcIUc",
+      "SPOTIFY:ARTIST" : "spotify:artist:05fG473iIaoy82BF1aGhL8",
+      "TITLE" : "742617000027",
+      "TOTALTRACKS" : "25",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1g8lVIsEkDaGD1nKw6fwUb",
+      "DURATION" : "200",
+      "MUSICBRAINZ_TRACKID" : "0ce3ae0e-8c21-4da6-9015-22c57359a703",
+      "TITLE" : "(sic)",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:7MEHTWzEi3z7P2jEWAcdHZ",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "c5d402d0-feea-4a0c-bfb9-4235c91ae621",
+      "TITLE" : "Eyeless",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:2gscB6kDOmrv1P6qs2KXE3",
+      "DURATION" : "148",
+      "MUSICBRAINZ_TRACKID" : "16ccd684-1ed2-402f-b673-05792487d33a",
+      "TITLE" : "Wait and Bleed",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:0iget4icTqUya9wtpvCTF2",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "7bbdbaa4-8188-42f2-94c2-cfad6d60c491",
+      "TITLE" : "Surfacing",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:2W2eaLVKv9NObcLXlYRZZo",
+      "DURATION" : "160",
+      "MUSICBRAINZ_TRACKID" : "986ff18d-5aaf-4d8f-9428-6a260b75fce1",
+      "TITLE" : "Spit It Out",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2cKZJAxbepebrKMdkggWHg",
+      "DURATION" : "174",
+      "MUSICBRAINZ_TRACKID" : "8f2bc91b-75f3-47e2-9f5d-62adbdac55f1",
+      "TITLE" : "Tattered and Torn",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3Lkm8fyUksuC8hr9I35nio",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "60fe5698-1c4c-4ee8-8ff6-4ed34794cba1",
+      "TITLE" : "Purity",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:0SNybMfb3uFISmnYrIt7Gs",
+      "DURATION" : "187",
+      "MUSICBRAINZ_TRACKID" : "39877b1d-5a65-4b69-9e9c-69274aea6371",
+      "TITLE" : "Liberate",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:5huA9m9CJ56zZoTDrMFrtm",
+      "DURATION" : "298",
+      "MUSICBRAINZ_TRACKID" : "afa391f1-9f88-4257-a6c1-8b9553c30385",
+      "TITLE" : "Prosthetics",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:0zy365BwajyyRj9NR3FVOU",
+      "DURATION" : "167",
+      "MUSICBRAINZ_TRACKID" : "eafb838f-bd6e-492b-bed3-a2e8c2682fa5",
+      "TITLE" : "No Life",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:1bP6IrpTjvGTwwiPGTKPDq",
+      "DURATION" : "203",
+      "MUSICBRAINZ_TRACKID" : "7042a89e-b52c-4a02-be9d-b3b688eeb2af",
+      "TITLE" : "Diluted",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:7zqAlcQISqWyFgnmc5HTi5",
+      "DURATION" : "146",
+      "MUSICBRAINZ_TRACKID" : "e44a6633-152f-468a-8661-6654deae7a5b",
+      "TITLE" : "Only One",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:2a0FGkbCFcm72siM9WlruO",
+      "DURATION" : "505",
+      "MUSICBRAINZ_TRACKID" : "a856eab7-a305-4227-9cb2-595060c9f463",
+      "TITLE" : "Scissors",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:5vXvPwssqO8YKhMAhlAk94",
+      "DURATION" : "166",
+      "MUSICBRAINZ_TRACKID" : "5354b126-f346-45cc-a8d1-38f05ee28f16",
+      "TITLE" : "Eeyore",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:2dNuTNTVlUGTTofqJCCrXU",
+      "DURATION" : "159",
+      "MUSICBRAINZ_TRACKID" : "569bbeca-78a9-42ae-8308-d8ca97980030",
+      "TITLE" : "Me Inside",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:5GOfjX6UN5yyDkMGl8nrnn",
+      "DURATION" : "123",
+      "MUSICBRAINZ_TRACKID" : "579c4c29-4216-4d66-91ee-547e5853ae27",
+      "TITLE" : "Get This",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:track:6ftph4VaiX6aG2NwZUWd3q",
+      "DURATION" : "145",
+      "MUSICBRAINZ_TRACKID" : "8b8c34ad-a575-46eb-bfe8-6b824c895de6",
+      "TITLE" : "Spit It Out (Hyper version)",
+      "TRACKNUMBER" : "18"
+   },
+   {
+      "@" : "spotify:track:1kjFhNb3ppXTVOSWKIPTRI",
+      "DURATION" : "158",
+      "MUSICBRAINZ_TRACKID" : "0f16df86-2cc9-4dc7-a32f-8ff31fda262f",
+      "TITLE" : "Spit It Out (Stamp You Out mix)",
+      "TRACKNUMBER" : "19"
+   },
+   {
+      "@" : "spotify:track:2YUvTcrxdwxsAhuEucitV5",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "b35e9c15-cd6e-4f50-ad0e-8abc51f5565b",
+      "TITLE" : "(sic) (Molt-Injected mix)",
+      "TRACKNUMBER" : "20"
+   },
+   {
+      "@" : "spotify:track:6K432YpHbEwinrbOOd2jaS",
+      "DURATION" : "151",
+      "MUSICBRAINZ_TRACKID" : "94c1b1bc-ef55-4670-b61c-07ec3f2c7b2e",
+      "TITLE" : "Wait and Bleed (Terry Date mix)",
+      "TRACKNUMBER" : "21"
+   },
+   {
+      "@" : "spotify:track:2EpqvJ8aga45T4y11w5zth",
+      "DURATION" : "154",
+      "MUSICBRAINZ_TRACKID" : "e1da5c2c-e0e7-4fea-8d76-d17c4af729d5",
+      "TITLE" : "Wait and Bleed (demo)",
+      "TRACKNUMBER" : "22"
+   },
+   {
+      "@" : "spotify:track:7zBbLVcp8mSQX2EMjSwNp9",
+      "DURATION" : "162",
+      "MUSICBRAINZ_TRACKID" : "f2d1f87e-6b13-45ba-8031-169d4916b67b",
+      "TITLE" : "Snap (demo)",
+      "TRACKNUMBER" : "23"
+   },
+   {
+      "@" : "spotify:track:4gAFkI4EAbCx5loxGDsYIb",
+      "DURATION" : "138",
+      "MUSICBRAINZ_TRACKID" : "9ef01883-32df-4815-baa1-eb4a67d6175a",
+      "TITLE" : "Interloper (demo)",
+      "TRACKNUMBER" : "24"
+   },
+   {
+      "@" : "spotify:track:1XHMqylLTu6yqtyCqyS5Vv",
+      "DURATION" : "221",
+      "MUSICBRAINZ_TRACKID" : "04a51abc-4bbc-48fb-9829-cdae06678654",
+      "TITLE" : "Despise (demo)",
+      "TRACKNUMBER" : "25"
+   }
+]
