@@ -1,0 +1,163 @@
+﻿[
+   {
+      "@" : "spotify:track:1SFXDOmnBWypdnYdvpQfRZ",
+      "ALBUM" : "Innerspeaker",
+      "ARTIST" : "Tame Impala",
+      "BARCODE" : "0602527692845",
+      "CATALOGNUMBER" : "MODCD138",
+      "DATE" : "2011-04-29",
+      "DISCNUMBER" : "1",
+      "DISCSUBTITLE" : "Innerspeaker",
+      "DURATION" : "322",
+      "LABEL" : "Modular Recordings",
+      "MUSICBRAINZ_ALBUMID" : "9bbfc660-398a-4975-a2db-c207ff93d7c9",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+      "MUSICBRAINZ_RELEASEGROUPID" : "0cfdeff7-4aa7-4df4-918d-88c9421cc512",
+      "MUSICBRAINZ_TRACKID" : "32f7093f-b29c-4626-aceb-2270e1db9d77",
+      "ORIGINAL RELEASE DATE" : "2010-05-21",
+      "SPOTIFY:ALBUM" : "spotify:album:19KL6IwPJMECn2wosxguq7",
+      "SPOTIFY:ARTIST" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb",
+      "TITLE" : "It Isn’t Meant to Be",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:4xzkMI12mLkBL2m7JA0OXN",
+      "DURATION" : "266",
+      "MUSICBRAINZ_TRACKID" : "3368975e-1af1-43f1-99e8-3b4d82a00823",
+      "TITLE" : "Desire Be Desire Go",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:3HQYzdlEgPBihaxvEwExZU",
+      "DURATION" : "288",
+      "MUSICBRAINZ_TRACKID" : "7a7f8825-532a-4586-93e4-8edfe3c958de",
+      "TITLE" : "Alter Ego",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3EfvzIycUocuKUXHxKS5WT",
+      "DURATION" : "272",
+      "MUSICBRAINZ_TRACKID" : "4ca701d7-a55a-4b24-933a-303e8d4e01d5",
+      "TITLE" : "Lucidity",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6VuuRQz7JX22KsW04SYYX5",
+      "DURATION" : "199",
+      "MUSICBRAINZ_TRACKID" : "db644461-3d63-4b80-9a95-435ccef31243",
+      "TITLE" : "Why Won’t You Make Up Your Mind?",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:4wO6jNcx6Fnw3YJbvnQo8X",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "4d4525cb-1c7b-4b38-b859-758443c0727a",
+      "TITLE" : "Solitude Is Bliss",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:0bMzQQbSv2WTDGWGArDS1L",
+      "DURATION" : "328",
+      "MUSICBRAINZ_TRACKID" : "5354f80a-9e4b-4641-a049-323c366464a2",
+      "TITLE" : "Jeremy’s Storm",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:1awBCwSI4reWX4fvu0aXTJ",
+      "DURATION" : "363",
+      "MUSICBRAINZ_TRACKID" : "fff0f746-1095-458b-8975-15901cbb8c7d",
+      "TITLE" : "Expectation",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:5n8LK9DfIpoVcSjqhRFhOU",
+      "DURATION" : "229",
+      "MUSICBRAINZ_TRACKID" : "919f7476-c4fb-4ec5-9e00-c4f21746d336",
+      "TITLE" : "The Bold Arrow of Time",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:66nbRJ6lPJkI2MPPBbsmqv",
+      "DURATION" : "435",
+      "MUSICBRAINZ_TRACKID" : "041ee6fd-12c0-4f34-a4a0-77425410bdc5",
+      "TITLE" : "Runway, Houses, City, Clouds",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:51Zfyi5AtjO5Yn8mMbjLCl",
+      "DURATION" : "226",
+      "MUSICBRAINZ_TRACKID" : "54f6ce65-45cd-4145-ab9a-a505eb3580a4",
+      "TITLE" : "I Don’t Really Mind",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:6huqO2JmhWufcW0bbIhpDi",
+      "DISCNUMBER" : "2",
+      "DISCSUBTITLE" : "Extraspeaker",
+      "DURATION" : "349",
+      "MUSICBRAINZ_TRACKID" : "6f6b72cb-94f1-4790-8574-141d40c14e22",
+      "TITLE" : "Sundown Syndrome",
+      "TOTALTRACKS" : "9",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3g7VAnSddlg5ovDDvrZlyR",
+      "DURATION" : "261",
+      "MUSICBRAINZ_TRACKID" : "79c266d7-b8c7-4912-b895-cf96e6250fcf",
+      "TITLE" : "Remember Me",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1hmK18w3PueSkGcMqlfnOX",
+      "DURATION" : "266",
+      "MUSICBRAINZ_TRACKID" : "558ed962-9db2-42bb-a080-7527f7a05d14",
+      "TITLE" : "Half Full Glass of Wine",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5IXwDeUkx1pO1z13NE7doI",
+      "DURATION" : "314",
+      "MUSICBRAINZ_TRACKID" : "53322a6d-24d5-4032-8c99-11f5fd63e63f",
+      "TITLE" : "Wander",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5dVAkMmQL7q4ba0rbmlGo3",
+      "DURATION" : "494",
+      "MUSICBRAINZ_TRACKID" : "4cb3341b-d06e-4746-b854-b539d0e4121d",
+      "TITLE" : "Why Won’t You Make Up Your Mind? (Erol Alkan rework)",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:3hTlNbILsoFsBtHv6vRPaW",
+      "DURATION" : "330",
+      "MUSICBRAINZ_TRACKID" : "97a277a5-14eb-4917-bc55-d2771be21700",
+      "TITLE" : "Lucidity (Pilooski remix)",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:4Hvc5L5AyHtAWgRErmLWxX",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "586ddb4f-37d1-4bc7-b922-c2f07c1d3de0",
+      "TITLE" : "Solitude Is Bliss (Mickey Moonlight T.A.M. remix)",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5ZhhbSvKsbZ8OO4fD4Fo4S",
+      "DURATION" : "379",
+      "MUSICBRAINZ_TRACKID" : "803dfaa9-c7ef-44c1-b2cd-442a80cfdfe1",
+      "TITLE" : "41 Mojitos (Canyons Poolside dub)",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4BQNWBRrHsLJZ7OUS4L0Cq",
+      "DURATION" : "466",
+      "MUSICBRAINZ_TRACKID" : "bfaa513b-ec89-4222-8aa0-b1f4d78ed3ff",
+      "TITLE" : "Canyons Sunrise Reprise",
+      "TRACKNUMBER" : "9"
+   }
+]

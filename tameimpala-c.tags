@@ -1,0 +1,106 @@
+﻿[
+   {
+      "@" : "spotify:track:068LmtzI6xJJDPfPnMje0U",
+      "ALBUM" : "Currents",
+      "ARTIST" : "Tame Impala",
+      "BARCODE" : "602547306760",
+      "DATE" : "2015-07-17",
+      "DURATION" : "468",
+      "LABEL" : [ "Interscope Records", "Modular Recordings" ],
+      "MUSICBRAINZ_ALBUMID" : "47349b48-0937-4519-88cc-20b6e47b1059",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+      "MUSICBRAINZ_RELEASEGROUPID" : "08aa7a6c-3e43-4459-87b2-e47faf3a088a",
+      "MUSICBRAINZ_TRACKID" : "b85f7f6d-813a-4ebc-8a1d-5998ab02be9a",
+      "SPOTIFY:ALBUM" : "spotify:album:0rxKf57PZvWEoU8v3m5W2q",
+      "SPOTIFY:ARTIST" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb",
+      "TITLE" : "Let It Happen",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3YxF6c4qHkRTUsMhFamyuh",
+      "DURATION" : "108",
+      "MUSICBRAINZ_TRACKID" : "c9f0e0e0-3789-4a78-a91e-03bc0c3ea998",
+      "TITLE" : "Nangs",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6GpH4Q5hUKzMvMoO4n5itq",
+      "DURATION" : "255",
+      "MUSICBRAINZ_TRACKID" : "700b5bca-f8a0-4a3b-b260-1751016dc30b",
+      "TITLE" : "The Moment",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:10ZwvQF9EbmXA20sFf9bO3",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "173324ec-808e-467a-bab8-0fa3a78bf90d",
+      "TITLE" : "Yes I’m Changing",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:04GyFGGvAyItrPfeV0HNj2",
+      "DURATION" : "319",
+      "MUSICBRAINZ_TRACKID" : "9db8c054-4379-4f1a-8b5e-5d6b1c2b0f3a",
+      "TITLE" : "Eventually",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:4ub5QeA3SEnQfA8k64ValJ",
+      "DURATION" : "55",
+      "MUSICBRAINZ_TRACKID" : "e030d5d2-f8d2-4495-bfcc-c3af7eef6286",
+      "TITLE" : "Gossip",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:4g3Ax56IslQkI6XVfYKVc5",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "78be434c-0908-458f-9693-f16cdebb68ef",
+      "TITLE" : "The Less I Know the Better",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3Nqmclh4BAYAWWIXl0z8wQ",
+      "DURATION" : "228",
+      "MUSICBRAINZ_TRACKID" : "5eb905ff-22a9-42ee-8985-699f8c1e18b3",
+      "TITLE" : "Past Life",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:1pcELo31UwH8VFi9yhIbAC",
+      "DURATION" : "109",
+      "MUSICBRAINZ_TRACKID" : "9cbbdb07-8942-48c9-b80e-568149744453",
+      "TITLE" : "Disciples",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:2oVyKK5NH2oawyrDZJn581",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "aee5f1d1-5c05-4d5b-a7a8-79ee4bc2c506",
+      "TITLE" : "Cause I’m a Man",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:4PFMCTG5u4xNc9B1HPtzI1",
+      "DURATION" : "252",
+      "MUSICBRAINZ_TRACKID" : "9f3e2a21-0897-4a56-ba03-3c36628337ef",
+      "TITLE" : "Reality in Motion",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:3XO77jGkQwjkdlu6SmU3cw",
+      "DURATION" : "186",
+      "MUSICBRAINZ_TRACKID" : "88d35fac-b78b-41b5-a4b1-4e75ac0f30e6",
+      "TITLE" : "Love/Paranoia",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:5LraK2D6KZTbSxT7npbbU9",
+      "DURATION" : "363",
+      "MUSICBRAINZ_TRACKID" : "f078699c-9b68-4040-9ba4-b1e4f7d86598",
+      "TITLE" : "New Person, Same Old Mistakes",
+      "TRACKNUMBER" : "13"
+   }
+]

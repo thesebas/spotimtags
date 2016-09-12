@@ -1,0 +1,101 @@
+﻿[
+   {
+      "@" : "spotify:track:5SmwZBnsdAQk7CiEOXjvpH",
+      "ALBUM" : "Lonerism",
+      "ARTIST" : "Tame Impala",
+      "BARCODE" : "602537065189",
+      "CATALOGNUMBER" : "MODCD157",
+      "DATE" : "2012-10-08",
+      "DURATION" : "202",
+      "LABEL" : "Modular Recordings",
+      "MUSICBRAINZ_ALBUMID" : "be3e3f45-2963-46b2-807b-21c2e947eeee",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+      "MUSICBRAINZ_RELEASEGROUPID" : "b0864c80-2726-4761-bf66-a97610162a2c",
+      "MUSICBRAINZ_TRACKID" : "7d62c3af-805f-489e-b9a0-83daf4af8f2e",
+      "ORIGINAL RELEASE DATE" : "2012-10-05",
+      "SPOTIFY:ALBUM" : "spotify:album:76vY9yohh4kVwSKkyKbyEQ",
+      "SPOTIFY:ARTIST" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb",
+      "TITLE" : "Be Above It",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:5bmmGUkvt1MSLl92PCacIn",
+      "DURATION" : "187",
+      "MUSICBRAINZ_TRACKID" : "90f672be-46df-4255-911e-1286030edcb0",
+      "TITLE" : "Endors Toi",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6g4i8boXgdS7L2UOxJWUMH",
+      "DURATION" : "357",
+      "MUSICBRAINZ_TRACKID" : "5b83bc77-5bf8-4abc-a5bb-9a3421b60b27",
+      "TITLE" : "Apocalypse Dreams",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:2PaJO22O7TccqYMe998wkM",
+      "DURATION" : "272",
+      "MUSICBRAINZ_TRACKID" : "a282bde7-10fb-4ef4-983d-067a9ae8be4a",
+      "TITLE" : "Mind Mischief",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:79a16ovdUfRO8Qw3denNaw",
+      "DURATION" : "312",
+      "MUSICBRAINZ_TRACKID" : "73dbd5a0-03f1-4d78-9e36-71222112e895",
+      "TITLE" : "Music to Walk Home By",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6VRM5bZ7bGci7vAbeSNSNa",
+      "DURATION" : "286",
+      "MUSICBRAINZ_TRACKID" : "974f0d0a-a1f4-4b7b-8413-f87e0106947b",
+      "TITLE" : "Why Won't They Talk to Me?",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6vTtMyCg96xwpoIBws9K0Q",
+      "DURATION" : "193",
+      "MUSICBRAINZ_TRACKID" : "74bbaf1e-220c-4329-b494-bcfd7da17ec0",
+      "TITLE" : "Feels Like We Only Go Backwards",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:2eECiyEWKrdD0m0qbU5Wpw",
+      "DURATION" : "354",
+      "MUSICBRAINZ_TRACKID" : "6f7e13b5-cfa1-41fa-9a36-fd40500c73cd",
+      "TITLE" : "Keep on Lying",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:6HqWcIutC3Bwk6awM1jnGP",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "920be16d-e040-433d-b941-39bef05543b0",
+      "TITLE" : "Elephant",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:1qXzfXQT3QlK2XjNuhbGsC",
+      "DURATION" : "57",
+      "MUSICBRAINZ_TRACKID" : "e0826219-d510-4210-8203-218533e3e745",
+      "TITLE" : "She Just Won't Believe Me",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3vD01UlYowoyw9buTjZ7Ir",
+      "DURATION" : "360",
+      "MUSICBRAINZ_TRACKID" : "3d8b3457-ce65-47f4-98b6-f801c269f893",
+      "TITLE" : "Nothing That Has Happened So Far Has Been Anything We Could Control",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:3eJGSdVq2fkgMYHdZsIRie",
+      "DURATION" : "320",
+      "MUSICBRAINZ_TRACKID" : "2c8412f0-9353-48a2-aedb-1ad8dac9498f",
+      "TITLE" : "Sun's Coming Up",
+      "TRACKNUMBER" : "12"
+   }
+]
