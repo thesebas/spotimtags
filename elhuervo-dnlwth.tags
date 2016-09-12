@@ -1,0 +1,65 @@
+﻿[
+   {
+      "@" : "spotify:track:3hacbRUvLN1CnjaYd8rGyL",
+      "ALBUM" : "Do Not Lay Waste to Homes…",
+      "ALBUM ARTIST" : "El Huervo",
+      "ARTIST" : "El Huervo",
+      "DATE" : "2012-05-17",
+      "DURATION" : "319",
+      "LABEL" : "Swedish Columbia",
+      "MUSICBRAINZ_ALBUMARTISTID" : "e601a215-1921-4ec6-b88e-b21868a35d6a",
+      "MUSICBRAINZ_ALBUMID" : "8c4297a3-0f5e-460a-b809-119a86097fcb",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e601a215-1921-4ec6-b88e-b21868a35d6a",
+      "MUSICBRAINZ_RELEASEGROUPID" : "9d7f7398-9a90-4e2d-ab0b-156541b59860",
+      "MUSICBRAINZ_TRACKID" : "d6d324b7-a74e-4194-a18a-b7aee941f1de",
+      "SPOTIFY:ALBUM" : "spotify:album:1eESiSc0bEFLSmavuwc9aN",
+      "SPOTIFY:ARTIST" : "spotify:artist:2gG1LfmQPkHZNptgVpYlpr",
+      "TITLE" : "Rounders",
+      "TOTALTRACKS" : "6",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1pGsbaVHMoYlpigNRZHADC",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "365da76c-68c9-4671-a613-f73963f45a07",
+      "TITLE" : "Fumes",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1hGRe4d3LJCg1VszAU8Cy1",
+      "ARTIST" : "El Huervo feat. Shelby Cinca",
+      "DURATION" : "162",
+      "MUSICBRAINZ_ARTISTID" : [
+         "e601a215-1921-4ec6-b88e-b21868a35d6a",
+         "eeebda45-381f-48fd-ac55-fde8c7f12f4d"
+      ],
+      "MUSICBRAINZ_TRACKID" : "5768cc1e-1863-443b-8d49-41b4a5076baf",
+      "TITLE" : "Daisuke",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:14pON73BJCCrUCziLfwjpj",
+      "ARTIST" : "El Huervo",
+      "DURATION" : "361",
+      "MUSICBRAINZ_ARTISTID" : "e601a215-1921-4ec6-b88e-b21868a35d6a",
+      "MUSICBRAINZ_TRACKID" : "22f40935-b3f6-4b53-ba83-ca3ed411ac4f",
+      "TITLE" : "Rest",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3FJaEKIHmLcRswIFu4hHYH",
+      "DURATION" : "443",
+      "MUSICBRAINZ_TRACKID" : "73ef4ab8-8fd8-43fd-8b5e-3e0d9509f4e8",
+      "TITLE" : "Bones",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5euv2IRthAk2vzFppYTQEb",
+      "DURATION" : "160",
+      "MUSICBRAINZ_TRACKID" : "1f42e6e6-72af-4d6f-a731-42a15a0f08dc",
+      "TITLE" : "Crush",
+      "TRACKNUMBER" : "6"
+   }
+]

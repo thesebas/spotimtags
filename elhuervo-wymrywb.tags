@@ -1,0 +1,70 @@
+﻿[
+   {
+      "@" : "spotify:track:6CBehCDm9GqlgsJxsWFbgA",
+      "ALBUM" : "… Where You Must Rest Your Weary Bones",
+      "ARTIST" : "El Huervo",
+      "DATE" : "2012-06-17",
+      "DURATION" : "530",
+      "LABEL" : "Swedish Columbia",
+      "MUSICBRAINZ_ALBUMID" : "0a6c5265-70e0-4ede-ae83-61c85d3988a8",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e601a215-1921-4ec6-b88e-b21868a35d6a",
+      "MUSICBRAINZ_RELEASEGROUPID" : "a0a0be08-31cf-4e4b-86f2-0a97cef80f00",
+      "MUSICBRAINZ_TRACKID" : "ad64f59e-4866-4be8-ab64-477a614b38c3",
+      "SPOTIFY:ALBUM" : "spotify:album:4SVg7fQ3VyAZi17aDjzhX6",
+      "SPOTIFY:ARTIST" : "spotify:artist:2gG1LfmQPkHZNptgVpYlpr",
+      "TITLE" : "Trust",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:2UxzDqStdiyEw42xjulmjv",
+      "DURATION" : "420",
+      "MUSICBRAINZ_TRACKID" : "06c31a60-5c82-4002-86cc-5ee656616365",
+      "TITLE" : "Substance",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6lR9MFZ87z2jThGQ03V3Bf",
+      "DURATION" : "440",
+      "MUSICBRAINZ_TRACKID" : "f79bbff0-68e3-4659-b063-e3af40b3d529",
+      "TITLE" : "Safe",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:55reN05sS8I8XRyULttBId",
+      "DURATION" : "540",
+      "MUSICBRAINZ_TRACKID" : "a195b521-5a87-42fe-b20e-bcf80920c90e",
+      "TITLE" : "Equipped",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:0yNJ6wuRKSgWeI0SW1JD4r",
+      "DURATION" : "463",
+      "MUSICBRAINZ_TRACKID" : "99b0f9f7-bbd4-43e7-8bb2-d90131dde3f7",
+      "TITLE" : "Almost",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:2Er3irImR2OZOlM4LM1UVQ",
+      "DURATION" : "350",
+      "MUSICBRAINZ_TRACKID" : "80979c02-2532-41d2-9dde-8e0a9f10f214",
+      "TITLE" : "Cut",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6cNCOgC18VKKNyKEjJ5DGE",
+      "DURATION" : "310",
+      "MUSICBRAINZ_TRACKID" : "04bef12d-acca-4d01-92a1-046231522d2a",
+      "TITLE" : "Article",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:1DP1SXTDETZuvu0ZDi8Ybm",
+      "DURATION" : "1074",
+      "MUSICBRAINZ_TRACKID" : "d4e5bdba-ce55-4fa6-9a88-a91b34014915",
+      "TITLE" : "Flight",
+      "TRACKNUMBER" : "8"
+   }
+]

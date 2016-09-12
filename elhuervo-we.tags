@@ -1,0 +1,93 @@
+﻿[
+   {
+      "@" : "spotify:track:5f5OfRltIkyLbdJ0p7MYds",
+      "ALBUM" : "World's End",
+      "ALBUM ARTIST" : "El Huervo",
+      "ARTIST" : "El Huervo",
+      "DATE" : "2015-05-15",
+      "DURATION" : "206",
+      "LABEL" : "Swedish Columbia",
+      "MUSICBRAINZ_ALBUMARTISTID" : "e601a215-1921-4ec6-b88e-b21868a35d6a",
+      "MUSICBRAINZ_ALBUMID" : "1066b612-e1b5-44d4-8ff4-7835cf02af0e",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e601a215-1921-4ec6-b88e-b21868a35d6a",
+      "MUSICBRAINZ_RELEASEGROUPID" : "13b0c179-304b-4bbd-883d-b6344ef87f10",
+      "MUSICBRAINZ_TRACKID" : "2962e683-afa5-44e4-82e0-32dccad13674",
+      "SPOTIFY:ALBUM" : "spotify:album:1bgUOjg3V0a7tvEfF1N6Kk",
+      "SPOTIFY:ARTIST" : "spotify:artist:2gG1LfmQPkHZNptgVpYlpr",
+      "TITLE" : "Shelter",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3Sd5LCz7HREqDhCnKiRQHu",
+      "DURATION" : "342",
+      "MUSICBRAINZ_TRACKID" : "16d3fb80-d559-4b40-bf69-c78ba165528d",
+      "TITLE" : "Rebel",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:771NtAeF8EiFO4D4CQG2ij",
+      "DURATION" : "364",
+      "MUSICBRAINZ_TRACKID" : "7dbc2ff5-7dc4-4284-a288-8b7d64218778",
+      "TITLE" : "Fukurokouji",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:231z9O03a2yRcj6xTJmPCo",
+      "DURATION" : "205",
+      "MUSICBRAINZ_TRACKID" : "00b1052a-e128-4896-a4b8-13d7b6fb0642",
+      "TITLE" : "Dust",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:0pDqf5NMmi3EpcHiipvVHZ",
+      "DURATION" : "340",
+      "MUSICBRAINZ_TRACKID" : "17ed7d4c-0ba1-475c-9659-c49081fed6b1",
+      "TITLE" : "FIVE",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:3pd5WzMQDueZ9AzApcVIeR",
+      "DURATION" : "536",
+      "MUSICBRAINZ_TRACKID" : "f0278d22-c24c-414a-bac7-086cbd0dfb88",
+      "TITLE" : "Awake",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6TeIDLxl43r6SxrvfoQlWB",
+      "ARTIST" : "El Huervo feat. Nounverber",
+      "DURATION" : "305",
+      "MUSICBRAINZ_ARTISTID" : [
+         "e601a215-1921-4ec6-b88e-b21868a35d6a",
+         "40f2c8de-2532-4f87-b691-288eddcf3a31"
+      ],
+      "MUSICBRAINZ_TRACKID" : "a5916564-eff0-4f03-8490-1fa98addc542",
+      "TITLE" : "Hunger",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:2MqflWcnbP3goehm0KwNG0",
+      "ARTIST" : "El Huervo",
+      "DURATION" : "245",
+      "MUSICBRAINZ_ARTISTID" : "e601a215-1921-4ec6-b88e-b21868a35d6a",
+      "MUSICBRAINZ_TRACKID" : "65cd7f82-a7e2-4e34-9173-45c8e9eb807d",
+      "TITLE" : "Fabian",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:0DFADmm2em2AOYXVC0vHNc",
+      "DURATION" : "358",
+      "MUSICBRAINZ_TRACKID" : "eeb53130-93ca-4137-8f0c-bda6eec4249b",
+      "TITLE" : "Express",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:10nxNxFB9TIotBNVOMp2tB",
+      "DURATION" : "180",
+      "MUSICBRAINZ_TRACKID" : "98ee85b5-c0a3-4162-97ff-b3d911b4c3c0",
+      "TITLE" : "Air",
+      "TRACKNUMBER" : "10"
+   }
+]
