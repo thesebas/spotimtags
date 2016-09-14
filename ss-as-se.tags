@@ -1,0 +1,136 @@
+﻿[
+   {
+      "@" : "spotify:track:5JHkWhdaYuiEr0SX8avInN",
+      "ALBUM" : "Audio Secrecy",
+      "ARTIST" : "Stone Sour",
+      "BARCODE" : "016861787059",
+      "CATALOGNUMBER" : "RR 7870-5",
+      "DATE" : "2010-09-03",
+      "DURATION" : "106",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "79f096a5-07e5-4529-bf7b-aacbd15d5f71",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "4ca783b7-5bf7-4348-b494-46680660050f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "78ce6541-d4e3-41da-8445-39fb4cb5ac51",
+      "MUSICBRAINZ_TRACKID" : "16945b59-036f-4eb9-aa3a-708a1ad4809e",
+      "ORIGINAL RELEASE DATE" : "2010-09-01",
+      "SPOTIFY:ALBUM" : "spotify:album:0rhgCL7z1RROeZdEZKpAEK",
+      "SPOTIFY:ARTIST" : "spotify:artist:49qiE8dj4JuNdpYGRPdKbF",
+      "TITLE" : "Audio Secrecy",
+      "TOTALTRACKS" : "17",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:6a7D3tg4pBd7qrEbdJkL9i",
+      "DURATION" : "230",
+      "MUSICBRAINZ_TRACKID" : "9d89a873-3272-47d0-870b-d3b440578caa",
+      "TITLE" : "Mission Statement",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:36DH70Y2KKY2DgL3zz7XGC",
+      "DURATION" : "240",
+      "MUSICBRAINZ_TRACKID" : "6c401883-a47a-40b6-8959-cb1b0cdc9f80",
+      "TITLE" : "Digital (Did You Tell)",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:2KEz1QPEbukuNWVmXCQ6vi",
+      "DURATION" : "264",
+      "MUSICBRAINZ_TRACKID" : "b758cfc7-4aeb-40c3-aa82-d49ecc0b5117",
+      "TITLE" : "Say You'll Haunt Me",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:7edSVWRNxfo0jLuzXqBkqJ",
+      "DURATION" : "181",
+      "MUSICBRAINZ_TRACKID" : "280ef95c-1a2f-4ca4-a025-a1db51a2f1e0",
+      "TITLE" : "Dying",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6MulrnNT3hUfSlFqLo2qZ7",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "204345f5-1da3-4c86-9a72-8fd9c1e7ba43",
+      "TITLE" : "Let's Be Honest",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:4HUYjDgnAHkrNCihQo7J5C",
+      "DURATION" : "190",
+      "MUSICBRAINZ_TRACKID" : "f3fd15af-7d78-4497-ae07-202d2a0aadba",
+      "TITLE" : "Unfinished",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0vgpbEfkcUF09VNkcrQRWi",
+      "DURATION" : "256",
+      "MUSICBRAINZ_TRACKID" : "2eeb2c06-53fc-4842-9237-2e7541b5f663",
+      "TITLE" : "Hesitate",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4j1noO7yFOKv7KGaYxgHcx",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "0fce970a-4e9c-4ba1-86c0-a6c526981ffa",
+      "TITLE" : "Nylon 6/6",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:3hBmrBjusYiqlNjwYEXYrF",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "8087ce98-c6c9-43dc-830b-33bbf6f3b5d4",
+      "TITLE" : "Miracles",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:1ujr8JA7OtaWXsj7XMNYu6",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "f67cde0c-a9c1-4c2d-8d4a-c458f3bba675",
+      "TITLE" : "Pieces",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:40TNf15lFjwZHaFyuKTHyA",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "c2fef41b-0cbc-48e0-afc7-3745db8a2640",
+      "TITLE" : "The Bitter End",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:4Y7GS2O7hjCUywYLXNnSbJ",
+      "DURATION" : "262",
+      "MUSICBRAINZ_TRACKID" : "ff4f715a-003e-43d1-970b-9dd2705966e6",
+      "TITLE" : "Imperfect",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:0rgzWCEOr9tnkPwr5y4Mle",
+      "DURATION" : "344",
+      "MUSICBRAINZ_TRACKID" : "003df3d6-4f25-454e-a7c3-400de6bcae5f",
+      "TITLE" : "Threadbare",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:5N3yqWjKCdVF2KExX6tM2P",
+      "DURATION" : "230",
+      "MUSICBRAINZ_TRACKID" : "e15b39a6-b045-4c45-8894-0b23647fa70e",
+      "TITLE" : "Hate Not Gone",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:79N6ODiSktLyZBjAlZlf5c",
+      "DURATION" : "210",
+      "MUSICBRAINZ_TRACKID" : "a2a5b41a-cb34-45f8-9b77-954e019b7c95",
+      "TITLE" : "Anna",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:0Gp9alWehhl1M9Vui9h06l",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "29351ace-6915-4195-8bf3-e42ebf779483",
+      "TITLE" : "Home Again",
+      "TRACKNUMBER" : "17"
+   }
+]

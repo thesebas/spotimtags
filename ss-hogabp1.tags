@@ -1,0 +1,93 @@
+﻿[
+   {
+      "@" : "spotify:track:7c3DfsUMhDTnf2JewbfU8w",
+      "ALBUM" : "House of Gold & Bones, Part 1",
+      "ARTIST" : "Stone Sour",
+      "BARCODE" : "016861766320",
+      "CATALOGNUMBER" : [ "1686-176632", "1686-17663-2", "RR7663-2" ],
+      "DATE" : "2012-10-22",
+      "DURATION" : "243",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "5b2e69d0-d38e-4ca6-b9d2-c8184458e571",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "4ca783b7-5bf7-4348-b494-46680660050f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "3450d796-dc62-46c4-a9fd-8e1380593903",
+      "MUSICBRAINZ_TRACKID" : "8b197f60-9c3d-415d-b4e3-4204c98264d1",
+      "SPOTIFY:ALBUM" : "spotify:album:2nCHgPLLyIgxFKUBYuMKPn",
+      "SPOTIFY:ARTIST" : "spotify:artist:49qiE8dj4JuNdpYGRPdKbF",
+      "TITLE" : "Gone Sovereign",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:14EORgkbXqIx5K4Haucmnb",
+      "DURATION" : "230",
+      "MUSICBRAINZ_TRACKID" : "8e47dfba-d46d-4f7b-8195-0916b0079068",
+      "TITLE" : "Absolute Zero",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1MlyPHPWypoxSG6Qwb2qXv",
+      "DURATION" : "251",
+      "MUSICBRAINZ_TRACKID" : "b38cb35c-bd23-4546-8c67-ec0c4ac8ce3a",
+      "TITLE" : "A Rumor of Skin",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3nFD5NAXcXzKYFASvm0VP4",
+      "DURATION" : "147",
+      "MUSICBRAINZ_TRACKID" : "55d49c69-b025-4cb1-bb9b-6448594587ff",
+      "TITLE" : "The Travelers, Part 1",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1q9ru9Wx2Q9Ez8irkGcyFa",
+      "DURATION" : "252",
+      "MUSICBRAINZ_TRACKID" : "465d8328-39ce-44a1-9300-77fb4c2057bc",
+      "TITLE" : "Tired",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:2JJKQgDYund4K8pt70jcLk",
+      "DURATION" : "262",
+      "MUSICBRAINZ_TRACKID" : "b38d8e87-0109-47e5-ae61-1fe15d351772",
+      "TITLE" : "RU486",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:7zwNK5ocOAGlHtcQliLG3P",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "ec6b2ed0-4aee-4ebf-ae52-afe50b095ed7",
+      "TITLE" : "My Name Is Allen",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0pVL6gE6ebXHExO9IzrJDQ",
+      "DURATION" : "326",
+      "MUSICBRAINZ_TRACKID" : "7713c69e-727c-4fd0-815a-e7542807cbc9",
+      "TITLE" : "Taciturn",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:56OORedNjFtHSG30bo6QCo",
+      "DURATION" : "269",
+      "MUSICBRAINZ_TRACKID" : "56ed5629-acda-43ab-a57e-501629df38c6",
+      "TITLE" : "Influence of a Drowsy God",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4zfxvfo5SYVVam9rwoBJjv",
+      "DURATION" : "182",
+      "MUSICBRAINZ_TRACKID" : "96dc3daa-4c14-4e9f-9395-3fe54c4549fd",
+      "TITLE" : "The Travelers, Part 2",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:5hGijWiJRedcgP9I3xdD6q",
+      "DURATION" : "181",
+      "MUSICBRAINZ_TRACKID" : "bb6437e0-8aa4-4c90-b12e-8eea7164c728",
+      "TITLE" : "Last of the Real",
+      "TRACKNUMBER" : "11"
+   }
+]

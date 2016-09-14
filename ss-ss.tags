@@ -1,0 +1,139 @@
+﻿[
+   {
+      "@" : "spotify:track:2hX2v0U5lKSlxVxnesLEak",
+      "ALBUM" : "Stone Sour",
+      "ARTIST" : "Stone Sour",
+      "DATE" : "2002-08-19",
+      "DURATION" : "194",
+      "MUSICBRAINZ_ALBUMID" : "0871083d-36a6-4d06-a20a-4fa564b22a64",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "4ca783b7-5bf7-4348-b494-46680660050f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "77915cb0-cfaf-3af7-a7b6-bbed33f60df0",
+      "MUSICBRAINZ_TRACKID" : "89fb4fc7-8003-48af-899f-c7ae3c75a7a5",
+      "SPOTIFY:ALBUM" : "spotify:album:1zxVmbhE7PevJT8Z6w6upn",
+      "SPOTIFY:ARTIST" : "spotify:artist:49qiE8dj4JuNdpYGRPdKbF",
+      "TITLE" : "Get Inside",
+      "TOTALTRACKS" : "18",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7vmDA2paPsWD0Iltw7EMHA",
+      "DURATION" : "264",
+      "MUSICBRAINZ_TRACKID" : "f267a3d4-fb51-48ee-880c-910b71a38f62",
+      "TITLE" : "Orchids",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4AWiaP1wJ00kuhN1zlcPEj",
+      "DURATION" : "221",
+      "MUSICBRAINZ_TRACKID" : "47bbceb9-1c12-4f97-95d3-8e6af65713ff",
+      "TITLE" : "Cold Reader",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:01wpLM5kivHQXzWkVc1EtE",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "86cac773-d07d-4d45-b204-d37b7f028ecf",
+      "TITLE" : "Blotter",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:2cJpgPuuFiVqlKcf6PvXNS",
+      "DURATION" : "257",
+      "MUSICBRAINZ_TRACKID" : "8f18ddbd-12f8-4fd1-9992-d4cb9e35be65",
+      "TITLE" : "Choose",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:3d9svmNyNhe44ERtYr0O8A",
+      "DURATION" : "226",
+      "MUSICBRAINZ_TRACKID" : "aee05727-dc82-4fce-ba07-f609ffbb8fb4",
+      "TITLE" : "Monolith",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:5wJxZ9YBm653xHNPC6BnRk",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "a956e9ab-c43b-4350-a3c7-8ee8b46d4580",
+      "TITLE" : "Inhale",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0AfIsqZ4gTUg9CwwW2jLeK",
+      "DURATION" : "240",
+      "MUSICBRAINZ_TRACKID" : "9ddb7764-8047-4873-8495-f0a5222043b9",
+      "TITLE" : "Bother",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4VTRY0lEuNlbVYVAn7XqZu",
+      "DURATION" : "277",
+      "MUSICBRAINZ_TRACKID" : "7d55e061-90e8-458e-a019-e0154a096550",
+      "TITLE" : "Blue Study",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:38zUssx2GGIvA3rdTEc9KK",
+      "DURATION" : "223",
+      "MUSICBRAINZ_TRACKID" : "e2be006e-ce93-4116-a366-33208d53346d",
+      "TITLE" : "Take a Number",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3gr540RhkP9dXsGEBpwawZ",
+      "DURATION" : "237",
+      "MUSICBRAINZ_TRACKID" : "248d70a5-60cf-487f-a182-4ef9a0aa8eed",
+      "TITLE" : "Idle Hands",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:2c3KfuenCg3AG899G1oKfN",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "5f74fb02-2b50-4017-b9e4-b8fdddab12e8",
+      "TITLE" : "Tumult",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:6Ndd6JDDlFtD7Z1mHSyeH5",
+      "DURATION" : "175",
+      "MUSICBRAINZ_TRACKID" : "eb4c0ea4-c7f9-4d92-9aa3-7d36334ffb30",
+      "TITLE" : "Omega",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:6merTtGND5rhKxAt9qEzPy",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "f791aacf-85e2-4b64-b846-bf724bc56d23",
+      "TITLE" : "Rules of Evidence",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:4onabc1MqnCIsrr0On3Sa3",
+      "DURATION" : "295",
+      "MUSICBRAINZ_TRACKID" : "fe7b2f69-a25f-47ee-9a1a-5835b3d89465",
+      "TITLE" : "The Wicked",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:5uUQGqns8VEZUUA9ZcD34G",
+      "DURATION" : "204",
+      "MUSICBRAINZ_TRACKID" : "f4ddd58d-8c07-4f64-9db5-ec898c4a69cd",
+      "TITLE" : "Inside the Cynic",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:1oA1ogkgPxVgSbuePFh2Mp",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "0b286351-8627-4cdc-9799-0555ab1c4e0c",
+      "TITLE" : "Kill Everybody",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:track:1Laa686f7tRwD9yTRVdXbV",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "20697ab7-03aa-4087-881f-4345f9d49b68",
+      "TITLE" : "Road Hogs",
+      "TRACKNUMBER" : "18"
+   }
+]

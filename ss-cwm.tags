@@ -1,0 +1,140 @@
+﻿[
+   {
+      "@" : "spotify:track:3JcfmUCVj5P6WzCyJ92Bx1",
+      "ALBUM" : "Come What(ever) May",
+      "ARTIST" : "Stone Sour",
+      "DATE" : "2007-06-26",
+      "DURATION" : "258",
+      "MUSICBRAINZ_ALBUMID" : "06e29342-cf8e-41e3-8f75-bae16e76e57f",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "4ca783b7-5bf7-4348-b494-46680660050f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "3b57a56a-8377-37d7-9dba-cd1b4471c35e",
+      "MUSICBRAINZ_TRACKID" : "22dff6df-2434-4997-a538-fc5e1a041004",
+      "ORIGINAL RELEASE DATE" : "2006-07-28",
+      "SPOTIFY:ALBUM" : "spotify:album:5eHk89PNorMd7e4wyxYiUV",
+      "SPOTIFY:ARTIST" : "spotify:artist:49qiE8dj4JuNdpYGRPdKbF",
+      "TITLE" : "30/30‐150",
+      "TOTALTRACKS" : "18",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1S3P67VKzSCI818F6C7Dad",
+      "DURATION" : "220",
+      "MUSICBRAINZ_TRACKID" : "b15b0881-08e0-4f1e-b516-8e0fceff1b75",
+      "TITLE" : "Come What(ever) May",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:74FhwJEEzTpu9XwauUDV36",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "2c0d91ef-ecbc-4f17-a511-e059b18a47d9",
+      "TITLE" : "Hell & Consequences",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:1od97cOFkiEbmTcbfpPlfP",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "8c3a82ce-f053-44ff-96d4-d15bd24b6ca6",
+      "TITLE" : "Sillyworld",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5lYAcOQjPMFoxToy9uuglt",
+      "DURATION" : "203",
+      "MUSICBRAINZ_TRACKID" : "83f8c4b5-62fa-4a97-8b76-21c65d980bcb",
+      "TITLE" : "Made of Scars",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:1l0iCSTtbOUygLeFc52gjB",
+      "DURATION" : "195",
+      "MUSICBRAINZ_TRACKID" : "79d364cb-6ec2-4d87-95ef-aa777f12f796",
+      "TITLE" : "Reborn",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:4Xptr4A9nRPXu8V3UuznYz",
+      "DURATION" : "285",
+      "MUSICBRAINZ_TRACKID" : "4878f29b-0190-49ed-b10a-38da99a366cf",
+      "TITLE" : "Your God",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:76aadnUFFANRNDs6L3aqxw",
+      "DURATION" : "283",
+      "MUSICBRAINZ_TRACKID" : "019b8694-3af1-4c0a-956f-4b8ea7f8a112",
+      "TITLE" : "Through Glass",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4Io4BGgUk8Pyyl5gQ6kXEg",
+      "DURATION" : "200",
+      "MUSICBRAINZ_TRACKID" : "4b5cd018-76bd-4801-9f41-bd12480c31fc",
+      "TITLE" : "Socio",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:7EGV7J81EzSJlCXrqn2sKS",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "9d3076b9-bdb2-4192-8781-7e6b8b734dac",
+      "TITLE" : "1st Person",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:326SIJ2Bx7INi88kybSIBy",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "1f80259c-feff-4c45-bad9-63b03ec90df0",
+      "TITLE" : "Cardiff",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:2pL2D6wojq1KSEUD4tlyqi",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "4289cc4d-b3b4-4eac-8294-2616462e262b",
+      "TITLE" : "Zzyzx Rd.",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:06NmR4CdfcKA9KMMTy9fHp",
+      "DURATION" : "222",
+      "MUSICBRAINZ_TRACKID" : "df241d6f-878a-49a2-9fbe-f39b9eab284c",
+      "TITLE" : "Suffer",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:6xMHrunXbbxCsRZuLkCUeA",
+      "DURATION" : "240",
+      "MUSICBRAINZ_TRACKID" : "ae582b80-548e-4f39-8d2d-4b3b0146c4f2",
+      "TITLE" : "Fruitcake",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:0u8iiTbPDi1u6X8nnkY4Xw",
+      "DURATION" : "305",
+      "MUSICBRAINZ_TRACKID" : "fc241e34-44ad-4466-88cf-e5c9b0db78cb",
+      "TITLE" : "The Day I Let Go",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:3Xf5dTChNr3rKrlhR93fog",
+      "DURATION" : "164",
+      "MUSICBRAINZ_TRACKID" : "c647091a-03c6-4191-9f5f-57fa2a3e5f7f",
+      "TITLE" : "Freeze Dry Seal",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:6UFhNbE4sLRUoM52kC4Xl4",
+      "DURATION" : "267",
+      "MUSICBRAINZ_TRACKID" : "dda39919-fd15-4d30-8618-f52409941cc3",
+      "TITLE" : "Wicked Game",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:track:69xtBlUmJbkXs36Ilut2Mg",
+      "DURATION" : "184",
+      "MUSICBRAINZ_TRACKID" : "af3eb2a2-b90f-42fa-9ca6-4786ec979488",
+      "TITLE" : "The Frozen",
+      "TRACKNUMBER" : "18"
+   }
+]

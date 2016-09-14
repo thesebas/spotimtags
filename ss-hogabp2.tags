@@ -1,0 +1,101 @@
+﻿[
+   {
+      "@" : "spotify:track:5lFX4A9y2qwfgKULw1J32K",
+      "ALBUM" : "House of Gold & Bones, Part 2",
+      "ARTIST" : "Stone Sour",
+      "BARCODE" : "016861762568",
+      "CATALOGNUMBER" : "RR7625-6",
+      "DATE" : "2013-04-05",
+      "DURATION" : "279",
+      "LABEL" : "Roadrunner Records",
+      "MUSICBRAINZ_ALBUMID" : "f83a41f8-c6da-4ae5-bb3e-a2bb33edde37",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "4ca783b7-5bf7-4348-b494-46680660050f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "2641675b-0999-48fb-b5aa-acf150075eed",
+      "MUSICBRAINZ_TRACKID" : "d0f7b310-7ab7-438b-9f3f-68ce9b24dbd4",
+      "ORIGINAL RELEASE DATE" : "2013-04-03",
+      "SPOTIFY:ALBUM" : "spotify:album:1ELcic3NPR2Gi2se01bn7t",
+      "SPOTIFY:ARTIST" : "spotify:artist:49qiE8dj4JuNdpYGRPdKbF",
+      "TITLE" : "Red City",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7osayeDbjJBTlJoHoO2f2s",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "0f5644a9-f52b-4956-8dcf-8ad11484f96d",
+      "TITLE" : "Black John",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0lDX0Pkth7pXYUzTvuKgln",
+      "DURATION" : "308",
+      "MUSICBRAINZ_TRACKID" : "0b37ad08-e53d-4fec-b181-01cf3ad31a20",
+      "TITLE" : "Sadist",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:2FngpunDZn5SEjkEAbBaxB",
+      "DURATION" : "251",
+      "MUSICBRAINZ_TRACKID" : "02e51ec5-f1b0-4978-bf6b-4a5648fcf9a8",
+      "TITLE" : "Peckinpah",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3Xon66HIXTLVg9etW6TfBO",
+      "DURATION" : "288",
+      "MUSICBRAINZ_TRACKID" : "83570ce5-92ba-4944-8390-4f9c893547ad",
+      "TITLE" : "Stalemate",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6wXUTQI5qVgJICnNWyUz1S",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "bb7922b3-a2c0-4627-b3c3-a02e7aecad3a",
+      "TITLE" : "Gravesend",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:64uzGkf0A6cnOSKMxwuCej",
+      "DURATION" : "222",
+      "MUSICBRAINZ_TRACKID" : "47b3eccf-2d32-4431-a97f-8be5fe72c8da",
+      "TITLE" : "'82",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5cMh0wkTZXKdlYFtGEny7n",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "b80ee08c-6014-4cfb-be4a-14a2c94a67b1",
+      "TITLE" : "The Uncanny Valley",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:6OBQDf8B3aSJEyBfVBEAH9",
+      "DURATION" : "127",
+      "MUSICBRAINZ_TRACKID" : "7df90aca-e6ea-4330-bd1e-f904b53b3c6a",
+      "TITLE" : "Blue Smoke",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4Ma6fKktonx1Tu7Lzljcz5",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "cec6ac07-9596-4406-9911-fd7c9c54b03c",
+      "TITLE" : "Do Me a Favor",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3ZHQvhLOfRP2LMRYHgR6oZ",
+      "DURATION" : "296",
+      "MUSICBRAINZ_TRACKID" : "2e567ff9-a594-43b6-9b45-f1a40d87d466",
+      "TITLE" : "The Conflagration",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:3GUDcoI8YXplwIjMcmyT0F",
+      "DURATION" : "283",
+      "MUSICBRAINZ_TRACKID" : "f1e107f4-3b3a-413b-b735-cd7e2ee438a0",
+      "TITLE" : "The House of Gold & Bones",
+      "TRACKNUMBER" : "12"
+   }
+]
