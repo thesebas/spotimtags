@@ -1,0 +1,43 @@
+﻿[
+   {
+      "@" : "spotify:track:23MtRxzd1t8WfNIPnQstQs",
+      "ALBUM" : "Time & Withering",
+      "ARTIST" : "Mouth of the Architect",
+      "CATALOGNUMBER" : "TL5",
+      "DATE" : "2004-11-01",
+      "DURATION" : "724",
+      "LABEL" : "Translation Loss Records",
+      "MUSICBRAINZ_ALBUMID" : "b8b0b3d0-1a65-44df-a717-49c3ef9edd18",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e3a3c55a-b95e-47e9-b4cb-7bfd63c51bfa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "b0b83f15-cb50-313f-9ab2-5bef69b22045",
+      "MUSICBRAINZ_TRACKID" : "aebb3b1f-da25-43d8-8bf6-4db8b55813a6",
+      "SPOTIFY:ALBUM" : "spotify:album:0vwkGYYuufKKId08FQSAjQ",
+      "SPOTIFY:ARTIST" : "spotify:artist:74Lk7WdgkYm19XoHvEsr5F",
+      "TITLE" : "A Vivid Chaos",
+      "TOTALTRACKS" : "4",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:4KoGXMHgWw8acICGq3EI5U",
+      "DURATION" : "682",
+      "MUSICBRAINZ_TRACKID" : "60c9cd3b-f7f8-4b87-b5fa-4ab6b038ddf8",
+      "TITLE" : "Soil to Stone",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:525c2MpZXlvB893X7ZFbrz",
+      "DURATION" : "295",
+      "MUSICBRAINZ_TRACKID" : "d2f647a8-70fb-46bc-a287-00947db9ec4d",
+      "TITLE" : "Heart Eaters",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3gv88P8BZwmt6eaMmYYY5R",
+      "DURATION" : "651",
+      "MUSICBRAINZ_TRACKID" : "110d445c-0a2a-4819-aea9-212206a86b51",
+      "TITLE" : "The Worm",
+      "TRACKNUMBER" : "4"
+   }
+]

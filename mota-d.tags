@@ -1,0 +1,55 @@
+﻿[
+   {
+      "@" : "spotify:track:5sgNSvtS7ORzdhcl0qg35u",
+      "ALBUM" : "Dawning",
+      "ARTIST" : "Mouth of the Architect",
+      "DATE" : "2013-06-25",
+      "DURATION" : "567",
+      "MUSICBRAINZ_ALBUMID" : "5c9879cd-f74e-47a5-a450-08bbc0aedee1",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e3a3c55a-b95e-47e9-b4cb-7bfd63c51bfa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "4cd25194-143c-44fe-bebb-38728ed7d25a",
+      "MUSICBRAINZ_TRACKID" : "8f62aa63-1f59-44cd-b1e5-f01d9834c8c3",
+      "SPOTIFY:ALBUM" : "spotify:album:176KHT4qYQ39qvp2kd284x",
+      "SPOTIFY:ARTIST" : "spotify:artist:74Lk7WdgkYm19XoHvEsr5F",
+      "TITLE" : "Lullabye",
+      "TOTALTRACKS" : "6",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:49nwfErjCvaEcnrzXkeW9H",
+      "DURATION" : "518",
+      "MUSICBRAINZ_TRACKID" : "534264ac-d1f5-4d6e-9be6-e817587c5180",
+      "TITLE" : "It Swarms",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:35f3kaNe0idjbWL4cntkPJ",
+      "DURATION" : "416",
+      "MUSICBRAINZ_TRACKID" : "075ff980-05eb-4f7b-85f7-4622f509bd80",
+      "TITLE" : "Sharpen Your Axes",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:379ypAUfkIhlNGpbQCSq7y",
+      "DURATION" : "683",
+      "MUSICBRAINZ_TRACKID" : "ca60695a-821c-4bec-a65a-4a4502153814",
+      "TITLE" : "How This Will End",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5Hc11dMKUkSeXEAZfaeXe6",
+      "DURATION" : "575",
+      "MUSICBRAINZ_TRACKID" : "98682821-5abd-4fa1-9af5-11ab4a6ca049",
+      "TITLE" : "Patterns",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6FmKiJoNblfrbuktM8zlj2",
+      "DURATION" : "439",
+      "MUSICBRAINZ_TRACKID" : "09a7836c-6ac8-4506-8923-0d7f60647b3e",
+      "TITLE" : "The Other Son",
+      "TRACKNUMBER" : "6"
+   }
+]

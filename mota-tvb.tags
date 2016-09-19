@@ -1,0 +1,44 @@
+﻿[
+   {
+      "@" : "spotify:track:7FvHBG7mpTIlFB1WnO4z9l",
+      "ALBUM" : "The Violence Beneath",
+      "ARTIST" : "Mouth of the Architect",
+      "BARCODE" : "884501282840",
+      "CATALOGNUMBER" : "TL42-2",
+      "DATE" : "2010-04-17",
+      "DURATION" : "437",
+      "LABEL" : "Translation Loss Records",
+      "MUSICBRAINZ_ALBUMID" : "f4b97724-3694-4db1-a84c-432d9fab4304",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "EP",
+      "MUSICBRAINZ_ARTISTID" : "e3a3c55a-b95e-47e9-b4cb-7bfd63c51bfa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "1282850b-b70b-4761-9931-a52f03dc3fa2",
+      "MUSICBRAINZ_TRACKID" : "f31eca70-1cca-4d14-80a6-ac77efbf6857",
+      "SPOTIFY:ALBUM" : "spotify:album:1ohwimwrDgN8OTbhfDv2uW",
+      "SPOTIFY:ARTIST" : "spotify:artist:74Lk7WdgkYm19XoHvEsr5F",
+      "TITLE" : "The Violence Beneath",
+      "TOTALTRACKS" : "4",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:2fcWiB8MctLhunzTX1f6kW",
+      "DURATION" : "615",
+      "MUSICBRAINZ_TRACKID" : "e59c261b-e322-43fe-9111-164a31239601",
+      "TITLE" : "Buried Hopes",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4XgRNajYNoKUlBrlEbaCk1",
+      "DURATION" : "354",
+      "MUSICBRAINZ_TRACKID" : "ebd53965-31d5-48b7-8c11-4177467e1b36",
+      "TITLE" : "Restore (live)",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6MYhyeWqF4f8e3FJpRwHCQ",
+      "DURATION" : "461",
+      "MUSICBRAINZ_TRACKID" : "e6a04ead-bdd0-4bef-8799-cac99c076168",
+      "TITLE" : "In Your Eyes",
+      "TRACKNUMBER" : "4"
+   }
+]

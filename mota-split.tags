@@ -1,0 +1,43 @@
+﻿[
+   {
+      "@" : "spotify:track:17PLY4VZ4b9k9r6eojHhKp",
+      "ALBUM" : "Mouth of the Architect / Kenoma",
+      "ALBUM ARTIST" : "Mouth of the Architect / Kenoma",
+      "ARTIST" : "Mouth of the Architect",
+      "CATALOGNUMBER" : "TL13-2",
+      "DATE" : "2006-05-16",
+      "DURATION" : "1035",
+      "LABEL" : "Translation Loss Records",
+      "MUSICBRAINZ_ALBUMARTISTID" : [
+         "e3a3c55a-b95e-47e9-b4cb-7bfd63c51bfa",
+         "93f87f3d-4351-4fa2-abf1-80e86fb499b2"
+      ],
+      "MUSICBRAINZ_ALBUMID" : "7d7753bd-ff58-4584-93ef-4e82fff8ecb0",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e3a3c55a-b95e-47e9-b4cb-7bfd63c51bfa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "86d92a0a-f3b1-3d86-a465-a14bc0be83ca",
+      "MUSICBRAINZ_TRACKID" : "b3ade9d3-9fd3-4ede-93a2-7c3f62cd9b96",
+      "SPOTIFY:ALBUM" : "spotify:album:14u1sEjJN0hqz96he4x4BP",
+      "SPOTIFY:ARTIST" : "spotify:artist:74Lk7WdgkYm19XoHvEsr5F",
+      "TITLE" : "Sleepwalk Powder",
+      "TOTALTRACKS" : "3",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7kSFXdlAtrNHVRRsPvE5B9",
+      "ARTIST" : "Kenoma",
+      "DURATION" : "706",
+      "MUSICBRAINZ_ARTISTID" : "93f87f3d-4351-4fa2-abf1-80e86fb499b2",
+      "MUSICBRAINZ_TRACKID" : "272f59e0-d29a-4f65-a223-b4294dfda4ac",
+      "TITLE" : "The Nature of Empire",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4ra2kovzpL06Qut79D7kEJ",
+      "DURATION" : "509",
+      "MUSICBRAINZ_TRACKID" : "6472fbf7-474a-442d-9b7d-a2630a4d1934",
+      "TITLE" : "1913",
+      "TRACKNUMBER" : "3"
+   }
+]

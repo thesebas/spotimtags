@@ -1,0 +1,56 @@
+﻿[
+   {
+      "@" : "spotify:track:7Kf37Fm9clRhwZTZCaMp3m",
+      "ALBUM" : "The Ties That Blind",
+      "ARTIST" : "Mouth of the Architect",
+      "DATE" : "2012-04-27",
+      "DURATION" : "630",
+      "MUSICBRAINZ_ALBUMID" : "8289fb50-b032-4157-9943-277c7758a9f2",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e3a3c55a-b95e-47e9-b4cb-7bfd63c51bfa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "da810191-a2d8-39b3-864a-c725b0268725",
+      "MUSICBRAINZ_TRACKID" : "52134774-bf1f-4b2f-92e2-b92b74ec023a",
+      "ORIGINAL RELEASE DATE" : "2006-08-22",
+      "SPOTIFY:ALBUM" : "spotify:album:5FCyT4mOT21i8HYEKmtEvD",
+      "SPOTIFY:ARTIST" : "spotify:artist:74Lk7WdgkYm19XoHvEsr5F",
+      "TITLE" : "Baobab",
+      "TOTALTRACKS" : "6",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1ctLV27HKkfxGjLaXBr0sm",
+      "DURATION" : "936",
+      "MUSICBRAINZ_TRACKID" : "2e049fde-ea26-48e2-91fc-fb153ba94f78",
+      "TITLE" : "No One Wished to Settle Here",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2C8l50TD0QkORFOIDTm4ZY",
+      "DURATION" : "730",
+      "MUSICBRAINZ_TRACKID" : "c14fa779-4d52-419a-9b7c-7cd53f4c5171",
+      "TITLE" : "Carry On",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5nASKlgk5zonAUHXfE1N8O",
+      "DURATION" : "475",
+      "MUSICBRAINZ_TRACKID" : "9855678f-428e-42da-b263-127d0d7ce530",
+      "TITLE" : "Harboring an Apparition",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:2pzN5xoIXuFHjV0j8PWJNb",
+      "DURATION" : "424",
+      "MUSICBRAINZ_TRACKID" : "380ea7ed-4bec-4cab-b859-9715f16e76e8",
+      "TITLE" : "At Arms Length",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:2AO2XHQgGRBAT1MtVi30Oy",
+      "DURATION" : "773",
+      "MUSICBRAINZ_TRACKID" : "92b2fd80-762e-4d6a-afb9-f435698562ff",
+      "TITLE" : "Wake Me When It's Over",
+      "TRACKNUMBER" : "6"
+   }
+]

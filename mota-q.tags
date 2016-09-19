@@ -1,0 +1,72 @@
+﻿[
+   {
+      "@" : "spotify:track:4sezu527d3JtAmQhzsLkRB",
+      "ALBUM" : "Quietly",
+      "ARTIST" : "Mouth of the Architect",
+      "BARCODE" : "880270233823",
+      "CATALOGNUMBER" : "TL30-2",
+      "DATE" : "2008-07-22",
+      "DURATION" : "634",
+      "LABEL" : "Translation Loss Records",
+      "MUSICBRAINZ_ALBUMID" : "c2acdb03-954b-4afc-afd1-ebb9c873a5a8",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e3a3c55a-b95e-47e9-b4cb-7bfd63c51bfa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "2dd93f9f-444b-3f17-ad4e-277ee2c82bc9",
+      "MUSICBRAINZ_TRACKID" : "a8af801d-0f72-43a9-a19a-8b8ffa3ca373",
+      "SPOTIFY:ALBUM" : "spotify:album:6lglfEuGbaD0fV0iLLwNSy",
+      "SPOTIFY:ARTIST" : "spotify:artist:74Lk7WdgkYm19XoHvEsr5F",
+      "TITLE" : "Quietly",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3xpwWXqGZRGLCOlGqrF4Cn",
+      "DURATION" : "454",
+      "MUSICBRAINZ_TRACKID" : "d8bb7e2e-b2dc-45d7-9f99-731a606f172e",
+      "TITLE" : "Hate and Heartache",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4fYoggJNnlMIWxHNI0NzPa",
+      "DURATION" : "235",
+      "MUSICBRAINZ_TRACKID" : "374dc09b-e15c-4587-9685-f61eafd275b3",
+      "TITLE" : "Pine Boxes",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:0TZB6iSxlJ9ZqjzOO2R23I",
+      "DURATION" : "459",
+      "MUSICBRAINZ_TRACKID" : "05e6caa6-4b7b-4c5d-9e7f-2bad014987a1",
+      "TITLE" : "Guilt and the Like",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:58DeL6ISjVa9EGuZbpJtHD",
+      "DURATION" : "608",
+      "MUSICBRAINZ_TRACKID" : "17e868da-bc8d-41fe-8e08-e22e9e957010",
+      "TITLE" : "Generation of Ghosts",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:48XdY1kKlqM8WdjFC9KhEH",
+      "DURATION" : "412",
+      "MUSICBRAINZ_TRACKID" : "df9203ab-e542-4e48-b36b-ba5679a36126",
+      "TITLE" : "Rocking Chairs and Shotguns",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:1J7EhEw96E1sl5VNOgOkvM",
+      "DURATION" : "118",
+      "MUSICBRAINZ_TRACKID" : "4c757078-4f1a-449d-9053-802dbbabcf04",
+      "TITLE" : "Medicine",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:2Iy8nEnMcy4FcTeADYoWN8",
+      "DURATION" : "424",
+      "MUSICBRAINZ_TRACKID" : "1ff147a5-ea10-4f9e-9b5b-fecf1dc3de30",
+      "TITLE" : "A Beautiful Corpse",
+      "TRACKNUMBER" : "8"
+   }
+]
