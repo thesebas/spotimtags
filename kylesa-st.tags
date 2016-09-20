@@ -1,0 +1,86 @@
+﻿[
+   {
+      "@" : "spotify:track:3xLqwykOGrA8NDfAHrXuDr",
+      "ALBUM" : "Static Tensions",
+      "ARTIST" : "Kylesa",
+      "BARCODE" : "0656191007122",
+      "CATALOGNUMBER" : "6561910071-2",
+      "DATE" : "2009-03-17",
+      "DURATION" : "205",
+      "LABEL" : "Prosthetic Records",
+      "MUSICBRAINZ_ALBUMID" : "4d86cdca-e5ea-4ba5-a140-4ed0f0df18a1",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3",
+      "MUSICBRAINZ_RELEASEGROUPID" : "61aabcf5-04b5-3fd0-93e1-f4c24c4c4526",
+      "MUSICBRAINZ_TRACKID" : "bda90596-ab7f-4008-86b2-febe506233dd",
+      "SPOTIFY:ALBUM" : "spotify:album:0Aj7YOQ3gK97MouZ487emF",
+      "SPOTIFY:ARTIST" : "spotify:artist:7mO0JGOATH8fVHvgCdZsXh",
+      "TITLE" : "Scapegoat",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:5ndAfpWDkRlhvM0K9mfDkW",
+      "DURATION" : "124",
+      "MUSICBRAINZ_TRACKID" : "e2696d18-72e7-4bb1-aae7-0ad25e12cc66",
+      "TITLE" : "Insomnia for Months",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:7M8oH4IMHZRyMHIC3SiuwP",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "59d269d4-e5a3-42fd-83d1-0cd93426e780",
+      "TITLE" : "Said and Done",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:050aFGs0IUl3t8o9iqzh5L",
+      "DURATION" : "263",
+      "MUSICBRAINZ_TRACKID" : "e110fbcf-3ce5-4b60-998e-466745c5566e",
+      "TITLE" : "Unknown Awareness",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:2dgARhHuW5n1pEuHlWEdOh",
+      "DURATION" : "346",
+      "MUSICBRAINZ_TRACKID" : "2b3d6c13-84d6-4699-9a73-e12846a73394",
+      "TITLE" : "Running Red",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5jiiUKAOXSVcTy5MojXx5v",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "ef278563-ef71-4bff-9803-c66779a67e13",
+      "TITLE" : "Nature's Predators",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:4xGl1hNr8TYecWCICEBLIp",
+      "DURATION" : "183",
+      "MUSICBRAINZ_TRACKID" : "36542dc4-ae09-4dde-b276-d74c049a51ab",
+      "TITLE" : "Almost Lost",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:7s6qLrhRTqscSGqI2EGlRb",
+      "DURATION" : "320",
+      "MUSICBRAINZ_TRACKID" : "9825771c-6657-4231-9ade-4ac9eb30cf6f",
+      "TITLE" : "Only One",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:641BjVCJyengph02gVB0Ae",
+      "DURATION" : "223",
+      "MUSICBRAINZ_TRACKID" : "df5c959f-058a-4b86-bb34-7ccb3bb7a968",
+      "TITLE" : "Perception",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:51uxuM22ZkwysPvJVUK7f1",
+      "DURATION" : "263",
+      "MUSICBRAINZ_TRACKID" : "9ea43c5f-09f4-4fee-82a3-597b5baef9a2",
+      "TITLE" : "To Walk Alone",
+      "TRACKNUMBER" : "10"
+   }
+]

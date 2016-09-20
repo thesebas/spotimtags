@@ -1,0 +1,93 @@
+﻿[
+   {
+      "@" : "spotify:track:0cbTLN1N3YLwEm1NIOeEJn",
+      "ALBUM" : "Ultraviolet",
+      "ARTIST" : "Kylesa",
+      "BARCODE" : "0822603127522",
+      "CATALOGNUMBER" : "SOM 275",
+      "DATE" : "2013-05-24",
+      "DURATION" : "182",
+      "LABEL" : "Season of Mist",
+      "MUSICBRAINZ_ALBUMID" : "a725abf0-fcf8-4018-a694-e7ab87208d32",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3",
+      "MUSICBRAINZ_RELEASEGROUPID" : "4475a242-1312-46cd-8700-64abb0c56362",
+      "MUSICBRAINZ_TRACKID" : "567c1bac-537b-45f6-96b9-88ad0a377f7a",
+      "SPOTIFY:ALBUM" : "spotify:album:0Ulp47DaF34CcuiNXVUKx6",
+      "SPOTIFY:ARTIST" : "spotify:artist:7mO0JGOATH8fVHvgCdZsXh",
+      "TITLE" : "Exhale",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7flNGDwm2FrYNEyO9Xp2OF",
+      "DURATION" : "288",
+      "MUSICBRAINZ_TRACKID" : "ed38e5f8-ebc1-48f3-8eac-0c37edaccaf7",
+      "TITLE" : "Unspoken",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2espCArB4GViXP6dT8Jl18",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "88641250-2527-4b66-9487-f686d1aeae7a",
+      "TITLE" : "Grounded",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:1hdlz9Nqu6rqsy8i3dSRM1",
+      "DURATION" : "162",
+      "MUSICBRAINZ_TRACKID" : "ccf0f578-6832-44bf-b707-a0e84fa66a1c",
+      "TITLE" : "We're Taking This",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:7IplTBtJhjaXlk0YYyzx9b",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "a771e032-cbe2-4eef-b6f0-f63934cf4b66",
+      "TITLE" : "Long Gone",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:0uEKTU9VPyBrkh1enABzyq",
+      "DURATION" : "124",
+      "MUSICBRAINZ_TRACKID" : "c008e618-5eeb-4d81-a936-8a875712f02a",
+      "TITLE" : "What Does It Take",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6cl79yJLdn5jXomffLsPF7",
+      "DURATION" : "288",
+      "MUSICBRAINZ_TRACKID" : "5abcef40-84f4-487d-91b6-3032b9d301dc",
+      "TITLE" : "Steady Breakdown",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:1LfuCkUAHukaDCStLxxUgL",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "a2c3a301-5864-47bc-911d-5162de59a882",
+      "TITLE" : "Low Tide",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:1RqGfvqjau4sSmbNRD6OGY",
+      "DURATION" : "195",
+      "MUSICBRAINZ_TRACKID" : "71a7786f-fe53-473c-a183-72ab82a95322",
+      "TITLE" : "Vulture's Landing",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:1MmVN2AUrPoG32ssZoP1LU",
+      "DURATION" : "155",
+      "MUSICBRAINZ_TRACKID" : "188c3655-2a48-4f69-8608-ca483a23ba34",
+      "TITLE" : "Quicksand",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:37xmT3Hy2DKUcKpS0bQc8P",
+      "DURATION" : "326",
+      "MUSICBRAINZ_TRACKID" : "f1aa0f58-df16-4375-9c12-2840dfd7a169",
+      "TITLE" : "Drifting",
+      "TRACKNUMBER" : "11"
+   }
+]

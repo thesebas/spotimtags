@@ -1,0 +1,71 @@
+﻿[
+   {
+      "@" : "spotify:track:4MQUxrMf07CrtJfcRDT1j3",
+      "ALBUM" : "Kylesa",
+      "ARTIST" : "Kylesa",
+      "CATALOGNUMBER" : "PRANK 050",
+      "DATE" : "2002-06",
+      "DURATION" : "183",
+      "LABEL" : "Prank Records",
+      "MUSICBRAINZ_ALBUMID" : "458a88e3-a2d8-49e3-94fa-e25f3b6ca5cf",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3",
+      "MUSICBRAINZ_RELEASEGROUPID" : "1e7c70de-bf8b-32aa-ad23-4dd7d7e822d7",
+      "MUSICBRAINZ_TRACKID" : "e0f7a182-1b23-4420-8994-3c0a92be1cda",
+      "SPOTIFY:ALBUM" : "spotify:album:0vccQsRBGytJoGx5KZYE7C",
+      "SPOTIFY:ARTIST" : "spotify:artist:7mO0JGOATH8fVHvgCdZsXh",
+      "TITLE" : "No Remorse",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7b1CYifI3N9ffPZMgjODKt",
+      "DURATION" : "182",
+      "MUSICBRAINZ_TRACKID" : "eba5586b-febe-4a20-9e4a-1142ab83aeae",
+      "TITLE" : "Ceaseless Becoming",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:5fga8UayVffz8BppMv7Qdw",
+      "DURATION" : "276",
+      "MUSICBRAINZ_TRACKID" : "e83407b1-948d-465a-8843-5b7ef86b077a",
+      "TITLE" : "The Scarab",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6WBMr644Jl56VdSz4v0AoW",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "1953ace7-d5bc-450f-a56c-42561f4cfda5",
+      "TITLE" : "Point of Stillness",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5bcMFC7iQvk8Oq92AbDQlv",
+      "DURATION" : "307",
+      "MUSICBRAINZ_TRACKID" : "e97dd135-83cd-401a-b895-da0ba8896e79",
+      "TITLE" : "Testing the Good of Man",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:620fusCyNlpSU6DfuufL4C",
+      "DURATION" : "254",
+      "MUSICBRAINZ_TRACKID" : "687a0394-fe9a-4172-ab22-9c6d7db5213b",
+      "TITLE" : "Descend Within",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3AgWf25FNXC52SiQVxlQpw",
+      "DURATION" : "305",
+      "MUSICBRAINZ_TRACKID" : "789e5973-de46-4bd3-9f7c-a8583527df7f",
+      "TITLE" : "Dream of the Freedom to Come",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0ZuoHd03tJ05zeUQYTJmsm",
+      "DURATION" : "151",
+      "MUSICBRAINZ_TRACKID" : "b9ece8d3-c6e7-4133-be0a-489dab25d18d",
+      "TITLE" : "Parent's Song",
+      "TRACKNUMBER" : "8"
+   }
+]

@@ -1,0 +1,94 @@
+﻿[
+   {
+      "@" : "spotify:track:6HP1JZvqgk2qbbkg0P3ji9",
+      "ALBUM" : "Spiral Shadow",
+      "ARTIST" : "Kylesa",
+      "BARCODE" : "822603122022",
+      "CATALOGNUMBER" : "SOM 220",
+      "DATE" : "2010-10-26",
+      "DURATION" : "201",
+      "LABEL" : "Season of Mist",
+      "MUSICBRAINZ_ALBUMID" : "05188f1d-652b-49d0-afb8-7b1d356c6b77",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3",
+      "MUSICBRAINZ_RELEASEGROUPID" : "8ec31b11-cde3-4e93-ac7e-214ca63932c8",
+      "MUSICBRAINZ_TRACKID" : "baa210fc-5783-4cfe-a6bf-eebb5e8c0049",
+      "ORIGINAL RELEASE DATE" : "2010-10-25",
+      "SPOTIFY:ALBUM" : "spotify:album:7AvvQVSlTZ4GJJnR6usIqu",
+      "SPOTIFY:ARTIST" : "spotify:artist:7mO0JGOATH8fVHvgCdZsXh",
+      "TITLE" : "Tired Climb",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:0mPjwLaVcOCJOFymx5M5TF",
+      "DURATION" : "171",
+      "MUSICBRAINZ_TRACKID" : "632a963b-6f42-4866-8dbc-207b9c914889",
+      "TITLE" : "Cheating Synergy",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:27a335dJdtUdgenp3LQ3dl",
+      "DURATION" : "269",
+      "MUSICBRAINZ_TRACKID" : "32b86ce1-f017-43c1-a0ff-0a40e1976fcd",
+      "TITLE" : "Drop Out",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:4cysTLkeFz1AhTZS7UsrUp",
+      "DURATION" : "210",
+      "MUSICBRAINZ_TRACKID" : "bff830d3-d0b1-4180-af71-b383601489f9",
+      "TITLE" : "Crowded Road",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6SC8HdJvM4Tk3VS0R3Cj3U",
+      "DURATION" : "201",
+      "MUSICBRAINZ_TRACKID" : "2efa3ee7-3fd4-4b1d-8efb-d889bfab36a4",
+      "TITLE" : "Don't Look Back",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:50PRjTAt263Tqe7iCS1baq",
+      "DURATION" : "231",
+      "MUSICBRAINZ_TRACKID" : "481b0547-fe30-4ce7-8fdd-14cc7d7884b5",
+      "TITLE" : "Distance Closing In",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:68gfwAcouEDTdWbIgMuesF",
+      "DURATION" : "213",
+      "MUSICBRAINZ_TRACKID" : "e6fdb25f-8d39-41cf-982e-b85b3155d8d3",
+      "TITLE" : "To Forget",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:2lUrx2S2ruj4IkPSKiVAZF",
+      "DURATION" : "222",
+      "MUSICBRAINZ_TRACKID" : "71b709f5-78a9-4caf-9139-46bf1500eed6",
+      "TITLE" : "Forsaken",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:6hcPajWPKcWLdq9kLee54n",
+      "DURATION" : "312",
+      "MUSICBRAINZ_TRACKID" : "d381b635-cdde-4de4-ac3a-feaf5495b0cf",
+      "TITLE" : "Spiral Shadow",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:1qBibPWDqzYCTxwen99I4p",
+      "DURATION" : "153",
+      "MUSICBRAINZ_TRACKID" : "20204336-de59-454e-b5f2-e3677d949996",
+      "TITLE" : "Back and Forth",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:0GZFadPQXqvaIRZoOvfkIX",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "eb2cec8d-1168-4a3b-9098-4d564a3c5463",
+      "TITLE" : "Dust",
+      "TRACKNUMBER" : "11"
+   }
+]

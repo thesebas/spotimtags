@@ -1,0 +1,100 @@
+﻿[
+   {
+      "@" : "spotify:track:25gV7r4oXv7J68VvPrEoxw",
+      "ALBUM" : "From the Vaults, Volume 1",
+      "ARTIST" : "Kylesa",
+      "BARCODE" : "822603127225",
+      "CATALOGNUMBER" : "SOM 272",
+      "DATE" : "2012-11-19",
+      "DURATION" : "57",
+      "LABEL" : "Season of Mist",
+      "MUSICBRAINZ_ALBUMID" : "3a8db170-9fe9-48fe-b8ed-ae8a66c4a6c6",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Compilation",
+      "MUSICBRAINZ_ARTISTID" : "e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3",
+      "MUSICBRAINZ_RELEASEGROUPID" : "3dd212ea-5343-4f6c-ade8-da8b122ed8a1",
+      "MUSICBRAINZ_TRACKID" : "046ea036-0959-41a5-931d-a29b6f05d114",
+      "SPOTIFY:ALBUM" : "spotify:album:0NsX0ejFoCweVSgRNrmi1r",
+      "SPOTIFY:ARTIST" : "spotify:artist:7mO0JGOATH8fVHvgCdZsXh",
+      "TITLE" : "Intro",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:5enq5FG0jCbFRIPEZyFib3",
+      "DURATION" : "179",
+      "MUSICBRAINZ_TRACKID" : "bf7f06f7-f31a-4b99-af59-37fa5dc68394",
+      "TITLE" : "Inverse",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4k2FqNKZAeHHH5PixUig0o",
+      "DURATION" : "255",
+      "MUSICBRAINZ_TRACKID" : "4f90ee33-a471-462b-98fc-90e014f51a0b",
+      "TITLE" : "111 Degree Heat Index",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5EF6SXDhV4IDxQbmXZPNmM",
+      "DURATION" : "285",
+      "MUSICBRAINZ_TRACKID" : "69b68cad-7efa-40ea-a87c-8541f93f3639",
+      "TITLE" : "Between Silence and Sound II",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:7MGJoVfnp5221UKzg3grBk",
+      "DURATION" : "147",
+      "MUSICBRAINZ_TRACKID" : "d6c9ca21-eef5-4039-a146-fe5796c6e3bd",
+      "TITLE" : "Paranoid Tempo",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:11gUuIRHX9Zj1B2pRyHYhC",
+      "DURATION" : "284",
+      "MUSICBRAINZ_TRACKID" : "84801ea4-979d-4438-bb86-50b306e24df0",
+      "TITLE" : "End Truth",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:0rovbEkkDW0pBloDp1Ao8F",
+      "DURATION" : "153",
+      "MUSICBRAINZ_TRACKID" : "574cef6a-40cb-4180-a19c-35ec86432100",
+      "TITLE" : "Bottom Line II",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:6jEhAAp6WTmQepPfe3601o",
+      "DURATION" : "134",
+      "MUSICBRAINZ_TRACKID" : "9e10c1d0-1128-4708-a246-8af62b66785e",
+      "TITLE" : "Wavering",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:5qXCnR2HYhBnP5nwUngeTS",
+      "DURATION" : "57",
+      "MUSICBRAINZ_TRACKID" : "1477c361-eba6-43f8-83ec-715237ad8e69",
+      "TITLE" : "Bass Salts",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:0FSVBrszCenWB51OydzDUS",
+      "DURATION" : "304",
+      "MUSICBRAINZ_TRACKID" : "55617134-8222-49c5-bb3d-c2b04a98a4d8",
+      "TITLE" : "Drained",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:0Rob0IMR802rhNJZSKhy34",
+      "DURATION" : "419",
+      "MUSICBRAINZ_TRACKID" : "11b8fdf8-4b66-491e-8943-ab38fa2d6183",
+      "TITLE" : "Set the Controls for the Heart of the Sun",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:6vuKHkJqHGXWECvhKXzbxY",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "913c03af-54d4-4229-adb0-de3a3e169e92",
+      "TITLE" : "Drum Jam",
+      "TRACKNUMBER" : "12"
+   }
+]

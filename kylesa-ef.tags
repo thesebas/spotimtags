@@ -1,0 +1,92 @@
+﻿[
+   {
+      "@" : "spotify:track:6qMOzJAOhhLa0a659beFuM",
+      "ALBUM" : "Exhausting Fire",
+      "ARTIST" : "Kylesa",
+      "CATALOGNUMBER" : "SOM 362",
+      "DATE" : "2015-10-02",
+      "DURATION" : "296",
+      "LABEL" : "Season of Mist",
+      "MUSICBRAINZ_ALBUMID" : "42729490-652d-4040-89dc-5e1429a1d578",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3",
+      "MUSICBRAINZ_RELEASEGROUPID" : "00c1a0b4-e093-4b68-9ed4-4f7abb676ed1",
+      "MUSICBRAINZ_TRACKID" : "184bde78-1c3e-450d-b4c7-110343a9312f",
+      "SPOTIFY:ALBUM" : "spotify:album:0KwYRP0sZMzRqBMpnwGEPE",
+      "SPOTIFY:ARTIST" : "spotify:artist:7mO0JGOATH8fVHvgCdZsXh",
+      "TITLE" : "Crusher",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:25LWcWHtCCernDex80aNwG",
+      "DURATION" : "156",
+      "MUSICBRAINZ_TRACKID" : "f901d01e-7586-41eb-a0e5-b45d36798646",
+      "TITLE" : "Inward Debate",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6FYn9zskvzf0KdjhR9aJde",
+      "DURATION" : "166",
+      "MUSICBRAINZ_TRACKID" : "95ecbc0e-be16-40dc-9a3d-6f352f3fb411",
+      "TITLE" : "Moving Day",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:7CzYMT9RwmU5P4eiKxdTw3",
+      "DURATION" : "199",
+      "MUSICBRAINZ_TRACKID" : "3227001b-20a4-406b-a065-d28737c27c7b",
+      "TITLE" : "Lost and Confused",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1hUBvkCMhWU5IHSIb7fjZW",
+      "DURATION" : "349",
+      "MUSICBRAINZ_TRACKID" : "679e96c4-0498-4c20-af31-fbab52620e86",
+      "TITLE" : "Shaping the Southern Sky",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6qavvdLFk08xt9sXvL85Dv",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "d83609b6-0d9c-4f47-9193-2c73961e4357",
+      "TITLE" : "Falling",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3ulzlIZAaoOqAQlQGjHoTy",
+      "DURATION" : "275",
+      "MUSICBRAINZ_TRACKID" : "6c5c902d-6a12-49ef-903d-af5f7470bdb0",
+      "TITLE" : "Night Drive",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3ZgR3TupXvE3ama2Ep3TcK",
+      "DURATION" : "278",
+      "MUSICBRAINZ_TRACKID" : "1e326df0-6f98-4829-b7ff-7561404e0955",
+      "TITLE" : "Blood Moon",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:2TMeqCVLdO57wWmj9NoBzU",
+      "DURATION" : "246",
+      "MUSICBRAINZ_TRACKID" : "a20a899f-6034-4224-a26d-a4233168b8e0",
+      "TITLE" : "Growing Roots",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:5bz5qYHifAPhZf9eysroFI",
+      "DURATION" : "206",
+      "MUSICBRAINZ_TRACKID" : "833475f4-c750-4967-9c03-dc79bc8a5244",
+      "TITLE" : "Out of My Mind",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:272rcqpelHiFzpLbujMvGi",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "2bc1fa46-0ee5-4c94-90d3-318077267329",
+      "TITLE" : "Paranoid",
+      "TRACKNUMBER" : "11"
+   }
+]

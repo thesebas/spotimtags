@@ -1,0 +1,86 @@
+﻿[
+   {
+      "@" : "spotify:track:3XXkUtlQf2pEO6ObI6O8O3",
+      "ALBUM" : "Time Will Fuse Its Worth",
+      "ARTIST" : "Kylesa",
+      "BARCODE" : "656191004022",
+      "CATALOGNUMBER" : "6561910040-2",
+      "DATE" : "2006-10-31",
+      "DURATION" : "34",
+      "LABEL" : "Prosthetic Records",
+      "MUSICBRAINZ_ALBUMID" : "2426b160-cf55-4ac7-b19d-1f8baf81c9af",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3",
+      "MUSICBRAINZ_RELEASEGROUPID" : "76d7baf1-7b43-3bfb-9782-6d264db6c9e9",
+      "MUSICBRAINZ_TRACKID" : "cfe8f746-3283-4f12-85b4-893b51ea73b9",
+      "SPOTIFY:ALBUM" : "spotify:album:0axjIgDuH3zrnVdiLjV3IR",
+      "SPOTIFY:ARTIST" : "spotify:artist:7mO0JGOATH8fVHvgCdZsXh",
+      "TITLE" : "Intro",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7tX2ZxsaJIiqhT9VoAq8fC",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "4a859e21-f191-488c-83e5-0fa66dbbb582",
+      "TITLE" : "What Becomes an End",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:5cucnvlKB9iDZir8Sp7yQ8",
+      "DURATION" : "253",
+      "MUSICBRAINZ_TRACKID" : "a255f992-ce11-485e-a285-5ce207bfc5a1",
+      "TITLE" : "Hollow Severer",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:7nFy5oXyu3mwmRgb6HfnjJ",
+      "DURATION" : "293",
+      "MUSICBRAINZ_TRACKID" : "7926a1ae-04a4-4de2-a19f-6e404f0061c5",
+      "TITLE" : "Where the Horizon Unfolds",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1epR6zeW5naUholV0ccCF3",
+      "DURATION" : "378",
+      "MUSICBRAINZ_TRACKID" : "07accfaf-1888-4446-bbaf-9d3d45c4e931",
+      "TITLE" : "Between Silence and Sound",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:3voEjROGfn4EtxMo0LOj7g",
+      "DURATION" : "121",
+      "MUSICBRAINZ_TRACKID" : "1af4dbc7-7641-45a4-9fcf-2f61b36b36c2",
+      "TITLE" : "Intermission",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3r5zHO82jVS8uX7xlPGWQs",
+      "DURATION" : "201",
+      "MUSICBRAINZ_TRACKID" : "45551480-7e8e-4f7d-846c-baf778c0403a",
+      "TITLE" : "Identity Defined",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:4GJ9Yb3uafJJoufKOdj52i",
+      "DURATION" : "317",
+      "MUSICBRAINZ_TRACKID" : "88f99b0c-dc32-4a43-8940-e43d71d244dd",
+      "TITLE" : "Ignoring Anger",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:0PgwhABkmBx0iIl1GnS0pC",
+      "DURATION" : "386",
+      "MUSICBRAINZ_TRACKID" : "d23f01e9-2e31-4ccd-a717-104b696c58ce",
+      "TITLE" : "The Warning",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:6LXTnfdzxGPZLlKV5y0pnF",
+      "DURATION" : "143",
+      "MUSICBRAINZ_TRACKID" : "38f5c7d8-8100-4884-8305-a5d7745f33a0",
+      "TITLE" : "Outro",
+      "TRACKNUMBER" : "10"
+   }
+]

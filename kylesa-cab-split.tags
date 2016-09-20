@@ -1,0 +1,85 @@
+﻿[
+   {
+      "@" : "spotify:track:5KaylEvJEziNpjkZ7XRVzk",
+      "ALBUM" : "Cream Abdul Babar / Kylesa",
+      "ALBUM ARTIST" : "Cream Abdul Babar / Kylesa",
+      "ARTIST" : "Cream Abdul Babar",
+      "CATALOGNUMBER" : "AALCD010B",
+      "DATE" : "2003-03-01",
+      "DURATION" : "227",
+      "LABEL" : "At a Loss Recordings",
+      "MUSICBRAINZ_ALBUMARTISTID" : [
+         "f2c9b5bd-a753-43a0-bb4a-7843a0494a64",
+         "e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3"
+      ],
+      "MUSICBRAINZ_ALBUMID" : "6a2890c5-fd57-4daf-8264-8c718a5a8d7f",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "f2c9b5bd-a753-43a0-bb4a-7843a0494a64",
+      "MUSICBRAINZ_RELEASEGROUPID" : "064741e6-2013-38c6-9c85-8b1942f7c6da",
+      "MUSICBRAINZ_TRACKID" : "30e5e3c6-988f-4991-a0aa-12553cf84972",
+      "SPOTIFY:ALBUM" : "spotify:album:3lxfgRLobQ0jvlblugD8Rh",
+      "SPOTIFY:ARTIST" : "spotify:artist:5stgYGHOid7v5nXQpEQJIb",
+      "TITLE" : "Shiss",
+      "TOTALTRACKS" : "9",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:53usSyfe64pgDARPevOhWe",
+      "DURATION" : "196",
+      "MUSICBRAINZ_TRACKID" : "30f567f7-2c30-4fa0-9ab6-eabeb772a9d2",
+      "TITLE" : "Cocaine Piñata",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2ZbRsQB9eMgek1JNbtzrXy",
+      "DURATION" : "379",
+      "MUSICBRAINZ_TRACKID" : "29ca6ea9-8e48-4df0-9211-98ee190fe009",
+      "TITLE" : "Troy:Sailor",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6jLOSJWXdtK1UTT5u3w0MT",
+      "DURATION" : "291",
+      "MUSICBRAINZ_TRACKID" : "8fefdde4-ff2d-4d9f-bb4e-3e33a337ecbb",
+      "TITLE" : "Rose in the Mouth",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5JfaomoTHLrS8e163nbrDT",
+      "ARTIST" : "Kylesa",
+      "DURATION" : "93",
+      "MUSICBRAINZ_ARTISTID" : "e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3",
+      "MUSICBRAINZ_TRACKID" : "62b41511-210a-4dee-a833-9bfe7b1f4f3f",
+      "TITLE" : "The Curse of Lost Days (Part I)",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:3ALskFqdYiJP4uk59NJ9iM",
+      "DURATION" : "264",
+      "MUSICBRAINZ_TRACKID" : "fa944815-af46-4652-9a96-5bcd2195e8a2",
+      "TITLE" : "The Curse of Lost Days (Part II)",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:4ngUEcE9UX3fn2fGZl2PnH",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "d5d8401b-b4b6-471b-b565-84060c063a76",
+      "TITLE" : "The Curse of Lost Days (Part III)",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5RptsnUrEyE2IRYDeqqxr8",
+      "DURATION" : "341",
+      "MUSICBRAINZ_TRACKID" : "c6029f13-c592-442e-baea-8aba04480c0b",
+      "TITLE" : "The Curse of Lost Days (Part IV)",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4FRlU05r9CPV8VC01TQ7KF",
+      "DURATION" : "112",
+      "MUSICBRAINZ_TRACKID" : "777c7c8b-5d85-47fa-9272-682db206cab1",
+      "TITLE" : "The Curse of Lost Days (Part V)",
+      "TRACKNUMBER" : "9"
+   }
+]

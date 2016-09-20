@@ -1,0 +1,86 @@
+﻿[
+   {
+      "@" : "spotify:track:2WQfszkclVcpBL7wnZu6bm",
+      "ALBUM" : "To Walk a Middle Course",
+      "ARTIST" : "Kylesa",
+      "BARCODE" : "656191002028",
+      "CATALOGNUMBER" : "6561910020-2",
+      "DATE" : "2005-03-23",
+      "DURATION" : "269",
+      "LABEL" : "Prosthetic Records",
+      "MUSICBRAINZ_ALBUMID" : "b0a526f1-4132-40c2-a89e-fe27e4a47f33",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3",
+      "MUSICBRAINZ_RELEASEGROUPID" : "928569a7-de60-3aae-b2db-a671027a33f2",
+      "MUSICBRAINZ_TRACKID" : "08c38b74-8102-41db-9f7b-567ffff5d76d",
+      "SPOTIFY:ALBUM" : "spotify:album:1Li3QG9BCJFhjLmDHVoOZG",
+      "SPOTIFY:ARTIST" : "spotify:artist:7mO0JGOATH8fVHvgCdZsXh",
+      "TITLE" : "In Memory",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:22iokev3mjs6bLPXLg75AH",
+      "DURATION" : "164",
+      "MUSICBRAINZ_TRACKID" : "2b633e76-edd2-4b60-9c48-e1f00e9ee8c0",
+      "TITLE" : "Fractured",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:7A3YhBEgWpDcLS4ghzjvP4",
+      "DURATION" : "210",
+      "MUSICBRAINZ_TRACKID" : "1279655b-6777-4943-8210-520c31d4a638",
+      "TITLE" : "Train of Thought",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:1masHanY1vhDriNpY1Jh5P",
+      "DURATION" : "267",
+      "MUSICBRAINZ_TRACKID" : "cfc41b9d-a757-4ccc-a282-38c46375e550",
+      "TITLE" : "Motion and Presence",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1qw6XXtEH0YXQmwUF9XN3M",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "a46c1aca-4d26-413a-8d18-7cb3769148ba",
+      "TITLE" : "Welcome Mat to an Abandoned Life",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:0qoJc3jokcokeRgJ11aFpL",
+      "DURATION" : "169",
+      "MUSICBRAINZ_TRACKID" : "88c7ef7a-8e3a-40b0-bc25-266efb236301",
+      "TITLE" : "Bottom Line",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2nlMDPRfllSN5PfdXQwjyJ",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "eecfd4e6-9b2f-47d5-8751-1113781cc246",
+      "TITLE" : "Eyes Closed From Birth",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:4ntjoOVLgxd623BBs1m7I3",
+      "DURATION" : "286",
+      "MUSICBRAINZ_TRACKID" : "8ddd3d04-e45e-415a-ad07-6d6837fff784",
+      "TITLE" : "Shatter the Clock",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:3fqYrgYEbQ4HWN3ah1QiJ7",
+      "DURATION" : "375",
+      "MUSICBRAINZ_TRACKID" : "755099e6-52a8-4870-8845-2337a1c13863",
+      "TITLE" : "Phantoms",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:6BGtPx06ZOvr0EZTUr8grt",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "ca964a36-2301-4a97-a8d3-75677884d7dd",
+      "TITLE" : "Crashing Slow",
+      "TRACKNUMBER" : "10"
+   }
+]
