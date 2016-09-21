@@ -1,0 +1,42 @@
+﻿[
+   {
+      "@" : "spotify:track:2n1PMepBrM4RipAykaFBEs",
+      "ALBUM" : "Kalyug",
+      "ARTIST" : "Ninth Moon Black",
+      "DATE" : "2010-05-01",
+      "DURATION" : "310",
+      "LABEL" : "Hummer Industries",
+      "MUSICBRAINZ_ALBUMID" : "689aa4f1-6c36-40e2-a4f7-7fb22ce767de",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "EP",
+      "MUSICBRAINZ_ARTISTID" : "de2aa620-6629-4cf0-b406-c54d7c333f23",
+      "MUSICBRAINZ_RELEASEGROUPID" : "ef32732f-3460-4843-a0ba-64c874be1494",
+      "MUSICBRAINZ_TRACKID" : "cf786507-0587-4e43-98ae-e3ea5f985865",
+      "SPOTIFY:ALBUM" : "spotify:album:6UeeHvJEOTJ9fezPd7Q01d",
+      "SPOTIFY:ARTIST" : "spotify:artist:63OCxcfZfORy76NFsgk9uw",
+      "TITLE" : "Harbinger",
+      "TOTALTRACKS" : "4",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:5l4RKqF9HPtgLtTHP9EXqS",
+      "DURATION" : "406",
+      "MUSICBRAINZ_TRACKID" : "9d18a880-225c-4e90-9608-5fe63caa31f3",
+      "TITLE" : "Kalyug",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4BHytkaLaed1s7VWcNC513",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "2abc3deb-83fe-4e96-8e17-230355d2aa4c",
+      "TITLE" : "Causatum",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:1CzPCzz73qUb3b77NzhWHa",
+      "DURATION" : "795",
+      "MUSICBRAINZ_TRACKID" : "97ef8f29-3ea3-4fd0-8463-896d9e407f58",
+      "TITLE" : "Satya Yuga",
+      "TRACKNUMBER" : "4"
+   }
+]

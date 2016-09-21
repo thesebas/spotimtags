@@ -1,0 +1,56 @@
+﻿[
+   {
+      "@" : "spotify:track:6Fj95VN0UVqsPVQ43wKew9",
+      "ALBUM" : "Chronophage",
+      "ARTIST" : "Ninth Moon Black",
+      "DATE" : "2012-05-21",
+      "DURATION" : "388",
+      "LABEL" : "[no label]",
+      "MUSICBRAINZ_ALBUMID" : "02122b6b-30ee-4da6-ade3-7a4caa6194d0",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "de2aa620-6629-4cf0-b406-c54d7c333f23",
+      "MUSICBRAINZ_RELEASEGROUPID" : "997969bf-aa12-41e8-9a97-9efc0dd6b071",
+      "MUSICBRAINZ_TRACKID" : "e2382c85-f67d-461a-9a87-08209d63e650",
+      "SPOTIFY:ALBUM" : "spotify:album:2YNTYkOACTGuxUkS64oBM1",
+      "SPOTIFY:ARTIST" : "spotify:artist:63OCxcfZfORy76NFsgk9uw",
+      "TITLE" : "Renascentia",
+      "TOTALTRACKS" : "6",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:2lP7mJ1xsB0EFStCqg5Nzd",
+      "DURATION" : "363",
+      "MUSICBRAINZ_TRACKID" : "7beb2a09-e462-4b69-bf73-66e855d13fd9",
+      "TITLE" : "Via Dolorosa",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6oTbi2URwXO61zqGxMjbcS",
+      "DURATION" : "297",
+      "MUSICBRAINZ_TRACKID" : "056dc721-f345-45d8-82ed-b6c7d026b854",
+      "TITLE" : "Bestia Devorat Tempus",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6ViyMKQRTLvc9R10i0A4J1",
+      "DURATION" : "364",
+      "MUSICBRAINZ_TRACKID" : "6c1143d3-60a8-4d8e-a337-1e1e9bda7ae7",
+      "TITLE" : "Mors Carnis",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6fw6czqkCHtCF8YdHBAQev",
+      "DURATION" : "834",
+      "MUSICBRAINZ_TRACKID" : "51a3d8e4-3331-42f6-99d3-98af3d293011",
+      "TITLE" : "Animus Lumino",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:39QwbLcPPnZvQGyru4mB7U",
+      "DURATION" : "455",
+      "MUSICBRAINZ_TRACKID" : "bc9fa624-8fa6-4cca-a8c8-d936d43cff15",
+      "TITLE" : "Numeratio",
+      "TRACKNUMBER" : "6"
+   }
+]

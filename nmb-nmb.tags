@@ -1,0 +1,57 @@
+﻿[
+   {
+      "@" : "spotify:track:6BKbgIb2VLUV22XPXKn62J",
+      "ALBUM" : "Ninth Moon Black",
+      "ARTIST" : "Ninth Moon Black",
+      "DATE" : "2009-03-01",
+      "DURATION" : "329",
+      "LABEL" : "[no label]",
+      "MUSICBRAINZ_ALBUMID" : "7d29fc3c-0806-4bd1-884e-bf9fe5936251",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "de2aa620-6629-4cf0-b406-c54d7c333f23",
+      "MUSICBRAINZ_RELEASEGROUPID" : "fa725c55-f00c-3c57-8e3b-a18ea6c6fd2c",
+      "MUSICBRAINZ_TRACKID" : "1988537f-04ed-4869-a680-8e22c955ce9d",
+      "ORIGINAL RELEASE DATE" : "2008-03-18",
+      "SPOTIFY:ALBUM" : "spotify:album:7BIGAD8P4ckcJDjDqmh68S",
+      "SPOTIFY:ARTIST" : "spotify:artist:63OCxcfZfORy76NFsgk9uw",
+      "TITLE" : "Penumbra",
+      "TOTALTRACKS" : "6",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:0XhtcgB3Tl0jHEnGitFnHH",
+      "DURATION" : "589",
+      "MUSICBRAINZ_TRACKID" : "ac7ce486-5c29-4fcf-8994-60f95e5f52d2",
+      "TITLE" : "The End of All",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1VKJF3DmXeUi9bj8er8g0s",
+      "DURATION" : "409",
+      "MUSICBRAINZ_TRACKID" : "6d21c553-e65a-4285-b4a6-2f2c5665b22b",
+      "TITLE" : "The Silent Set",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:2WW40hSbpsOZEy9fnU4RnL",
+      "DURATION" : "340",
+      "MUSICBRAINZ_TRACKID" : "1a74610f-40ff-4b2f-8ae6-47d43b2e69bf",
+      "TITLE" : "Anubis",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:545sIQoQwOYuP5oSgHfSIS",
+      "DURATION" : "694",
+      "MUSICBRAINZ_TRACKID" : "2201cf45-0f22-4b7f-9def-4360d43b0943",
+      "TITLE" : "Aesthesis",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:2qK0CLNzC3g8ILLaCqItnR",
+      "DURATION" : "471",
+      "MUSICBRAINZ_TRACKID" : "d7ef0b55-aa9b-4961-83dd-35fc58c8db07",
+      "TITLE" : "Terra Obscurum",
+      "TRACKNUMBER" : "6"
+   }
+]
