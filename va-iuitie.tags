@@ -1,0 +1,120 @@
+﻿[
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z",
+      "ALBUM" : "In Utero, In Tribute, In Entirety",
+      "ALBUM ARTIST" : "Various Artists",
+      "ARTIST" : "Pygmy Lush",
+      "DATE" : "2014-04-19",
+      "DURATION" : "387",
+      "LABEL" : "Robotic Empire",
+      "MUSICBRAINZ_ALBUMARTISTID" : "89ad4ac3-39f7-470e-963a-56509c546377",
+      "MUSICBRAINZ_ALBUMID" : "641644eb-f230-4447-bbee-52fcc9bd8905",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Compilation",
+      "MUSICBRAINZ_ARTISTID" : "a6b36ea6-dc1d-460b-a967-97f44f9fb34b",
+      "MUSICBRAINZ_RELEASEGROUPID" : "0ab6c7cd-6b78-487e-8fad-ae89299d8435",
+      "MUSICBRAINZ_TRACKID" : "33549301-ca73-454d-8c79-da6ff8a8085b",
+      "TITLE" : "Serve the Servants",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z|1",
+      "ARTIST" : "Circa Survive",
+      "DURATION" : "233",
+      "MUSICBRAINZ_ARTISTID" : "a2496a3c-8f42-4b98-b780-6f8d64f56441",
+      "MUSICBRAINZ_TRACKID" : "b809c4b5-8aea-422b-9a60-b952c66714af",
+      "TITLE" : "Scentless Apprentice",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z|2",
+      "ARTIST" : "These Arms Are Snakes",
+      "DURATION" : "285",
+      "MUSICBRAINZ_ARTISTID" : "e95a296e-a34c-4496-9a7c-a95683d487b5",
+      "MUSICBRAINZ_TRACKID" : "5af2865a-ca93-42d1-b5ae-e6c612a06692",
+      "TITLE" : "Heart Shaped Box",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z|3",
+      "ARTIST" : "Thursday",
+      "DURATION" : "173",
+      "MUSICBRAINZ_ARTISTID" : "0acae232-d31a-4211-b6d0-6af1b6350274",
+      "MUSICBRAINZ_TRACKID" : "8da3a8fd-60fd-458c-ad62-3a737c0d92b4",
+      "TITLE" : "Rape Me",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z|4",
+      "ARTIST" : "Jay Reatard",
+      "DURATION" : "250",
+      "MUSICBRAINZ_ARTISTID" : "6338a3a4-1676-4a99-b2fb-a3f0072f6b42",
+      "MUSICBRAINZ_TRACKID" : "aaafc8dc-e4da-4017-9588-9306e6c68173",
+      "TITLE" : "Frances Farmer Will Have Her Revenge on Seattle",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z|5",
+      "ARTIST" : "Young Widows",
+      "DURATION" : "121",
+      "MUSICBRAINZ_ARTISTID" : "c9e69e05-2c05-4700-a311-53fe4ffc649e",
+      "MUSICBRAINZ_TRACKID" : "fbb42864-307e-4c57-9bfa-82a56ec4823b",
+      "TITLE" : "Dumb",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z|6",
+      "ARTIST" : "Mean Jeans",
+      "DURATION" : "92",
+      "MUSICBRAINZ_ARTISTID" : "d56a527a-7afb-4807-9238-f7ce95813dee",
+      "MUSICBRAINZ_TRACKID" : "a21a55dd-63b6-4c9f-88b3-fc26b22fcb2f",
+      "TITLE" : "Very Ape",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z|7",
+      "ARTIST" : "Thou",
+      "DURATION" : "239",
+      "MUSICBRAINZ_ARTISTID" : "f8ba33be-c51b-4507-9de4-ea1e9f154e6c",
+      "MUSICBRAINZ_TRACKID" : "a397b611-0c8a-427f-94cd-37dda2d3960f",
+      "TITLE" : "Milk It",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z|8",
+      "ARTIST" : "Whirr",
+      "DURATION" : "244",
+      "MUSICBRAINZ_ARTISTID" : "3474a13f-899f-40ec-9d5c-e44e41a02900",
+      "MUSICBRAINZ_TRACKID" : "f1b0bc01-3be9-4898-8954-b9f96ccf9243",
+      "TITLE" : "Pennyroyal Tea",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z|9",
+      "ARTIST" : "Daughters",
+      "DURATION" : "343",
+      "MUSICBRAINZ_ARTISTID" : "c9368a03-bf26-40b6-bdfa-9af8d10b568b",
+      "MUSICBRAINZ_TRACKID" : "7ad0ab18-75d4-4c8b-a0fe-d46b95c751ee",
+      "TITLE" : "Radio Friendly Unit Shifter",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z|10",
+      "ARTIST" : "Ceremony",
+      "DURATION" : "92",
+      "MUSICBRAINZ_ARTISTID" : "c13da818-d566-4f2a-aaaf-1c68301ddc43",
+      "MUSICBRAINZ_TRACKID" : "caebebaf-1743-4f81-b36d-d08688894d27",
+      "TITLE" : "Tourette's",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:5GkDfpt4bk0yg1D1yjTu6Z|11",
+      "ARTIST" : "Black Math Horseman",
+      "DURATION" : "319",
+      "MUSICBRAINZ_ARTISTID" : "0a88d9fd-3025-41e3-b4d5-b2b3e0fb9908",
+      "MUSICBRAINZ_TRACKID" : "1fd31627-ccc1-4691-8114-365a11242144",
+      "TITLE" : "All Apologies",
+      "TRACKNUMBER" : "12"
+   }
+]

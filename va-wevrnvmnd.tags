@@ -1,0 +1,137 @@
+﻿[
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U",
+      "ALBUM" : "Whatever Nevermind",
+      "ALBUM ARTIST" : "Various Artists",
+      "ARTIST" : "Young Widows",
+      "CATALOGNUMBER" : "ROBO 116",
+      "DATE" : "2015-04-18",
+      "DURATION" : "191",
+      "LABEL" : "Robotic Empire",
+      "MUSICBRAINZ_ALBUMARTISTID" : "89ad4ac3-39f7-470e-963a-56509c546377",
+      "MUSICBRAINZ_ALBUMID" : "d14b3b57-01d6-439d-b9db-7cb5b5017959",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Compilation",
+      "MUSICBRAINZ_ARTISTID" : "c9e69e05-2c05-4700-a311-53fe4ffc649e",
+      "MUSICBRAINZ_RELEASEGROUPID" : "d0f42b8f-36d5-4692-8804-ecfa84a5ff04",
+      "MUSICBRAINZ_TRACKID" : "0ef7a107-e608-45ba-b327-fa7e17b3dabf",
+      "TITLE" : "Smells Like Teen Spirit",
+      "TOTALTRACKS" : "14",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|1",
+      "ARTIST" : "Torche",
+      "DURATION" : "269",
+      "MUSICBRAINZ_ARTISTID" : "a04428a8-f7df-42fe-95dc-47762fe346f6",
+      "MUSICBRAINZ_TRACKID" : "e84c7bc1-f8f4-4d13-aafa-b2862fc31402",
+      "TITLE" : "In Bloom",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|2",
+      "ARTIST" : "Kylesa",
+      "DURATION" : "319",
+      "MUSICBRAINZ_ARTISTID" : "e6ed56ae-c477-48fa-a53b-63f6cbc4a3c3",
+      "MUSICBRAINZ_TRACKID" : "4494b9a2-d5fa-40a7-a20b-dac7e2f82187",
+      "TITLE" : "Come as You Are",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|3",
+      "ARTIST" : "Cave In",
+      "DURATION" : "193",
+      "MUSICBRAINZ_ARTISTID" : "f3c95ad4-215b-4519-8660-84c9f467da05",
+      "MUSICBRAINZ_TRACKID" : "ce8b3834-ba70-47c2-8bce-f1a75705ff95",
+      "TITLE" : "Breed",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|4",
+      "ARTIST" : "Boris",
+      "DURATION" : "316",
+      "MUSICBRAINZ_ARTISTID" : "57652bf8-cfe8-42e7-b9a7-5572a7080d8d",
+      "MUSICBRAINZ_TRACKID" : "a359217f-bbfb-4056-bef0-baec0a32c389",
+      "TITLE" : "Lithium",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|5",
+      "ARTIST" : "La Dispute",
+      "DURATION" : "149",
+      "MUSICBRAINZ_ARTISTID" : "2ec89bcc-5bf9-4d2a-ac5e-44b7496d115a",
+      "MUSICBRAINZ_TRACKID" : "2520472b-fbd1-4adc-87d6-87071553ae16",
+      "TITLE" : "Polly",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|6",
+      "ARTIST" : "White Reaper",
+      "DURATION" : "126",
+      "MUSICBRAINZ_ARTISTID" : "614ae988-c23c-4cf9-bb60-d6d756793005",
+      "MUSICBRAINZ_TRACKID" : "b3b2fe56-5d59-4f91-bdb2-395815bbb6cf",
+      "TITLE" : "Territorial Pissings",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|7",
+      "ARTIST" : "Circa Survive",
+      "DURATION" : "226",
+      "MUSICBRAINZ_ARTISTID" : "a2496a3c-8f42-4b98-b780-6f8d64f56441",
+      "MUSICBRAINZ_TRACKID" : "a807a7d0-2e90-4c0d-b67b-4ea7ae71d41e",
+      "TITLE" : "Drain You",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|8",
+      "ARTIST" : "Touché Amoré",
+      "DURATION" : "175",
+      "MUSICBRAINZ_ARTISTID" : "ea367e3c-4c74-460b-8a99-bbbb9b1ad5cf",
+      "MUSICBRAINZ_TRACKID" : "a3ee4292-2c35-4ee4-bf18-bb66f6e56948",
+      "TITLE" : "Lounge Act",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|9",
+      "ARTIST" : "Wrong",
+      "DURATION" : "188",
+      "MUSICBRAINZ_ARTISTID" : "7aa75e7d-5258-468d-9d50-8ccd0dfdb2bd",
+      "MUSICBRAINZ_TRACKID" : "3ff7a628-ca95-43da-9b2f-521a667ac783",
+      "TITLE" : "Stay Away",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|10",
+      "ARTIST" : "Pygmy Lush",
+      "DURATION" : "324",
+      "MUSICBRAINZ_ARTISTID" : "a6b36ea6-dc1d-460b-a967-97f44f9fb34b",
+      "MUSICBRAINZ_TRACKID" : "d9ae9372-a681-4a8f-8f59-b4a2fb36a669",
+      "TITLE" : "On a Plain",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|11",
+      "ARTIST" : "Nothing",
+      "DURATION" : "306",
+      "MUSICBRAINZ_ARTISTID" : "e86b5e8c-8a11-40ea-9bb0-551df95e99d4",
+      "MUSICBRAINZ_TRACKID" : "38bc25fd-66f3-4125-bde1-3132f4bb5914",
+      "TITLE" : "Something in the Way",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|12",
+      "ARTIST" : "Thou",
+      "DURATION" : "426",
+      "MUSICBRAINZ_ARTISTID" : "f8ba33be-c51b-4507-9de4-ea1e9f154e6c",
+      "MUSICBRAINZ_TRACKID" : "ed7688b6-f9e9-43f1-9897-ee29b9e35c92",
+      "TITLE" : "Endless, Nameless",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:1XEEpZmdHZ5iUIaVIyC18U|13",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "2bd868f6-bce7-45ab-a34f-a56883ef4529",
+      "TITLE" : "Even in His Youth",
+      "TRACKNUMBER" : "14"
+   }
+]
