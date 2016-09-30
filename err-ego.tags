@@ -1,0 +1,55 @@
+﻿[
+   {
+      "@" : "spotify:album:7nEpgTRz5E3wLDnxWkvf2K",
+      "ALBUM" : "Electric Guitar One",
+      "ARTIST" : "Emma Ruth Rundle",
+      "DATE" : "2014-03-01",
+      "DURATION" : "342",
+      "LABEL" : "Sargent House",
+      "MUSICBRAINZ_ALBUMID" : "1d82cc78-9b37-426e-b84d-fd4d9378098a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "7ba593b9-79d4-4860-92c8-ade2a1ef4551",
+      "MUSICBRAINZ_RELEASEGROUPID" : "bdeb4669-4a8b-4034-98cf-41b4a729f589",
+      "MUSICBRAINZ_TRACKID" : "a0a8dc56-27f5-4c10-a2c7-2523b99026a3",
+      "ORIGINAL RELEASE DATE" : "2011-05",
+      "TITLE" : "Oslo, Part 1",
+      "TOTALTRACKS" : "6",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7nEpgTRz5E3wLDnxWkvf2K|1",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "68b114c0-0810-4ca1-a984-0d9be5f1fcaa",
+      "TITLE" : "Oslo, Part 2",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7nEpgTRz5E3wLDnxWkvf2K|2",
+      "DURATION" : "269",
+      "MUSICBRAINZ_TRACKID" : "45d049f3-f81c-475a-8eed-f36aa1156055",
+      "TITLE" : "For Paul",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7nEpgTRz5E3wLDnxWkvf2K|3",
+      "DURATION" : "512",
+      "MUSICBRAINZ_TRACKID" : "5fd1d81c-8eb4-47fd-8bc0-ec3f6f75a13d",
+      "TITLE" : "Göteborg",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7nEpgTRz5E3wLDnxWkvf2K|4",
+      "DURATION" : "153",
+      "MUSICBRAINZ_TRACKID" : "00108665-ea76-4769-8c2b-81c65a64754f",
+      "TITLE" : "Dialogue Preceding:",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7nEpgTRz5E3wLDnxWkvf2K|5",
+      "DURATION" : "325",
+      "MUSICBRAINZ_TRACKID" : "20608d06-916a-4276-b393-e87916cc5644",
+      "TITLE" : "The Ecstasy in Thinking of Final Exits",
+      "TRACKNUMBER" : "6"
+   }
+]

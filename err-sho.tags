@@ -1,0 +1,82 @@
+﻿[
+   {
+      "@" : "spotify:album:3OBbnkBJc5Pi8rTeeKPTGO",
+      "ALBUM" : "Some Heavy Ocean",
+      "ARTIST" : "Emma Ruth Rundle",
+      "DATE" : "2014-05-20",
+      "DURATION" : "102",
+      "LABEL" : "Sargent House",
+      "MUSICBRAINZ_ALBUMID" : "95b86055-cf82-40e9-bd25-d12bd61091c1",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "7ba593b9-79d4-4860-92c8-ade2a1ef4551",
+      "MUSICBRAINZ_RELEASEGROUPID" : "061b2811-03d3-4380-9052-89989ad314f5",
+      "MUSICBRAINZ_TRACKID" : "f5f9966c-e52e-4faa-a9eb-70c38e8fc01e",
+      "TITLE" : "Some Heavy Ocean",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:3OBbnkBJc5Pi8rTeeKPTGO|1",
+      "DURATION" : "210",
+      "MUSICBRAINZ_TRACKID" : "70217327-45f1-43b2-a3d7-9ff09194765b",
+      "TITLE" : "Shadows of My Name",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:3OBbnkBJc5Pi8rTeeKPTGO|2",
+      "DURATION" : "50",
+      "MUSICBRAINZ_TRACKID" : "1ebc4287-7b06-48f4-a337-bfcb71c3221e",
+      "TITLE" : "Your Card the Sun",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:3OBbnkBJc5Pi8rTeeKPTGO|3",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "73c4afed-bfb1-4a25-9c97-d824c0c8c5af",
+      "TITLE" : "Run Forever",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:3OBbnkBJc5Pi8rTeeKPTGO|4",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "d453c656-a2c1-442f-9d44-e744303d41b2",
+      "TITLE" : "Haunted Houses",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:3OBbnkBJc5Pi8rTeeKPTGO|5",
+      "DURATION" : "221",
+      "MUSICBRAINZ_TRACKID" : "6d60a0fb-586e-4dcd-a2be-b2f0add2c6f5",
+      "TITLE" : "Arms I Know So Well",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:3OBbnkBJc5Pi8rTeeKPTGO|6",
+      "DURATION" : "336",
+      "MUSICBRAINZ_TRACKID" : "cc60ed3c-0240-41c6-bbdd-260b612d21d2",
+      "TITLE" : "Oh Sarah",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:3OBbnkBJc5Pi8rTeeKPTGO|7",
+      "DURATION" : "261",
+      "MUSICBRAINZ_TRACKID" : "9717ec3a-c736-401f-b762-293adde20414",
+      "TITLE" : "Savage Saint",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:3OBbnkBJc5Pi8rTeeKPTGO|8",
+      "DURATION" : "248",
+      "MUSICBRAINZ_TRACKID" : "2a6f9111-df63-4aa2-a205-58f476be9e14",
+      "TITLE" : "We Are All Ghosts",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:3OBbnkBJc5Pi8rTeeKPTGO|9",
+      "DURATION" : "283",
+      "MUSICBRAINZ_TRACKID" : "8b429d88-1164-4582-b875-b8a7a77cdda4",
+      "TITLE" : "Living With The Black Dog",
+      "TRACKNUMBER" : "10"
+   }
+]
