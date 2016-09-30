@@ -1,0 +1,104 @@
+﻿[
+   {
+      "@" : "spotify:track:4y9yvUQ4Fetj8rYw65Znqu",
+      "ALBUM" : "XIII",
+      "ARTIST" : "Mushroomhead",
+      "DATE" : "2003-10-14",
+      "DURATION" : "225",
+      "MUSICBRAINZ_ALBUMID" : "580581a2-16cc-4a5b-8aee-388fe91782fd",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "6e755d2d-0b47-449d-b03f-fcacec33aab2",
+      "MUSICBRAINZ_RELEASEGROUPID" : "530e1676-b725-3b65-808c-08f086ee5837",
+      "MUSICBRAINZ_TRACKID" : "3d1dcc5d-bf06-4ecb-822a-c4468da35ccc",
+      "SPOTIFY:ALBUM" : "spotify:album:1BTjlNksap1sBph54yGv6x",
+      "SPOTIFY:ARTIST" : "spotify:artist:18absyD7lQaXUDBXnyzU8M",
+      "TITLE" : "Kill Tomorrow",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:0xSPKfb6uamJnPTX6sRWy5",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "b55353a0-f296-4b06-87b8-f655ad1afe3d",
+      "TITLE" : "Sun Doesn’t Rise",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2dfxBDIMv2bMHQUP2hzPsB",
+      "DURATION" : "256",
+      "MUSICBRAINZ_TRACKID" : "843d21db-cc39-47c1-b828-18846067de7a",
+      "TITLE" : "Mother Machine Gun",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6a4Z9yS1rGuky5JVpWSKnD",
+      "DURATION" : "222",
+      "MUSICBRAINZ_TRACKID" : "cf5137ce-e13c-43b6-ab07-21292b2a6dce",
+      "TITLE" : "Nowhere to Go",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3d0wxuDoWKdNNhyNQhiNFP",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "3d339db1-2340-4b5e-9ea3-9e863498975c",
+      "TITLE" : "Becoming Cold (216)",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5Ko2TFRFJ5Qs2dbgBGbHeI",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "350a33ef-e846-47c5-9a45-7510caa81dce",
+      "TITLE" : "One More Day",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:5cLg6MXBl220yG1AsyBus4",
+      "DURATION" : "195",
+      "MUSICBRAINZ_TRACKID" : "b5b308d9-a5f4-4d8d-af69-71d822c75882",
+      "TITLE" : "The Dream Is Over",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:4Lw20KjJJuWJbsKUFy5CiX",
+      "DURATION" : "179",
+      "MUSICBRAINZ_TRACKID" : "069ea716-fb90-41fd-9a40-0fecea27f81d",
+      "TITLE" : "The War Inside",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:3yNqk6G0jiMSuiGkAmOD7m",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "2106d376-e1d3-4b45-8591-4009e541beae",
+      "TITLE" : "Almost Gone",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:3pxMAQvYhcr7ujdRcR3zov",
+      "DURATION" : "193",
+      "MUSICBRAINZ_TRACKID" : "3af58495-0ee9-4418-97e3-1895ef7bb993",
+      "TITLE" : "Eternal",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:6o5z0P4dWHIxQZiZzp9KJx",
+      "DURATION" : "220",
+      "MUSICBRAINZ_TRACKID" : "9a8f45ec-e2bb-4a39-a045-1413fc1d5b9c",
+      "TITLE" : "Our Own Way",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:3C1ITTkk9e6S8bZjylDMql",
+      "DURATION" : "502",
+      "MUSICBRAINZ_TRACKID" : "76f15fe8-633a-437e-b497-74b0fc7680f5",
+      "TITLE" : "Destroy the World Around Me",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:22HoWreteaVlTp0kMPwG24",
+      "DURATION" : "571",
+      "MUSICBRAINZ_TRACKID" : "75900a69-2aca-483c-a864-ec7f7dee0e4a",
+      "TITLE" : "Thirteen",
+      "TRACKNUMBER" : "13"
+   }
+]
