@@ -1,0 +1,324 @@
+﻿[
+   {
+      "@" : "spotify:track:2whbbPp3yVA09wEqgmsvhQ",
+      "ALBUM" : "In Utero",
+      "ARTIST" : "Nirvana",
+      "BARCODE" : "602537539222",
+      "CATALOGNUMBER" : "0602537539222",
+      "DATE" : "2013-09-23",
+      "DISCNUMBER" : "1",
+      "DISCSUBTITLE" : "Original Album: Remastered / B-Sides & Bonus Tracks",
+      "DURATION" : "217",
+      "LABEL" : "DGC Records",
+      "MUSICBRAINZ_ALBUMID" : "b3bd2714-f6d8-446d-8676-1c6ebe14943a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+      "MUSICBRAINZ_RELEASEGROUPID" : "2a0981fb-9593-3019-864b-ce934d97a16e",
+      "MUSICBRAINZ_TRACKID" : "52eadc0f-037a-4747-b234-e5412aff8215",
+      "ORIGINAL RELEASE DATE" : "1993-09-21",
+      "SPOTIFY:ALBUM" : "spotify:album:7mhk75WqSVNIvxZumfCdvu",
+      "SPOTIFY:ARTIST" : "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+      "TITLE" : "Serve the Servants",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "20",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3fpNJIa9i0ccpQJtLQzXHb",
+      "DURATION" : "228",
+      "MUSICBRAINZ_TRACKID" : "83fef6a6-4ac2-4e77-8314-45a2d5cc7133",
+      "TITLE" : "Scentless Apprentice",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4OaV9UYQ3EfrBRPjoO6u7c",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "f16627cc-e681-45e7-b82a-b64a60f48f99",
+      "TITLE" : "Heart‐Shaped Box",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:11Tm0hw3DDF1gqU0kSEwiC",
+      "DURATION" : "170",
+      "MUSICBRAINZ_TRACKID" : "fd715073-25d5-4905-b9cd-9bdbad3e2dcc",
+      "TITLE" : "Rape Me",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:4v1gujDLr0BRHg93G8wLL9",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "4fd82e6a-1984-44bf-9029-e0ddb11305c1",
+      "TITLE" : "Frances Farmer Will Have Her Revenge on Seattle",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:39XIQUu2DkPfYPD21Qpqtc",
+      "DURATION" : "152",
+      "MUSICBRAINZ_TRACKID" : "80e69d77-4c8e-476f-88d8-3a4f08c69832",
+      "TITLE" : "Dumb",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:7rnh2ISWO3kUleDeJJZDtI",
+      "DURATION" : "116",
+      "MUSICBRAINZ_TRACKID" : "7a148826-c063-47b5-bba9-9c567d9d2b84",
+      "TITLE" : "Very Ape",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3Zmgbg6hNKDoePHlYbLdSx",
+      "DURATION" : "235",
+      "MUSICBRAINZ_TRACKID" : "38e1aadb-c9c5-4e58-9e08-3bb9626dd0fb",
+      "TITLE" : "Milk It",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:0lWAezoLmFptVgiNVQlfBR",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "5bd3b76f-34f5-4f90-9361-7f6416dc207d",
+      "TITLE" : "Pennyroyal Tea",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:3X1W23WJrxPVxte0w96qc3",
+      "DURATION" : "292",
+      "MUSICBRAINZ_TRACKID" : "04e67fe5-c2eb-438a-9323-99e6f4773116",
+      "TITLE" : "Radio Friendly Unit Shifter",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:0xYTNXDwITPr3jFqx7tQ3E",
+      "DURATION" : "95",
+      "MUSICBRAINZ_TRACKID" : "d1571fc9-a88a-4f19-a00e-f34234b7d082",
+      "TITLE" : "tourette’s",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:53IjbBfUHeI07pUTSyOfMW",
+      "DURATION" : "231",
+      "MUSICBRAINZ_TRACKID" : "7c828bd0-685e-41af-b34d-f5eaf1743b77",
+      "TITLE" : "All Apologies",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:49d0FO8EWUQo2cTpJjf6yA",
+      "DURATION" : "454",
+      "MUSICBRAINZ_TRACKID" : "8ef1857b-1883-445c-972b-098be1c44cac",
+      "TITLE" : "Gallons of Rubbing Alcohol Flow Through the Strip",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:2C08VRoBYuMqhjxM1t1Hmk",
+      "DURATION" : "154",
+      "MUSICBRAINZ_TRACKID" : "75af1d3e-35e8-4a3a-b4c0-e0135a97c85d",
+      "TITLE" : "Marigold",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:1O0gUqaRd8k0w2NdsIinqX",
+      "DURATION" : "213",
+      "MUSICBRAINZ_TRACKID" : "1c7615de-5e14-4f39-9b35-0052f598b92a",
+      "TITLE" : "Moist Vagina",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:6DQPcNxGyUmrNJncjdoDhc",
+      "DURATION" : "205",
+      "MUSICBRAINZ_TRACKID" : "9ffbf06b-af19-45b7-b44b-0d591b0af0e7",
+      "TITLE" : "Sappy",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:5nVIAskG5NvPXLGJrUaV6L",
+      "DURATION" : "180",
+      "MUSICBRAINZ_TRACKID" : "4f7cd57e-712b-4154-be61-24c8ed2ae45d",
+      "TITLE" : "I Hate Myself and Want to Die",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:track:4CqR8As72iCvEd9aI1UI8y",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "5e33d74b-8396-498a-ad45-4e5eae5cf761",
+      "TITLE" : "Pennyroyal Tea",
+      "TRACKNUMBER" : "18"
+   },
+   {
+      "@" : "spotify:track:3X6s5Dt3luecoHHEMVuQ1a",
+      "DURATION" : "282",
+      "MUSICBRAINZ_TRACKID" : "15c98856-22ef-445c-add0-ed3ee49a0c2f",
+      "TITLE" : "Heart‐Shaped Box",
+      "TRACKNUMBER" : "19"
+   },
+   {
+      "@" : "spotify:track:4H9KSuU9SyfwzogelSh1Qu",
+      "DURATION" : "233",
+      "MUSICBRAINZ_TRACKID" : "0e041e91-08a4-4800-925a-dc11a94d0a82",
+      "TITLE" : "All Apologies",
+      "TRACKNUMBER" : "20"
+   },
+   {
+      "@" : "spotify:track:3HkhT68HxfCkTDLefFj5G9",
+      "DISCNUMBER" : "2",
+      "DISCSUBTITLE" : "Original Album: 2013 Mix / Demos",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "9ee8b21f-9cdf-468b-b29f-d02ee0022121",
+      "TITLE" : "Serve the Servants",
+      "TOTALTRACKS" : "23",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:51VGT64lIgR3lOYOg2MgJD",
+      "DURATION" : "229",
+      "MUSICBRAINZ_TRACKID" : "ab0a3fd5-5a89-4ae8-93c1-8a00735e5554",
+      "TITLE" : "Scentless Apprentice",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1dVwf0o4Cc9aSUERMqEkq3",
+      "DURATION" : "279",
+      "MUSICBRAINZ_TRACKID" : "51f55eaf-e1b0-4de3-b9e4-346f4d0f4169",
+      "TITLE" : "Heart‐Shaped Box",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5cDcDWaFiIQw8UvwkpYDk4",
+      "DURATION" : "169",
+      "MUSICBRAINZ_TRACKID" : "31cb6428-c40d-4998-bcb1-a4d9e0fe69a0",
+      "TITLE" : "Rape Me",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:2sLh47U8pfPJL5zZCydof8",
+      "DURATION" : "252",
+      "MUSICBRAINZ_TRACKID" : "881293e4-2e88-4ede-9893-bbe2dc030727",
+      "TITLE" : "Frances Farmer Will Have Her Revenge on Seattle",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:09emSRcmA8WrhGx5MH1xon",
+      "DURATION" : "152",
+      "MUSICBRAINZ_TRACKID" : "46f64cec-e517-4997-8dc8-909081a403ab",
+      "TITLE" : "Dumb",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3ULD3ek1jt0HrBb8nxCWWC",
+      "DURATION" : "117",
+      "MUSICBRAINZ_TRACKID" : "ef35e665-8670-4e29-86b5-f4bedff97532",
+      "TITLE" : "Very Ape",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:13EK5ITdPbxk5goFK0bAVd",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "5e1cece2-7d5e-45b5-964b-5e339c3615c5",
+      "TITLE" : "Milk It",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:5JF59OuFvub7LcuuXR8SW7",
+      "DURATION" : "212",
+      "MUSICBRAINZ_TRACKID" : "26c29aa0-5961-4498-99ae-8f982f549c3e",
+      "TITLE" : "Pennyroyal Tea",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:7fGtnIhUjiYacztrhY2qbK",
+      "DURATION" : "293",
+      "MUSICBRAINZ_TRACKID" : "ba6e1d84-179d-4651-9a3d-1e1dea53e888",
+      "TITLE" : "Radio Friendly Unit Shifter",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3ZMcrOf6NnOajLbZhvpQJx",
+      "DURATION" : "96",
+      "MUSICBRAINZ_TRACKID" : "ab02e70d-9136-4061-8aa4-1edb9bca1759",
+      "TITLE" : "tourette’s",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:7eg6e9h2SVtZ9WBkq7BnrH",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "14466da3-4a63-4eb9-9264-23e54c0ce772",
+      "TITLE" : "All Apologies",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:0HNPABEOt9aw4mj5ocaj3G",
+      "DURATION" : "233",
+      "MUSICBRAINZ_TRACKID" : "9da07a77-637b-4e73-abeb-ccbdc31f7016",
+      "TITLE" : "Scentless Apprentice",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:52Ly8unUXNx85MknHNwju4",
+      "DURATION" : "273",
+      "MUSICBRAINZ_TRACKID" : "2b774b59-5488-4842-9a09-87af9fb6de07",
+      "TITLE" : "Frances Farmer Will Have Her Revenge on Seattle (instrumental)",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:25Hf1Paq5y6NOgtMlj2qdu",
+      "DURATION" : "158",
+      "MUSICBRAINZ_TRACKID" : "99556ed0-5982-4def-8a3b-8cd631b5b304",
+      "TITLE" : "Dumb (instrumental)",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:6iLfRwdPAsiST88NKaAMCn",
+      "DURATION" : "141",
+      "MUSICBRAINZ_TRACKID" : "1a6f2a4a-aab2-4285-bf9c-73593f73beac",
+      "TITLE" : "Very Ape (instrumental)",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:1ZgPuKBhGrUxRET0l6OrTS",
+      "DURATION" : "212",
+      "MUSICBRAINZ_TRACKID" : "40176563-2439-461f-8877-42854ba51d30",
+      "TITLE" : "Pennyroyal Tea (instrumental)",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:track:3PJTHNViiFNh3mlcnaZZVU",
+      "DURATION" : "160",
+      "MUSICBRAINZ_TRACKID" : "f66fb0cf-91e7-461a-a462-fefe65672752",
+      "TITLE" : "Radio Friendly Unit Shifter (instrumental)",
+      "TRACKNUMBER" : "18"
+   },
+   {
+      "@" : "spotify:track:6VWu4no2bu41HvyCl8nD4d",
+      "DURATION" : "135",
+      "MUSICBRAINZ_TRACKID" : "796d8a52-73e9-47bf-b3a8-46d2bd5834c7",
+      "TITLE" : "tourette’s (instrumental)",
+      "TRACKNUMBER" : "19"
+   },
+   {
+      "@" : "spotify:track:1a5BAdVdvHoIoWO24bhU0k",
+      "DURATION" : "205",
+      "MUSICBRAINZ_TRACKID" : "026d0d23-1cdf-40db-abc7-c83a979fe95d",
+      "TITLE" : "Marigold",
+      "TRACKNUMBER" : "20"
+   },
+   {
+      "@" : "spotify:track:44M1naFhmmfM4S1A1BQZDU",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "2e45a689-ab84-4e58-b179-509e91acf7e5",
+      "TITLE" : "All Apologies",
+      "TRACKNUMBER" : "21"
+   },
+   {
+      "@" : "spotify:track:3DXLtEelaJlN9klnNTV78O",
+      "DURATION" : "125",
+      "MUSICBRAINZ_TRACKID" : "a4847c04-a5a2-48c3-8361-c1f1a0bd957b",
+      "TITLE" : "Forgotten Tune (instrumental)",
+      "TRACKNUMBER" : "22"
+   },
+   {
+      "@" : "spotify:track:5WGI5kelDvx8NL3urQkvNv",
+      "DURATION" : "335",
+      "MUSICBRAINZ_TRACKID" : "51a02035-a53c-4b26-b0a2-720daf587538",
+      "TITLE" : "Jam",
+      "TRACKNUMBER" : "23"
+   }
+]

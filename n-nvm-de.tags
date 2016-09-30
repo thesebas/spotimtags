@@ -1,0 +1,301 @@
+﻿[
+   {
+      "@" : "spotify:track:1f3yAtsJtY87CTmM8RLnxf",
+      "ALBUM" : "Nevermind",
+      "ARTIST" : "Nirvana",
+      "DATE" : "2011-09-27",
+      "DISCNUMBER" : "1",
+      "DISCSUBTITLE" : "Original Album / B‐Sides",
+      "DURATION" : "302",
+      "LABEL" : "Geffen Records",
+      "MUSICBRAINZ_ALBUMID" : "3bf3b8f8-0b27-4950-8832-70adf39fab6e",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+      "MUSICBRAINZ_RELEASEGROUPID" : "1b022e01-4da6-387b-8658-8678046e4cef",
+      "MUSICBRAINZ_TRACKID" : "6da76448-982a-4a01-b65b-9a710301c9c9",
+      "ORIGINAL RELEASE DATE" : "1991-07-11",
+      "SPOTIFY:ALBUM" : "spotify:album:2uEf3r9i2bnxwJQsxQ0xQ7",
+      "SPOTIFY:ARTIST" : "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+      "TITLE" : "Smells Like Teen Spirit",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "22",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:0eeEzvw5Etwv6tyz2PyE6L",
+      "DURATION" : "255",
+      "MUSICBRAINZ_TRACKID" : "2042ce91-f5fe-4fce-b451-b3354843b193",
+      "TITLE" : "In Bloom",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0MKGH8UMfCnq5w7nG06oM5",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "b4184747-0157-41be-ae44-e3a6a0c13272",
+      "TITLE" : "Come as You Are",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6kA9cOS2QpUpeGJHGxSXe1",
+      "DURATION" : "184",
+      "MUSICBRAINZ_TRACKID" : "b4f0642e-05c5-4bc4-bf0c-95e67bfb3e99",
+      "TITLE" : "Breed",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:26D1PRJjD9Jj1JGRk88KVc",
+      "DURATION" : "257",
+      "MUSICBRAINZ_TRACKID" : "3f5647db-6f12-4c36-94ea-2d06f2c7e8f9",
+      "TITLE" : "Lithium",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5OA6V14rCVeSplYvf8T18L",
+      "DURATION" : "174",
+      "MUSICBRAINZ_TRACKID" : "d8417d44-9324-43b8-838a-e1034ac11f8c",
+      "TITLE" : "Polly",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2mCBoSkJpSMKV0qLAh1dRj",
+      "DURATION" : "143",
+      "MUSICBRAINZ_TRACKID" : "120bdf8e-c760-4aaf-8e34-ddd1ab3be504",
+      "TITLE" : "Territorial Pissings",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5OwponLnwCAYnWql6cwBru",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "4eb581fa-4080-4b0b-9ef0-2c8720c02190",
+      "TITLE" : "Drain You",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4iuPYtP5sSsmeG7mcoMoKY",
+      "DURATION" : "156",
+      "MUSICBRAINZ_TRACKID" : "1e35bde3-37bd-431d-916a-c364e6440446",
+      "TITLE" : "Lounge Act",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4rp0jQx7m4aC9YwbgkUL2K",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "6fb6fff0-a381-44be-8aa6-e3429a670e0b",
+      "TITLE" : "Stay Away",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:4PvPoT47fABUMGfkMcJOWv",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "f30831a3-a9de-41ba-86c8-f1cad625b305",
+      "TITLE" : "On a Plain",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:16LgXyNShQbrqBRF4TT1Sr",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "9d91b2a8-a4f3-4144-9a87-d2e2e3ff94b0",
+      "TITLE" : "Something in the Way",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:3lE6zN1hKHXxgwdartmwsK",
+      "DURATION" : "403",
+      "MUSICBRAINZ_TRACKID" : "0564af0a-6b48-4277-9267-7b408d8132c4",
+      "TITLE" : "Endless, Nameless",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:6uQDskpndKKqjSWpa9pco4",
+      "DURATION" : "182",
+      "MUSICBRAINZ_TRACKID" : "9b3a821c-3d75-4f28-a54b-31da19728198",
+      "TITLE" : "Even in His Youth",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:5NyfckLByGPR60QMlX3D0W",
+      "DURATION" : "286",
+      "MUSICBRAINZ_TRACKID" : "ae0e6f30-3f07-43f1-82f7-5af7ef1c985b",
+      "TITLE" : "Aneurysm",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:6TDwVLzah2zl0jFERh6kjG",
+      "DURATION" : "177",
+      "MUSICBRAINZ_TRACKID" : "55ffd285-e6a8-4253-ad42-9c35b6d42279",
+      "TITLE" : "Curmudgeon",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:5UfFfqVQUZdBHHs8e9Lfzs",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "26bfab13-da33-415f-9499-636724f0e31b",
+      "TITLE" : "D-7",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:track:6Fh0ijHQKwbGM11K03V8AI",
+      "DURATION" : "150",
+      "MUSICBRAINZ_TRACKID" : "8d06a682-5a9f-44aa-9a1f-b15f53a6d937",
+      "TITLE" : "Been a Son",
+      "TRACKNUMBER" : "18"
+   },
+   {
+      "@" : "spotify:track:636EvcaytkPo3QnxGNVAmq",
+      "DURATION" : "154",
+      "MUSICBRAINZ_TRACKID" : "e3d26741-ee10-440e-b790-95364194cbd2",
+      "TITLE" : "School",
+      "TRACKNUMBER" : "19"
+   },
+   {
+      "@" : "spotify:track:3JL6lroNGOqrCA38Hgdd5L",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "ab368551-a213-42dd-9029-c19d72cd142e",
+      "TITLE" : "Drain You",
+      "TRACKNUMBER" : "20"
+   },
+   {
+      "@" : "spotify:track:7av7rNdQ5GM1CPq3osz79X",
+      "DURATION" : "123",
+      "MUSICBRAINZ_TRACKID" : "09909fba-4c2f-4ab6-af59-297285aaecae",
+      "TITLE" : "Sliver",
+      "TRACKNUMBER" : "21"
+   },
+   {
+      "@" : "spotify:track:3xMvGySW4ejImqCTsjPAI3",
+      "DURATION" : "167",
+      "MUSICBRAINZ_TRACKID" : "cc2b2f45-c8b1-4622-8295-9696f0c7fb25",
+      "TITLE" : "Polly",
+      "TRACKNUMBER" : "22"
+   },
+   {
+      "@" : "spotify:track:1Pe79kPlAngeZIf2kpX4KR",
+      "DISCNUMBER" : "2",
+      "DISCSUBTITLE" : "The Smart Studio Sessions / The Boombox Rehearsals / BBC Sessions",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "2a96ab4d-933d-4c3d-97a0-f37384ca39ce",
+      "TITLE" : "In Bloom (Smart Studio session)",
+      "TOTALTRACKS" : "18",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:5QoU3WhPDSLPUtdoQZKso1",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "2f8a02ea-2ccd-4833-a910-719ae7897206",
+      "TITLE" : "Immodium (Breed) (Smart Studio session)",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:5PofgzFnc3wZ416FBdYssN",
+      "DURATION" : "270",
+      "MUSICBRAINZ_TRACKID" : "91386564-ee37-4e93-9958-06279614a5ab",
+      "TITLE" : "Lithium (Smart Studio session)",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5lZLEUI7v4gNhbG68X1mTr",
+      "DURATION" : "178",
+      "MUSICBRAINZ_TRACKID" : "a838c029-2bd8-4e83-881d-cbf5a4c2edd1",
+      "TITLE" : "Polly (Smart Studio session)",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:2sF0B8N8V1pKdCQ0Z1n1Cg",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "032f9ce3-2f6d-4a16-a9e6-3759f3b1001a",
+      "TITLE" : "Pay to Play (Smart Studio session)",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5x1Ek9BSKQPCF742u3R8Qg",
+      "DURATION" : "300",
+      "MUSICBRAINZ_TRACKID" : "7ff0e4e1-c24d-40fd-8cb7-0c2b63fcf9eb",
+      "TITLE" : "Here She Comes Now (Smart Studio session)",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2Ao5McphYIK1xgnu6NPW3d",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "30284e12-6b26-41dc-a9ad-00c34af78b1f",
+      "TITLE" : "Dive (Smart Studio session)",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:2QbU8z4azyXXAMW6m9wx9U",
+      "DURATION" : "215",
+      "MUSICBRAINZ_TRACKID" : "1a520846-3570-43a4-ae1a-5e225539eaa2",
+      "TITLE" : "Sappy (Smart Studio session)",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:7FxTZaYN9wnuBUNGWh6M5F",
+      "DURATION" : "339",
+      "MUSICBRAINZ_TRACKID" : "b8f68383-27ba-4110-bfd7-1d8cec41ffe0",
+      "TITLE" : "Smells Like Teen Spirit (boombox rehearsal)",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:2er1nwbEPvM2JLowLc3DeB",
+      "DURATION" : "192",
+      "MUSICBRAINZ_TRACKID" : "23bc24ce-c732-443b-98a1-a2698661910d",
+      "TITLE" : "Verse Chorus Verse (boombox rehearsal)",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:5ZJ1llj8qDLjxT09epr1bk",
+      "DURATION" : "131",
+      "MUSICBRAINZ_TRACKID" : "0c89147d-4c3e-4976-a6cc-03bf2190c3b8",
+      "TITLE" : "Territorial Pissings (boombox rehearsal)",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:1WXQ0eVryJi4tCdhJTz3nw",
+      "DURATION" : "156",
+      "MUSICBRAINZ_TRACKID" : "41c53df3-09c6-4f4b-9b65-a9ba8bef3880",
+      "TITLE" : "Lounge Act (boombox rehearsal)",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:0v4rvi7OGdnHLzfdn2ku58",
+      "DURATION" : "251",
+      "MUSICBRAINZ_TRACKID" : "0968bd74-f195-4158-aa4f-e1850dcf2ef9",
+      "TITLE" : "Come as You Are (boombox rehearsal)",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:72T3BL1IDOolKb0XuAewRC",
+      "DURATION" : "261",
+      "MUSICBRAINZ_TRACKID" : "7a890142-2777-47e7-9f2b-0a9142f8d0f3",
+      "TITLE" : "Old Age (boombox rehearsal)",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:4v3YBDZAY4B8zEpuIMDPBi",
+      "DURATION" : "330",
+      "MUSICBRAINZ_TRACKID" : "4d731efb-aa6d-40e1-92c5-86703e9b8511",
+      "TITLE" : "Something in the Way (boombox rehearsal)",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:0YjbhKGxvUTEMc9tguYHWs",
+      "DURATION" : "200",
+      "MUSICBRAINZ_TRACKID" : "ad933d58-bb15-4c53-8e2a-71b36c75e1e7",
+      "TITLE" : "On a Plain (boombox rehearsal)",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:2ha2l69UEOTWncyjINX4Ya",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "55cccd03-d5a8-49fd-ac1a-83bac575a698",
+      "TITLE" : "Drain You",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:track:0MCYg5NRnUnG6dgzmdml08",
+      "DURATION" : "204",
+      "MUSICBRAINZ_TRACKID" : "0e46c215-71cb-4a2f-ac04-e3e1264055a9",
+      "TITLE" : "Something in the Way",
+      "TRACKNUMBER" : "18"
+   }
+]
