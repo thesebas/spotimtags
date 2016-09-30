@@ -1,0 +1,90 @@
+﻿[
+   {
+      "@" : "spotify:track:0XSvuQnKl4ssIqunUzOd2d",
+      "ALBUM" : "M3",
+      "ARTIST" : "Mushroomhead",
+      "DATE" : "1999-03-09",
+      "DURATION" : "193",
+      "MUSICBRAINZ_ALBUMID" : "6fb4058e-8091-40dd-9dad-f67fdd3a8bfd",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "6e755d2d-0b47-449d-b03f-fcacec33aab2",
+      "MUSICBRAINZ_RELEASEGROUPID" : "5f31d25f-b128-4482-9c4f-d4fd593b7587",
+      "MUSICBRAINZ_TRACKID" : "4c66429e-6439-4b5a-8085-6b0417d814b7",
+      "SPOTIFY:ALBUM" : "spotify:album:0T6tkvYT3ENy9PrirAhtuB",
+      "SPOTIFY:ARTIST" : "spotify:artist:18absyD7lQaXUDBXnyzU8M",
+      "TITLE" : "Before I Die",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1lMspatkZsnqQ6H3mQHtdv",
+      "DURATION" : "274",
+      "MUSICBRAINZ_TRACKID" : "843f1b3f-666e-4d18-bd74-63559934474f",
+      "TITLE" : "Solitaire / Unraveling",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0q91yotbbS9WCAmXywE1Ww",
+      "DURATION" : "308",
+      "MUSICBRAINZ_TRACKID" : "fdfe558a-5cba-4bd7-b1af-897ad8390b96",
+      "TITLE" : "The New Cult King",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:4500RoFZjE8onh7blyUlAb",
+      "DURATION" : "303",
+      "MUSICBRAINZ_TRACKID" : "50e0f43a-1731-479a-be65-a8289a4907ab",
+      "TITLE" : "Inevitable",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:0iP3AAzdzUG3g8iuFcW4bZ",
+      "DURATION" : "176",
+      "MUSICBRAINZ_TRACKID" : "498979c0-d8f9-4251-9435-2cd922f46f54",
+      "TITLE" : "Xeroxed",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:0RdPYLfK6OyZeXOVAnzqMq",
+      "DURATION" : "284",
+      "MUSICBRAINZ_TRACKID" : "8301ee6a-252a-4e3a-ab56-9a85c8c711d8",
+      "TITLE" : "The Final Act",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:65KBUmbfvjnVw8eVKozyfb",
+      "DURATION" : "162",
+      "MUSICBRAINZ_TRACKID" : "31df1bb5-8816-4f83-ba4c-95ea3c806654",
+      "TITLE" : "Conflict- The Argument Goes On...",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3M4rsKWJER8nq4M7WQTFee",
+      "DURATION" : "261",
+      "MUSICBRAINZ_TRACKID" : "2fa0ebf9-73d1-47bf-8e32-77a75f0909ec",
+      "TITLE" : "Exploiting Your Weakness",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:21Y91jAs95peWBn1kkQxRJ",
+      "DURATION" : "192",
+      "MUSICBRAINZ_TRACKID" : "4fc8973e-f02a-4dc2-9ad1-741c3ae2180b",
+      "TITLE" : "Beauteous",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:5nFk1ulT1PMcug2juzr0eJ",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "85638d19-3cf7-402c-a103-83ce6a4414f9",
+      "TITLE" : "Born of Desire",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:6RJO7IJyEWO4eZ54prcCSL",
+      "DURATION" : "737",
+      "MUSICBRAINZ_TRACKID" : "af7d7dbd-5bc2-4eba-883a-6fb78c2e6d29",
+      "TITLE" : "Dark and Evil Joe",
+      "TRACKNUMBER" : "11"
+   }
+]

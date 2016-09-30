@@ -1,0 +1,265 @@
+﻿[
+   {
+      "@" : "spotify:track:62Ynh9YDb4K8SKDUJCLM1A",
+      "ALBUM" : "XX",
+      "ARTIST" : "Mushroomhead",
+      "BARCODE" : "044001643026",
+      "CATALOGNUMBER" : "440 016 430-2",
+      "DATE" : "2001-12-04",
+      "DURATION" : "194",
+      "LABEL" : "Universal Records",
+      "MUSICBRAINZ_ALBUMID" : "789e4855-63c7-4fe3-8148-c3dc9e1f6d47",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "6e755d2d-0b47-449d-b03f-fcacec33aab2",
+      "MUSICBRAINZ_RELEASEGROUPID" : "36fb01ed-7e86-3be1-a715-d9bedf9f2d00",
+      "MUSICBRAINZ_TRACKID" : "dfbe8e9a-f3fc-497b-bd1d-28737fbc8b53",
+      "SPOTIFY:ALBUM" : "spotify:album:4J1a40xgT46VaefR5jAPMM",
+      "SPOTIFY:ARTIST" : "spotify:artist:18absyD7lQaXUDBXnyzU8M",
+      "TITLE" : "Before I Die",
+      "TOTALTRACKS" : "43",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:030GhKr0cVEi3Po7ScXC1Z",
+      "DURATION" : "387",
+      "MUSICBRAINZ_TRACKID" : "fc395547-f6a0-4b49-9f56-034d4dff0b78",
+      "TITLE" : "Bwomp",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6ynqmVDyZO3TxaeDUyAwzg",
+      "DURATION" : "267",
+      "MUSICBRAINZ_TRACKID" : "68107a2d-c55a-4f14-9e29-8ad6488b9099",
+      "TITLE" : "Solitaire / Unraveling",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:33FoAoYWUDfofIZGVBAdr5",
+      "DURATION" : "323",
+      "MUSICBRAINZ_TRACKID" : "a593385c-3ff7-4633-8360-1efbbfd9e770",
+      "TITLE" : "These Filthy Hands",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5jcxhoiBlTdkjId7kZbPRF",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "e583a2a7-d316-4498-a266-ae3beeb5e59f",
+      "TITLE" : "Never Let It Go",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:2yFVuZynKZ2DGz6qRIiWJQ",
+      "DURATION" : "178",
+      "MUSICBRAINZ_TRACKID" : "b00adb1d-704b-475f-bc4d-58ff0b379d4d",
+      "TITLE" : "Xeroxed",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:5U874QeWyGSCRRmXvITbSd",
+      "DURATION" : "309",
+      "MUSICBRAINZ_TRACKID" : "5cfa438f-9ab5-46f0-a7dc-60cb0d4de739",
+      "TITLE" : "The Wrist",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5FUowirlqEHeJtXwLXCTuc",
+      "DURATION" : "156",
+      "MUSICBRAINZ_TRACKID" : "d5ed2cf7-2eb8-4b09-a523-e46e8e223144",
+      "TITLE" : "Chancre Sore",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:6ODiKeO3vlr6SFEHnp4qLI",
+      "DURATION" : "310",
+      "MUSICBRAINZ_TRACKID" : "2c35bc32-5bad-4d09-a1ef-ede35c67ca51",
+      "TITLE" : "The New Cult King",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:40haAVz73xcBbskSYg8j5S",
+      "DURATION" : "112",
+      "MUSICBRAINZ_TRACKID" : "ef67eaab-72ba-43e3-8c4f-8a3d009c5550",
+      "TITLE" : "Empty Spaces",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:304GzyNjE5n6kHew3ACANv",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "f8681602-1e03-4657-9dd9-490efd8ac732",
+      "TITLE" : "Born of Desire",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:4OTTZWdowA6MPvB8bhG0V3",
+      "DURATION" : "272",
+      "MUSICBRAINZ_TRACKID" : "b643b627-5589-4b4f-8e91-739767aca0d8",
+      "TITLE" : "43",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:5NZluHtVW8gjNfinysuUvH",
+      "DURATION" : "138",
+      "MUSICBRAINZ_TRACKID" : "43e2c3df-a9ab-4f57-8d15-f5cd97d29e31",
+      "TITLE" : "Fear Held Dear",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:4q29ML85XSiWsn0lfRrMMb",
+      "DURATION" : "190",
+      "MUSICBRAINZ_TRACKID" : "e8a6557f-5aeb-452b-a039-026332fd9d69",
+      "TITLE" : "Too Much Nothing",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:0WJf66nXiESXSHspEhfAxr",
+      "DURATION" : "96",
+      "MUSICBRAINZ_TRACKID" : "42ff279f-3c82-4263-b08c-4ceecfdf590c",
+      "TITLE" : "Episode 29",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:6OAVUlvaG7U8Qx9CxOLLIU",
+      "DURATION" : "4",
+      "MUSICBRAINZ_TRACKID" : "6b2ac3da-17c8-437b-b689-52c4342bd78c",
+      "TITLE" : "Untitled",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:0KoxCSjGiVXr9XkHovZ9FI",
+      "MUSICBRAINZ_TRACKID" : "72c3c0c8-6e01-42eb-a079-c9a91fd15aae",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:track:7l8wrLsq89s1o6hLlVZrW4",
+      "MUSICBRAINZ_TRACKID" : "420a22db-f142-4812-9052-b29e53ba8fd5",
+      "TRACKNUMBER" : "18"
+   },
+   {
+      "@" : "spotify:track:6JI6zNBbGIZBCTD3k6Vy1X",
+      "MUSICBRAINZ_TRACKID" : "0fa1d8d6-599c-4ec6-9366-a618b690dc3a",
+      "TRACKNUMBER" : "19"
+   },
+   {
+      "@" : "spotify:track:10RFIpu5h7sPZcPKiWt6dC",
+      "MUSICBRAINZ_TRACKID" : "ddf8feb0-e4e3-4efe-9093-a37d421f290b",
+      "TRACKNUMBER" : "20"
+   },
+   {
+      "@" : "spotify:track:5OiL604mEhdbjp1CPTqijw",
+      "MUSICBRAINZ_TRACKID" : "50cad1d9-0f61-4a00-bfb2-f4f8c8f5573f",
+      "TRACKNUMBER" : "21"
+   },
+   {
+      "@" : "spotify:track:37tPlkKGe9XY1O7sDJFo4G",
+      "MUSICBRAINZ_TRACKID" : "d249302b-617e-40ea-a318-d4abf87e8edd",
+      "TRACKNUMBER" : "22"
+   },
+   {
+      "@" : "spotify:track:3Yo7lowq9OEcgLfHvrAUhg",
+      "MUSICBRAINZ_TRACKID" : "f8b6de0d-95a2-4266-8ef5-1f7cffe154ba",
+      "TRACKNUMBER" : "23"
+   },
+   {
+      "@" : "spotify:track:0V4WTlR1hwl1xbbqbdot4V",
+      "MUSICBRAINZ_TRACKID" : "d0b7701e-b3d5-4500-ae87-41dc37e2e047",
+      "TRACKNUMBER" : "24"
+   },
+   {
+      "@" : "spotify:track:1QcORyhqBAaVvPMqgGURpi",
+      "MUSICBRAINZ_TRACKID" : "22b7d4d5-541b-4559-a273-3a0112ba1f24",
+      "TRACKNUMBER" : "25"
+   },
+   {
+      "@" : "spotify:track:7kRT3RIb6fgKnrd0HttWcA",
+      "MUSICBRAINZ_TRACKID" : "23834ef8-53b3-47ed-9d42-40b4e8186baf",
+      "TRACKNUMBER" : "26"
+   },
+   {
+      "@" : "spotify:track:4oCWuU2uN3RXVouMH7SSSq",
+      "MUSICBRAINZ_TRACKID" : "6719d6a2-0460-4d6f-8adf-5ffcafb1217e",
+      "TRACKNUMBER" : "27"
+   },
+   {
+      "@" : "spotify:track:6rvFqIqDObPDKEwbZm6E97",
+      "MUSICBRAINZ_TRACKID" : "07d92f4d-b27b-4dcf-8ceb-c80c90acdcd9",
+      "TRACKNUMBER" : "28"
+   },
+   {
+      "@" : "spotify:track:5oNDmIO6674IgKyVEOPQgb",
+      "MUSICBRAINZ_TRACKID" : "36c46fea-e652-4752-acaf-23e00f10fcb1",
+      "TRACKNUMBER" : "29"
+   },
+   {
+      "@" : "spotify:track:6aoAYKD7q4Mv3Fiwgvy4KN",
+      "MUSICBRAINZ_TRACKID" : "97cd6740-c1ff-4cc0-9557-0fb934763293",
+      "TRACKNUMBER" : "30"
+   },
+   {
+      "@" : "spotify:track:28FFJkrdRfwmacP5KuRvMO",
+      "MUSICBRAINZ_TRACKID" : "70da1790-c87e-4c9f-8b0a-5cfa82921404",
+      "TRACKNUMBER" : "31"
+   },
+   {
+      "@" : "spotify:track:0reqLQnsbMvlpQ52UfImO0",
+      "MUSICBRAINZ_TRACKID" : "70dc9baa-a36c-41d4-8fb7-3818d703d69b",
+      "TRACKNUMBER" : "32"
+   },
+   {
+      "@" : "spotify:track:3jk87nH5hqz1DDEozhCsbz",
+      "MUSICBRAINZ_TRACKID" : "cd7e0027-4a43-4d20-b7a3-4abb61db3241",
+      "TRACKNUMBER" : "33"
+   },
+   {
+      "@" : "spotify:track:6GlXFrsuQrsYe6zpT09SWf",
+      "MUSICBRAINZ_TRACKID" : "888015c4-f969-4e30-b9b7-c1c1da982217",
+      "TRACKNUMBER" : "34"
+   },
+   {
+      "@" : "spotify:track:7fmsRiIz8gl2ZChfTeYT3s",
+      "MUSICBRAINZ_TRACKID" : "2498d308-fc9b-4675-92ea-5c24c88f2d3d",
+      "TRACKNUMBER" : "35"
+   },
+   {
+      "@" : "spotify:track:6vyMCjJchJsx9KQNGpixVj",
+      "MUSICBRAINZ_TRACKID" : "b48a2be1-91a3-4ef0-b5d8-fd300a56a05f",
+      "TRACKNUMBER" : "36"
+   },
+   {
+      "@" : "spotify:track:1RDBe5yYKVjzlT2QCbi5rA",
+      "MUSICBRAINZ_TRACKID" : "67332171-1887-412d-bf88-056746a4869e",
+      "TRACKNUMBER" : "37"
+   },
+   {
+      "@" : "spotify:track:2tlqYBZltLfOMGW2CSPSbV",
+      "MUSICBRAINZ_TRACKID" : "912b32cd-ae34-4241-bd97-f50117a4b3cc",
+      "TRACKNUMBER" : "38"
+   },
+   {
+      "@" : "spotify:track:0S2Ph3nNe6LJcdVfT9669e",
+      "MUSICBRAINZ_TRACKID" : "5ee566c5-3ae6-463f-89e1-f73af398be31",
+      "TRACKNUMBER" : "39"
+   },
+   {
+      "@" : "spotify:track:0PQNDJt6QEDxs4EpEJ5v0z",
+      "MUSICBRAINZ_TRACKID" : "72b5ea47-3616-4ac5-9b1d-3c4aa2e0c105",
+      "TRACKNUMBER" : "40"
+   },
+   {
+      "@" : "spotify:track:3kTxruYdhY4kVj6I3uMUVz",
+      "MUSICBRAINZ_TRACKID" : "d1c68692-5d26-444a-ac4c-93469754c7c0",
+      "TRACKNUMBER" : "41"
+   },
+   {
+      "@" : "spotify:track:6yRW0KFzqw6vYJ0XwOEA6O",
+      "MUSICBRAINZ_TRACKID" : "083225ba-745d-4a68-9275-beca41e2d3f7",
+      "TRACKNUMBER" : "42"
+   },
+   {
+      "@" : "spotify:track:2m80rrIwmTYlC6uEce7IZS",
+      "DURATION" : "598",
+      "MUSICBRAINZ_TRACKID" : "637ef05e-d6e9-420a-b32b-b0c83c6c2da1",
+      "TITLE" : "Bwomp",
+      "TRACKNUMBER" : "43"
+   }
+]

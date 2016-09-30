@@ -1,0 +1,111 @@
+﻿[
+   {
+      "@" : "spotify:track:7aHonGy1nUFWOlivZXFQrM",
+      "ALBUM" : "Mushroomhead",
+      "ARTIST" : "Mushroomhead",
+      "DATE" : "1995-04-03",
+      "DURATION" : "224",
+      "MUSICBRAINZ_ALBUMID" : "ab143dd6-b85e-4cf9-8d9f-c7ecef6cf7ad",
+      "MUSICBRAINZ_ALBUMSTATUS" : "(None)",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "6e755d2d-0b47-449d-b03f-fcacec33aab2",
+      "MUSICBRAINZ_RELEASEGROUPID" : "7b28995f-b727-3a2e-892b-4932cd5f6530",
+      "MUSICBRAINZ_TRACKID" : "bb5e8d01-9a77-4aba-adc5-b51a8e68ec20",
+      "SPOTIFY:ALBUM" : "spotify:album:6sJk8iJPBQ0PUFaw2pFter",
+      "SPOTIFY:ARTIST" : "spotify:artist:18absyD7lQaXUDBXnyzU8M",
+      "TITLE" : "Slow Thing",
+      "TOTALTRACKS" : "14",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:4Sakxn0LLCf1MSid3hOucD",
+      "DURATION" : "213",
+      "MUSICBRAINZ_TRACKID" : "fca21ac8-a254-4653-9d11-4a265801e3d1",
+      "TITLE" : "Elevation",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:3dxqn18t7arcGFApTCxQp9",
+      "DURATION" : "198",
+      "MUSICBRAINZ_TRACKID" : "63fa019b-22f3-4d74-aa4f-631a73589ad2",
+      "TITLE" : "Too Much Nothing",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:0q12zvltCjeTbuowa2Ive1",
+      "DURATION" : "123",
+      "MUSICBRAINZ_TRACKID" : "66d9a9ce-78d1-43d8-8f95-df4c7a4ebe91",
+      "TITLE" : "Intermission",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:59aPEtpnCoWhUWiMd238zv",
+      "DURATION" : "365",
+      "MUSICBRAINZ_TRACKID" : "2e760098-6e3a-4ace-a947-6dbdf73acf07",
+      "TITLE" : "Ego Tripp",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:3hbxtnUUisEvumVopOQzev",
+      "DURATION" : "308",
+      "MUSICBRAINZ_TRACKID" : "d79d724e-e290-4d2e-b0ea-95d0575499bd",
+      "TITLE" : "Mommy",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:0LnnVrxjiXXFav6iMovso3",
+      "DURATION" : "222",
+      "MUSICBRAINZ_TRACKID" : "e534820b-e583-4cce-8266-4fe7bfa9d43f",
+      "TITLE" : "2nd Thoughts",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:7pVjVf8NRItsNFMMYnbWXy",
+      "DURATION" : "75",
+      "MUSICBRAINZ_TRACKID" : "2d632bf6-691d-4a95-9de3-27494847796a",
+      "TITLE" : "Casualties in B Minor",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:008SBh3cp3VSGxloyg4Vo6",
+      "DURATION" : "287",
+      "MUSICBRAINZ_TRACKID" : "c9070809-8115-4576-ba49-a44773e84589",
+      "TITLE" : "Indifferent",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:6d1yFaewQLkNwyjP3FB6Pq",
+      "DURATION" : "143",
+      "MUSICBRAINZ_TRACKID" : "b39519e3-1354-4582-b323-22f95dd9ef3e",
+      "TITLE" : "Simpleton",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:59l3t4TA2tdeyEFFUAXTjy",
+      "DURATION" : "289",
+      "MUSICBRAINZ_TRACKID" : "ea2088a1-8c2d-49d8-9252-0266a8b1c1b4",
+      "TITLE" : "43",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:5qQp2P3zLsh77vAwkxIA4W",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "0ada18fc-da93-4198-b74b-9d2e5a45962f",
+      "TITLE" : "Episode 29",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:410peMJs7HTobH6t3YehnR",
+      "DURATION" : "86",
+      "MUSICBRAINZ_TRACKID" : "57e975b3-6bca-4bb5-940a-7d4a34b190d7",
+      "TITLE" : "Snap",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:5dRmytVAtDepTjuQZpPyYe",
+      "DURATION" : "720",
+      "MUSICBRAINZ_TRACKID" : "c978f358-a685-43f8-9870-e9e701a26e05",
+      "TITLE" : "Compilation",
+      "TRACKNUMBER" : "14"
+   }
+]

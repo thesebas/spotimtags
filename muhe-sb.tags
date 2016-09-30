@@ -1,0 +1,91 @@
+﻿[
+   {
+      "@" : "spotify:track:2TCjqF298pfdoQZaTR92FJ",
+      "ALBUM" : "Superbuick",
+      "ARTIST" : "Mushroomhead",
+      "BARCODE" : "721772906122",
+      "DATE" : "1996",
+      "DURATION" : "374",
+      "MUSICBRAINZ_ALBUMID" : "39c58d0b-ec45-46e1-94de-f0384b024ed2",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "6e755d2d-0b47-449d-b03f-fcacec33aab2",
+      "MUSICBRAINZ_RELEASEGROUPID" : "c998e418-694f-3eca-b8a9-37d0d0f41b3c",
+      "MUSICBRAINZ_TRACKID" : "65232e7f-b4af-4879-aace-7e8497378ec1",
+      "SPOTIFY:ALBUM" : "spotify:album:7LU5B2tMceRK7zKeHo3qgZ",
+      "SPOTIFY:ARTIST" : "spotify:artist:18absyD7lQaXUDBXnyzU8M",
+      "TITLE" : "Bwomp",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:49zl84Ys3CrarA5vFpIL6m",
+      "DURATION" : "279",
+      "MUSICBRAINZ_TRACKID" : "405f0dc1-c415-4fa5-8ce9-71786e64dd35",
+      "TITLE" : "Never Let It Go",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:5NQj4201cv8Odf7rUL8kQ4",
+      "DURATION" : "319",
+      "MUSICBRAINZ_TRACKID" : "fae6ae37-dfa4-45b4-a232-2dd084dc05f4",
+      "TITLE" : "These Filthy Hands",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3wtpfi6cOsvsgAv6O5KkuH",
+      "DURATION" : "316",
+      "MUSICBRAINZ_TRACKID" : "35e9d6e7-8e1c-4563-b22d-b536fb9d6773",
+      "TITLE" : "The Wrist",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:4Z30ICEtLxCJD1Tx6eSqD2",
+      "DURATION" : "155",
+      "MUSICBRAINZ_TRACKID" : "25acb18c-94cc-4576-9982-fcff1c5308f1",
+      "TITLE" : "Chancre Sore",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5EmYrG67fk5qRxboTSuKAH",
+      "DURATION" : "220",
+      "MUSICBRAINZ_TRACKID" : "1e4b257a-6696-40d2-906b-d86c816ea106",
+      "TITLE" : "Flattened",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2qLqfjB96rV5SMgp91PcXR",
+      "DURATION" : "308",
+      "MUSICBRAINZ_TRACKID" : "90e22ba5-01c0-4a99-888f-9e838de92463",
+      "TITLE" : "Big Brother",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:6Pw1gI8QKpLbscXLJ6A5JK",
+      "DURATION" : "312",
+      "MUSICBRAINZ_TRACKID" : "54911641-eade-40d6-b613-287524e09bd7",
+      "TITLE" : "Idle Worship",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:1Dy6nAsvdpdSHEjUarYJbI",
+      "DURATION" : "159",
+      "MUSICBRAINZ_TRACKID" : "36484935-3d6a-4e27-bc33-71aacce88288",
+      "TITLE" : "Fear Held Dear",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:0nBVaFCB6wlEP9YlJZPj6s",
+      "DURATION" : "101",
+      "MUSICBRAINZ_TRACKID" : "65c5e233-f9bf-4653-b4b3-9b533a23a42a",
+      "TITLE" : "Unintended",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3tbARFUKaLYrhxSmlaiUNQ",
+      "DURATION" : "229",
+      "MUSICBRAINZ_TRACKID" : "b28fdb76-9eab-4087-903f-f9c724d74ae6",
+      "TITLE" : "Bwomp",
+      "TRACKNUMBER" : "11"
+   }
+]
