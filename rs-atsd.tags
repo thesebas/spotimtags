@@ -1,0 +1,65 @@
+﻿[
+   {
+      "@" : "spotify:track:2ItM4fMcsZnZ18UVqmOZ0K",
+      "ALBUM" : "At the Soundless Dawn",
+      "ARTIST" : "Red Sparowes",
+      "BARCODE" : "658457103524",
+      "CATALOGNUMBER" : "NR035",
+      "DATE" : "2005-02-22",
+      "DURATION" : "508",
+      "LABEL" : "Neurot Recordings",
+      "MUSICBRAINZ_ALBUMID" : "036ad405-3533-416c-98f5-fea29c4bb198",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "5153eb0e-b6dd-4882-a24a-7d464c153962",
+      "MUSICBRAINZ_RELEASEGROUPID" : "57a61770-daf6-3d70-9319-e0d530b2f927",
+      "MUSICBRAINZ_TRACKID" : "090a579a-9e81-47d8-a19c-70f0cb4e133b",
+      "SPOTIFY:ALBUM" : "spotify:album:0g03FvNOYzXzsUdHgkLn71",
+      "SPOTIFY:ARTIST" : "spotify:artist:4MT9A89Dq8xRJ9hMvvPiJw",
+      "TITLE" : "Alone and unaware, the landscape was transformed in front of our eyes.",
+      "TOTALTRACKS" : "7",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1eHjcVhHm7BvtHwTYDWQPf",
+      "DURATION" : "443",
+      "MUSICBRAINZ_TRACKID" : "07aef6be-2551-4040-ae3c-5491f7affc41",
+      "TITLE" : "Buildings began to stretch wide across the sky, and the air filled with a reddish glow.",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:795JHUYRAhPIdDtnJwF2f5",
+      "DURATION" : "259",
+      "MUSICBRAINZ_TRACKID" : "dc4fa8f3-4fda-4eb6-a3b1-a65ec8e44ca6",
+      "TITLE" : "The soundless dawn came alive as cities began to mark the horizon.",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3P2zhPSruRVhcmj2iqQJiA",
+      "DURATION" : "680",
+      "MUSICBRAINZ_TRACKID" : "1acb66f7-313a-47ba-badb-8fa4fcd36856",
+      "TITLE" : "Mechanical sounds cascaded through the city walls and everyone reveled in their ignorance.",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:2qYnuGqM6ViHM0T8w0Wd3y",
+      "DURATION" : "360",
+      "MUSICBRAINZ_TRACKID" : "6c6fbdcd-a040-4a7c-b371-a9a153dd4d94",
+      "TITLE" : "A brief moment of clarity broke through the deafening hum, but it was too late.",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:0cXgrdwG2b8lmcHvpjzwlt",
+      "DURATION" : "341",
+      "MUSICBRAINZ_TRACKID" : "52782301-f954-43e5-97cd-35adae213aa1",
+      "TITLE" : "Our happiest days slowly began to turn into dust.",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3TCpXACsFC6SFz22vbKe2R",
+      "DURATION" : "1172",
+      "MUSICBRAINZ_TRACKID" : "4951eea0-7b3a-47d6-8a50-8b949d8c1e02",
+      "TITLE" : "The sixth extinction crept up slowly, like sunlight through the shutters, as we looked back in regret…",
+      "TRACKNUMBER" : "7"
+   }
+]

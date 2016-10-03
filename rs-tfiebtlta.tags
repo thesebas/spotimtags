@@ -1,0 +1,73 @@
+﻿[
+   {
+      "@" : "spotify:track:05iEquGKfKdtdiWbfRkFEa",
+      "ALBUM" : "The Fear Is Excruciating, but Therein Lies the Answer",
+      "ARTIST" : "Red Sparowes",
+      "BARCODE" : "634457524927",
+      "CATALOGNUMBER" : "SH034CD",
+      "DATE" : "2010-04-06",
+      "DURATION" : "109",
+      "LABEL" : "Sargent House",
+      "MUSICBRAINZ_ALBUMID" : "17cb2e79-50bf-42bb-b55f-661920741fbb",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "5153eb0e-b6dd-4882-a24a-7d464c153962",
+      "MUSICBRAINZ_RELEASEGROUPID" : "f45eba76-42d7-4d25-82aa-4ce060cc3316",
+      "MUSICBRAINZ_TRACKID" : "28c9cb2b-48b9-4418-9ea5-6a0c9f25231e",
+      "ORIGINAL RELEASE DATE" : "2010-04-05",
+      "SPOTIFY:ALBUM" : "spotify:album:1mLisF7qgSwVDrQ4gklpcR",
+      "SPOTIFY:ARTIST" : "spotify:artist:4MT9A89Dq8xRJ9hMvvPiJw",
+      "TITLE" : "Truths Arise",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:2wWQwx1ymkpCr4ItPUQ94g",
+      "DURATION" : "456",
+      "MUSICBRAINZ_TRACKID" : "2d8a402e-68b5-4db3-b178-6af1078dabec",
+      "TITLE" : "In Illusions of Order",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0Fsdd6NX7h1Y2gpqVVkKvF",
+      "DURATION" : "262",
+      "MUSICBRAINZ_TRACKID" : "959c6716-9ba6-4fd3-bafd-29514f9226fa",
+      "TITLE" : "A Hail of Bombs",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:0CcLshh3mtX3EFgBybAuoj",
+      "DURATION" : "369",
+      "MUSICBRAINZ_TRACKID" : "48b84967-9287-4ed1-8d92-f06a5948331e",
+      "TITLE" : "Giving Birth to Imagined Saviors",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5rwx36lqDf3GzfuCoFFqex",
+      "DURATION" : "430",
+      "MUSICBRAINZ_TRACKID" : "81aac6d5-a494-444b-8815-c6299848154a",
+      "TITLE" : "A Swarm",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:1bcc2lbvViVeB9lvL1Pf1v",
+      "DURATION" : "186",
+      "MUSICBRAINZ_TRACKID" : "c57d400a-41e4-4209-b27b-517f8c881abd",
+      "TITLE" : "In Every Mind",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:4i39VKIzzOgVQS1OPoXvFG",
+      "DURATION" : "332",
+      "MUSICBRAINZ_TRACKID" : "7e5e43d0-bbd0-44ca-86fa-2bf45fe525aa",
+      "TITLE" : "A Mutiny",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3ktT0Z44Pe1btD39aeRQ8s",
+      "DURATION" : "436",
+      "MUSICBRAINZ_TRACKID" : "4881c661-39f9-4a94-b910-d843adc92803",
+      "TITLE" : "As Each End Looms and Subsides",
+      "TRACKNUMBER" : "8"
+   }
+]

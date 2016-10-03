@@ -1,0 +1,35 @@
+﻿[
+   {
+      "@" : "spotify:track:1HCyg9MnYKhv8XMtpzEnaa",
+      "ALBUM" : "Aphorisms",
+      "ARTIST" : "Red Sparowes",
+      "DATE" : "2008-07-09",
+      "DURATION" : "397",
+      "LABEL" : "Sargent House",
+      "MUSICBRAINZ_ALBUMID" : "94020610-d0ba-488f-b337-1bddf5fb0fa3",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "EP",
+      "MUSICBRAINZ_ARTISTID" : "5153eb0e-b6dd-4882-a24a-7d464c153962",
+      "MUSICBRAINZ_RELEASEGROUPID" : "e9c12cc3-835a-3f83-a3bc-748435aac544",
+      "MUSICBRAINZ_TRACKID" : "32da083d-4721-494f-b567-def65cda82a1",
+      "SPOTIFY:ALBUM" : "spotify:album:5uzRY9gzynpz0BOZGu3AE4",
+      "SPOTIFY:ARTIST" : "spotify:artist:4MT9A89Dq8xRJ9hMvvPiJw",
+      "TITLE" : "We Left the Apes to Rot, but Find the Fang Grows Within.",
+      "TOTALTRACKS" : "3",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:36sGk4cUCysrbOQkDITR9z",
+      "DURATION" : "338",
+      "MUSICBRAINZ_TRACKID" : "6b44778d-e74f-403a-bac0-7b4ffefa1f5f",
+      "TITLE" : "Error Has Turned Animals Into Men, and to Each the Fold Repeats.",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:25tnWWcsqp0RKl2dUeGbNN",
+      "DURATION" : "339",
+      "MUSICBRAINZ_TRACKID" : "93d43786-0078-4dc5-8bc7-5cf5ff2ec4a1",
+      "TITLE" : "The Fear Is Excruciating, but Therein Lies the Answer.",
+      "TRACKNUMBER" : "3"
+   }
+]

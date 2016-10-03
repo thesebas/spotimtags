@@ -1,0 +1,73 @@
+﻿[
+   {
+      "@" : "spotify:track:5unH3xE1MZzlrWxKjjiCeK",
+      "ALBUM" : "Every Red Heart Shines Toward the Red Sun",
+      "ARTIST" : "Red Sparowes",
+      "BARCODE" : "658457104521",
+      "CATALOGNUMBER" : "NR045",
+      "DATE" : "2006-09-19",
+      "DURATION" : "420",
+      "LABEL" : "Neurot Recordings",
+      "MUSICBRAINZ_ALBUMID" : "e95db8c8-d28b-497a-ab97-fd4a0cc6b043",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "5153eb0e-b6dd-4882-a24a-7d464c153962",
+      "MUSICBRAINZ_RELEASEGROUPID" : "122656a2-cc2e-3152-8e4f-d25f9b2ba165",
+      "MUSICBRAINZ_TRACKID" : "ecd02ab8-a026-4021-8549-18a3361cf47f",
+      "ORIGINAL RELEASE DATE" : "2006-09-15",
+      "SPOTIFY:ALBUM" : "spotify:album:2NKUodzwNM4TypWDEWmW18",
+      "SPOTIFY:ARTIST" : "spotify:artist:4MT9A89Dq8xRJ9hMvvPiJw",
+      "TITLE" : "The great leap forward poured down upon us one day like a mighty storm, suddenly and furiously blinding our senses.",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:5UMoR1oBjf9fTOC3l0IOZR",
+      "DURATION" : "535",
+      "MUSICBRAINZ_TRACKID" : "7e125bd1-5958-4235-9da1-8de7cabd6832",
+      "TITLE" : "We stood transfixed in blank devotion as our leader spoke to us, looking down on our mute faces with a great, raging, and unseeing eye.",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0nWOgY1DiAiYIIjG93hf8j",
+      "DURATION" : "608",
+      "MUSICBRAINZ_TRACKID" : "393870a5-e1ed-45af-ba4d-e3a5a6d91e34",
+      "TITLE" : "Like the howling glory of the darkest winds, this voice was thunderous and the words holy, tangling their way around our hearts and clutching our innocent awe.",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:1o11Eeo5M1KADfLUUudsOw",
+      "DURATION" : "431",
+      "MUSICBRAINZ_TRACKID" : "26db6c8c-84a9-44bd-b97f-36c720d3bec1",
+      "TITLE" : "A message of avarice rained down upon us and carried us away into false dreams of endless riches.",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:7B4zpwp270Oe7Y4iIwbMcR",
+      "DURATION" : "523",
+      "MUSICBRAINZ_TRACKID" : "d26e493e-de14-4e45-a243-f68fb00a746f",
+      "TITLE" : "“Annihilate the sparrow, that stealer of seed, and our harvests will abound; we will watch our wealth flood in.”",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:1E3jse94QmVGr0xLaXfk6h",
+      "DURATION" : "102",
+      "MUSICBRAINZ_TRACKID" : "23cfd7d6-9f5c-4b38-9a80-de2331f8b00d",
+      "TITLE" : "And by our own hand did every last bird lie silent in their puddles, the air barren of song as the clouds drifted away. For killing their greatest enemy, the locusts noisily thanked us and turned their jaws toward our crops, swallowing our greed whole.",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:5l9TVN2viE4PeUJ75FU9Z4",
+      "DURATION" : "595",
+      "MUSICBRAINZ_TRACKID" : "37ba17e3-3e45-4aa5-9c74-37055ac95be1",
+      "TITLE" : "Millions starved and we became skinnier and skinnier, while our leaders became fatter and fatter.",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3epbUush0ajr7RvwG014nO",
+      "DURATION" : "483",
+      "MUSICBRAINZ_TRACKID" : "ffe78981-3cd0-493b-9cb0-72e25d791dba",
+      "TITLE" : "Finally, as that blazing sun shone down upon us, did we know that true enemy was the voice of blind idolatry; And only then did we begin to think for ourselves.",
+      "TRACKNUMBER" : "8"
+   }
+]
