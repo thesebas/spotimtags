@@ -1,0 +1,72 @@
+﻿[
+   {
+      "@" : "spotify:track:2G5y0WTmVDMBLHc9xS1lC0",
+      "ALBUM" : "What We All Come to Need",
+      "ARTIST" : "Pelican",
+      "BARCODE" : "808720011029",
+      "CATALOGNUMBER" : "LORD110",
+      "DATE" : "2009-10-26",
+      "DURATION" : "451",
+      "LABEL" : "Southern Lord",
+      "MUSICBRAINZ_ALBUMID" : "020c93cf-3fd8-48a1-98a7-cf87c1fc3865",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "5a797e16-f69a-4957-820f-1152ec19d236",
+      "MUSICBRAINZ_RELEASEGROUPID" : "6014a109-0103-4b9c-9069-843b40ead106",
+      "MUSICBRAINZ_TRACKID" : "2b7cc9b6-af7e-45e6-a6f3-32ee3c486043",
+      "SPOTIFY:ALBUM" : "spotify:album:3TpNzSGqyGXc2lItYZkR0j",
+      "SPOTIFY:ARTIST" : "spotify:artist:0Gq06EJlfPumvCdMsnkJFp",
+      "TITLE" : "Glimmer",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:2dHonwi51qL4MUiEehiLkt",
+      "DURATION" : "440",
+      "MUSICBRAINZ_TRACKID" : "1066d3cc-cc46-44f4-a1c5-83b0671b8c4b",
+      "TITLE" : "The Creeper",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:5lGALxf67uNhsu3rSyW4zI",
+      "DURATION" : "310",
+      "MUSICBRAINZ_TRACKID" : "e36bd18c-e75a-48ab-ac26-03bac9502d19",
+      "TITLE" : "Ephemeral",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:7a7pTIvjnqxAGuvKkOu8lX",
+      "DURATION" : "466",
+      "MUSICBRAINZ_TRACKID" : "7cfc72e4-c2fb-4fec-b916-73530f4381a0",
+      "TITLE" : "Specks of Light",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:7GAGHRuC8WP7zmiFeJzdF0",
+      "DURATION" : "313",
+      "MUSICBRAINZ_TRACKID" : "731775e5-66ba-4893-9693-be088ecdb8ab",
+      "TITLE" : "Strung Up From the Sky",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:0ahZBXbHIWXrSUNbUpJX0P",
+      "DURATION" : "255",
+      "MUSICBRAINZ_TRACKID" : "c98ff56c-c374-43a3-994e-963f05148d58",
+      "TITLE" : "An Inch Above Sand",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3yn0n3YZ3jDrG47ClyA2BE",
+      "DURATION" : "408",
+      "MUSICBRAINZ_TRACKID" : "00dfc5b7-a38c-4e22-a586-47d0a64b4ff9",
+      "TITLE" : "What We All Come to Need",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:7psladvK1hKbRteu2GI53V",
+      "DURATION" : "449",
+      "MUSICBRAINZ_TRACKID" : "57323b26-2013-4540-9321-6515751837fc",
+      "TITLE" : "Final Breath",
+      "TRACKNUMBER" : "8"
+   }
+]

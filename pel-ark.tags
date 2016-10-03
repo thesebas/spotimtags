@@ -1,0 +1,72 @@
+﻿[
+   {
+      "@" : "spotify:track:1pDqoXZouodLcgNcR9Dp7C",
+      "ALBUM" : "Arktika",
+      "ARTIST" : "Pelican",
+      "CATALOGNUMBER" : "[none]",
+      "DATE" : "2014-08-15",
+      "DURATION" : "434",
+      "LABEL" : "[no label]",
+      "MUSICBRAINZ_ALBUMID" : "d415e8d3-49da-4f43-b223-eb804cfdaf88",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Live",
+      "MUSICBRAINZ_ARTISTID" : "5a797e16-f69a-4957-820f-1152ec19d236",
+      "MUSICBRAINZ_RELEASEGROUPID" : "18e7f3e8-e044-46d8-b25b-ed34ffd5e54e",
+      "MUSICBRAINZ_TRACKID" : "717e96eb-f9a5-4690-80a2-2d2598590496",
+      "ORIGINAL RELEASE DATE" : "2013-10-15",
+      "SPOTIFY:ALBUM" : "spotify:album:4yVUfzzIlZxDHnG6VgrUHn",
+      "SPOTIFY:ARTIST" : "spotify:artist:0Gq06EJlfPumvCdMsnkJFp",
+      "TITLE" : "The Creeper",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3sx4A1O2AvTPgcEWvZaSLv",
+      "DURATION" : "292",
+      "MUSICBRAINZ_TRACKID" : "2de0372b-486d-4128-a104-0c9ce15bb9c7",
+      "TITLE" : "Lathe Biosas",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6roAigRd6TWthblLh5jqDv",
+      "DURATION" : "328",
+      "MUSICBRAINZ_TRACKID" : "33ab8703-3694-45d2-8826-e5614773fcdc",
+      "TITLE" : "Ephemeral",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5EFY1MLML1QDEIi83JU2o2",
+      "DURATION" : "378",
+      "MUSICBRAINZ_TRACKID" : "e76c2093-d901-4cd2-9a9c-baff560b346f",
+      "TITLE" : "Deny the Absolute",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:0Az21YY0vt5ZwGMa0xyMWR",
+      "DURATION" : "280",
+      "MUSICBRAINZ_TRACKID" : "b3305dd8-ff9a-4023-825b-950e64890dd0",
+      "TITLE" : "Parasite Colony",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6QsDCNdYVhw1gcxCf1234g",
+      "DURATION" : "444",
+      "MUSICBRAINZ_TRACKID" : "876f750e-643c-4ba2-9a2d-4bc26c83f850",
+      "TITLE" : "Immutable Dusk",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:19YUY78DXVzYnQwxu1letI",
+      "DURATION" : "401",
+      "MUSICBRAINZ_TRACKID" : "85766335-27e9-41d3-a825-8e23423eb3eb",
+      "TITLE" : "Strung Up From the Sky",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0yjCS2EHz7NNKZatIF4yFB",
+      "DURATION" : "874",
+      "MUSICBRAINZ_TRACKID" : "9997146d-572b-443e-bac2-1f6ec5fe4a56",
+      "TITLE" : "Dead Between the Walls / Mammoth",
+      "TRACKNUMBER" : "8"
+   }
+]

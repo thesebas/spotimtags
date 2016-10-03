@@ -1,0 +1,73 @@
+﻿[
+   {
+      "@" : "spotify:track:5ZcbCizAGLnj5kkhB1h78p",
+      "ALBUM" : "City of Echoes",
+      "ARTIST" : "Pelican",
+      "BARCODE" : "798546231025",
+      "CATALOGNUMBER" : "HH666-124",
+      "DATE" : "2007-06-05",
+      "DURATION" : "330",
+      "LABEL" : "Hydra Head Records",
+      "MUSICBRAINZ_ALBUMID" : "80c126b8-c7b8-4459-a4f6-5ea55d66390c",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "5a797e16-f69a-4957-820f-1152ec19d236",
+      "MUSICBRAINZ_RELEASEGROUPID" : "44737fa0-6a62-35b3-b614-912f44de37f1",
+      "MUSICBRAINZ_TRACKID" : "40b3de12-6d3e-4890-9790-c89506b5f196",
+      "ORIGINAL RELEASE DATE" : "2007-04-27",
+      "SPOTIFY:ALBUM" : "spotify:album:2Mb7STAZTEjXrATttamqdF",
+      "SPOTIFY:ARTIST" : "spotify:artist:0Gq06EJlfPumvCdMsnkJFp",
+      "TITLE" : "Bliss in Concrete",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:4tqYcd5eXLByv3EVbgLdYz",
+      "DURATION" : "426",
+      "MUSICBRAINZ_TRACKID" : "65485463-0b69-45fa-b410-e2b6d493299a",
+      "TITLE" : "City of Echoes",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:6ZYOFbHjOULhAZdd823VL7",
+      "DURATION" : "364",
+      "MUSICBRAINZ_TRACKID" : "c7f28d6f-75fb-4829-806d-e31662e07a19",
+      "TITLE" : "Spaceship Broken—Parts Needed",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5bHKYsb038LxHhQUW7JX3m",
+      "DURATION" : "237",
+      "MUSICBRAINZ_TRACKID" : "f3a6ade8-53d1-444b-9227-da639be696da",
+      "TITLE" : "Winds With Hands",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5GoBPGE41p5mfSHbEJgN2V",
+      "DURATION" : "306",
+      "MUSICBRAINZ_TRACKID" : "97cb45bf-9895-47af-adec-ba6740c205dc",
+      "TITLE" : "Dead Between the Walls",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:7lzBUUOy8qtDsoL7ZvdoyX",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "7a6b40ae-61f1-4dad-a6a9-e3372bef05c6",
+      "TITLE" : "Lost in the Headlights",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3v8oGa8FldekvMeDznVgXF",
+      "DURATION" : "318",
+      "MUSICBRAINZ_TRACKID" : "d9080ed5-b550-45ca-bf06-9fdd3c459d03",
+      "TITLE" : "Far From Fields",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:74m9bKN2QgL50asUhsaGBQ",
+      "DURATION" : "325",
+      "MUSICBRAINZ_TRACKID" : "ce7113a2-08c7-421c-8819-7ce831ddf230",
+      "TITLE" : "A Delicate Sense of Balance",
+      "TRACKNUMBER" : "8"
+   }
+]

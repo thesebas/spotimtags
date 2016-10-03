@@ -1,0 +1,58 @@
+﻿[
+   {
+      "@" : "spotify:track:6TgqXH0CsVlUEwVvNhxb7l",
+      "ALBUM" : "Australasia",
+      "ARTIST" : "Pelican",
+      "BARCODE" : "790168107528",
+      "CATALOGNUMBER" : "HH666-75",
+      "DATE" : "2003-11-04",
+      "DURATION" : "675",
+      "LABEL" : "Hydra Head Records",
+      "MUSICBRAINZ_ALBUMID" : "71794ed3-3763-482b-b24e-7a6adf751aa9",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "5a797e16-f69a-4957-820f-1152ec19d236",
+      "MUSICBRAINZ_RELEASEGROUPID" : "eb749efd-fcd2-3048-a82c-9367f840af84",
+      "MUSICBRAINZ_TRACKID" : "f6d81416-969d-4ab7-938a-336526754814",
+      "SPOTIFY:ALBUM" : "spotify:album:1V998AFC7A7PkudPEnjWqO",
+      "SPOTIFY:ARTIST" : "spotify:artist:0Gq06EJlfPumvCdMsnkJFp",
+      "TITLE" : "NightEndDay",
+      "TOTALTRACKS" : "6",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:6VIn9HcMMqkjogQHjGSZbv",
+      "DURATION" : "504",
+      "MUSICBRAINZ_TRACKID" : "64372346-aabe-43b0-9210-6c37f3d016df",
+      "TITLE" : "Drought",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:57a3ews0VBZWO5ohJCxbXL",
+      "DURATION" : "659",
+      "MUSICBRAINZ_TRACKID" : "32a14490-906b-43e1-b9aa-33008f20da04",
+      "TITLE" : "Angel Tears",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6IkGqRpwVr2cuMMBI2x1Ty",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "fdf0487e-ddaf-4926-97ea-9a402fb328b4",
+      "TITLE" : "gw",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:5sWanhOoWUDtLeaTdpzzBy",
+      "DURATION" : "320",
+      "MUSICBRAINZ_TRACKID" : "4036d340-bdee-4740-9052-84fbb58ba098",
+      "TITLE" : "[untitled]",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:59JwBfuUSeS7rupnBA9bnd",
+      "DURATION" : "648",
+      "MUSICBRAINZ_TRACKID" : "55604655-83de-4e41-8be1-ce3c8baaa822",
+      "TITLE" : "Australasia",
+      "TRACKNUMBER" : "6"
+   }
+]

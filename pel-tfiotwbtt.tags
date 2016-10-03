@@ -1,0 +1,66 @@
+﻿[
+   {
+      "@" : "spotify:track:3SvXl4BWMqVAwMnaumZK2n",
+      "ALBUM" : "The Fire in Our Throats Will Beckon the Thaw",
+      "ARTIST" : "Pelican",
+      "BARCODE" : "798546224225",
+      "CATALOGNUMBER" : "HH666-91",
+      "DATE" : "2005-07-26",
+      "DURATION" : "577",
+      "LABEL" : "Hydra Head Records",
+      "MUSICBRAINZ_ALBUMID" : "65c232e4-cd6d-4354-a623-eab1b463d9b0",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "5a797e16-f69a-4957-820f-1152ec19d236",
+      "MUSICBRAINZ_RELEASEGROUPID" : "fbe47fc6-114e-3562-87f7-b8f151db2ba8",
+      "MUSICBRAINZ_TRACKID" : "96f12ecf-641b-43e3-b633-497b3c88cb91",
+      "ORIGINAL RELEASE DATE" : "2005-06-15",
+      "SPOTIFY:ALBUM" : "spotify:album:5qaIKkOfGTF61S4qsDeLVS",
+      "SPOTIFY:ARTIST" : "spotify:artist:0Gq06EJlfPumvCdMsnkJFp",
+      "TITLE" : "Last Day of Winter",
+      "TOTALTRACKS" : "7",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:180uLNTWBegAEQG46UWZw4",
+      "DURATION" : "644",
+      "MUSICBRAINZ_TRACKID" : "338d6636-79f0-409c-9f54-4b5066b0334f",
+      "TITLE" : "Autumn Into Summer",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:7KOpNNOsR787Ltt04JqPNg",
+      "DURATION" : "698",
+      "MUSICBRAINZ_TRACKID" : "259d2de9-c401-404f-a522-55e700d67a99",
+      "TITLE" : "March to the Sea",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6htGAcKMZZFdGs7ZkCA5jJ",
+      "DURATION" : "284",
+      "MUSICBRAINZ_TRACKID" : "6549783b-67d4-4d6f-8c7e-a75623c7956e",
+      "TITLE" : "•",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:2SlfCTz9Wj0NB34C2zUUBn",
+      "DURATION" : "680",
+      "MUSICBRAINZ_TRACKID" : "8b3530ee-e02e-4fcd-b915-5a4194186417",
+      "TITLE" : "Red Ran Amber",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:75jRcoLhsxPRgUh1ECbdBD",
+      "DURATION" : "295",
+      "MUSICBRAINZ_TRACKID" : "e5b4505e-0874-499a-a901-cfa889828306",
+      "TITLE" : "Aurora Borealis",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:59JsWPqDKZaLAdDFVbXnV8",
+      "DURATION" : "347",
+      "MUSICBRAINZ_TRACKID" : "d4589226-1e2d-46c5-8537-e6048dbc493c",
+      "TITLE" : "Sirius",
+      "TRACKNUMBER" : "7"
+   }
+]

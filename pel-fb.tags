@@ -1,0 +1,73 @@
+﻿[
+   {
+      "@" : "spotify:track:1iu4cDX6UlufRF7wC4JdcT",
+      "ALBUM" : "Forever Becoming",
+      "ARTIST" : "Pelican",
+      "BARCODE" : "808720018226",
+      "CATALOGNUMBER" : "LORD182",
+      "DATE" : "2013-10-14",
+      "DURATION" : "208",
+      "LABEL" : "Southern Lord",
+      "MUSICBRAINZ_ALBUMID" : "9d06ae48-f6e6-47ee-8161-326ae69dcb98",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "5a797e16-f69a-4957-820f-1152ec19d236",
+      "MUSICBRAINZ_RELEASEGROUPID" : "f7803d6a-a9ff-4c11-82aa-8fb2b6684fb0",
+      "MUSICBRAINZ_TRACKID" : "f45c86cd-1722-4b3f-b764-bb81c36cd479",
+      "ORIGINAL RELEASE DATE" : "2013-10-09",
+      "SPOTIFY:ALBUM" : "spotify:album:6IXHCiH3FQg57E3YR6A8kR",
+      "SPOTIFY:ARTIST" : "spotify:artist:0Gq06EJlfPumvCdMsnkJFp",
+      "TITLE" : "Terminal",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:4yTjboQP2KPUqUYZLxxahY",
+      "DURATION" : "335",
+      "MUSICBRAINZ_TRACKID" : "aeac2b28-18e5-447a-9ee6-578d272cdd78",
+      "TITLE" : "Deny the Absolute",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0RmCJax3wQTPcBlSUgaJbj",
+      "DURATION" : "313",
+      "MUSICBRAINZ_TRACKID" : "e414d380-4fd6-43f8-a1cd-463bd086afcd",
+      "TITLE" : "The Tundra",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6EwyOvwtBAlV1TyN068LKW",
+      "DURATION" : "421",
+      "MUSICBRAINZ_TRACKID" : "36be41ca-2fee-49e6-a3db-1d76988e2fff",
+      "TITLE" : "Immutable Dusk",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6b0Edx3l6KKpRZz6YRJ2kz",
+      "DURATION" : "488",
+      "MUSICBRAINZ_TRACKID" : "ada81e04-e946-4981-8ef6-2e9bd9458343",
+      "TITLE" : "Threnody",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:4XXoIylFkzQMMUojqiNYPb",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "dd94a697-a591-4d2f-b7f6-2aaeedbbef63",
+      "TITLE" : "The Cliff",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:65qpuhjoWO3S07cdRUlWBp",
+      "DURATION" : "435",
+      "MUSICBRAINZ_TRACKID" : "d6b5a936-6a82-4e51-b629-ae97517bc3f1",
+      "TITLE" : "Vestiges",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:18o8Bw1byENwzxQTCK3RWI",
+      "DURATION" : "569",
+      "MUSICBRAINZ_TRACKID" : "87a2862b-e0e0-4f28-af16-0bb20b9043a5",
+      "TITLE" : "Perpetual Dawn",
+      "TRACKNUMBER" : "8"
+   }
+]
