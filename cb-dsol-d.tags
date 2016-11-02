@@ -1,0 +1,164 @@
+﻿[
+   {
+      "@" : "spotify:track:1ZtikQomDcbX5UXpGfQ77w",
+      "ALBUM" : "Dead Set on Living",
+      "ALBUM ARTIST" : "Cancer Bats",
+      "ARTIST" : "Cancer Bats",
+      "BARCODE" : "825272730703",
+      "CATALOGNUMBER" : "DE-43",
+      "DATE" : "2013-02-12",
+      "DISCNUMBER" : "1",
+      "DURATION" : "267",
+      "LABEL" : [ "Distort Entertainment", "Hassle Records" ],
+      "MUSICBRAINZ_ALBUMARTISTID" : "00b952be-6c97-4880-84f9-06de584b491b",
+      "MUSICBRAINZ_ALBUMID" : "77d2bbf4-aa41-4013-97e7-e5627170f2b7",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "00b952be-6c97-4880-84f9-06de584b491b",
+      "MUSICBRAINZ_RELEASEGROUPID" : "b9dd80cf-c350-4e8b-bc72-41e931272360",
+      "MUSICBRAINZ_TRACKID" : "a5d860d6-c4c8-4b59-ae6f-999b800b4381",
+      "ORIGINAL RELEASE DATE" : "2012-04-16",
+      "SPOTIFY:ALBUM" : "spotify:album:2l0bTuJ5Ryl4ruuZ3SlypK",
+      "SPOTIFY:ARTIST" : "spotify:artist:10YNQq86z4shHwDSymTyWc",
+      "TITLE" : "R.A.T.S.",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "15",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:220ptkUBg53puqBYrlfnRj",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "a4b238c7-7c05-42d9-9914-c46e1e64e8cf",
+      "TITLE" : "Bricks & Mortar",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:615BfYVH5JcU8YQh3H9ZG4",
+      "DURATION" : "179",
+      "MUSICBRAINZ_TRACKID" : "5ac7530a-448c-4f86-bed5-7c152bc5a30a",
+      "TITLE" : "Road Sick",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6ncYc9xLh4MmEYrkQ6cW5U",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "dafa017f-5094-4b05-b639-ed06cc438dd8",
+      "TITLE" : "Breathe Armageddon",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3oVYTgHsrt3HXhVlvX33N3",
+      "DURATION" : "192",
+      "MUSICBRAINZ_TRACKID" : "24ca134c-03d4-4b43-a355-72d260c78e77",
+      "TITLE" : "D.S.O.L.",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6rPcE6y99JqBFk6CLHvMHL",
+      "DURATION" : "268",
+      "MUSICBRAINZ_TRACKID" : "e9887245-fb5e-4511-a2a4-85ad6d756a80",
+      "TITLE" : "The Void",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:5hfaxbtDVfkffrIvMkWwqR",
+      "DURATION" : "169",
+      "MUSICBRAINZ_TRACKID" : "5efc64fc-ae25-4fc6-9239-dbf056e6530b",
+      "TITLE" : "Old Blood",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:39VdqpNc8aykRHlEis35fS",
+      "DURATION" : "246",
+      "MUSICBRAINZ_TRACKID" : "bb006039-5aad-47f5-9c5f-27125bb34560",
+      "TITLE" : "Drunken Physics",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:3YCD0gN4qXo7ULcJpSJjHB",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "bd77ed4f-1c48-434d-a2f2-72e6069c90fb",
+      "TITLE" : "Bastards",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:01gqMVo0SPRb3YKPnRfmHn",
+      "DURATION" : "146",
+      "MUSICBRAINZ_TRACKID" : "56e6ad14-47de-4abf-888c-c0016bdfcdfe",
+      "TITLE" : "Rally the Wicked",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:43kHLfHz0qhZDqvBVQ4sHk",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "f6b7039f-2ea2-4da3-b476-0f92edfc564b",
+      "TITLE" : "New World Alliance",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:2PTOhFrEgP6xUzAqLQhgdX",
+      "DURATION" : "245",
+      "MUSICBRAINZ_TRACKID" : "ed135598-1378-4827-b26b-d7a87a962d66",
+      "TITLE" : "Wolf Clan",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:1z4RXCQUDYf1g4pwO7wULP",
+      "DURATION" : "162",
+      "MUSICBRAINZ_TRACKID" : "69e4da7a-324a-41a7-8848-100fa15020f8",
+      "TITLE" : "The Great Divide",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:1mWKwm7iVCVDe7A3c1Jbca",
+      "DURATION" : "101",
+      "MUSICBRAINZ_TRACKID" : "1d2de575-e950-43d4-9809-c27aa8dad5f1",
+      "TITLE" : "Sonic Mind Assault",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:3TRLIsnX7BdlsQ3vJH5UBC",
+      "DURATION" : "159",
+      "MUSICBRAINZ_TRACKID" : "b0aceff4-739f-40d1-9caa-373297339046",
+      "TITLE" : "Over It",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:5eTlaTov1meZJghs4OxW87",
+      "ARTIST" : "Bat Sabbath",
+      "DISCNUMBER" : "2",
+      "DURATION" : "285",
+      "MUSICBRAINZ_TRACKID" : "4c9a4d8e-dde4-4188-a656-2b48a40aa5ce",
+      "TITLE" : "\"Children of the Grave\"",
+      "TOTALTRACKS" : "5",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:4yQ4lD37eyFwHZixiPtkU7",
+      "DURATION" : "329",
+      "MUSICBRAINZ_TRACKID" : "2993603f-2954-4ecd-bd47-a3978273cbcb",
+      "TITLE" : "\"Into the Void\"",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:5rodIM3l2j0C0qnGp8VoCu",
+      "DURATION" : "334",
+      "MUSICBRAINZ_TRACKID" : "6cf14131-aeb1-400e-80b5-87cc4fcde809",
+      "TITLE" : "Iron Man",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6eLxIj9kO30tRNSk4LlggC",
+      "DURATION" : "313",
+      "MUSICBRAINZ_TRACKID" : "39777631-5a69-4ebf-8557-979fc0dd7de6",
+      "TITLE" : "\"Nib\"",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:0CFpnVTXcjK9vvq8igD2fx",
+      "DURATION" : "429",
+      "MUSICBRAINZ_TRACKID" : "ac231f78-259a-4294-aa72-bbdd47d45b14",
+      "TITLE" : "\"War Pigs\"",
+      "TRACKNUMBER" : "5"
+   }
+]

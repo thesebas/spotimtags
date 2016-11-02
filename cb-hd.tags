@@ -1,0 +1,129 @@
+﻿[
+   {
+      "@" : "spotify:track:3R5jiAXdf2Dem9m648cjvR",
+      "ALBUM" : "Hail Destroyer",
+      "ARTIST" : "Cancer Bats",
+      "BARCODE" : "5060100664156",
+      "CATALOGNUMBER" : "HOFF041CD",
+      "DATE" : "2009-04-20",
+      "DURATION" : "199",
+      "LABEL" : "Hassle Records",
+      "MUSICBRAINZ_ALBUMID" : "0df3011e-a71a-4e90-8d1f-9f3c071aa5df",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "00b952be-6c97-4880-84f9-06de584b491b",
+      "MUSICBRAINZ_RELEASEGROUPID" : "4f2e7809-6a97-3e6a-89bd-383acbe3db0a",
+      "MUSICBRAINZ_TRACKID" : "1d02e5a7-3512-420d-91d2-db1d076d160c",
+      "ORIGINAL RELEASE DATE" : "2008-04-21",
+      "SPOTIFY:ALBUM" : "spotify:album:6KDkM8i46fKM0diiHlpSTy",
+      "SPOTIFY:ARTIST" : "spotify:artist:10YNQq86z4shHwDSymTyWc",
+      "TITLE" : "Hail Destroyer",
+      "TOTALTRACKS" : "16",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:4m7g1lcIPbcFW68sAIXf4J",
+      "DURATION" : "169",
+      "MUSICBRAINZ_TRACKID" : "d6e9e9cc-f591-47dc-b2d6-f107044504f8",
+      "TITLE" : "Harem of Scorpions",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:5S8rQtDOwUgBsQPKWclOmc",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "a0a3a65e-4385-4ea6-ae5c-27b1aa5c367a",
+      "TITLE" : "Deathsmarch",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6eNbLLlVqdw9aGNFXdLmFH",
+      "DURATION" : "166",
+      "MUSICBRAINZ_TRACKID" : "f245638b-e403-4036-b570-7bbf5e65ab6e",
+      "TITLE" : "Regret",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:25Jg1XID5U4VXpFC1FTzFk",
+      "DURATION" : "210",
+      "MUSICBRAINZ_TRACKID" : "a15a60ea-690a-4fb1-8a4c-497839aee3d7",
+      "TITLE" : "Bastard’s Waltz",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:0QD5GRzAEtm9relTNHZs3S",
+      "DURATION" : "138",
+      "MUSICBRAINZ_TRACKID" : "91799928-acae-424d-8539-195a3cadeedd",
+      "TITLE" : "Sorceress",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2KO0Knuk8tudezvtuClzCS",
+      "DURATION" : "263",
+      "MUSICBRAINZ_TRACKID" : "84e1b1df-bf39-4c7a-a398-49c00d3267d8",
+      "TITLE" : "Lucifer’s Rocking Chair",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:7fOrzqPYIG0qY3DeN0KTgE",
+      "DURATION" : "164",
+      "MUSICBRAINZ_TRACKID" : "26ec016b-6581-42be-8422-e1e2f7f3ecd4",
+      "TITLE" : "Let It Pour",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:3pSOW3Q8KAgJVfC40JdiNg",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "7c1383fe-7997-40ce-ad05-34664c083110",
+      "TITLE" : "Smiling Politely",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:7igTKsN2CSseWkRY3ScEG9",
+      "DURATION" : "92",
+      "MUSICBRAINZ_TRACKID" : "e1bb594a-9dbf-4245-8bcf-bae933bbdbff",
+      "TITLE" : "Pray for Darkness",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:6sjmDojZgfiRd3IBEm7cA7",
+      "DURATION" : "185",
+      "MUSICBRAINZ_TRACKID" : "ff78470e-2d65-4c9b-a8a8-5d88891607b9",
+      "TITLE" : "PMA ’til I’m DOA",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:6OdAthMjBcIzrNyn45Ya6i",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "ea7a1a47-ea57-46dc-b18a-383b3ad84b54",
+      "TITLE" : "Zed’s Dead, Baby",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:2TUB9cZi0u4MxbepF42ylq",
+      "DURATION" : "160",
+      "MUSICBRAINZ_TRACKID" : "bb03b9d1-db52-43a2-b6e0-191a4eb1c43d",
+      "TITLE" : "Engine Skull",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:2aBc9UHZdIgh6TrgugqngF",
+      "DURATION" : "179",
+      "MUSICBRAINZ_TRACKID" : "a9cc851e-e2c5-4b01-849c-dfab4707a9c4",
+      "TITLE" : "Agenda Suicide",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:2IUz4oeLTppxKnTWe7t8fV",
+      "DURATION" : "176",
+      "MUSICBRAINZ_TRACKID" : "dfb5de3c-059d-4bc4-978f-478b9376b1e1",
+      "TITLE" : "So Jealous",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:3V9eHYSJyKQnSJTuPciGr7",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "293aeac3-31b4-4923-9bab-442e3cead2e6",
+      "TITLE" : "I Want a Lot Now (So Come on)",
+      "TRACKNUMBER" : "16"
+   }
+]

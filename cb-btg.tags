@@ -1,0 +1,93 @@
+﻿[
+   {
+      "@" : "spotify:track:6pEqvoAtjGNdfzsISY1HfO",
+      "ALBUM" : "Birthing the Giant",
+      "ARTIST" : "Cancer Bats",
+      "BARCODE" : "825996001226",
+      "CATALOGNUMBER" : "DE-07",
+      "DATE" : "2006-06-06",
+      "DURATION" : "227",
+      "LABEL" : "Distort Entertainment",
+      "MUSICBRAINZ_ALBUMID" : "891f58ff-e2e7-3e49-8df7-5bae76a13833",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "00b952be-6c97-4880-84f9-06de584b491b",
+      "MUSICBRAINZ_RELEASEGROUPID" : "610bc0f4-36d8-30de-bfb3-0b2c2ef29c15",
+      "MUSICBRAINZ_TRACKID" : "3b4c56a9-511a-4b56-804d-872b6136b756",
+      "SPOTIFY:ALBUM" : "spotify:album:7kGP4Z6zpyxFM5MlFTN5uD",
+      "SPOTIFY:ARTIST" : "spotify:artist:10YNQq86z4shHwDSymTyWc",
+      "TITLE" : "Golden Tanks",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:7J69ValESgexroiEm8aQJ1",
+      "DURATION" : "190",
+      "MUSICBRAINZ_TRACKID" : "77b1ff08-bb0e-4839-a2ba-6de4c58f5484",
+      "TITLE" : "French Immersion",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2eUuQjvWbUL9JrbYX5lRwd",
+      "DURATION" : "231",
+      "MUSICBRAINZ_TRACKID" : "5b0cee8d-f6d8-4151-9589-845d2938044c",
+      "TITLE" : "Grenades",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:7naRbV6Zl6G7n2qmIDWyjB",
+      "DURATION" : "200",
+      "MUSICBRAINZ_TRACKID" : "1f2d2321-dcc4-418e-8bb7-bca177b2aee2",
+      "TITLE" : "Shillelagh",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3K56bC5JM8ctb1DYTQaDLW",
+      "DURATION" : "188",
+      "MUSICBRAINZ_TRACKID" : "edec402f-1ab5-4919-a60e-b8dcff1c2873",
+      "TITLE" : "Butterscotch",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:2fblNuR2ZVXBnER9dSP41J",
+      "DURATION" : "289",
+      "MUSICBRAINZ_TRACKID" : "8dd6d2f5-5397-40d2-81c1-3ac33132a9d6",
+      "TITLE" : "Death Bros.",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:0QeuaSjlmw3JofYKD2OWnU",
+      "DURATION" : "210",
+      "MUSICBRAINZ_TRACKID" : "4a4bfecb-3c8a-4108-a66c-62bdc4155a34",
+      "TITLE" : "Firecrack This",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:7du1pilKuLYfv6iCSrUpvs",
+      "DURATION" : "257",
+      "MUSICBRAINZ_TRACKID" : "0b7afa5e-3344-4918-9c9f-e0ffb614b441",
+      "TITLE" : "Diamond Mine",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:5vqxhufX3LUhyQ1nG3rWua",
+      "DURATION" : "165",
+      "MUSICBRAINZ_TRACKID" : "ffc966cb-707c-40c1-8369-125301c7412c",
+      "TITLE" : "100 Grand Canyon",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:66ywK8BERCPeSypRshL8WC",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "d7179b59-30bf-4bd6-9ac4-aed832cd0314",
+      "TITLE" : "Ghost Bust This",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:5ZIv0FFilgwBRr8r5xgiFg",
+      "DURATION" : "226",
+      "MUSICBRAINZ_TRACKID" : "c961c526-1f01-4e24-9372-50455f823215",
+      "TITLE" : "Pneumonia Hawk",
+      "TRACKNUMBER" : "11"
+   }
+]
