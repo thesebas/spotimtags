@@ -1,0 +1,135 @@
+﻿[
+   {
+      "@" : "spotify:track:1K6gOb8ga4RFm3mmWqwLKE",
+      "ALBUM" : "Tintype",
+      "ARTIST" : "The Pack A.D.",
+      "CATALOGNUMBER" : "MRD111",
+      "DATE" : "2008-01-01",
+      "DURATION" : "224",
+      "LABEL" : "Mint Records",
+      "MUSICBRAINZ_ALBUMID" : "25d9ae2c-7a13-4c42-89da-9b16cfcbe965",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b5289d82-4be0-47b6-97e6-340f3666d7d9",
+      "MUSICBRAINZ_RELEASEGROUPID" : "55ce963c-c623-4309-833c-dcd7c21e7f5d",
+      "MUSICBRAINZ_TRACKID" : "a865b789-3d81-493f-9adf-a27c173ca3e2",
+      "ORIGINAL RELEASE DATE" : "2007-04",
+      "SPOTIFY:ALBUM" : "spotify:album:1QqURY6JIcWgpajTSc7WHK",
+      "SPOTIFY:ARTIST" : "spotify:artist:2gbOUPIhea9nrCmAeZBgpo",
+      "TITLE" : "Gold Rush",
+      "TOTALTRACKS" : "17",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:2E6q5PJhgSwE6rT5AZbNBC",
+      "DURATION" : "135",
+      "MUSICBRAINZ_TRACKID" : "8ed5c966-5058-492f-85a4-ba8884351ce1",
+      "TITLE" : "All Damn Day Long",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:53HAHsNFgrSWSmOT8yyzf2",
+      "DURATION" : "138",
+      "MUSICBRAINZ_TRACKID" : "09406fa8-d60f-4140-8b2f-0098f51c9c30",
+      "TITLE" : "Snow",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6IuwLgjvTycnINMNkAaE6n",
+      "DURATION" : "128",
+      "MUSICBRAINZ_TRACKID" : "d8d4a1f2-6620-452f-a4b6-0515f2a2d31c",
+      "TITLE" : "This Terror",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3PsibFuunV8paht0d8uVR1",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "bfb855a8-3637-4773-978d-ae79c55a420b",
+      "TITLE" : "Stray",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5R0wqcJ0VyAtMAQoEbD4eB",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "7ab3400d-b911-4760-a4fe-8306c2661591",
+      "TITLE" : "Pilot's Blues",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:0x05HGEtw3gRvM8Yqw6Csb",
+      "DURATION" : "68",
+      "MUSICBRAINZ_TRACKID" : "a63aabf2-5868-4ed3-b9f3-3c54573b7145",
+      "TITLE" : "Hardtack Saloon #1",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:4Gus0dvy8tqlLnQbNQQkZW",
+      "DURATION" : "78",
+      "MUSICBRAINZ_TRACKID" : "42e35be8-41ea-4aad-be26-ac4a51b087a9",
+      "TITLE" : "What's Up There",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4cCJFG3JX66FRqYuiXVotJ",
+      "DURATION" : "286",
+      "MUSICBRAINZ_TRACKID" : "9caa42f8-644a-46ec-b5e0-74309bcbeaba",
+      "TITLE" : "Bang",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4cnQws53hAXjYS78kdg0aI",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "614eb56c-e4c7-4c13-8fdd-47b12f616c34",
+      "TITLE" : "Paper Bag",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:7sk6xGXvhxjts3F8jJSr60",
+      "DURATION" : "171",
+      "MUSICBRAINZ_TRACKID" : "5aea4b75-0058-49e2-9186-f3d5234036d8",
+      "TITLE" : "Got Up",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:5MH7YAtIy83froSFb36I4k",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "4c2311f3-900f-4a72-9d5e-ea271b4aa4dc",
+      "TITLE" : "Cabin",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:17eaOhyQRNzD2NFG8WFNSk",
+      "DURATION" : "111",
+      "MUSICBRAINZ_TRACKID" : "f5bed060-98e1-46e1-bb3b-86608804708f",
+      "TITLE" : "Hardtack Saloon #3",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:6ZoNDWAGWM86pW7Ja4Tclb",
+      "DURATION" : "110",
+      "MUSICBRAINZ_TRACKID" : "d787651a-d1c5-4ccf-8e0a-c3b02ae7e857",
+      "TITLE" : "Buyin' My Way",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:1PQKLYWYXrzsgsUgUWCFhl",
+      "DURATION" : "135",
+      "MUSICBRAINZ_TRACKID" : "dcee16e0-70cb-4de8-9520-dc01532a9a88",
+      "TITLE" : "Walk On",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:1CBtN2ttqX2Wb9ASdVcpcR",
+      "DURATION" : "178",
+      "MUSICBRAINZ_TRACKID" : "9aae22d2-59fd-4697-92e1-4dccbf54e66e",
+      "TITLE" : "Hardtack Saloon #2",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:1gH2UCSP9b3TmUydENwgXG",
+      "DURATION" : "233",
+      "MUSICBRAINZ_TRACKID" : "317640e3-ba46-4368-9e49-d19532547b37",
+      "TITLE" : "Bone Handle",
+      "TRACKNUMBER" : "17"
+   }
+]

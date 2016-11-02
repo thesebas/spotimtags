@@ -1,0 +1,106 @@
+﻿[
+   {
+      "@" : "spotify:track:7LFo1ygYyM9Ves7uDdfXgy",
+      "ALBUM" : "We Kill Computers",
+      "ARTIST" : "The Pack A.D.",
+      "CATALOGNUMBER" : "MRD137",
+      "DATE" : "2010-04-13",
+      "DURATION" : "238",
+      "LABEL" : "Mint Records",
+      "MUSICBRAINZ_ALBUMID" : "81176454-9b11-4cb5-b8f1-1e0d9f7d78a3",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b5289d82-4be0-47b6-97e6-340f3666d7d9",
+      "MUSICBRAINZ_RELEASEGROUPID" : "4408bde8-f9df-4a2b-80cb-267dc36c20af",
+      "MUSICBRAINZ_TRACKID" : "7b762c39-3719-4811-a98e-0351bba5d7ec",
+      "SPOTIFY:ALBUM" : "spotify:album:2FZwaHzIFMOEEpOiDJn1ZK",
+      "SPOTIFY:ARTIST" : "spotify:artist:2gbOUPIhea9nrCmAeZBgpo",
+      "TITLE" : "Deer",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:199RBZfbRSUv8Xf1fK2brJ",
+      "DURATION" : "184",
+      "MUSICBRAINZ_TRACKID" : "756a3ed9-2e11-4076-aa16-61ee7ce8a183",
+      "TITLE" : "Everyone Looks Like Everyone",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2fY8TTqKxCpTEKM0ARYMdH",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "340e9592-38ea-42a4-8f4a-d8b67c91aec0",
+      "TITLE" : "Crazy",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:0AhVgYkhkvoAnv7FgohG6E",
+      "DURATION" : "209",
+      "MUSICBRAINZ_TRACKID" : "25caad19-32f3-4873-a28e-788680e6446d",
+      "TITLE" : "1880",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1Zv8CbUQ2KgB8RFN8e8imI",
+      "DURATION" : "107",
+      "MUSICBRAINZ_TRACKID" : "3c610dcc-14ef-4089-bb15-54ee8ad86b0e",
+      "TITLE" : "Math, the Stars",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5EOsUK1xyeJCAOkdtVbI95",
+      "DURATION" : "188",
+      "MUSICBRAINZ_TRACKID" : "69ddcafd-8eb8-4daa-a612-e801d5fc8053",
+      "TITLE" : "Big Anvil",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2a4MGUZklxCUtb3n3FdabS",
+      "DURATION" : "174",
+      "MUSICBRAINZ_TRACKID" : "f56ec423-6dfb-4de1-bbc0-87f8bf6217db",
+      "TITLE" : "Cobra Matte",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5UBk4jxkmMSPpvwx6E1TK1",
+      "DURATION" : "221",
+      "MUSICBRAINZ_TRACKID" : "395de3cd-ca9b-44b6-b270-1a4eb0bbdcdb",
+      "TITLE" : "B.C. Is On Fire",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:55UNl6FRL4i3p3CHZI9r4w",
+      "DURATION" : "182",
+      "MUSICBRAINZ_TRACKID" : "c6e35aa4-b1ec-42f1-8451-d964f34b7f0b",
+      "TITLE" : "They Know Me",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:3SwolMwS0M38LMa9COwVnE",
+      "DURATION" : "205",
+      "MUSICBRAINZ_TRACKID" : "fbc3f390-ece6-4485-9a29-d84df1d53cc4",
+      "TITLE" : "K Stomp",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:2AM9Pif1jvcdQK3yRPpVDT",
+      "DURATION" : "186",
+      "MUSICBRAINZ_TRACKID" : "ebaacb76-09d0-4ae2-abb1-d0ae3363701e",
+      "TITLE" : "Catch",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:3u8MvOMFiwmR31uYb3ftu6",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "144b562e-90bc-4223-ae86-aab463abb541",
+      "TITLE" : "The Slow Down",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:1KbpKzrxAK9iF1uDj4thAU",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "c185ecfa-aac5-4663-8284-20b12f3d4ac3",
+      "TITLE" : "The Last Martian",
+      "TRACKNUMBER" : "13"
+   }
+]

@@ -1,0 +1,100 @@
+﻿[
+   {
+      "@" : "spotify:track:3j0dK88Yw2FWxhTeD3lBPW",
+      "ALBUM" : "Positive Thinking",
+      "ARTIST" : "The Pack A.D.",
+      "BARCODE" : "823674659325",
+      "CATALOGNUMBER" : "CADCD6593",
+      "DATE" : "2016-08-12",
+      "DURATION" : "170",
+      "LABEL" : "Cadence Music",
+      "MUSICBRAINZ_ALBUMID" : "d79a6c11-0d3b-4e70-9f96-6929d20dc91c",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b5289d82-4be0-47b6-97e6-340f3666d7d9",
+      "MUSICBRAINZ_RELEASEGROUPID" : "2ab56045-8a73-459f-bb45-93941ac2e4b6",
+      "MUSICBRAINZ_TRACKID" : "fae298d8-ff9a-4912-b966-7810bb6e3f48",
+      "SPOTIFY:ALBUM" : "spotify:album:7y7MYj0omCvkBm7x4OULDg",
+      "SPOTIFY:ARTIST" : "spotify:artist:2gbOUPIhea9nrCmAeZBgpo",
+      "TITLE" : "So What",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:2sRuCtlSlAjjAnw5VWktQ8",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "b33607f0-f350-494f-9893-5b6b649ab213",
+      "TITLE" : "Yes, I Know",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0Jq2NvqEhJXbjsc7EfJzPA",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "db543079-7b00-4398-ab88-48db8bf44141",
+      "TITLE" : "Teenage Crime",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5Fqj4HNHZZ77hPtekD8icv",
+      "DURATION" : "226",
+      "MUSICBRAINZ_TRACKID" : "fb60ba71-31ea-439e-9bb8-773883ad0204",
+      "TITLE" : "Anyway",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3ww6H8ktk1mOrwA0C9AnBl",
+      "DURATION" : "169",
+      "MUSICBRAINZ_TRACKID" : "227d6a21-04e1-4b3b-be24-fb9f6345212b",
+      "TITLE" : "Medium",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:405VjC1DtAiGzDTsTGgDta",
+      "DURATION" : "192",
+      "MUSICBRAINZ_TRACKID" : "6bb92024-c854-45a9-9138-7f2eb04e4ec4",
+      "TITLE" : "Los Angeles",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:43wXaQUWoJu9yv3gSLZ4Fi",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "4d50b106-9778-4970-8bcf-c169f30654b7",
+      "TITLE" : "Sorrow",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:4BbjQA8k56pP9DnM8VqPWf",
+      "DURATION" : "191",
+      "MUSICBRAINZ_TRACKID" : "b8e96b9b-e75f-4fad-9454-291442465a83",
+      "TITLE" : "Error",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:6yHR2Q1wXBrZ0R5g8BQhE9",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "84e37cc0-4c3b-4697-9962-d1a7b787f5e8",
+      "TITLE" : "Gold Eyes",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4pyYCoecn8k8kxv5gHpqD7",
+      "DURATION" : "169",
+      "MUSICBRAINZ_TRACKID" : "9bbdc4eb-0b73-443a-b699-4226538e20b4",
+      "TITLE" : "Is It So",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:5FLhJttgFsLGfuZ1qePFqD",
+      "DURATION" : "270",
+      "MUSICBRAINZ_TRACKID" : "007c3498-95a9-4283-9107-3739c330f183",
+      "TITLE" : "Skin Me",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:1D5b2vdMFdz9HsezAm2fI8",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "199560ce-53a8-4119-a77b-347b2fbd1161",
+      "TITLE" : "Fair Enough",
+      "TRACKNUMBER" : "12"
+   }
+]

@@ -1,0 +1,106 @@
+﻿[
+   {
+      "@" : "spotify:track:6ID5ihzS0vKKmn8Apnc9Li",
+      "ALBUM" : "Unpersons",
+      "ARTIST" : "The Pack A.D.",
+      "CATALOGNUMBER" : "MRD 142",
+      "DATE" : "2011-09-13",
+      "DURATION" : "204",
+      "LABEL" : "Mint Records",
+      "MUSICBRAINZ_ALBUMID" : "c4413f96-6770-4eec-b996-aad4f26a120e",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b5289d82-4be0-47b6-97e6-340f3666d7d9",
+      "MUSICBRAINZ_RELEASEGROUPID" : "d88e96c0-3650-4521-b021-067053652906",
+      "MUSICBRAINZ_TRACKID" : "0e9de15c-e4a2-4b6b-a5c4-09b5066c6577",
+      "SPOTIFY:ALBUM" : "spotify:album:6L60Zi0gUE6s1G0OG0ZD0O",
+      "SPOTIFY:ARTIST" : "spotify:artist:2gbOUPIhea9nrCmAeZBgpo",
+      "TITLE" : "Sirens",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:2w5nZMfr8o3qermjwLxPtN",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "49ffde06-0715-423d-839a-f4dd3efe0deb",
+      "TITLE" : "Haunt You",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:3L09uxnDjqA20ZQqTv737H",
+      "DURATION" : "134",
+      "MUSICBRAINZ_TRACKID" : "f6c765ad-1488-4f30-935a-12184f4331c8",
+      "TITLE" : "Lights",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:2KBYJ0222uYs7CGkpWZxXy",
+      "DURATION" : "107",
+      "MUSICBRAINZ_TRACKID" : "be8bae5a-3894-4475-88c8-a262dff721e7",
+      "TITLE" : "8",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:4TZiLqWJPMR9f26GYPDtgZ",
+      "DURATION" : "180",
+      "MUSICBRAINZ_TRACKID" : "6df7ba5e-f012-4de7-9e83-4e01a9aa96d7",
+      "TITLE" : "Rid Of Me",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:1EORZPPKnJcn1I8x3BMkmZ",
+      "DURATION" : "224",
+      "MUSICBRAINZ_TRACKID" : "b094b245-2695-463e-b831-ac4a09e71ae3",
+      "TITLE" : "Seasick",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:7bIwE6zggqrEryA48dkCwB",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "8c5a0705-c677-4231-b5ee-08afe619bdac",
+      "TITLE" : "Take",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:5OsFDN70u6JmW0eIgG03UA",
+      "DURATION" : "181",
+      "MUSICBRAINZ_TRACKID" : "d083b9c2-0fb0-48e4-b8f4-7f791bd6c80c",
+      "TITLE" : "Positronic",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:1aqQUiYd0wQqPNMkIUGWGr",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "d3d19948-2d18-4a3d-ab15-b3a10240c6a6",
+      "TITLE" : "Body Parts",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4OeK5MBDYDEOQYaQ22YN3S",
+      "DURATION" : "252",
+      "MUSICBRAINZ_TRACKID" : "2a0e9336-5daa-44da-8c04-471cb409e81b",
+      "TITLE" : "Pieces",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:4K8NcyNFFzY0T6bVA5ah2q",
+      "DURATION" : "196",
+      "MUSICBRAINZ_TRACKID" : "fe4dba39-dbd6-4481-b14a-935facf90d0f",
+      "TITLE" : "Cardinal Rule",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:24q6wlNrthXvQyiLQKkUrQ",
+      "DURATION" : "179",
+      "MUSICBRAINZ_TRACKID" : "9158685d-f2e3-4752-8351-711aaea79db7",
+      "TITLE" : "Ride",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:6YdSy9vCp66h6542QjwPSi",
+      "DURATION" : "176",
+      "MUSICBRAINZ_TRACKID" : "e0e2ac36-f844-4cb1-a42d-ae06065f1899",
+      "TITLE" : "Hear Me Out",
+      "TRACKNUMBER" : "13"
+   }
+]

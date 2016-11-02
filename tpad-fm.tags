@@ -1,0 +1,92 @@
+﻿[
+   {
+      "@" : "spotify:track:6QsCUce9QsRjgW5DYv4j0Q",
+      "ALBUM" : "Funeral Mixtape",
+      "ARTIST" : "The Pack A.D.",
+      "CATALOGNUMBER" : "MRD121",
+      "DATE" : "2008-10-12",
+      "DURATION" : "156",
+      "LABEL" : "Mint Records",
+      "MUSICBRAINZ_ALBUMID" : "9c78e159-4343-48ad-a0e7-8e76997ff397",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b5289d82-4be0-47b6-97e6-340f3666d7d9",
+      "MUSICBRAINZ_RELEASEGROUPID" : "43f4a1ab-28a1-3b04-b5ca-f59f53d8e3d8",
+      "MUSICBRAINZ_TRACKID" : "e72bb18a-8715-4a54-ab86-1cbfe2e293fb",
+      "SPOTIFY:ALBUM" : "spotify:album:4Gdham8PVJZqutRfELLMpG",
+      "SPOTIFY:ARTIST" : "spotify:artist:2gbOUPIhea9nrCmAeZBgpo",
+      "TITLE" : "Blackout",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:23ui6PAx5A0zmekq5CT0R7",
+      "DURATION" : "259",
+      "MUSICBRAINZ_TRACKID" : "294add21-3091-494c-abac-da7c7932ae2d",
+      "TITLE" : "Don't Have to Like You",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1OQ8tCSnhpt4g5fuk8jIlx",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "de7f57cc-d272-47e6-b59d-99cb1487638e",
+      "TITLE" : "Making Gestures",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3ytdaVfyffKIh2NV0a9SyT",
+      "DURATION" : "191",
+      "MUSICBRAINZ_TRACKID" : "ad3c5ca8-eaaa-46a2-8c6e-c56f1c1bfebd",
+      "TITLE" : "Shiny Things",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:1Q9p8pBoyqQqGRqYMmkNfV",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "45299741-3692-41a0-9988-601a134357bc",
+      "TITLE" : "Oh Be Joyful",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:24YwEKDItuuaEaKDMkwn88",
+      "DURATION" : "296",
+      "MUSICBRAINZ_TRACKID" : "1f9373b9-7c03-4613-b1be-070ca4d1cea1",
+      "TITLE" : "Underground",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2mDgzQvsod5jA7AHH7uy70",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "5b123c1e-1d8f-4b17-9e1d-65636fc2885f",
+      "TITLE" : "June",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:65E578SrKxDdwFQItHAApN",
+      "DURATION" : "284",
+      "MUSICBRAINZ_TRACKID" : "4caadce1-8ab5-4be6-8f49-1d06928e9291",
+      "TITLE" : "Dannemora Blues",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:3fxIP86Grd6pZ0mJbTTAPk",
+      "DURATION" : "186",
+      "MUSICBRAINZ_TRACKID" : "59d3a7ce-f554-451b-9e1c-7e205f351042",
+      "TITLE" : "Build",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:1lIk1DWp6KcYtiMp2l41kG",
+      "DURATION" : "285",
+      "MUSICBRAINZ_TRACKID" : "9532e9bf-0a26-465a-9655-852ae657df8b",
+      "TITLE" : "Wolves and Werewolves",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:15inuu2LKg3oi5cK5t0eqr",
+      "DURATION" : "298",
+      "MUSICBRAINZ_TRACKID" : "61506726-e577-4030-ac30-ccd3fc248f29",
+      "TITLE" : "Worried",
+      "TRACKNUMBER" : "11"
+   }
+]
