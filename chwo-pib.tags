@@ -1,0 +1,100 @@
+﻿[
+   {
+      "@" : "spotify:track:0ImjeKKMwhUNJwVe4JXEDy",
+      "ALBUM" : "Pain Is Beauty",
+      "ARTIST" : "Chelsea Wolfe",
+      "BARCODE" : "634457601123",
+      "CATALOGNUMBER" : "SH105",
+      "DATE" : "2013-09-03",
+      "DURATION" : "202",
+      "LABEL" : "Sargent House",
+      "MUSICBRAINZ_ALBUMID" : "516ee0b4-e21d-4056-a7a4-ec14e8e62bba",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "60e8e938-365e-4429-a141-4c79eb49588d",
+      "MUSICBRAINZ_RELEASEGROUPID" : "50ef8504-86ca-4f2f-b46f-006458e416f3",
+      "MUSICBRAINZ_TRACKID" : "4894f602-cbfc-4d43-a3db-54c99d0a45c2",
+      "SPOTIFY:ALBUM" : "spotify:album:4rpm9Ez8nfVsQvNmHDbgyp",
+      "SPOTIFY:ARTIST" : "spotify:artist:6ZK2nrW8aCTg8Bid7I7N10",
+      "TITLE" : "Feral Love",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3QmHbXLXXW1pBOBWElrVrz",
+      "DURATION" : "216",
+      "MUSICBRAINZ_TRACKID" : "f263e6bb-d08e-4e82-b9c3-52a9f0f65e2f",
+      "TITLE" : "We Hit a Wall",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4xTfQPuQR1VulbeAn63cgX",
+      "DURATION" : "300",
+      "MUSICBRAINZ_TRACKID" : "46195c5d-e235-4b06-af9c-deff43e016a6",
+      "TITLE" : "House of Metal",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:6PpYc5LlcZSrdY0My0GOib",
+      "DURATION" : "233",
+      "MUSICBRAINZ_TRACKID" : "90df6f0a-cc45-4e73-ba74-4223a2ecdacf",
+      "TITLE" : "The Warden",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:3VBEeORseWTAEAeRGSfpqV",
+      "DURATION" : "158",
+      "MUSICBRAINZ_TRACKID" : "c493b573-6a9a-43ad-8e5a-2d83426e78f4",
+      "TITLE" : "Destruction Makes the World Burn Brighter",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:3cGyD41slrGW1e6UZnBlxf",
+      "DURATION" : "335",
+      "MUSICBRAINZ_TRACKID" : "4cbf29e8-3289-47df-a76c-edfd902b4482",
+      "TITLE" : "Sick",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3K8wYoSGgwLq80H12HHkHy",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "a7e7f441-242a-47fd-890b-f5bd526ccb92",
+      "TITLE" : "Kings",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:2NILwphawJoiSvGik2s3Mn",
+      "DURATION" : "315",
+      "MUSICBRAINZ_TRACKID" : "b238175b-85f1-40e0-b475-af159c1b46a1",
+      "TITLE" : "Reins",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:5MCoBjHbmqfBZEAjmJ3hfZ",
+      "DURATION" : "275",
+      "MUSICBRAINZ_TRACKID" : "2e6d6a5f-ff70-4b1d-9782-e63c180aed39",
+      "TITLE" : "Ancestors, the Ancients",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:6WOETKmGfd7wERj6J9gptn",
+      "DURATION" : "352",
+      "MUSICBRAINZ_TRACKID" : "70e08819-ca19-4042-bd64-36358e5fffb7",
+      "TITLE" : "They’ll Clap When You’re Gone",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:2sykTnZrVIUTr4mX6pI9zP",
+      "DURATION" : "509",
+      "MUSICBRAINZ_TRACKID" : "00685e7c-b860-424f-b258-03ef93519647",
+      "TITLE" : "The Waves Have Come",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:3561BzOmtd00DKG1iMq1bD",
+      "DURATION" : "157",
+      "MUSICBRAINZ_TRACKID" : "713c4666-8024-46a5-813d-b09b297f8f66",
+      "TITLE" : "Lone",
+      "TRACKNUMBER" : "12"
+   }
+]

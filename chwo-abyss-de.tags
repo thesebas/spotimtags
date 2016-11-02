@@ -1,0 +1,126 @@
+﻿[
+   {
+      "@" : "spotify:track:0NMhHVpBnvGhlt8vHWJXbt",
+      "ALBUM" : "Abyss",
+      "ARTIST" : "Chelsea Wolfe",
+      "DATE" : "2016-04-01",
+      "DURATION" : "291",
+      "LABEL" : "Sargent House",
+      "MUSICBRAINZ_ALBUMID" : "0c577779-5265-4dd9-abd7-ed0703b240d7",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "60e8e938-365e-4429-a141-4c79eb49588d",
+      "MUSICBRAINZ_RELEASEGROUPID" : "8d54414a-db69-49e1-aaa5-04ca5913be77",
+      "MUSICBRAINZ_TRACKID" : "655fc171-41bd-4aa8-9031-591c7a6ad4d5",
+      "SPOTIFY:ALBUM" : "spotify:album:0wuq4wdBPLK7dAdgREEkHA",
+      "SPOTIFY:ARTIST" : "spotify:artist:6ZK2nrW8aCTg8Bid7I7N10",
+      "TITLE" : "Carrion Flowers",
+      "TOTALTRACKS" : "16",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3jZEiJx7CA5AxoWTzOP79A",
+      "DURATION" : "347",
+      "MUSICBRAINZ_TRACKID" : "8656d962-f93d-4654-87e4-5307093cfec4",
+      "TITLE" : "Iron Moon",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1VQAgcWO4isKzjaAOBTdvS",
+      "DURATION" : "260",
+      "MUSICBRAINZ_TRACKID" : "b8658bb1-3ae4-4688-8f8e-4c68abbe4c3e",
+      "TITLE" : "Dragged Out",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:2ngFZguzEQ3ypuSjsjMLZp",
+      "DURATION" : "354",
+      "MUSICBRAINZ_TRACKID" : "53d50400-b54b-4d8b-b285-337449a2bd31",
+      "TITLE" : "Maw",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:52cVffUfBn6HnYWnzsD4lz",
+      "DURATION" : "320",
+      "MUSICBRAINZ_TRACKID" : "45ae8918-a851-4559-ab85-1781ad21edbb",
+      "TITLE" : "Grey Days",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6BhuXrwvsITQaGxsljGB3e",
+      "DURATION" : "336",
+      "MUSICBRAINZ_TRACKID" : "b60ec60d-6e19-4951-bf79-5401a9ed7a12",
+      "TITLE" : "After the Fall",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:3bhyU6U5Emrh8TnKvEnUbi",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "18004053-b6b8-4973-a6be-1456eb999315",
+      "TITLE" : "Crazy Love",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3rwcCTjTIg8buMSAI6HPwS",
+      "DURATION" : "322",
+      "MUSICBRAINZ_TRACKID" : "74ab6093-74fb-4694-9f4e-83fb6a838e71",
+      "TITLE" : "Simple Death",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:7wbo6pKipMA5jYtIHQSsPI",
+      "DURATION" : "339",
+      "MUSICBRAINZ_TRACKID" : "8ae49b13-b28b-43e4-8ca7-d81c4dee4ee0",
+      "TITLE" : "Survive",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:2Y1pFCVB9xP4CF3SNXeNI6",
+      "DURATION" : "289",
+      "MUSICBRAINZ_TRACKID" : "d47b407e-c09f-4e2e-96ea-8ccd12d98912",
+      "TITLE" : "Color of Blood",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:5DksH7U3yFd7u97GlMejgc",
+      "DURATION" : "252",
+      "MUSICBRAINZ_TRACKID" : "797e8540-b03e-4e86-b9f4-fc40c648fcf4",
+      "TITLE" : "The Abyss",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:3QQ4Id0KETjLbXx7F6Pt4V",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "75161aa0-046f-465b-b122-d28db65548ad",
+      "TITLE" : "Hypnos",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:07CoPCQb68r8u4EHQwakIr",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "191c5dd2-9309-4fc0-b198-ef2cb2da178f",
+      "TITLE" : "Flame",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:6hec6AhPSXQcXuPH8O7gt3",
+      "DURATION" : "354",
+      "MUSICBRAINZ_TRACKID" : "8d7a1710-3195-4890-a0c8-99ba51d9175b",
+      "TITLE" : "Grey Days (Demo)",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:6wpy0SDY76dhR7Wg6fSXT0",
+      "DURATION" : "318",
+      "MUSICBRAINZ_TRACKID" : "46f7157e-85bd-4c6e-a362-bb7f8df41c45",
+      "TITLE" : "Simple Death (Demo)",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:6y8RWGIWX7nhn1WzOFH5Hj",
+      "DURATION" : "335",
+      "MUSICBRAINZ_TRACKID" : "83e5e765-9f3f-4ced-894c-833178edcce4",
+      "TITLE" : "Survive (Demo)",
+      "TRACKNUMBER" : "16"
+   }
+]
