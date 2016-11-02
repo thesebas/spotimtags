@@ -1,0 +1,161 @@
+﻿[
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS",
+      "ALBUM" : "Tenacious D",
+      "ARTIST" : "Tenacious D",
+      "BARCODE" : "696998521025",
+      "CATALOGNUMBER" : "EK 85210",
+      "DATE" : "2001-09-25",
+      "DURATION" : "180",
+      "LABEL" : "Epic",
+      "MUSICBRAINZ_ALBUMID" : "32d54a77-5ff5-4dd8-bcee-cbf1f5ad4520",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "148ddea2-6839-4354-8e2c-5dfadf136b7f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "a1369e69-ceb7-3d23-9e19-4c76157b3cad",
+      "MUSICBRAINZ_TRACKID" : "abf3df98-5e97-49b8-97a8-ac710145dc88",
+      "TITLE" : "Kielbasa",
+      "TOTALTRACKS" : "21",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|1",
+      "DURATION" : "83",
+      "MUSICBRAINZ_TRACKID" : "fb74f7c4-bb51-466b-ac13-370e2636dc69",
+      "TITLE" : "One Note Song",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|2",
+      "DURATION" : "248",
+      "MUSICBRAINZ_TRACKID" : "61630ff2-b63f-4d50-9a0a-bef5d0dcbfe2",
+      "TITLE" : "Tribute",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|3",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "0dd6bfb1-7856-4607-bed9-5adaec850d71",
+      "TITLE" : "Wonderboy",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|4",
+      "DURATION" : "36",
+      "MUSICBRAINZ_TRACKID" : "3be74a4b-0ac5-4283-bc8b-27bca0dec95a",
+      "TITLE" : "Hard Fucking",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|5",
+      "DURATION" : "124",
+      "MUSICBRAINZ_TRACKID" : "8d9c4da0-f615-4606-b12a-d9ec1fcbbd6b",
+      "TITLE" : "Fuck Her Gently",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|6",
+      "DURATION" : "115",
+      "MUSICBRAINZ_TRACKID" : "dbc6c5ad-b6d6-44fe-9da0-5dcfb7bfce77",
+      "TITLE" : "Explosivo",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|7",
+      "DURATION" : "102",
+      "MUSICBRAINZ_TRACKID" : "d858d69f-7017-4265-9bbf-7e7127b1d086",
+      "TITLE" : "Dio",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|8",
+      "DURATION" : "133",
+      "MUSICBRAINZ_TRACKID" : "09f0ef44-da8b-4a35-bc95-c3d2c5c13b37",
+      "TITLE" : "Inward Singing",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|9",
+      "DURATION" : "90",
+      "MUSICBRAINZ_TRACKID" : "0756b055-703f-421f-88b0-1d6fa47ec0cf",
+      "TITLE" : "Kyle Quit the Band",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|10",
+      "DURATION" : "139",
+      "MUSICBRAINZ_TRACKID" : "465519c4-acc8-41f6-868a-9fd156239e6e",
+      "TITLE" : "The Road",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|11",
+      "DURATION" : "48",
+      "MUSICBRAINZ_TRACKID" : "49a4ee70-696e-4b58-88ee-4f6fd11f9e17",
+      "TITLE" : "Cock Pushups",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|12",
+      "DURATION" : "62",
+      "MUSICBRAINZ_TRACKID" : "ade7b229-393a-4c99-9d71-b39f05d96ab9",
+      "TITLE" : "Lee",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|13",
+      "DURATION" : "91",
+      "MUSICBRAINZ_TRACKID" : "485aa8dc-2e4e-4f55-968d-d83abf9550c5",
+      "TITLE" : "Friendship Test",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|14",
+      "DURATION" : "120",
+      "MUSICBRAINZ_TRACKID" : "6a8cee63-284b-47b2-9140-713c78c54e80",
+      "TITLE" : "Friendship",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|15",
+      "DURATION" : "36",
+      "MUSICBRAINZ_TRACKID" : "f6a076e6-d1f2-4b03-9898-b047259e69c5",
+      "TITLE" : "Karate Schnitzel",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|16",
+      "DURATION" : "65",
+      "MUSICBRAINZ_TRACKID" : "68ef0436-8a36-4f8d-85b9-b24e53213ca7",
+      "TITLE" : "Karate",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|17",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "f8b6feb6-a3da-4a55-8728-d17af4792176",
+      "TITLE" : "Rock Your Socks",
+      "TRACKNUMBER" : "18"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|18",
+      "DURATION" : "182",
+      "MUSICBRAINZ_TRACKID" : "68b4215d-137b-43a4-8e3b-04be41d5adbd",
+      "TITLE" : "Drive‐Thru",
+      "TRACKNUMBER" : "19"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|19",
+      "DURATION" : "190",
+      "MUSICBRAINZ_TRACKID" : "c11e033e-2239-4b52-b2f5-0a3aaf160859",
+      "TITLE" : "Double Team",
+      "TRACKNUMBER" : "20"
+   },
+   {
+      "@" : "spotify:album:1AckkxSo39144vOBrJ1GkS|20",
+      "DURATION" : "543",
+      "MUSICBRAINZ_TRACKID" : "2b167c92-412e-4abb-b8dd-9d96588ed857",
+      "TITLE" : "City Hall / I Believe / Malibu Nights",
+      "TRACKNUMBER" : "21"
+   }
+]
