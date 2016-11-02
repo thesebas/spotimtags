@@ -1,0 +1,62 @@
+﻿[
+   {
+      "@" : "spotify:track:1LxvhVwpYMNXbls24Kt7QQ",
+      "ALBUM" : "Anaesthetic Inhalation Ritual",
+      "ARTIST" : "Obscure Sphinx",
+      "DATE" : "2011",
+      "DURATION" : "279",
+      "MUSICBRAINZ_ALBUMID" : "94eac75d-185d-41d5-81ef-9b892a9f0341",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "1ba3e800-506a-4091-af45-d30046327505",
+      "MUSICBRAINZ_RELEASEGROUPID" : "ce1a04c1-45c3-4733-9b5a-0f08e80eec47",
+      "MUSICBRAINZ_TRACKID" : "6c3717db-4828-4319-a9ba-befc665f881e",
+      "SPOTIFY:ALBUM" : "spotify:album:7k9uB4RgA6n5KpzSbCNLuV",
+      "SPOTIFY:ARTIST" : "spotify:artist:0VaACj4wMJWji3wRiHrByq",
+      "TITLE" : "AIR",
+      "TOTALTRACKS" : "7",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1RKg5n0AlmSQXKlpqOy3Xh",
+      "DURATION" : "689",
+      "MUSICBRAINZ_TRACKID" : "87eb3f90-f68e-4aa5-a56f-7852d3e67251",
+      "TITLE" : "Nastiez",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:32ln50q2gfrR6XBfZ29T9y",
+      "DURATION" : "607",
+      "MUSICBRAINZ_TRACKID" : "78d0b229-10a4-4041-9e95-b873c2891eb3",
+      "TITLE" : "Eternity",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3Lhyd0juwF46Zp0UV0GFJq",
+      "DURATION" : "123",
+      "MUSICBRAINZ_TRACKID" : "741124c0-02e8-4a6d-b69c-aaecbf862b84",
+      "TITLE" : "Intermission",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:4arXGaHtUSU3V4dzqi8Ra4",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "7e3758f9-fd8b-475a-b5e3-017df7361c9c",
+      "TITLE" : "Bleed in Me, Part 1",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5K1s3vIjglEaDfhKgONQJE",
+      "DURATION" : "497",
+      "MUSICBRAINZ_TRACKID" : "2269ac2d-30f6-484f-b9f9-52ff8a69a27b",
+      "TITLE" : "Bleed in Me, Part 2",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:2cM0FbkWMwXt6C6t3fULCV",
+      "DURATION" : "611",
+      "MUSICBRAINZ_TRACKID" : "74188a01-934a-42c1-ad80-47dcb1db0c0c",
+      "TITLE" : "Paragnomen",
+      "TRACKNUMBER" : "7"
+   }
+]

@@ -1,0 +1,77 @@
+﻿[
+   {
+      "@" : "spotify:track:1t3lYHsuPJkNgo2jA0eVhG",
+      "ALBUM" : "Void Mother",
+      "ARTIST" : "Obscure Sphinx",
+      "DATE" : "2013-11-15",
+      "DURATION" : "472",
+      "LABEL" : "[no label]",
+      "MUSICBRAINZ_ALBUMID" : "267186eb-f987-419f-a8df-6908f68deafb",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "1ba3e800-506a-4091-af45-d30046327505",
+      "MUSICBRAINZ_RELEASEGROUPID" : "6bd5c39a-41c0-4d77-954f-70f6d4fb234b",
+      "MUSICBRAINZ_TRACKID" : "533788c9-d28e-4f78-8d2e-7c9ce05aba42",
+      "SPOTIFY:ALBUM" : "spotify:album:4lGyWEOqbXFMTIci7agiew",
+      "SPOTIFY:ARTIST" : "spotify:artist:0VaACj4wMJWji3wRiHrByq",
+      "TITLE" : "Lunar Caustic",
+      "TOTALTRACKS" : "9",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:5myAy38r0qOKKNDScpQez7",
+      "DURATION" : "158",
+      "MUSICBRAINZ_TRACKID" : "ee1ba717-7a25-4bab-8cae-0f6bd425e090",
+      "TITLE" : "Velorio",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1USgxJJwaictQRpfEEhMdK",
+      "DURATION" : "672",
+      "MUSICBRAINZ_TRACKID" : "f4381e2b-1959-45de-8046-95ed2e2e5cdd",
+      "TITLE" : "Waiting for the Bodies Down the River Floating",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5FmPbWGrc7qDaiHyNCd1EI",
+      "DURATION" : "455",
+      "MUSICBRAINZ_TRACKID" : "293bc31f-3558-4599-8b34-8b1acf6afd98",
+      "TITLE" : "Feverish",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:4inh83ti1UJtsFj38lGeU2",
+      "DURATION" : "571",
+      "MUSICBRAINZ_TRACKID" : "db73de30-cde1-455b-8750-d4dea3de9255",
+      "TITLE" : "Nasciturus",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:1FbCLFfK3PDrFYj6PfVGdS",
+      "DURATION" : "149",
+      "MUSICBRAINZ_TRACKID" : "a8fe2862-9884-435a-919f-e4838859681f",
+      "TITLE" : "Meredith",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:72P3EOq4eXr1pQtICQ57vH",
+      "DURATION" : "431",
+      "MUSICBRAINZ_TRACKID" : "c6b0fd3a-3f4a-47ff-93d5-844e6d79f9e6",
+      "TITLE" : "Decimation",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3eOdWpYATYWZVbPMLI84qK",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "4c78b2a3-4b53-4e96-8865-d467a10f5115",
+      "TITLE" : "Void",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:1TPZlR0AoSfJsO8owuZgJx",
+      "DURATION" : "933",
+      "MUSICBRAINZ_TRACKID" : "cbffdf4c-34f3-4242-8d42-1a27a40df141",
+      "TITLE" : "The Presence of Goddess",
+      "TRACKNUMBER" : "9"
+   }
+]

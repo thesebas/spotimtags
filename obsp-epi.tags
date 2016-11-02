@@ -1,0 +1,56 @@
+﻿[
+   {
+      "@" : "spotify:track:61SYzAAocuDbWX9zrbTDlR",
+      "ALBUM" : "Epitaphs",
+      "ARTIST" : "Obscure Sphinx",
+      "DATE" : "2016-09-12",
+      "DURATION" : "812",
+      "LABEL" : "[no label]",
+      "MUSICBRAINZ_ALBUMID" : "a2a56104-f772-4ff3-bc96-84df419f6fe2",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "1ba3e800-506a-4091-af45-d30046327505",
+      "MUSICBRAINZ_RELEASEGROUPID" : "25c54485-b8a6-4107-81e8-160183b48384",
+      "MUSICBRAINZ_TRACKID" : "734f27da-2a83-4323-96f9-af60e2081fdf",
+      "SPOTIFY:ALBUM" : "spotify:album:5b1ZhsgzLLwySR7iQgkKnZ",
+      "SPOTIFY:ARTIST" : "spotify:artist:0VaACj4wMJWji3wRiHrByq",
+      "TITLE" : "Nothing Left",
+      "TOTALTRACKS" : "6",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:5nLQNdLRv2lA5hbJB9YikN",
+      "DURATION" : "735",
+      "MUSICBRAINZ_TRACKID" : "a875bb63-b3ae-4c41-9ecb-d07c1c33a062",
+      "TITLE" : "Memories of Falling Down",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:0Dh7ZumDRP9fe63BkjR1qX",
+      "DURATION" : "456",
+      "MUSICBRAINZ_TRACKID" : "84b31ee0-91c3-49d1-a0cf-d4d4bc8704e2",
+      "TITLE" : "Nieprawota",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:4rRX7B2IprppH6tohaHYWx",
+      "DURATION" : "519",
+      "MUSICBRAINZ_TRACKID" : "db85e250-26c8-46aa-ac4b-93d8e2aea644",
+      "TITLE" : "Memorare",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:0skHH1reyLJtMkaGPsgDcd",
+      "DURATION" : "343",
+      "MUSICBRAINZ_TRACKID" : "7f36a862-6a42-4dda-94b8-2ef19da73508",
+      "TITLE" : "Sepulchre",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6RseMYlhoapX5uuUDPEw3V",
+      "DURATION" : "604",
+      "MUSICBRAINZ_TRACKID" : "8b0c0bca-ddeb-46d1-ab35-0a07fae534e4",
+      "TITLE" : "At the Mouth of the Sounding Sea",
+      "TRACKNUMBER" : "6"
+   }
+]
