@@ -1,0 +1,127 @@
+﻿[
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh",
+      "ALBUM" : "Issues",
+      "ARTIST" : "Korn",
+      "BARCODE" : "074646371022",
+      "CATALOGNUMBER" : "EK 63710",
+      "DATE" : "1999-11-16",
+      "DURATION" : "73",
+      "LABEL" : "Epic",
+      "MUSICBRAINZ_ALBUMID" : "40d2b064-27e4-3374-b961-86942c062bdc",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+      "MUSICBRAINZ_RELEASEGROUPID" : "c7497ce4-c746-3a75-946e-daa8ab117c47",
+      "MUSICBRAINZ_TRACKID" : "10701dcc-3563-45fb-889d-0288264ff3ea",
+      "ORIGINAL RELEASE DATE" : "1999-11-15",
+      "TITLE" : "Dead",
+      "TOTALTRACKS" : "16",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|1",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "e9d58402-8f40-44ae-adee-7121e60f5447",
+      "TITLE" : "Falling Away From Me",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|2",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "186e7b23-5083-4655-af4e-6f87757c615b",
+      "TITLE" : "Trash",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|3",
+      "DURATION" : "102",
+      "MUSICBRAINZ_TRACKID" : "c9d7aa67-eb6d-40d8-b98a-11c58e65b722",
+      "TITLE" : "4 U",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|4",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "05a2c2ea-9bf6-4e0a-b8ef-bf8ab76ced66",
+      "TITLE" : "Beg for Me",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|5",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "b9cf15a1-ec5b-4afc-8f32-c1ea21d1f63b",
+      "TITLE" : "Make Me Bad",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|6",
+      "DURATION" : "91",
+      "MUSICBRAINZ_TRACKID" : "49c51a79-61de-4168-8cb3-693850a3ce97",
+      "TITLE" : "It’s Gonna Go Away",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|7",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "027303ad-d8cf-4c53-9758-ec9c952e47e6",
+      "TITLE" : "Wake Up",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|8",
+      "DURATION" : "62",
+      "MUSICBRAINZ_TRACKID" : "14edb98b-eab6-4795-b18c-516fada2fbc5",
+      "TITLE" : "Am I Going Crazy",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|9",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "3bc8b9cd-27b0-4ccf-94b0-22a7c25a7714",
+      "TITLE" : "Hey Daddy",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|10",
+      "DURATION" : "228",
+      "MUSICBRAINZ_TRACKID" : "4e4c8437-7dd7-42f5-b13f-1f2c1cbafc29",
+      "TITLE" : "Somebody Someone",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|11",
+      "DURATION" : "248",
+      "MUSICBRAINZ_TRACKID" : "b6359e80-66a9-4b89-b7af-279889d946b4",
+      "TITLE" : "No Way",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|12",
+      "DURATION" : "221",
+      "MUSICBRAINZ_TRACKID" : "8798e8eb-1252-48e3-92bf-0be7f3c20488",
+      "TITLE" : "Let’s Get This Party Started",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|13",
+      "DURATION" : "67",
+      "MUSICBRAINZ_TRACKID" : "262e4bae-024e-4a51-bcc7-5b25d98cb285",
+      "TITLE" : "Wish You Could Be Me",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|14",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "09ec5ae8-5310-43a9-b77d-a05e27082289",
+      "TITLE" : "Counting",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:album:5U0pevIOTrPoDsN8YsBCBh|15",
+      "DURATION" : "471",
+      "MUSICBRAINZ_TRACKID" : "334b57a6-f0f4-4da2-a133-12069a9d8f4a",
+      "TITLE" : "Dirty",
+      "TRACKNUMBER" : "16"
+   }
+]

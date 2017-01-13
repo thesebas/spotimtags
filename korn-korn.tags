@@ -1,0 +1,98 @@
+﻿[
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z",
+      "ALBUM" : "Korn",
+      "ARTIST" : "Korn",
+      "BARCODE" : "074646663325",
+      "CATALOGNUMBER" : "EK 66633",
+      "DATE" : "1994-10-11",
+      "DURATION" : "258",
+      "LABEL" : "Epic",
+      "MUSICBRAINZ_ALBUMID" : "dbb81a1a-9913-4866-9da5-3bf8ca7ebf70",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+      "MUSICBRAINZ_RELEASEGROUPID" : "aa08a002-2777-39cf-a554-e0988fc68030",
+      "MUSICBRAINZ_TRACKID" : "382b0bd4-1227-4782-8224-e48f04fc319f",
+      "TITLE" : "Blind",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z|1",
+      "DURATION" : "269",
+      "MUSICBRAINZ_TRACKID" : "d218f3bc-92f4-4e1e-9a22-0089873e3be5",
+      "TITLE" : "Ball Tongue",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z|2",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "f391c156-b279-488f-96fc-54a0c4324131",
+      "TITLE" : "Need To",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z|3",
+      "DURATION" : "277",
+      "MUSICBRAINZ_TRACKID" : "59ff129e-5e9b-4192-83b3-c4052e809222",
+      "TITLE" : "Clown",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z|4",
+      "DURATION" : "170",
+      "MUSICBRAINZ_TRACKID" : "ec85b6fb-b856-4e17-83c0-8e60a6700338",
+      "TITLE" : "Divine",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z|5",
+      "DURATION" : "350",
+      "MUSICBRAINZ_TRACKID" : "077bdcda-4939-4f5f-8eb0-9a5a5af9945a",
+      "TITLE" : "Faget",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z|6",
+      "DURATION" : "322",
+      "MUSICBRAINZ_TRACKID" : "8de8283b-1761-4d87-9ab5-01cfd6ccc836",
+      "TITLE" : "Shoots and Ladders",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z|7",
+      "DURATION" : "273",
+      "MUSICBRAINZ_TRACKID" : "3ec594cc-cd3f-4206-929f-0ee017eeadc2",
+      "TITLE" : "Predictable",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z|8",
+      "DURATION" : "291",
+      "MUSICBRAINZ_TRACKID" : "1e800f9b-deb7-446b-a953-7da7804416d0",
+      "TITLE" : "Fake",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z|9",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "8ba17aa3-22bc-43f8-98e1-b07839a90bf4",
+      "TITLE" : "Lies",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z|10",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "79c16187-1cee-4637-9968-8b862f179378",
+      "TITLE" : "Helmet in the Bush",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:7D3XFJlfZIkmGWqZXm2X8z|11",
+      "DURATION" : "1051",
+      "MUSICBRAINZ_TRACKID" : "9004f066-b992-4c59-85f4-dbffb8612999",
+      "TITLE" : "Daddy / [untitled]",
+      "TRACKNUMBER" : "12"
+   }
+]

@@ -1,0 +1,112 @@
+﻿[
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH",
+      "ALBUM" : "Life Is Peachy",
+      "ARTIST" : "Korn",
+      "BARCODE" : "074646755426",
+      "CATALOGNUMBER" : "EK 67554",
+      "DATE" : "1996-10-15",
+      "DURATION" : "49",
+      "LABEL" : [ "Epic", "Immortal Records" ],
+      "MUSICBRAINZ_ALBUMID" : "dfe5dbda-5e50-4872-a36e-0183da26c872",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+      "MUSICBRAINZ_RELEASEGROUPID" : "e958aac9-4f24-3077-96de-117ec44d4dbb",
+      "MUSICBRAINZ_TRACKID" : "b605e897-b7ee-4a52-aafa-0893aa5ea442",
+      "TITLE" : "Twist",
+      "TOTALTRACKS" : "14",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|1",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "df1be89e-4034-4b07-8f60-9245571cdecc",
+      "TITLE" : "Chi",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|2",
+      "DURATION" : "175",
+      "MUSICBRAINZ_TRACKID" : "be2ec6a8-cb81-43ed-8a19-936524d7d047",
+      "TITLE" : "Lost",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|3",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "20bccc17-1da1-4a63-b7b8-93b3f21e5bc0",
+      "TITLE" : "Swallow",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|4",
+      "DURATION" : "121",
+      "MUSICBRAINZ_TRACKID" : "bf0b1467-9e5b-483a-9718-7ccace2d27d2",
+      "TITLE" : "Porno Creep",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|5",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "5db83d56-fb17-4470-a4b7-db47c31ef422",
+      "TITLE" : "Good God",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|6",
+      "DURATION" : "309",
+      "MUSICBRAINZ_TRACKID" : "7f8112bb-b45a-45de-8e9f-e45e97267442",
+      "TITLE" : "Mr. Rogers",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|7",
+      "DURATION" : "182",
+      "MUSICBRAINZ_TRACKID" : "d6edbaf7-c3df-459a-920a-25bf3726b88b",
+      "TITLE" : "K@#ø%!",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|8",
+      "DURATION" : "212",
+      "MUSICBRAINZ_TRACKID" : "28d9d6ac-c276-43bc-bcfe-89d7aeb7f762",
+      "TITLE" : "No Place to Hide",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|9",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "8a00c662-d198-45cb-8e45-946a2e4d28ca",
+      "TITLE" : "Wicked",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|10",
+      "DURATION" : "154",
+      "MUSICBRAINZ_TRACKID" : "8a45d6bf-4ec5-42c8-a11e-979462521bcf",
+      "TITLE" : "A.D.I.D.A.S.",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|11",
+      "DURATION" : "57",
+      "MUSICBRAINZ_TRACKID" : "25be82b5-dec6-4153-83cc-533298d2d7f6",
+      "TITLE" : "Lowrider",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|12",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "a3886632-376a-4856-a4f6-85941a8030d1",
+      "TITLE" : "Ass Itch",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:2b813fSxxzp9lcOfnLrrTH|13",
+      "DURATION" : "519",
+      "MUSICBRAINZ_TRACKID" : "db1db3c4-9e82-493d-971a-95dbd19c6af6",
+      "TITLE" : "Kill You / Twist (a cappella)",
+      "TRACKNUMBER" : "14"
+   }
+]

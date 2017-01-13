@@ -1,0 +1,89 @@
+﻿[
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4",
+      "ALBUM" : "Follow The Leader",
+      "ARTIST" : "Korn",
+      "DISCNUMBER" : "1",
+      "DURATION" : "270",
+      "TITLE" : "It's On!",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|1",
+      "DURATION" : "256",
+      "TITLE" : "Freak On a Leash",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|2",
+      "DURATION" : "225",
+      "TITLE" : "Got the Life",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|3",
+      "DURATION" : "285",
+      "TITLE" : "Dead Bodies Everywhere",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|4",
+      "DURATION" : "233",
+      "TITLE" : "Children of the Korn",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|5",
+      "DURATION" : "237",
+      "TITLE" : "B.B.K.",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|6",
+      "DURATION" : "253",
+      "TITLE" : "Pretty",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|7",
+      "DURATION" : "289",
+      "TITLE" : "All In the Family",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|8",
+      "DURATION" : "273",
+      "TITLE" : "Reclaim My Place",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|9",
+      "DURATION" : "258",
+      "TITLE" : "Justin",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|10",
+      "DURATION" : "355",
+      "TITLE" : "Seed",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|11",
+      "DURATION" : "278",
+      "TITLE" : "Cameltosis",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|12",
+      "DURATION" : "435",
+      "TITLE" : "My Gift to You",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:0gsiszk6JWYwAyGvaTTud4|13",
+      "DURATION" : "387",
+      "TITLE" : "Earache My Eye",
+      "TRACKNUMBER" : "14"
+   }
+]
