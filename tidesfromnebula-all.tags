@@ -1,0 +1,255 @@
+﻿[
+   {
+      "@" : "spotify:album:0m17n5EOveakLhYnlKqkP4",
+      "ALBUM" : "Safehaven",
+      "ARTIST" : "Tides from nebula",
+      "DISCNUMBER" : "1",
+      "DURATION" : "330",
+      "TITLE" : "Safehaven",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:0m17n5EOveakLhYnlKqkP4|1",
+      "DURATION" : "317",
+      "TITLE" : "Knees to the Earth",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:0m17n5EOveakLhYnlKqkP4|2",
+      "DURATION" : "290",
+      "TITLE" : "All the Steps I've Made",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:0m17n5EOveakLhYnlKqkP4|3",
+      "DURATION" : "361",
+      "TITLE" : "The Lifter",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:0m17n5EOveakLhYnlKqkP4|4",
+      "DURATION" : "389",
+      "TITLE" : "Traversing",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:0m17n5EOveakLhYnlKqkP4|5",
+      "DURATION" : "210",
+      "TITLE" : "Colour of Glow",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:0m17n5EOveakLhYnlKqkP4|6",
+      "DURATION" : "347",
+      "TITLE" : "We Are the Mirror",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:0m17n5EOveakLhYnlKqkP4|7",
+      "DURATION" : "381",
+      "TITLE" : "Home",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:4R3lTd1ergMhYETZ88d24s",
+      "ALBUM" : "Aura",
+      "ARTIST" : "Tides From Nebula",
+      "BARCODE" : "5904259352734",
+      "CATALOGNUMBER" : "LOU064CD",
+      "DATE" : "2009-05-25",
+      "DISCNUMBER" : [],
+      "DURATION" : "385",
+      "LABEL" : "Lou & Rocked Boys Records",
+      "MUSICBRAINZ_ALBUMID" : "acf7eede-8e0a-34ae-adbc-714acb9a95ed",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "bdc19666-3ea5-4619-8dc5-f4a00fc25eda",
+      "MUSICBRAINZ_RELEASEGROUPID" : "2a926676-5af9-4c93-ba3c-d05f8ae1a421",
+      "MUSICBRAINZ_TRACKID" : "3393c889-6dfc-4558-963b-b3a0f3de524e",
+      "TITLE" : "Shall We?",
+      "TOTALTRACKS" : "9",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:4R3lTd1ergMhYETZ88d24s|1",
+      "DURATION" : "299",
+      "MUSICBRAINZ_TRACKID" : "62fb92ab-08e7-4f50-8e1e-b29303821d71",
+      "TITLE" : "Sleepmonster",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:4R3lTd1ergMhYETZ88d24s|2",
+      "DURATION" : "366",
+      "MUSICBRAINZ_TRACKID" : "60feb905-9163-4c1f-8290-6199bc135319",
+      "TITLE" : "Higgs Boson",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:4R3lTd1ergMhYETZ88d24s|3",
+      "DURATION" : "98",
+      "MUSICBRAINZ_TRACKID" : "4a7841bc-770f-4663-86b0-1c1c72ee2cb8",
+      "TITLE" : "Svalbard",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:4R3lTd1ergMhYETZ88d24s|4",
+      "DURATION" : "340",
+      "MUSICBRAINZ_TRACKID" : "2264456b-eafe-4930-ae14-ab7bb6aed018",
+      "TITLE" : "Tragedy of Joseph Merrick",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:4R3lTd1ergMhYETZ88d24s|5",
+      "DURATION" : "257",
+      "MUSICBRAINZ_TRACKID" : "c50912b2-f4f4-479f-988d-eceeb920020e",
+      "TITLE" : "Purr",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:4R3lTd1ergMhYETZ88d24s|6",
+      "DURATION" : "220",
+      "MUSICBRAINZ_TRACKID" : "e81ddf33-0e44-4856-96a0-63c41ac47e1e",
+      "TITLE" : "It Takes More Than One Kind of Telescope to See the Light",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:4R3lTd1ergMhYETZ88d24s|7",
+      "DURATION" : "346",
+      "MUSICBRAINZ_TRACKID" : "b641bb96-bc5c-44cd-b8a3-c8612f229f58",
+      "TITLE" : "When There Were No Connections",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:4R3lTd1ergMhYETZ88d24s|8",
+      "DURATION" : "314",
+      "MUSICBRAINZ_TRACKID" : "39293cdd-f09b-40b0-90ce-d0afafc7d457",
+      "TITLE" : "Apricot",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:6saycN3mzVO79SYGFqoi1k",
+      "ALBUM" : "Earthshine",
+      "BARCODE" : "5903427874658",
+      "CATALOGNUMBER" : "MYSTCD 165",
+      "DATE" : "2011-05-09",
+      "DURATION" : "405",
+      "LABEL" : "Mystic Production",
+      "MUSICBRAINZ_ALBUMID" : "fac2a64b-499d-484f-80fe-1a4dea9af3ec",
+      "MUSICBRAINZ_RELEASEGROUPID" : "2161c4ef-1beb-41e1-a5dd-ba2d035ef668",
+      "MUSICBRAINZ_TRACKID" : "db4b65b2-e6f4-4f9b-9038-572cd2c617eb",
+      "TITLE" : "These Days, Glory Days",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6saycN3mzVO79SYGFqoi1k|1",
+      "DURATION" : "509",
+      "MUSICBRAINZ_TRACKID" : "e5ba90a7-01e3-49b1-9a71-3a7b6e8fb8a1",
+      "TITLE" : "The Fall of Leviathan",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6saycN3mzVO79SYGFqoi1k|2",
+      "DURATION" : "186",
+      "MUSICBRAINZ_TRACKID" : "a86578db-321e-4f87-a53d-d0603d71a326",
+      "TITLE" : "Waiting for the World to Turn Back",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6saycN3mzVO79SYGFqoi1k|3",
+      "DURATION" : "599",
+      "MUSICBRAINZ_TRACKID" : "858b1e57-b048-463c-83df-1c4c3ccd3464",
+      "TITLE" : "Caravans",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6saycN3mzVO79SYGFqoi1k|4",
+      "DURATION" : "373",
+      "MUSICBRAINZ_TRACKID" : "0a3c31de-83f0-4ed4-8521-a420e535f5ee",
+      "TITLE" : "White Gardens",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6saycN3mzVO79SYGFqoi1k|5",
+      "DURATION" : "160",
+      "MUSICBRAINZ_TRACKID" : "5efd7758-c5d2-4bb9-bacd-c8e5940b3d2f",
+      "TITLE" : "Hypothermia",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6saycN3mzVO79SYGFqoi1k|6",
+      "DURATION" : "603",
+      "MUSICBRAINZ_TRACKID" : "0cb1b34e-a1e2-473a-bb6c-342a8fee79ea",
+      "TITLE" : "Siberia",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6saycN3mzVO79SYGFqoi1k|7",
+      "DURATION" : "349",
+      "MUSICBRAINZ_TRACKID" : "a768347d-da3f-4c4e-adac-9dd77bb37d65",
+      "TITLE" : "Cemetery of Frozen Ships",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:5ZKkAKUQM7EyudAvzI2jAl",
+      "ALBUM" : "Eternal Movement",
+      "BARCODE" : "5903427876201",
+      "CATALOGNUMBER" : "MYSTCD 243",
+      "DATE" : "2013-10-02",
+      "DURATION" : "320",
+      "MUSICBRAINZ_ALBUMID" : "1e418303-7d5d-4d0d-9f20-24d18c9b96f9",
+      "MUSICBRAINZ_RELEASEGROUPID" : "69ffba54-4c3b-4d01-b701-f9b80cd53b42",
+      "MUSICBRAINZ_TRACKID" : "f75cb7f2-b062-439a-bb54-afa4f9c92be3",
+      "TITLE" : "Laughter of Gods",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5ZKkAKUQM7EyudAvzI2jAl|1",
+      "DURATION" : "321",
+      "MUSICBRAINZ_TRACKID" : "3a142227-444c-4a68-b292-9cd601b9d018",
+      "TITLE" : "Only With Presence",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5ZKkAKUQM7EyudAvzI2jAl|2",
+      "DURATION" : "292",
+      "MUSICBRAINZ_TRACKID" : "b6ad4930-cfac-40b6-8e13-7599e1ed44ff",
+      "TITLE" : "Satori",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5ZKkAKUQM7EyudAvzI2jAl|3",
+      "DURATION" : "436",
+      "MUSICBRAINZ_TRACKID" : "5bf6a46e-0819-4224-b33d-f292e5421a1e",
+      "TITLE" : "Emptiness of Yours and Mine",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5ZKkAKUQM7EyudAvzI2jAl|4",
+      "DURATION" : "306",
+      "MUSICBRAINZ_TRACKID" : "87fccfee-dbaa-4873-946b-df7a5dded593",
+      "TITLE" : "Hollow Lights",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5ZKkAKUQM7EyudAvzI2jAl|5",
+      "DURATION" : "314",
+      "MUSICBRAINZ_TRACKID" : "c697f203-3ad5-4f07-819c-a5376a75af1a",
+      "TITLE" : "Now Run",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5ZKkAKUQM7EyudAvzI2jAl|6",
+      "DURATION" : "306",
+      "MUSICBRAINZ_TRACKID" : "bc530342-bbe3-4c66-9125-8d8daab2b008",
+      "TITLE" : "Let It Out, Let It Flow, Let It Fly",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:5ZKkAKUQM7EyudAvzI2jAl|7",
+      "DURATION" : "570",
+      "MUSICBRAINZ_TRACKID" : "5e55fb09-4dff-4786-9676-c9577ad61fc0",
+      "TITLE" : "Up From Eden",
+      "TRACKNUMBER" : "8"
+   }
+]
