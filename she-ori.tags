@@ -1,0 +1,88 @@
+﻿[
+   {
+      "@" : "spotify:album:7Dv0c0Ns4Eb57If0tNemV6",
+      "ALBUM" : "Orion",
+      "ARTIST" : "she",
+      "DATE" : "2009-09-14",
+      "DURATION" : "75",
+      "MUSICBRAINZ_ALBUMID" : "6f5b2341-22e2-41f1-943c-fd5ec913b021",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "99e34e68-0320-4c3e-901d-0a307ed504a4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "3027a642-dc90-43d3-9d00-a512cb10bc49",
+      "MUSICBRAINZ_TRACKID" : "ef53a48f-d401-4ed9-943d-07642346e249",
+      "TITLE" : "Escape",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7Dv0c0Ns4Eb57If0tNemV6|1",
+      "DURATION" : "204",
+      "MUSICBRAINZ_TRACKID" : "1bf019df-a6ed-4aa6-85b4-6d526ad5ddc1",
+      "TITLE" : "Atomic",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7Dv0c0Ns4Eb57If0tNemV6|2",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "fd4bc86f-4fe3-4d7c-ab4a-13b0e443b793",
+      "TITLE" : "Moonlight",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7Dv0c0Ns4Eb57If0tNemV6|3",
+      "DURATION" : "195",
+      "MUSICBRAINZ_TRACKID" : "2201f4b5-d934-4ba9-aff4-74d2d404d87e",
+      "TITLE" : "Computer Music",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7Dv0c0Ns4Eb57If0tNemV6|4",
+      "DURATION" : "240",
+      "MUSICBRAINZ_TRACKID" : "e0f1e27b-08ae-43f9-bf63-fd8fb9a81d03",
+      "TITLE" : "Ride",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7Dv0c0Ns4Eb57If0tNemV6|5",
+      "DURATION" : "228",
+      "MUSICBRAINZ_TRACKID" : "fd72a1dc-da31-4d54-8641-88d1c3521ce9",
+      "TITLE" : "Home",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:7Dv0c0Ns4Eb57If0tNemV6|6",
+      "DURATION" : "189",
+      "MUSICBRAINZ_TRACKID" : "f5003f53-b98c-4a89-bd3f-5df5cd02159a",
+      "TITLE" : "Just Your Eyes",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:7Dv0c0Ns4Eb57If0tNemV6|7",
+      "DURATION" : "103",
+      "MUSICBRAINZ_TRACKID" : "3c4f04e7-e1a4-473f-962f-a9bd2947909f",
+      "TITLE" : "See You Again",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:7Dv0c0Ns4Eb57If0tNemV6|8",
+      "DURATION" : "188",
+      "MUSICBRAINZ_TRACKID" : "95e8f947-f61d-41b7-ae13-865869f105b3",
+      "TITLE" : "Generic Eric",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:7Dv0c0Ns4Eb57If0tNemV6|9",
+      "DURATION" : "196",
+      "MUSICBRAINZ_TRACKID" : "9fef73c2-fee9-4c84-a3fd-03654a66633e",
+      "TITLE" : "Elemental Nights",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:7Dv0c0Ns4Eb57If0tNemV6|10",
+      "DURATION" : "316",
+      "MUSICBRAINZ_TRACKID" : "3bf94eba-6810-4b37-bad3-936b70518e61",
+      "TITLE" : "Orion",
+      "TRACKNUMBER" : "11"
+   }
+]

@@ -1,0 +1,75 @@
+﻿[
+   {
+      "@" : "spotify:album:3OG0RkesWMYcJzIK2seQI8",
+      "ALBUM" : "Electric Girl",
+      "ARTIST" : "she",
+      "DATE" : "2012-11-07",
+      "DURATION" : "200",
+      "LABEL" : "[no label]",
+      "MUSICBRAINZ_ALBUMID" : "2655adca-29fa-455f-a5bb-deb530949382",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "99e34e68-0320-4c3e-901d-0a307ed504a4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "6a83e04b-751c-478d-ac87-d6985049fbc9",
+      "MUSICBRAINZ_TRACKID" : "49c4e4b0-5961-4e4d-85d4-3a13b95883f4",
+      "TITLE" : "Electric Girl",
+      "TOTALTRACKS" : "9",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:3OG0RkesWMYcJzIK2seQI8|1",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "2b3d2faa-1c3d-4d95-a374-6fda3c410fc4",
+      "TITLE" : "Be Alright",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:3OG0RkesWMYcJzIK2seQI8|2",
+      "DURATION" : "147",
+      "MUSICBRAINZ_TRACKID" : "91a45ddc-b08a-48e8-949d-14979fa37ddb",
+      "TITLE" : "Headshot",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:3OG0RkesWMYcJzIK2seQI8|3",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "69f8e25f-b855-44a8-b72c-c892a6aa58e2",
+      "TITLE" : "Closer Together",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:3OG0RkesWMYcJzIK2seQI8|4",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "b7e90be7-48c5-4569-9e73-41d4747c167d",
+      "TITLE" : "Yes OK",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:3OG0RkesWMYcJzIK2seQI8|5",
+      "DURATION" : "199",
+      "MUSICBRAINZ_TRACKID" : "2e7f17d3-f86d-4237-860f-1c1d78bc578a",
+      "TITLE" : "All I Need Is Music",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:3OG0RkesWMYcJzIK2seQI8|6",
+      "DURATION" : "149",
+      "MUSICBRAINZ_TRACKID" : "400d4a30-9476-4016-b26e-919b1c8c08fe",
+      "TITLE" : "Is This Love",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:3OG0RkesWMYcJzIK2seQI8|7",
+      "DURATION" : "177",
+      "MUSICBRAINZ_TRACKID" : "56ce61c5-51a9-459e-a84a-fd33950c8d7a",
+      "TITLE" : "Voltage",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:3OG0RkesWMYcJzIK2seQI8|8",
+      "DURATION" : "256",
+      "MUSICBRAINZ_TRACKID" : "5046fe16-65e2-42cd-95e3-4046da11fa30",
+      "TITLE" : "Heartbeats",
+      "TRACKNUMBER" : "9"
+   }
+]

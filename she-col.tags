@@ -1,0 +1,116 @@
+﻿[
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa",
+      "ALBUM" : "Coloris",
+      "ARTIST" : "she",
+      "DATE" : "2010",
+      "DURATION" : "154",
+      "MUSICBRAINZ_ALBUMID" : "253dfffb-7035-4398-a76e-f3ca1e631d24",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "99e34e68-0320-4c3e-901d-0a307ed504a4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "77acf1e2-a439-383f-81c5-355ba5d2e981",
+      "MUSICBRAINZ_TRACKID" : "c95724d1-7a8a-45b6-a96f-06d25ffd6a0e",
+      "ORIGINAL RELEASE DATE" : "2008-06-17",
+      "TITLE" : "Coloris",
+      "TOTALTRACKS" : "15",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|1",
+      "MUSICBRAINZ_TRACKID" : "92c973a2-99ac-473b-a729-667396c49a82",
+      "TITLE" : "Circuit Lover",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|2",
+      "DURATION" : "168",
+      "MUSICBRAINZ_TRACKID" : "a345bcf4-2034-49cc-bb96-e2f466b862f3",
+      "TITLE" : "Orbit",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|3",
+      "DURATION" : "127",
+      "MUSICBRAINZ_TRACKID" : "fc295838-62d1-44af-911f-04bba4f319bf",
+      "TITLE" : "Gum",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|4",
+      "DURATION" : "170",
+      "MUSICBRAINZ_TRACKID" : "b0b33137-446e-49ba-8121-a017f19c4fa4",
+      "TITLE" : "Tokyo Nights",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|5",
+      "DURATION" : "150",
+      "MUSICBRAINZ_TRACKID" : "2a91e37e-c6c7-4e03-bc53-50bfb90b10c3",
+      "TITLE" : "Monochrome",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|6",
+      "DURATION" : "124",
+      "MUSICBRAINZ_TRACKID" : "d6614c67-1c61-44a5-abdd-30de82ddb564",
+      "TITLE" : "Fuse",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|7",
+      "DURATION" : "153",
+      "MUSICBRAINZ_TRACKID" : "5ae37829-9fed-412b-b83b-1718ae5b7fdf",
+      "TITLE" : "Autumn in Space",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|8",
+      "DURATION" : "129",
+      "MUSICBRAINZ_TRACKID" : "eeb94380-3ebd-41ff-9dbb-bd298a6c4d32",
+      "TITLE" : "In Time",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|9",
+      "DURATION" : "143",
+      "MUSICBRAINZ_TRACKID" : "1d5cb97b-97cf-4ec0-bc09-ecfb9ee388e3",
+      "TITLE" : "Destination Luna4",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|10",
+      "DURATION" : "145",
+      "MUSICBRAINZ_TRACKID" : "4d15c3a2-748b-4537-86bd-1f7846bc875c",
+      "TITLE" : "Together",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|11",
+      "DURATION" : "118",
+      "MUSICBRAINZ_TRACKID" : "c0cdd6a3-d3ea-42c8-b573-36c4e214cb0b",
+      "TITLE" : "Touch and Go",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|12",
+      "DURATION" : "136",
+      "MUSICBRAINZ_TRACKID" : "3518f796-447a-4e70-b7e8-179169344153",
+      "TITLE" : "Reality",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|13",
+      "DURATION" : "127",
+      "MUSICBRAINZ_TRACKID" : "66329f08-1a36-4452-b21f-807c66f302ba",
+      "TITLE" : "Distort Into Me",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:album:3fDbf60vJSZSPWv0IbpzYa|14",
+      "DURATION" : "158",
+      "MUSICBRAINZ_TRACKID" : "48f70298-01d2-461d-91a8-49be2dfc8dbe",
+      "TITLE" : "Traveling by Night",
+      "TRACKNUMBER" : "15"
+   }
+]

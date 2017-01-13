@@ -1,0 +1,69 @@
+﻿[
+   {
+      "@" : "spotify:album:6Tkf3CxYmAN2cLWgJUxc3W",
+      "ALBUM" : "Chiptek",
+      "ARTIST" : "she",
+      "CATALOGNUMBER" : "[none]",
+      "DATE" : "2008-11-01",
+      "DURATION" : "62",
+      "LABEL" : "[no label]",
+      "MUSICBRAINZ_ALBUMID" : "9ade91c4-67e2-4f3b-a52d-0be0653548d5",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "99e34e68-0320-4c3e-901d-0a307ed504a4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "1a6dd32e-e663-36fd-99a4-02a9167756a2",
+      "MUSICBRAINZ_TRACKID" : "c6cebfbc-f806-40e8-9a34-1ea1f12f7b82",
+      "TITLE" : "Intro",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6Tkf3CxYmAN2cLWgJUxc3W|1",
+      "DURATION" : "177",
+      "MUSICBRAINZ_TRACKID" : "f9df037c-f1c6-4447-a1c1-5e768e751826",
+      "TITLE" : "Music",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6Tkf3CxYmAN2cLWgJUxc3W|2",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "96126e27-ba8c-4e32-a581-b2d3a4edad9b",
+      "TITLE" : "Supersonic",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6Tkf3CxYmAN2cLWgJUxc3W|3",
+      "DURATION" : "189",
+      "MUSICBRAINZ_TRACKID" : "d915c92f-eadc-44b9-8c1b-8bb28f3cd879",
+      "TITLE" : "Memories",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6Tkf3CxYmAN2cLWgJUxc3W|4",
+      "DURATION" : "184",
+      "MUSICBRAINZ_TRACKID" : "6c2db590-2f59-476a-a3e8-8cc9817180aa",
+      "TITLE" : "Chiptek",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6Tkf3CxYmAN2cLWgJUxc3W|5",
+      "DURATION" : "62",
+      "MUSICBRAINZ_TRACKID" : "661924e2-0c0b-47e8-992c-8fc6988dc5bd",
+      "TITLE" : "Intermission",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6Tkf3CxYmAN2cLWgJUxc3W|6",
+      "DURATION" : "160",
+      "MUSICBRAINZ_TRACKID" : "fa7eef46-8603-4c97-9724-48fae7c3c267",
+      "TITLE" : "Kicks",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6Tkf3CxYmAN2cLWgJUxc3W|7",
+      "DURATION" : "120",
+      "MUSICBRAINZ_TRACKID" : "a1f05acf-da7f-4bf9-930f-991ba12f9486",
+      "TITLE" : "1997",
+      "TRACKNUMBER" : "8"
+   }
+]

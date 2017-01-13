@@ -1,0 +1,74 @@
+﻿[
+   {
+      "@" : "spotify:album:3rhk4jlJVFkJzjp2iHsY7y",
+      "ALBUM" : "Chiptune Memories",
+      "ARTIST" : "she",
+      "DATE" : "2015-12-03",
+      "DURATION" : "205",
+      "MUSICBRAINZ_ALBUMID" : "a4782361-a2a6-4e87-b764-3833dba057a2",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "99e34e68-0320-4c3e-901d-0a307ed504a4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "ab25164f-a144-4f52-8280-1216f3333a69",
+      "MUSICBRAINZ_TRACKID" : "95e145d1-460b-4d30-9460-78838227945b",
+      "TITLE" : "By Your Side",
+      "TOTALTRACKS" : "9",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:3rhk4jlJVFkJzjp2iHsY7y|1",
+      "DURATION" : "195",
+      "MUSICBRAINZ_TRACKID" : "dcb641eb-4ae0-4668-b771-a391caeae714",
+      "TITLE" : "Chiptune Memories",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:3rhk4jlJVFkJzjp2iHsY7y|2",
+      "DURATION" : "230",
+      "MUSICBRAINZ_TRACKID" : "14c91544-611b-49d4-8ff1-dab9c82e9a31",
+      "TITLE" : "Nostalgic Vibes",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:3rhk4jlJVFkJzjp2iHsY7y|3",
+      "DURATION" : "207",
+      "MUSICBRAINZ_TRACKID" : "53ec092b-a5ae-493e-be07-b70e29c10c54",
+      "TITLE" : "Artificial Love",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:3rhk4jlJVFkJzjp2iHsY7y|4",
+      "DURATION" : "212",
+      "MUSICBRAINZ_TRACKID" : "4c0b3ef4-372f-48a7-8dca-1779cabef436",
+      "TITLE" : "Meet Me There",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:3rhk4jlJVFkJzjp2iHsY7y|5",
+      "DURATION" : "183",
+      "MUSICBRAINZ_TRACKID" : "791b7919-7d8c-4534-a6b1-eb4252d42eea",
+      "TITLE" : "8bit Adventures",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:3rhk4jlJVFkJzjp2iHsY7y|6",
+      "DURATION" : "191",
+      "MUSICBRAINZ_TRACKID" : "109c9569-5c85-4db2-9e7c-a8f55b4c33c3",
+      "TITLE" : "Into the Blue",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:3rhk4jlJVFkJzjp2iHsY7y|7",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "faa4a487-64e3-4205-8752-4e0eb13d9a79",
+      "TITLE" : "Glitch Me On",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:3rhk4jlJVFkJzjp2iHsY7y|8",
+      "DURATION" : "181",
+      "MUSICBRAINZ_TRACKID" : "1aa1ce63-2f1a-45e7-8fcd-1941815b2b60",
+      "TITLE" : "Bleedthrough",
+      "TRACKNUMBER" : "9"
+   }
+]
