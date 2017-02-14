@@ -1,0 +1,123 @@
+﻿[
+   {
+      "@" : "spotify:album:1gCyUyQvqDEJOjo18WdE5I",
+      "ALBUM" : "Rocket League: Official Game Soundtrack, Vol. 2",
+      "ALBUM ARTIST" : "Various Artists",
+      "ARTIST" : "Hollywood Principle",
+      "DATE" : "2016-07-08",
+      "DURATION" : "187",
+      "MUSICBRAINZ_ALBUMARTISTID" : "89ad4ac3-39f7-470e-963a-56509c546377",
+      "MUSICBRAINZ_ALBUMID" : "c7780fa0-6a1c-45c5-92a8-7e5dff922a65",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Soundtrack",
+      "MUSICBRAINZ_ARTISTID" : "058383e9-a581-4cab-9850-f3ab5a226e37",
+      "MUSICBRAINZ_RELEASEGROUPID" : "f4c99f6a-38eb-4606-88b5-ee708be32e18",
+      "MUSICBRAINZ_TRACKID" : "6d1e2fa6-37c7-41c4-bb57-cfad0b70a2eb",
+      "TITLE" : "Firework",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:1gCyUyQvqDEJOjo18WdE5I|1",
+      "ARTIST" : "Hollywood Principle & Ether",
+      "DURATION" : "278",
+      "MUSICBRAINZ_ARTISTID" : [
+         "058383e9-a581-4cab-9850-f3ab5a226e37",
+         "c644d854-9ece-444e-8d3a-19c4ab9de809"
+      ],
+      "MUSICBRAINZ_TRACKID" : "cfd84d7a-f691-48d4-a418-a6572a394bec",
+      "TITLE" : "Breathing Underwater (Ether remix)",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:1gCyUyQvqDEJOjo18WdE5I|2",
+      "ARTIST" : "Mike Ault",
+      "DURATION" : "284",
+      "MUSICBRAINZ_ARTISTID" : "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+      "MUSICBRAINZ_TRACKID" : "9c88c7ff-2530-4f8c-8677-043e1d23dcf3",
+      "TITLE" : "Looking to the Future",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:1gCyUyQvqDEJOjo18WdE5I|3",
+      "ARTIST" : "Mike Ault & Abandoned Carnival",
+      "DURATION" : "321",
+      "MUSICBRAINZ_ARTISTID" : [
+         "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+         "e2b310c6-d47b-42a1-b01a-15ef57ca0051"
+      ],
+      "MUSICBRAINZ_TRACKID" : "f2aae1e8-ddb8-46b0-8389-d6ac8b7b0233",
+      "TITLE" : "Escape From L.A. (instrumental)",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:1gCyUyQvqDEJOjo18WdE5I|4",
+      "ARTIST" : "Hollywood Principle & Kev Frey",
+      "DURATION" : "306",
+      "MUSICBRAINZ_ARTISTID" : [
+         "058383e9-a581-4cab-9850-f3ab5a226e37",
+         "ebb63a08-dc5c-43d3-be70-a22dad4d2717"
+      ],
+      "MUSICBRAINZ_TRACKID" : "1b61915a-4f91-4a01-932b-a5b430643ee7",
+      "TITLE" : "Seeing What’s Next (Kev Frey remix)",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:1gCyUyQvqDEJOjo18WdE5I|5",
+      "ARTIST" : "Mike Ault & Abandoned Carnival",
+      "DURATION" : "354",
+      "MUSICBRAINZ_ARTISTID" : [
+         "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+         "e2b310c6-d47b-42a1-b01a-15ef57ca0051"
+      ],
+      "MUSICBRAINZ_TRACKID" : "a92ac77c-6e0e-458e-be16-337ce88ac88c",
+      "TITLE" : "When the Lights Come On (instrumental)",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:1gCyUyQvqDEJOjo18WdE5I|6",
+      "DURATION" : "203",
+      "MUSICBRAINZ_TRACKID" : "f00280ee-200e-48ce-9d4b-c40a5407c27b",
+      "TITLE" : "Hard Buzz",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:1gCyUyQvqDEJOjo18WdE5I|7",
+      "ARTIST" : "Mike Ault feat. Dr. Awkward",
+      "DURATION" : "48",
+      "MUSICBRAINZ_ARTISTID" : [
+         "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+         "f14bce50-291f-4a63-bd48-4716e47a350f"
+      ],
+      "MUSICBRAINZ_TRACKID" : "3776b714-d798-4935-823e-8619d51e8815",
+      "TITLE" : "Game Time",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:1gCyUyQvqDEJOjo18WdE5I|8",
+      "ARTIST" : "Kevin Riepl",
+      "DURATION" : "136",
+      "MUSICBRAINZ_ARTISTID" : "bb9e9c04-49e2-4b48-943b-983dddcb6a48",
+      "MUSICBRAINZ_TRACKID" : "c33fb4ff-0f56-4635-8cd8-f10b3791bd0c",
+      "TITLE" : "Scorched Earth",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:1gCyUyQvqDEJOjo18WdE5I|9",
+      "ARTIST" : "Mike Ault",
+      "DURATION" : "76",
+      "MUSICBRAINZ_ARTISTID" : "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+      "MUSICBRAINZ_TRACKID" : "bf542f58-4266-42ef-9a7a-9699e16613d9",
+      "TITLE" : "RLCS Theme",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:1gCyUyQvqDEJOjo18WdE5I|10",
+      "ARTIST" : "Adam B. Metal",
+      "DURATION" : "99",
+      "MUSICBRAINZ_ARTISTID" : "722545e1-8788-4d6e-a375-976f62c9e91e",
+      "MUSICBRAINZ_TRACKID" : "8c36d171-5d56-4f0f-8bd5-4cba0b85a856",
+      "TITLE" : "Rocket League Throwback Anthem",
+      "TRACKNUMBER" : "11"
+   }
+]

@@ -1,0 +1,130 @@
+﻿[
+   {
+      "@" : "spotify:album:6XL0i4TCp2D1zDT4EbCCOO",
+      "ALBUM" : "Rocket League: Official Game Soundtrack",
+      "ALBUM ARTIST" : "Various Artists",
+      "ARTIST" : "Mike Ault",
+      "DATE" : "2015-07-01",
+      "DURATION" : "88",
+      "LABEL" : "[no label]",
+      "MUSICBRAINZ_ALBUMARTISTID" : "89ad4ac3-39f7-470e-963a-56509c546377",
+      "MUSICBRAINZ_ALBUMID" : "394be759-7b95-4a1c-b2dc-39b5cf28c86e",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Soundtrack",
+      "MUSICBRAINZ_ARTISTID" : "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+      "MUSICBRAINZ_RELEASEGROUPID" : "0464aebb-5a1f-4431-bcb8-6dfd62d43423",
+      "MUSICBRAINZ_TRACKID" : "0b99dd91-780a-4f6d-8ae0-65444a9206fc",
+      "TITLE" : "Rocket League Theme",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6XL0i4TCp2D1zDT4EbCCOO|1",
+      "ARTIST" : "Mike Ault feat. Avianna Acid",
+      "DURATION" : "368",
+      "MUSICBRAINZ_ARTISTID" : [
+         "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+         "6245ee5f-9a15-4298-9f7d-67bc97533e8d"
+      ],
+      "MUSICBRAINZ_TRACKID" : "8289062b-f278-4fde-ae56-670f7d54ea59",
+      "TITLE" : "Angel Wings",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6XL0i4TCp2D1zDT4EbCCOO|2",
+      "ARTIST" : "Mike Ault & Christian de la Torre",
+      "DURATION" : "450",
+      "MUSICBRAINZ_ARTISTID" : [
+         "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+         "d9231386-96af-4e6b-8044-ecc332fa787e"
+      ],
+      "MUSICBRAINZ_TRACKID" : "f799d0f1-ea6b-4779-9316-d36fd023ce5d",
+      "TITLE" : "Darkness",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6XL0i4TCp2D1zDT4EbCCOO|3",
+      "ARTIST" : "Mike Ault feat. Morgan Perry",
+      "DURATION" : "365",
+      "MUSICBRAINZ_ARTISTID" : [
+         "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+         "fd6882c6-58db-4be9-884e-468a066ec366"
+      ],
+      "MUSICBRAINZ_TRACKID" : "fd526eab-a3bf-4219-8718-017f2261dbf7",
+      "TITLE" : "Flying Forever",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6XL0i4TCp2D1zDT4EbCCOO|4",
+      "ARTIST" : "Mike Ault feat. Crysta",
+      "DURATION" : "258",
+      "MUSICBRAINZ_ARTISTID" : [
+         "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+         "a5af7c35-6eef-4761-8bd1-89f388d7c203"
+      ],
+      "MUSICBRAINZ_TRACKID" : "dffbc14b-b955-47df-8d45-da60dc3d943c",
+      "TITLE" : "I Can Be",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6XL0i4TCp2D1zDT4EbCCOO|5",
+      "ARTIST" : "Mike Ault feat. Nikki Wilkins",
+      "DURATION" : "384",
+      "MUSICBRAINZ_ARTISTID" : [
+         "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+         "ffa39079-dab2-4306-b425-a58bfa5f079e"
+      ],
+      "MUSICBRAINZ_TRACKID" : "57f58332-c786-46d6-9c15-3f027fb2fb8b",
+      "TITLE" : "In My Dreams",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6XL0i4TCp2D1zDT4EbCCOO|6",
+      "ARTIST" : "Mike Ault",
+      "DURATION" : "430",
+      "MUSICBRAINZ_ARTISTID" : "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+      "MUSICBRAINZ_TRACKID" : "e3babbf4-7ea3-4678-a0b5-e734411e1218",
+      "TITLE" : "Lacuna",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6XL0i4TCp2D1zDT4EbCCOO|7",
+      "ARTIST" : "Mike Ault feat. Morgan Perry",
+      "DURATION" : "308",
+      "MUSICBRAINZ_ARTISTID" : [
+         "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+         "fd6882c6-58db-4be9-884e-468a066ec366"
+      ],
+      "MUSICBRAINZ_TRACKID" : "20f24517-357d-4196-9845-2fa5487794dd",
+      "TITLE" : "Love Thru the Night",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:6XL0i4TCp2D1zDT4EbCCOO|8",
+      "ARTIST" : "Mike Ault & Abandoned Carnival",
+      "DURATION" : "278",
+      "MUSICBRAINZ_ARTISTID" : [
+         "ae482d19-cd58-4195-b029-46e27d4ff7bb",
+         "e2b310c6-d47b-42a1-b01a-15ef57ca0051"
+      ],
+      "MUSICBRAINZ_TRACKID" : "c7b216ee-5553-4d22-80a0-ae2f3aea1a08",
+      "TITLE" : "We Speak Chinese",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:6XL0i4TCp2D1zDT4EbCCOO|9",
+      "ARTIST" : "Hollywood Principle",
+      "DURATION" : "199",
+      "MUSICBRAINZ_ARTISTID" : "058383e9-a581-4cab-9850-f3ab5a226e37",
+      "MUSICBRAINZ_TRACKID" : "e1a2e085-8ccb-4820-801e-34b82a580f70",
+      "TITLE" : "Seeing What’s Next",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:6XL0i4TCp2D1zDT4EbCCOO|10",
+      "DURATION" : "437",
+      "MUSICBRAINZ_TRACKID" : "6a5ce8dc-563c-4076-9c54-3a47db4cc150",
+      "TITLE" : "Whiplash",
+      "TRACKNUMBER" : "11"
+   }
+]
