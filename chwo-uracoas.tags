@@ -1,0 +1,88 @@
+﻿[
+   {
+      "@" : "spotify:album:6CL2rdgPpUEXwWsNjexAZ5",
+      "ALBUM" : "Unknown Rooms: A Collection of Acoustic Songs",
+      "ARTIST" : "Chelsea Wolfe",
+      "DATE" : "2012-10-16",
+      "DURATION" : "241",
+      "MUSICBRAINZ_ALBUMID" : "8589ba2a-e62a-418d-a04d-1ee032197dd3",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "60e8e938-365e-4429-a141-4c79eb49588d",
+      "MUSICBRAINZ_RELEASEGROUPID" : "58db8581-8ffb-498d-b1d1-0ace130c59b7",
+      "MUSICBRAINZ_TRACKID" : "80edf073-0d9f-46e7-b05f-2951dfff1050",
+      "TITLE" : "Flatlands",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6CL2rdgPpUEXwWsNjexAZ5|1",
+      "DURATION" : "168",
+      "MUSICBRAINZ_TRACKID" : "7470e182-d6fc-4222-a559-2ac027b58632",
+      "TITLE" : "The Way We Used To",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6CL2rdgPpUEXwWsNjexAZ5|2",
+      "DURATION" : "189",
+      "MUSICBRAINZ_TRACKID" : "048d6b12-ee20-4dcd-a6ee-debaaa394235",
+      "TITLE" : "Spinning Centers",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6CL2rdgPpUEXwWsNjexAZ5|3",
+      "DURATION" : "191",
+      "MUSICBRAINZ_TRACKID" : "5acdc45a-617d-4d53-bc1e-953c09fa121c",
+      "TITLE" : "Appalachia",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6CL2rdgPpUEXwWsNjexAZ5|4",
+      "DURATION" : "32",
+      "MUSICBRAINZ_TRACKID" : "4b818896-50c1-4ce7-8da1-92bd3a988d34",
+      "TITLE" : "I Died With You",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6CL2rdgPpUEXwWsNjexAZ5|5",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "5eb803e0-5306-4c8d-94ee-1918bb555450",
+      "TITLE" : "Boyfriend",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6CL2rdgPpUEXwWsNjexAZ5|6",
+      "DURATION" : "113",
+      "MUSICBRAINZ_TRACKID" : "818738dc-c7f5-4187-97b8-19dd067920d0",
+      "TITLE" : "Our Work Was Good",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6CL2rdgPpUEXwWsNjexAZ5|7",
+      "DURATION" : "153",
+      "MUSICBRAINZ_TRACKID" : "28fc24eb-cfee-4fba-a91b-bff66e9ac642",
+      "TITLE" : "Hyper Oz",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:6CL2rdgPpUEXwWsNjexAZ5|8",
+      "DURATION" : "176",
+      "MUSICBRAINZ_TRACKID" : "27a847dd-bde6-47ea-ae92-7754ef010078",
+      "TITLE" : "Sunstorm",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:6CL2rdgPpUEXwWsNjexAZ5|9",
+      "DURATION" : "262",
+      "MUSICBRAINZ_TRACKID" : "062e1f0f-35f2-4a3c-87f1-6138445f410e",
+      "TITLE" : "Virginia Woolf Underwater",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:6CL2rdgPpUEXwWsNjexAZ5|10",
+      "DURATION" : "212",
+      "MUSICBRAINZ_TRACKID" : "68dfe407-f58f-4268-9a58-a7383b2d86e7",
+      "TITLE" : "Gold",
+      "TRACKNUMBER" : "11"
+   }
+]
