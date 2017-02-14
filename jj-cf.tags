@@ -1,0 +1,68 @@
+﻿[
+   {
+      "@" : "spotify:album:6Rzr5gsWyLVZDwQfk9hAhY",
+      "ALBUM" : "Cloud Factory",
+      "ARTIST" : "Jinjer",
+      "DATE" : "2014-05-01",
+      "DURATION" : "236",
+      "LABEL" : "The Leaders Records",
+      "MUSICBRAINZ_ALBUMID" : "ee16bdb4-6b0a-478b-a429-8e059d2b6e2e",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "51b37017-859c-465e-8810-2d2dd41a401e",
+      "MUSICBRAINZ_RELEASEGROUPID" : "5d592f78-fa6d-438d-833a-3be22ac02f0e",
+      "MUSICBRAINZ_TRACKID" : "eaa88533-6d21-42a5-a479-2ca56f67112f",
+      "TITLE" : "Outlander",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6Rzr5gsWyLVZDwQfk9hAhY|1",
+      "DURATION" : "274",
+      "MUSICBRAINZ_TRACKID" : "eb66f7e3-358f-41cb-9bcd-15948c67b7c3",
+      "TITLE" : "A Plus or a Minus",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6Rzr5gsWyLVZDwQfk9hAhY|2",
+      "DURATION" : "286",
+      "MUSICBRAINZ_TRACKID" : "f0f1a1c5-1fcf-450c-8bc1-4db462c5de3c",
+      "TITLE" : "No Hoard of Value",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6Rzr5gsWyLVZDwQfk9hAhY|3",
+      "DURATION" : "284",
+      "MUSICBRAINZ_TRACKID" : "d79bd0a5-28b5-41c1-abb4-1714268f60b3",
+      "TITLE" : "Cloud Factory",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6Rzr5gsWyLVZDwQfk9hAhY|4",
+      "DURATION" : "331",
+      "MUSICBRAINZ_TRACKID" : "17d40e01-65ed-47a4-8e8c-2103f29a1f8e",
+      "TITLE" : "Who Is Gonna Be the One",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6Rzr5gsWyLVZDwQfk9hAhY|5",
+      "DURATION" : "290",
+      "MUSICBRAINZ_TRACKID" : "9932e78a-2763-4647-a6db-d6125f3b5447",
+      "TITLE" : "When Two Empires Collide",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6Rzr5gsWyLVZDwQfk9hAhY|6",
+      "DURATION" : "188",
+      "MUSICBRAINZ_TRACKID" : "f174c72d-7f0d-4ae5-88dd-8baedddee765",
+      "TITLE" : "Желаю - Значит Получу",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6Rzr5gsWyLVZDwQfk9hAhY|7",
+      "DURATION" : "303",
+      "MUSICBRAINZ_TRACKID" : "3ecc4c4d-74c9-45a6-8578-5ef60fbdea89",
+      "TITLE" : "Bad Water",
+      "TRACKNUMBER" : "8"
+   }
+]

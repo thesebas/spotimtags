@@ -1,0 +1,83 @@
+﻿[
+   {
+      "@" : "spotify:album:4ScWSn4Ce1usmTrBvcDNUX",
+      "ALBUM" : "Inhale. Do Not Breathe",
+      "ARTIST" : "Jinjer",
+      "DATE" : "2013-03-10",
+      "DURATION" : "239",
+      "LABEL" : "The Leaders Records",
+      "MUSICBRAINZ_ALBUMID" : "1da05d72-6ac7-4163-b67a-693b9bedd393",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "EP",
+      "MUSICBRAINZ_ARTISTID" : "51b37017-859c-465e-8810-2d2dd41a401e",
+      "MUSICBRAINZ_RELEASEGROUPID" : "56f38400-fbe0-4e35-aa7f-487640b02a0a",
+      "MUSICBRAINZ_TRACKID" : "8ab3dfca-cf3c-498e-817a-458355c50e59",
+      "ORIGINAL RELEASE DATE" : "2012-02-15",
+      "TITLE" : "Until the End",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:4ScWSn4Ce1usmTrBvcDNUX|1",
+      "DURATION" : "218",
+      "MUSICBRAINZ_TRACKID" : "f5b98dc4-7aba-4e49-a579-00c2e71b149d",
+      "TITLE" : "Waltz",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:4ScWSn4Ce1usmTrBvcDNUX|2",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "ed2643d6-138e-42fd-a205-dcc2d5f10bf3",
+      "TITLE" : "Scissors",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:4ScWSn4Ce1usmTrBvcDNUX|3",
+      "DURATION" : "220",
+      "MUSICBRAINZ_TRACKID" : "9d9a331e-642f-4ec7-aa96-1f0bd633cdc5",
+      "TITLE" : "Exposed as a Liar",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:4ScWSn4Ce1usmTrBvcDNUX|4",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "8895eb83-dc5f-4306-9f9a-59e07807f026",
+      "TITLE" : "My Lost Chance",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:4ScWSn4Ce1usmTrBvcDNUX|5",
+      "DURATION" : "206",
+      "MUSICBRAINZ_TRACKID" : "4b4fba97-7aa7-42bc-9c32-2ac582adfebd",
+      "TITLE" : "Hypocrites & Critics",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:4ScWSn4Ce1usmTrBvcDNUX|6",
+      "DURATION" : "187",
+      "MUSICBRAINZ_TRACKID" : "c68cec14-c3be-4813-aabe-88e2ba8f6b97",
+      "TITLE" : "Objects in Mirror Are Closer Than They Appear",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:4ScWSn4Ce1usmTrBvcDNUX|7",
+      "DURATION" : "210",
+      "MUSICBRAINZ_TRACKID" : "814a8c9b-7d97-46bc-b6fa-4d122a4999e1",
+      "TITLE" : "Destroy (Live)",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:4ScWSn4Ce1usmTrBvcDNUX|8",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "5ba4e969-59f6-4b3a-a0f3-8200954117f5",
+      "TITLE" : "Scissors (Live)",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:4ScWSn4Ce1usmTrBvcDNUX|9",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "6b59094c-09f4-40d1-9dba-02cfa07a297e",
+      "TITLE" : "Waltz (Live)",
+      "TRACKNUMBER" : "10"
+   }
+]

@@ -1,0 +1,82 @@
+﻿[
+   {
+      "@" : "spotify:album:5tPsMHA3GY2q0HtcjNqf3p",
+      "ALBUM" : "King Of Everything",
+      "ARTIST" : "Jinjer",
+      "DATE" : "2016-07-29",
+      "DURATION" : "171",
+      "LABEL" : "Napalm Records",
+      "MUSICBRAINZ_ALBUMID" : "e0355701-9097-4286-b28b-abf0f722214a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "51b37017-859c-465e-8810-2d2dd41a401e",
+      "MUSICBRAINZ_RELEASEGROUPID" : "2cb75a17-1eb9-4c48-a469-729d0ac71a6a",
+      "MUSICBRAINZ_TRACKID" : "d5425122-4dd4-479b-a57d-1e099627ede2",
+      "TITLE" : "Prologue",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5tPsMHA3GY2q0HtcjNqf3p|1",
+      "DURATION" : "286",
+      "MUSICBRAINZ_TRACKID" : "9a60358a-62ea-47a8-8eb2-e1bfc85b0407",
+      "TITLE" : "Captain Clock",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5tPsMHA3GY2q0HtcjNqf3p|2",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "9c304fed-eb4f-4480-a5ee-c240e95e489a",
+      "TITLE" : "Words of Wisdom",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5tPsMHA3GY2q0HtcjNqf3p|3",
+      "DURATION" : "255",
+      "MUSICBRAINZ_TRACKID" : "f93bd436-3b59-4af3-a042-c307874361f9",
+      "TITLE" : "Just Another",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5tPsMHA3GY2q0HtcjNqf3p|4",
+      "DURATION" : "354",
+      "MUSICBRAINZ_TRACKID" : "24bd4905-e3ca-4fa8-9901-be518c41efc0",
+      "TITLE" : "I Speak Astronomy",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5tPsMHA3GY2q0HtcjNqf3p|5",
+      "DURATION" : "262",
+      "MUSICBRAINZ_TRACKID" : "5739a63b-993c-40fa-9628-49702ef02f17",
+      "TITLE" : "Sit, Stay, Roll Over",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5tPsMHA3GY2q0HtcjNqf3p|6",
+      "DURATION" : "292",
+      "MUSICBRAINZ_TRACKID" : "b388db77-382e-497d-9566-b4e9e46d7c8d",
+      "TITLE" : "Under the Dome",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:5tPsMHA3GY2q0HtcjNqf3p|7",
+      "DURATION" : "254",
+      "MUSICBRAINZ_TRACKID" : "16ec38df-64b1-4b79-85e8-f68c279e9480",
+      "TITLE" : "Dip a Sail",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:5tPsMHA3GY2q0HtcjNqf3p|8",
+      "DURATION" : "306",
+      "MUSICBRAINZ_TRACKID" : "7a9b6d6d-e7c2-4e5e-8c3b-0a3fda999472",
+      "TITLE" : "Pisces",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:5tPsMHA3GY2q0HtcjNqf3p|9",
+      "DURATION" : "127",
+      "MUSICBRAINZ_TRACKID" : "cbef7e20-92f9-4648-8318-1845425d7ba9",
+      "TITLE" : "Beggar's Dance",
+      "TRACKNUMBER" : "10"
+   }
+]
