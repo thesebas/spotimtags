@@ -1,0 +1,120 @@
+﻿[
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP",
+      "ALBUM" : "Team Sleep",
+      "ARTIST" : "Team Sleep",
+      "BARCODE" : "093624816027",
+      "CATALOGNUMBER" : "48160-2",
+      "DATE" : "2005-05-10",
+      "DURATION" : "197",
+      "LABEL" : "Maverick",
+      "MUSICBRAINZ_ALBUMID" : "41a41a65-13dd-3017-aeec-d6f80aaeb624",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b1168a9c-a946-4a5c-a005-62fc632dfa0c",
+      "MUSICBRAINZ_RELEASEGROUPID" : "9418235e-eb4b-3c2c-94a7-e0541a10cc53",
+      "MUSICBRAINZ_TRACKID" : "9b576f44-43af-4969-874f-8cb8c17b0137",
+      "ORIGINAL RELEASE DATE" : "2005-05-09",
+      "TITLE" : "Ataraxia",
+      "TOTALTRACKS" : "15",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|1",
+      "DURATION" : "172",
+      "MUSICBRAINZ_TRACKID" : "1aa361d7-a8a0-4cc2-9072-161808b4e6db",
+      "TITLE" : "Ever (Foreign Flag)",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|2",
+      "DURATION" : "222",
+      "MUSICBRAINZ_TRACKID" : "2daf4bc8-fcd1-4f0f-9739-945bc21d8269",
+      "TITLE" : "Your Skull Is Red",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|3",
+      "DURATION" : "308",
+      "MUSICBRAINZ_TRACKID" : "3cfcdf18-8840-41c0-a180-1a6d848c9c90",
+      "TITLE" : "Princeton Review",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|4",
+      "DURATION" : "188",
+      "MUSICBRAINZ_TRACKID" : "0f205ebf-1b4b-40d7-afcc-d8a1e06e714a",
+      "TITLE" : "Blvd. Nights",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|5",
+      "DURATION" : "94",
+      "MUSICBRAINZ_TRACKID" : "bc00ebf6-8d38-4d77-8046-d7fd0890abfb",
+      "TITLE" : "Delorian",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|6",
+      "DURATION" : "281",
+      "MUSICBRAINZ_TRACKID" : "ed6a9f08-6ba1-46ab-bcae-7be15a0be5cd",
+      "TITLE" : "Our Ride to the Rectory",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|7",
+      "DURATION" : "296",
+      "MUSICBRAINZ_TRACKID" : "451c59f7-aa79-4adc-bde0-ff57dd8cbb26",
+      "TITLE" : "Tomb of Liegia",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|8",
+      "DURATION" : "227",
+      "MUSICBRAINZ_TRACKID" : "314ecb06-c65e-41e8-97a9-103578405aa6",
+      "TITLE" : "Elizabeth",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|9",
+      "DURATION" : "185",
+      "MUSICBRAINZ_TRACKID" : "17515399-f046-471b-b46a-078459080c10",
+      "TITLE" : "Staring at the Queen",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|10",
+      "DURATION" : "210",
+      "MUSICBRAINZ_TRACKID" : "c9821adc-1039-4412-83cf-948b73a85578",
+      "TITLE" : "Ever Since WWI",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|11",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "2b8e8bcf-a75e-458b-85ba-7e1639a562af",
+      "TITLE" : "King Diamond",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|12",
+      "DURATION" : "330",
+      "MUSICBRAINZ_TRACKID" : "02b3a70b-ce76-487b-b071-3f9cf065e35f",
+      "TITLE" : "Live From the Stage",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|13",
+      "DURATION" : "103",
+      "MUSICBRAINZ_TRACKID" : "28951e7b-c96b-4e5b-aad5-f97529bdb95f",
+      "TITLE" : "Paris Arm",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:album:7BORauiIbjPkOVRzSq38DP|14",
+      "DURATION" : "198",
+      "MUSICBRAINZ_TRACKID" : "8d9c0b17-7c59-4769-8c3b-8128bdbc617f",
+      "TITLE" : "11/11",
+      "TRACKNUMBER" : "15"
+   }
+]

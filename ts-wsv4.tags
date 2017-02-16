@@ -1,0 +1,77 @@
+﻿[
+   {
+      "@" : "spotify:album:7GKuStAMAlFTNHpXw4T7ys",
+      "ALBUM" : "Woodstock Sessions, Vol. 4",
+      "ARTIST" : "Team Sleep",
+      "BARCODE" : "685450645126",
+      "CATALOGNUMBER" : "WS004",
+      "DATE" : "2015-07-10",
+      "DURATION" : "343",
+      "LABEL" : "Woodstock Sessions",
+      "MUSICBRAINZ_ALBUMID" : "12aec0a1-789a-4fa0-9bea-b8160d93967a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Live",
+      "MUSICBRAINZ_ARTISTID" : "b1168a9c-a946-4a5c-a005-62fc632dfa0c",
+      "MUSICBRAINZ_RELEASEGROUPID" : "e246a890-7aee-4fbc-8b38-f8cf64f83cf7",
+      "MUSICBRAINZ_TRACKID" : "95066576-b4bd-4ac1-85ee-354e43cfe521",
+      "TITLE" : "Your Skull Is Red",
+      "TOTALTRACKS" : "9",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7GKuStAMAlFTNHpXw4T7ys|1",
+      "DURATION" : "266",
+      "MUSICBRAINZ_TRACKID" : "c3e4ef52-79e7-4cb7-8aa1-4a35f244fbb5",
+      "TITLE" : "Formant",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7GKuStAMAlFTNHpXw4T7ys|2",
+      "DURATION" : "270",
+      "MUSICBRAINZ_TRACKID" : "b67df50c-ead5-4b3f-a9f4-72b13629ca69",
+      "TITLE" : "Ever (Foreign Flag)",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7GKuStAMAlFTNHpXw4T7ys|3",
+      "DURATION" : "73",
+      "MUSICBRAINZ_TRACKID" : "83ab8116-4122-4c35-b306-38efae4dcfa8",
+      "TITLE" : "No",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7GKuStAMAlFTNHpXw4T7ys|4",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "920bc242-5aa4-4a4d-b970-1f3229632bc3",
+      "TITLE" : "O.P.",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7GKuStAMAlFTNHpXw4T7ys|5",
+      "DURATION" : "311",
+      "MUSICBRAINZ_TRACKID" : "54792bba-f049-4f98-b7bc-e6856e018e57",
+      "TITLE" : "Princeton Review",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:7GKuStAMAlFTNHpXw4T7ys|6",
+      "DURATION" : "198",
+      "MUSICBRAINZ_TRACKID" : "9b273a3a-f21f-448e-8df3-4611307cbb78",
+      "TITLE" : "Blvd. Nights",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:7GKuStAMAlFTNHpXw4T7ys|7",
+      "DURATION" : "77",
+      "MUSICBRAINZ_TRACKID" : "5509f9b7-9a9d-42bb-a3a9-1919a708cd9b",
+      "TITLE" : "Death by Plane",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:7GKuStAMAlFTNHpXw4T7ys|8",
+      "DURATION" : "489",
+      "MUSICBRAINZ_TRACKID" : "6bd48d60-a4d0-4dcc-ac1f-25933eef79d2",
+      "TITLE" : "Live From the Stage",
+      "TRACKNUMBER" : "9"
+   }
+]
