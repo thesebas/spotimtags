@@ -1,0 +1,53 @@
+﻿[
+   {
+      "@" : "spotify:album:7Gys3aNZTqk5o0bXqcMZwv",
+      "ALBUM" : "Mariner",
+      "ARTIST" : "Cult of Luna & Julie Christmas",
+      "CATALOGNUMBER" : "INDIE168D",
+      "DATE" : "2016-04-08",
+      "DURATION" : "499",
+      "LABEL" : "Indie Recordings",
+      "MEDIA" : "Digital Media",
+      "MUSICBRAINZ_ALBUMID" : "6be85408-1d78-4f5a-aa35-435b969620c7",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : [
+         "d347406f-839d-4423-9a28-188939282afa",
+         "a8af8792-524f-43c2-a6e4-5f4006814858"
+      ],
+      "MUSICBRAINZ_RELEASEGROUPID" : "d734cef9-71e1-4f54-9032-8b15d7d48e75",
+      "MUSICBRAINZ_TRACKID" : "a0a321df-1173-450d-ad6d-163413859202",
+      "RELEASECOUNTRY" : "XW",
+      "TITLE" : "A Greater Call",
+      "TOTALTRACKS" : "5",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7Gys3aNZTqk5o0bXqcMZwv|1",
+      "DURATION" : "534",
+      "MUSICBRAINZ_TRACKID" : "6486ec3c-a5d9-4f36-9d3e-d96ee8eea441",
+      "TITLE" : "Chevron",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7Gys3aNZTqk5o0bXqcMZwv|2",
+      "DURATION" : "574",
+      "MUSICBRAINZ_TRACKID" : "bb3b3d79-0144-4ad3-8289-94e5e5136786",
+      "TITLE" : "The Wreck of S.S. Needle",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7Gys3aNZTqk5o0bXqcMZwv|3",
+      "DURATION" : "779",
+      "MUSICBRAINZ_TRACKID" : "b3714b72-74df-4c4f-bb09-abae796d5ddd",
+      "TITLE" : "Approaching Transition",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7Gys3aNZTqk5o0bXqcMZwv|4",
+      "DURATION" : "890",
+      "MUSICBRAINZ_TRACKID" : "f7353c8f-9f0e-47b1-a81f-e2fdbb509776",
+      "TITLE" : "Cygnus",
+      "TRACKNUMBER" : "5"
+   }
+]

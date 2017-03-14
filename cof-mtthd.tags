@@ -1,0 +1,17 @@
+﻿[
+   {
+      "@" : "spotify:album:30Y3UzgxJ5fA1JZk0olCkT",
+      "ALBUM" : "Marching to the Heartbeats / Dim (Live)",
+      "ARTIST" : "Cult Of Luna",
+      "DISCNUMBER" : "1",
+      "DURATION" : "194",
+      "TITLE" : "Marching to the Heartbeats - Live",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:30Y3UzgxJ5fA1JZk0olCkT|1",
+      "DURATION" : "650",
+      "TITLE" : "Dim - Live",
+      "TRACKNUMBER" : "2"
+   }
+]

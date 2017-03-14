@@ -1,0 +1,73 @@
+﻿[
+   {
+      "@" : "spotify:album:1rdVGFcmOnQzjEsW4fI45P",
+      "ALBUM" : "Salvation",
+      "ARTIST" : "Cult of Luna",
+      "BARCODE" : "745316028323",
+      "CATALOGNUMBER" : "MOSH 283CD",
+      "DATE" : "2004-10-19",
+      "DURATION" : "750",
+      "LABEL" : "Earache Records",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "d3ca9ff2-df78-4f53-accf-c679dc63737b",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "d347406f-839d-4423-9a28-188939282afa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "f76d8b42-d8b0-389f-9bb4-2a5d7473c231",
+      "MUSICBRAINZ_TRACKID" : "47eca8de-483e-41e6-ac60-719b91460f2c",
+      "ORIGINAL RELEASE DATE" : "2004-10-04",
+      "RELEASECOUNTRY" : "US",
+      "TITLE" : "Echoes",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:1rdVGFcmOnQzjEsW4fI45P|1",
+      "DURATION" : "614",
+      "MUSICBRAINZ_TRACKID" : "3f116ba4-34b1-4150-9cb4-918107a74557",
+      "TITLE" : "Vague Illusions",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:1rdVGFcmOnQzjEsW4fI45P|2",
+      "DURATION" : "435",
+      "MUSICBRAINZ_TRACKID" : "a0094ea6-caf3-447e-8634-b20854318208",
+      "TITLE" : "Leave Me Here",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:1rdVGFcmOnQzjEsW4fI45P|3",
+      "DURATION" : "647",
+      "MUSICBRAINZ_TRACKID" : "faf817c7-354f-4c8e-995f-93c31418b583",
+      "TITLE" : "Waiting for You",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:1rdVGFcmOnQzjEsW4fI45P|4",
+      "DURATION" : "440",
+      "MUSICBRAINZ_TRACKID" : "2e286e1d-f1ce-4dc6-91fd-92126b8f6b6a",
+      "TITLE" : "Adrift",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:1rdVGFcmOnQzjEsW4fI45P|5",
+      "DURATION" : "340",
+      "MUSICBRAINZ_TRACKID" : "f1e48a07-4893-47d6-a98d-b15cd51c4e90",
+      "TITLE" : "White Cell",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:1rdVGFcmOnQzjEsW4fI45P|6",
+      "DURATION" : "513",
+      "MUSICBRAINZ_TRACKID" : "5bda7204-a14a-4c07-915f-3afd5475b444",
+      "TITLE" : "Crossing Over",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:1rdVGFcmOnQzjEsW4fI45P|7",
+      "DURATION" : "687",
+      "MUSICBRAINZ_TRACKID" : "c9a032de-232f-4a64-a374-60ea6dd0e411",
+      "TITLE" : "Into the Beyond",
+      "TRACKNUMBER" : "8"
+   }
+]

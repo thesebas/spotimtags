@@ -1,0 +1,66 @@
+﻿[
+   {
+      "@" : "spotify:album:23ISdAi8LzEGzhYETnQe8Q",
+      "ALBUM" : "Somewhere Along the Highway",
+      "ARTIST" : "Cult of Luna",
+      "BARCODE" : "745316034423",
+      "CATALOGNUMBER" : "MOSH 344CD",
+      "DATE" : "2006",
+      "DURATION" : "194",
+      "LABEL" : "Earache Records",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "cc67b1a1-7e25-3c43-875f-35a72aea21ec",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "d347406f-839d-4423-9a28-188939282afa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "aebc4e2f-f900-3ccd-886f-626c2b02eca8",
+      "MUSICBRAINZ_TRACKID" : "611c91e9-eb15-498f-bdbe-f2611be73346",
+      "ORIGINAL RELEASE DATE" : "2006-04-24",
+      "RELEASECOUNTRY" : "US",
+      "TITLE" : "Marching to the Heartbeats",
+      "TOTALTRACKS" : "7",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:23ISdAi8LzEGzhYETnQe8Q|1",
+      "DURATION" : "646",
+      "MUSICBRAINZ_TRACKID" : "c392747d-17d7-412d-97ba-0b8a2ee2cf60",
+      "TITLE" : "Finland",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:23ISdAi8LzEGzhYETnQe8Q|2",
+      "DURATION" : "430",
+      "MUSICBRAINZ_TRACKID" : "5d3a6c75-bc35-42b6-ba6f-c8ab93a56932",
+      "TITLE" : "Back to Chapel Town",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:23ISdAi8LzEGzhYETnQe8Q|3",
+      "DURATION" : "358",
+      "MUSICBRAINZ_TRACKID" : "a05b4400-5058-4301-998c-80a6bd60112f",
+      "TITLE" : "And With Her Came the Birds",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:23ISdAi8LzEGzhYETnQe8Q|4",
+      "DURATION" : "600",
+      "MUSICBRAINZ_TRACKID" : "c7f96939-46d7-454a-8da2-de2729c60c62",
+      "TITLE" : "Thirtyfour",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:23ISdAi8LzEGzhYETnQe8Q|5",
+      "DURATION" : "707",
+      "MUSICBRAINZ_TRACKID" : "dcacaf96-32f0-476d-ad89-6d71e2aac990",
+      "TITLE" : "Dim",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:23ISdAi8LzEGzhYETnQe8Q|6",
+      "DURATION" : "949",
+      "MUSICBRAINZ_TRACKID" : "e517cd67-ebd1-4ade-9fd1-46c924a7becd",
+      "TITLE" : "Dark City, Dead Man",
+      "TRACKNUMBER" : "7"
+   }
+]

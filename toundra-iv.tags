@@ -1,0 +1,70 @@
+﻿[
+   {
+      "@" : "spotify:album:3sWUR0TPpLRbBI88boj5R2",
+      "ALBUM" : "(IV)",
+      "ARTIST" : "Toundra",
+      "DATE" : "2015-01",
+      "DURATION" : "467",
+      "LABEL" : "Superball Music",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "61904fb5-8349-473d-8426-32c35c252af4",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "68766d21-1668-4e06-b49d-e881446afc02",
+      "MUSICBRAINZ_RELEASEGROUPID" : "cbbca3db-655d-4f34-b9bf-e08a604277a7",
+      "MUSICBRAINZ_TRACKID" : "93440188-4c2f-4435-92bf-e4e837d71d4e",
+      "RELEASECOUNTRY" : "XW",
+      "TITLE" : "Strelka",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:3sWUR0TPpLRbBI88boj5R2|1",
+      "DURATION" : "579",
+      "MUSICBRAINZ_TRACKID" : "c867f54e-35f4-4ab8-bb9a-a4636cdd53c2",
+      "TITLE" : "Qarqom",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:3sWUR0TPpLRbBI88boj5R2|2",
+      "DURATION" : "295",
+      "MUSICBRAINZ_TRACKID" : "973e7c11-7d9f-4a58-a720-fb60e919003b",
+      "TITLE" : "Lluvia",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:3sWUR0TPpLRbBI88boj5R2|3",
+      "DURATION" : "443",
+      "MUSICBRAINZ_TRACKID" : "0439e8eb-11a2-40bb-92fc-71250388d0ed",
+      "TITLE" : "Belenos",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:3sWUR0TPpLRbBI88boj5R2|4",
+      "DURATION" : "275",
+      "MUSICBRAINZ_TRACKID" : "1304fa8f-2c88-4d82-92f3-01b0c8b488ce",
+      "TITLE" : "Viesca",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:3sWUR0TPpLRbBI88boj5R2|5",
+      "DURATION" : "497",
+      "MUSICBRAINZ_TRACKID" : "81765f88-a605-46f2-8860-6a52057bd177",
+      "TITLE" : "Kitsune",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:3sWUR0TPpLRbBI88boj5R2|6",
+      "DURATION" : "138",
+      "MUSICBRAINZ_TRACKID" : "137f7693-665d-4bd2-bec3-bd020de99a5b",
+      "TITLE" : "MRWING",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:3sWUR0TPpLRbBI88boj5R2|7",
+      "DURATION" : "391",
+      "MUSICBRAINZ_TRACKID" : "edf6169c-aad1-4280-9b60-8e5dd507032e",
+      "TITLE" : "Oro Rojo",
+      "TRACKNUMBER" : "8"
+   }
+]

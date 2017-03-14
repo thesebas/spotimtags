@@ -1,0 +1,86 @@
+﻿[
+   {
+      "@" : "spotify:album:0xTKV2xjuscGcyVwJJWGQ6",
+      "ALBUM" : "I Was Here for a Moment, Then I Was Gone",
+      "ARTIST" : "Maybeshewill",
+      "BARCODE" : "5055069900148",
+      "CATALOGNUMBER" : "FUNC040",
+      "DATE" : "2011-05-30",
+      "DURATION" : "119",
+      "LABEL" : "Function Records",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "dd366e1c-8c46-487c-804f-664c21cc9e4a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "62495254-237e-4e9e-8ffb-31fede562cfd",
+      "MUSICBRAINZ_RELEASEGROUPID" : "b69742dc-0892-43e1-babd-98450aa91b98",
+      "MUSICBRAINZ_TRACKID" : "a74685a4-5555-4a98-9f50-64b4c5028141",
+      "RELEASECOUNTRY" : "GB",
+      "TITLE" : "Opening",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:0xTKV2xjuscGcyVwJJWGQ6|1",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "9a5146f2-5b1c-4c8e-8692-b299b0fc042a",
+      "TITLE" : "Take This to Heart",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:0xTKV2xjuscGcyVwJJWGQ6|2",
+      "DURATION" : "257",
+      "MUSICBRAINZ_TRACKID" : "d5eb7aa7-d70d-4e38-8144-be3588e7bd40",
+      "TITLE" : "Red Paper Lanterns",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:0xTKV2xjuscGcyVwJJWGQ6|3",
+      "DURATION" : "253",
+      "MUSICBRAINZ_TRACKID" : "bcc547ab-cee2-42e5-ae3a-aaac491dc9fc",
+      "TITLE" : "Critical Distance",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:0xTKV2xjuscGcyVwJJWGQ6|4",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "cc51489a-4660-446a-88e3-fdda09c36256",
+      "TITLE" : "Accolades",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:0xTKV2xjuscGcyVwJJWGQ6|5",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "09b3548b-5985-4e72-b006-e99f31d5aab6",
+      "TITLE" : "An End to Camaraderie",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:0xTKV2xjuscGcyVwJJWGQ6|6",
+      "DURATION" : "246",
+      "MUSICBRAINZ_TRACKID" : "2b1ae798-670a-46f1-9ee8-2908b84445f2",
+      "TITLE" : "Words for Arabella",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:0xTKV2xjuscGcyVwJJWGQ6|7",
+      "DURATION" : "315",
+      "MUSICBRAINZ_TRACKID" : "321c6c2d-10ca-4792-98da-79217376b70f",
+      "TITLE" : "Farewell Sarajevo",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:0xTKV2xjuscGcyVwJJWGQ6|8",
+      "DURATION" : "383",
+      "MUSICBRAINZ_TRACKID" : "23c72178-48bf-4cf2-884c-7aa4e7132ab6",
+      "TITLE" : "Relative Minors",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:0xTKV2xjuscGcyVwJJWGQ6|9",
+      "DURATION" : "312",
+      "MUSICBRAINZ_TRACKID" : "1340aa61-878f-454a-bd2a-37910a3d99be",
+      "TITLE" : "To the Skies From a Hillside",
+      "TRACKNUMBER" : "10"
+   }
+]

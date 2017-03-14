@@ -1,0 +1,178 @@
+﻿[
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24",
+      "ALBUM" : "Geogaddi",
+      "ARTIST" : "Boards of Canada",
+      "BARCODE" : "801061810122",
+      "CATALOGNUMBER" : "WARPCD101",
+      "DATE" : "2002-02-18",
+      "DURATION" : "59",
+      "LABEL" : "Warp",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "1d7d2318-8ac2-34d5-bd5b-ca7aad59e4ba",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "69158f97-4c07-4c4e-baf8-4e4ab1ed666e",
+      "MUSICBRAINZ_RELEASEGROUPID" : "8183834a-6c8a-39ef-a7bc-a82f79b929e9",
+      "MUSICBRAINZ_TRACKID" : "a40aa9a8-af16-484b-8fe9-47cc9c4c81ab",
+      "ORIGINAL RELEASE DATE" : "2002-02-13",
+      "RELEASECOUNTRY" : "GB",
+      "TITLE" : "Ready Lets Go",
+      "TOTALTRACKS" : "23",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|1",
+      "DURATION" : "321",
+      "MUSICBRAINZ_TRACKID" : "f0a4be92-bf11-43e3-90eb-6a47e9bcba0c",
+      "TITLE" : "Music Is Math",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|2",
+      "DURATION" : "38",
+      "MUSICBRAINZ_TRACKID" : "c2e874ec-0376-4afc-8f77-4c6596c5283f",
+      "TITLE" : "Beware the Friendly Stranger",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|3",
+      "DURATION" : "215",
+      "MUSICBRAINZ_TRACKID" : "18828062-8b1e-4b1c-84b9-a3472798789f",
+      "TITLE" : "Gyroscope",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|4",
+      "DURATION" : "75",
+      "MUSICBRAINZ_TRACKID" : "bfe43d24-abf9-4bd0-a64e-f605836c1f1f",
+      "TITLE" : "Dandelion",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|5",
+      "DURATION" : "373",
+      "MUSICBRAINZ_TRACKID" : "2d26541b-4512-49cd-8151-3fe5c7b687be",
+      "TITLE" : "Sunshine Recorder",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|6",
+      "DURATION" : "82",
+      "MUSICBRAINZ_TRACKID" : "11a79554-a2ce-421a-bd06-2ea8c94bdc13",
+      "TITLE" : "In the Annexe",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|7",
+      "DURATION" : "330",
+      "MUSICBRAINZ_TRACKID" : "ef080dc7-57bc-4bfb-b18f-e2a36e8de8b6",
+      "TITLE" : "Julie and Candy",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|8",
+      "DURATION" : "77",
+      "MUSICBRAINZ_TRACKID" : "8697746c-61eb-4081-aac8-618d739739d0",
+      "TITLE" : "The Smallest Weird Number",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|9",
+      "DURATION" : "260",
+      "MUSICBRAINZ_TRACKID" : "1fe9a3b8-8e18-43b9-9f48-4f2d65fef3fe",
+      "TITLE" : "1969",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|10",
+      "DURATION" : "35",
+      "MUSICBRAINZ_TRACKID" : "cd9072f6-15d7-4046-9849-6389a791dcf6",
+      "TITLE" : "Energy Warning",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|11",
+      "DURATION" : "259",
+      "MUSICBRAINZ_TRACKID" : "110ca761-038e-40d8-bcac-42fe96eb0b25",
+      "TITLE" : "The Beach at Redpoint",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|12",
+      "DURATION" : "72",
+      "MUSICBRAINZ_TRACKID" : "fc08d5e5-bbbc-4d0c-8d10-e00f582927e8",
+      "TITLE" : "Opening the Mouth",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|13",
+      "DURATION" : "423",
+      "MUSICBRAINZ_TRACKID" : "3a714783-ab2f-4db9-81c8-34b623eda833",
+      "TITLE" : "Alpha and Omega",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|14",
+      "DURATION" : "27",
+      "MUSICBRAINZ_TRACKID" : "17147d60-f2dc-4620-a302-f68e4f0d9fc1",
+      "TITLE" : "I Saw Drones",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|15",
+      "DURATION" : "233",
+      "MUSICBRAINZ_TRACKID" : "a161a2e9-cc3f-4992-ac47-068ef3b3a8ea",
+      "TITLE" : "The Devil Is in the Details",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|16",
+      "DURATION" : "101",
+      "MUSICBRAINZ_TRACKID" : "1d77d5eb-9d68-490a-8b9f-451922c82167",
+      "TITLE" : "A Is to B as B Is to C",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|17",
+      "DURATION" : "69",
+      "MUSICBRAINZ_TRACKID" : "0d5f5736-3787-4acc-8243-cd5fa6b30c94",
+      "TITLE" : "Over the Horizon Radar",
+      "TRACKNUMBER" : "18"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|18",
+      "DURATION" : "235",
+      "MUSICBRAINZ_TRACKID" : "aa7c93f6-1b5e-4413-af4e-60e0f08e09ca",
+      "TITLE" : "Dawn Chorus",
+      "TRACKNUMBER" : "19"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|19",
+      "DURATION" : "87",
+      "MUSICBRAINZ_TRACKID" : "1a36def5-cf28-4fa1-9515-cfe933f8eb74",
+      "TITLE" : "Diving Station",
+      "TRACKNUMBER" : "20"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|20",
+      "DURATION" : "314",
+      "MUSICBRAINZ_TRACKID" : "939232f4-fb22-46b2-890d-2f4da7e36bbc",
+      "TITLE" : "You Could Feel the Sky",
+      "TRACKNUMBER" : "21"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|21",
+      "DURATION" : "172",
+      "MUSICBRAINZ_TRACKID" : "56259e67-e02c-4fea-a996-7802a48eb127",
+      "TITLE" : "Corsair",
+      "TRACKNUMBER" : "22"
+   },
+   {
+      "@" : "spotify:album:7Lou3RDk6NswmbzBMhro24|22",
+      "DURATION" : "106",
+      "MUSICBRAINZ_TRACKID" : "6f8815cf-9379-4fa9-ac2b-bc7250505408",
+      "TITLE" : "Magic Window",
+      "TRACKNUMBER" : "23"
+   }
+]

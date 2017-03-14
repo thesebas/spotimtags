@@ -1,0 +1,132 @@
+﻿[
+   {
+      "@" : "spotify:track:70vNQj2fnchEc05vzXt1l1",
+      "ALBUM" : "No Man’s Sky: Music for an Infinite Universe",
+      "ARTIST" : "65daysofstatic",
+      "DATE" : "2016-08-05",
+      "DISCNUMBER" : "1",
+      "DISCSUBTITLE" : "No Man’s Sky: Music for an Infinite Universe",
+      "DURATION" : "378",
+      "LABEL" : "Laced Records",
+      "MUSICBRAINZ_ALBUMID" : "421ff6b9-02bb-4d99-827b-fe4bb20f719a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Soundtrack",
+      "MUSICBRAINZ_ARTISTID" : "0cd12ab3-9628-45ef-a97b-ff18624f14a0",
+      "MUSICBRAINZ_RELEASEGROUPID" : "b0fb336e-dfc0-4049-be04-bf4c903b46b9",
+      "MUSICBRAINZ_TRACKID" : "7637fbfe-0675-42bf-af7a-4df6f81a0205",
+      "SPOTIFY:ALBUM" : "spotify:album:0CkuFPWCLJjCAEKy0dce40",
+      "SPOTIFY:ARTIST" : "spotify:artist:6DVVsQAnpHdJjb1nYuOQ6g",
+      "TITLE" : "Monolith",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3NaYEI9hzzLPcysZBd3ZHT",
+      "DURATION" : "262",
+      "MUSICBRAINZ_TRACKID" : "18551bc4-4b65-47c4-9deb-cd5a412e7d4b",
+      "TITLE" : "Supermoon",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:7EScG48xJER8p6tYmqwa6r",
+      "DURATION" : "352",
+      "MUSICBRAINZ_TRACKID" : "ad1dc9de-9caf-4d6d-956c-fb66b0c14220",
+      "TITLE" : "Asimov",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3XsVFEkhhRwkcJkQclyEGK",
+      "DURATION" : "263",
+      "MUSICBRAINZ_TRACKID" : "35dda340-ff1d-4b46-9588-7691931cce94",
+      "TITLE" : "Heliosphere",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6FbDe4KICVC9qb7kTPJaa4",
+      "DURATION" : "354",
+      "MUSICBRAINZ_TRACKID" : "b56b735e-ca59-4e5e-8092-a28ebca402bb",
+      "TITLE" : "Blueprint for a Slow Machine",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:5ajmNVlJbW93XJtd6EPYa2",
+      "DURATION" : "177",
+      "MUSICBRAINZ_TRACKID" : "f85c7413-230b-4e2a-b7db-bd137de60f0d",
+      "TITLE" : "Pillars of Frost",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:1xk5PyHUARWdG05V5MCaFW",
+      "DURATION" : "175",
+      "MUSICBRAINZ_TRACKID" : "257a8abe-421b-429b-a3db-18cc63d4b764",
+      "TITLE" : "Escape Velocity",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:0Wv74YiDIbn8JetsR12YJF",
+      "DURATION" : "287",
+      "MUSICBRAINZ_TRACKID" : "7304edb7-ad2a-4026-bfa7-f1f3b54f9559",
+      "TITLE" : "Red Parallax",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:1u6aJuQVDpUkYhh3QjOzvS",
+      "DURATION" : "173",
+      "MUSICBRAINZ_TRACKID" : "e9ea500c-bed2-42ee-8f0a-050d05f9519a",
+      "TITLE" : "Hypersleep",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:5UVG9k2oce8U4a1XHS9EU0",
+      "DURATION" : "446",
+      "MUSICBRAINZ_TRACKID" : "bd1d0aad-e43a-4e3b-9e38-ca7e33a5ca57",
+      "TITLE" : "End of the World Sun",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:5K4zbxakFL9L2563TKTmUw",
+      "DISCNUMBER" : "2",
+      "DISCSUBTITLE" : "Soundscapes",
+      "DURATION" : "569",
+      "MUSICBRAINZ_TRACKID" : "7d9a3c5e-2d86-400c-8bb4-6dd2a1ae9f5f",
+      "TITLE" : "NMS_exteriorAtmos1/False Suns",
+      "TOTALTRACKS" : "6",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:1NrcBiqVLwYd8R4pbebTbG",
+      "DURATION" : "654",
+      "MUSICBRAINZ_TRACKID" : "868239d0-e9e7-4024-8754-e3fbdd192ace",
+      "TITLE" : "Tomorrow/Lull/Celestial Feedback",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1PyE8PQUrfxjrhoAiNmtXr",
+      "DURATION" : "710",
+      "MUSICBRAINZ_TRACKID" : "01dde02c-59ef-490c-9536-0700e4808764",
+      "TITLE" : "Departure/Shortwave/Noisetest",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:4EYuxxirppGx1yZL1T2byG",
+      "DURATION" : "607",
+      "MUSICBRAINZ_TRACKID" : "8013d72e-3ec2-47e9-a8e1-d982a8ae21dd",
+      "TITLE" : "temporalDissent/ascension_test1/koaecax",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:7KwCdlMSEfkkUEsJa7oGxK",
+      "DURATION" : "532",
+      "MUSICBRAINZ_TRACKID" : "d507b6e7-8245-4fea-a3c4-7c79a84b34d5",
+      "TITLE" : "Borealis/Contrastellar",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:0qVCeHcU4NVM8eRCtji0rZ",
+      "DURATION" : "719",
+      "MUSICBRAINZ_TRACKID" : "7dc18c44-1017-4815-bc6b-4017f75a3316",
+      "TITLE" : "Outlier/EOTWS_Variation1",
+      "TRACKNUMBER" : "6"
+   }
+]

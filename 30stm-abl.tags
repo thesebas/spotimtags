@@ -1,0 +1,110 @@
+﻿[
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h",
+      "ALBUM" : "A Beautiful Lie",
+      "ALBUM ARTIST" : "Thirty Seconds to Mars",
+      "ARTIST" : "30 Seconds to Mars",
+      "BARCODE" : "094639181155",
+      "DATE" : "2007-03-19",
+      "DURATION" : "188",
+      "LABEL" : [ "Immortal Records", "Virgin" ],
+      "MEDIA" : "Digital Media",
+      "MUSICBRAINZ_ALBUMARTISTID" : "d8354b38-e942-4c89-ba93-29323432abc3",
+      "MUSICBRAINZ_ALBUMID" : "0d646cc9-d0d7-4b41-bff0-c60bceba08e6",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "d8354b38-e942-4c89-ba93-29323432abc3",
+      "MUSICBRAINZ_RELEASEGROUPID" : "9621fe3a-e95d-3dfc-885b-bda4338f25a6",
+      "MUSICBRAINZ_TRACKID" : "a83bd4ec-255c-4a97-bfba-b61a2bf95cdc",
+      "ORIGINAL RELEASE DATE" : "2005-08-16",
+      "RELEASECOUNTRY" : "XW",
+      "TITLE" : "Attack",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|1",
+      "DURATION" : "245",
+      "MUSICBRAINZ_TRACKID" : "bff30cbb-1dae-4da5-b4c3-32118bc6a037",
+      "TITLE" : "A Beautiful Lie",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|2",
+      "DURATION" : "232",
+      "MUSICBRAINZ_TRACKID" : "37fed211-1351-4dd6-904d-9f6461f58583",
+      "TITLE" : "The Kill",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|3",
+      "DURATION" : "256",
+      "MUSICBRAINZ_TRACKID" : "43aaa236-ed17-4ac3-91b2-9bfbb631f46f",
+      "TITLE" : "Was It a Dream?",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|4",
+      "DURATION" : "269",
+      "MUSICBRAINZ_TRACKID" : "0af53f02-7cc1-4572-bdf6-c31984e811ec",
+      "TITLE" : "The Fantasy",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|5",
+      "DURATION" : "191",
+      "MUSICBRAINZ_TRACKID" : "64259bd4-c313-48da-8957-e1fddb36c7d0",
+      "TITLE" : "Savior",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|6",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "34b6f23d-4033-4ef6-b1ac-6aebd6ae1317",
+      "TITLE" : "From Yesterday",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|7",
+      "DURATION" : "235",
+      "MUSICBRAINZ_TRACKID" : "a400459f-349e-4272-a7cc-ff5343600f79",
+      "TITLE" : "The Story",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|8",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "aa158259-c597-4c60-9072-7bd89ba065a4",
+      "TITLE" : "R‐Evolve",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|9",
+      "DURATION" : "179",
+      "MUSICBRAINZ_TRACKID" : "9f4c5f23-0679-4046-be97-23d1027eadfb",
+      "TITLE" : "A Modern Myth",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|10",
+      "DURATION" : "167",
+      "MUSICBRAINZ_TRACKID" : "f3d37938-5c3d-4161-9144-e0df340915d6",
+      "TITLE" : "Battle of One",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|11",
+      "DURATION" : "235",
+      "MUSICBRAINZ_TRACKID" : "6c88d637-db5b-4e20-8125-a0c7133848b0",
+      "TITLE" : "Hunter",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:2jPmk6qQzuY5AvKkZxMh7h|12",
+      "ARTIST" : "Thirty Seconds to Mars",
+      "DURATION" : "304",
+      "MUSICBRAINZ_TRACKID" : "ea0bcd9c-d915-40ea-a9be-40036c422f27",
+      "TITLE" : "Attack (live)",
+      "TRACKNUMBER" : "13"
+   }
+]

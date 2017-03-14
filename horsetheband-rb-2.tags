@@ -1,0 +1,84 @@
+﻿[
+   {
+      "@" : "spotify:album:7d8CDV3sAMg0BE0T6hziFk",
+      "ALBUM" : "R. Borlax",
+      "ARTIST" : "HORSE the band",
+      "BARCODE" : "658445001924",
+      "CATALOGNUMBER" : "PLU019",
+      "DATE" : "2003-09-23",
+      "DURATION" : "191",
+      "LABEL" : "Pluto Records",
+      "MUSICBRAINZ_ALBUMID" : "da49fa89-a38c-4b7b-ae71-7bf8e3b57e50",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "0c6b687a-1225-47a1-b6a9-55381755ecf4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "612d4679-b989-349f-88b1-ee253c8e1e59",
+      "MUSICBRAINZ_TRACKID" : "34e43199-ce23-4562-b34e-278b71655678",
+      "TITLE" : "Seven Tentacles and Eight Flames",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:7d8CDV3sAMg0BE0T6hziFk|1",
+      "DURATION" : "231",
+      "MUSICBRAINZ_TRACKID" : "01b4cae9-3f34-470c-84f3-97897a0e5e87",
+      "TITLE" : "Cutsman",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:7d8CDV3sAMg0BE0T6hziFk|2",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "d385ca90-84bd-45fe-9adf-091752c2a4ba",
+      "TITLE" : "In the Wake of the Bunt",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:7d8CDV3sAMg0BE0T6hziFk|3",
+      "DURATION" : "183",
+      "MUSICBRAINZ_TRACKID" : "a7370dc5-ea86-46de-9a33-c9f5fbc587ef",
+      "TITLE" : "Stabbers of the Knife, by Kenny Pelts",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:7d8CDV3sAMg0BE0T6hziFk|4",
+      "DURATION" : "213",
+      "MUSICBRAINZ_TRACKID" : "cea789ef-d7ba-4189-b9bd-21c5870910e0",
+      "TITLE" : "Bunnies",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:7d8CDV3sAMg0BE0T6hziFk|5",
+      "DURATION" : "289",
+      "MUSICBRAINZ_TRACKID" : "766c156c-abc5-4808-b8c3-5dbb5d01eafe",
+      "TITLE" : "Purple",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:7d8CDV3sAMg0BE0T6hziFk|6",
+      "DURATION" : "204",
+      "MUSICBRAINZ_TRACKID" : "4900ed84-5aaa-4b13-bbba-c0c76f00147f",
+      "TITLE" : "Handsome Shoved His Gloves",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:7d8CDV3sAMg0BE0T6hziFk|7",
+      "DURATION" : "84",
+      "MUSICBRAINZ_TRACKID" : "2e706d41-f2b4-48b7-a91a-649645fa8028",
+      "TITLE" : "The Immense Defecation of the Buntaluffigus",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:7d8CDV3sAMg0BE0T6hziFk|8",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "79ede8b1-25fe-4241-af7d-99bc7d593466",
+      "TITLE" : "Pol’s Voice",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:7d8CDV3sAMg0BE0T6hziFk|9",
+      "DURATION" : "195",
+      "MUSICBRAINZ_TRACKID" : "1dac322b-42af-4c12-b73f-b7237b1c5935",
+      "TITLE" : "Big Blue Violence",
+      "TRACKNUMBER" : "10"
+   }
+]

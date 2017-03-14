@@ -1,0 +1,87 @@
+﻿[
+   {
+      "@" : "spotify:album:4DohPAg657rUPoYuLQu218",
+      "ALBUM" : "De‐Loused in the Comatorium",
+      "ARTIST" : "The Mars Volta",
+      "BARCODE" : "602498602980",
+      "CATALOGNUMBER" : "B0000593-02",
+      "DATE" : "2003-06-24",
+      "DURATION" : "95",
+      "LABEL" : "Universal Records",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "78d49ab6-02fc-4542-8b3d-abdcb8838cb0",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "20883363-1ea4-4d72-ad72-c0e767038f3e",
+      "MUSICBRAINZ_RELEASEGROUPID" : "605124dd-0f2a-382b-a8ba-720658c1fe45",
+      "MUSICBRAINZ_TRACKID" : "fadaa416-b683-4eda-947f-dcb6d72e07aa",
+      "ORIGINAL RELEASE DATE" : "2003-06-23",
+      "RELEASECOUNTRY" : "US",
+      "TITLE" : "Son et lumière",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:4DohPAg657rUPoYuLQu218|1",
+      "DURATION" : "264",
+      "MUSICBRAINZ_TRACKID" : "aaaf7e32-a6c6-4143-a873-10bd9d00412b",
+      "TITLE" : "Inertiatic ESP",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:4DohPAg657rUPoYuLQu218|2",
+      "DURATION" : "451",
+      "MUSICBRAINZ_TRACKID" : "1e47d966-988f-4a00-8c69-75210e5f791b",
+      "TITLE" : "Roulette Dares (The Haunt of)",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:4DohPAg657rUPoYuLQu218|3",
+      "DURATION" : "89",
+      "MUSICBRAINZ_TRACKID" : "0fe0dc33-3009-4278-9cf4-1b997a147ec2",
+      "TITLE" : "Tira me a las arañas",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:4DohPAg657rUPoYuLQu218|4",
+      "DURATION" : "426",
+      "MUSICBRAINZ_TRACKID" : "c2d09819-ecab-4213-979a-c0431289776e",
+      "TITLE" : "Drunkship of Lanterns",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:4DohPAg657rUPoYuLQu218|5",
+      "DURATION" : "380",
+      "MUSICBRAINZ_TRACKID" : "fcbda8db-167a-4d22-b36a-c4ed14254b63",
+      "TITLE" : "Eriatarka",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:4DohPAg657rUPoYuLQu218|6",
+      "DURATION" : "749",
+      "MUSICBRAINZ_TRACKID" : "7c22a0f3-0e73-4060-ab48-13b08ef3d012",
+      "TITLE" : "Cicatriz ESP",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:4DohPAg657rUPoYuLQu218|7",
+      "DURATION" : "298",
+      "MUSICBRAINZ_TRACKID" : "18c564d4-19e4-4598-b896-e3e697da5f2c",
+      "TITLE" : "This Apparatus Must Be Unearthed",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:4DohPAg657rUPoYuLQu218|8",
+      "DURATION" : "379",
+      "MUSICBRAINZ_TRACKID" : "35abd28f-c942-4113-a975-ec1252175fbd",
+      "TITLE" : "Televators",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:4DohPAg657rUPoYuLQu218|9",
+      "DURATION" : "522",
+      "MUSICBRAINZ_TRACKID" : "fc9cee4e-7a98-4de9-a83b-1791aa915fcd",
+      "TITLE" : "Take the Veil Cerpin Taxt",
+      "TRACKNUMBER" : "10"
+   }
+]

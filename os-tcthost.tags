@@ -1,0 +1,138 @@
+﻿[
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2",
+      "ALBUM" : "Tom Clancy's \"The Division\" (Original Game Soundtrack)",
+      "ARTIST" : "Ola Strandh",
+      "DATE" : "2016-03-08",
+      "DURATION" : "138",
+      "LABEL" : "Ubisoft Music",
+      "MUSICBRAINZ_ALBUMID" : "b3d0d0da-e884-447b-af44-1a7203176f16",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Soundtrack",
+      "MUSICBRAINZ_ARTISTID" : "c8332d1d-69ba-4132-90ca-66eca665545d",
+      "MUSICBRAINZ_RELEASEGROUPID" : "bba78ac5-6aa0-475f-8f36-41465f92f7b7",
+      "MUSICBRAINZ_TRACKID" : "739b3ade-da5c-408f-9d5c-30c95eea387b",
+      "TITLE" : "Prologue",
+      "TOTALTRACKS" : "18",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|1",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "691882c1-579d-415f-90e2-912d7f9e2048",
+      "TITLE" : "We Are the Division",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|2",
+      "DURATION" : "280",
+      "MUSICBRAINZ_TRACKID" : "4dd874c0-afcd-45ad-ac06-86878805cdf5",
+      "TITLE" : "Precinct Siege",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|3",
+      "DURATION" : "340",
+      "MUSICBRAINZ_TRACKID" : "260abc95-33d7-47c0-b987-400e75a207cd",
+      "TITLE" : "The Garden",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|4",
+      "DURATION" : "263",
+      "MUSICBRAINZ_TRACKID" : "e98d5ec0-14c7-4c6b-9e9f-eb3b60c5303d",
+      "TITLE" : "Dyer",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|5",
+      "DURATION" : "238",
+      "MUSICBRAINZ_TRACKID" : "9c448da5-5e0d-4743-9d64-48301519f280",
+      "TITLE" : "Safehouse",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|6",
+      "DURATION" : "276",
+      "MUSICBRAINZ_TRACKID" : "54588ee5-8144-4c65-8f44-5299e57242df",
+      "TITLE" : "Mortuary",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|7",
+      "DURATION" : "405",
+      "MUSICBRAINZ_TRACKID" : "c574694e-a693-4354-812e-d50af7ddd8ff",
+      "TITLE" : "Times Square",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|8",
+      "DURATION" : "181",
+      "MUSICBRAINZ_TRACKID" : "3c990102-b196-4e0a-a746-d4b358fa096c",
+      "TITLE" : "Grand Central",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|9",
+      "DURATION" : "337",
+      "MUSICBRAINZ_TRACKID" : "bc9843c4-6cbb-4f89-bf50-cf33a442daec",
+      "TITLE" : "Lexington",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|10",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "ea874d5b-5c8c-4318-ba08-fe80ec498830",
+      "TITLE" : "Mall Rats",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|11",
+      "DURATION" : "145",
+      "MUSICBRAINZ_TRACKID" : "fbc4cfef-016e-473b-923c-3a9b06486ac5",
+      "TITLE" : "Skyline",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|12",
+      "DURATION" : "426",
+      "MUSICBRAINZ_TRACKID" : "6087d1d3-f336-4731-918d-2d255869b95d",
+      "TITLE" : "Amherst",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|13",
+      "DURATION" : "329",
+      "MUSICBRAINZ_TRACKID" : "f6ee2924-0405-4065-9b44-cf7c9b142421",
+      "TITLE" : "Ferro",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|14",
+      "DURATION" : "196",
+      "MUSICBRAINZ_TRACKID" : "d6bf6525-c5ce-4417-915d-39b4dc21268b",
+      "TITLE" : "Power Plant",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|15",
+      "DURATION" : "266",
+      "MUSICBRAINZ_TRACKID" : "75535ce8-b233-4eb9-a40c-866b3a123cc8",
+      "TITLE" : "The Academy",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|16",
+      "DURATION" : "223",
+      "MUSICBRAINZ_TRACKID" : "0a52972f-c49e-4b04-93cb-894ff2badb9c",
+      "TITLE" : "Bliss",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:album:5cIdK8l3v0B1jdtWlsvwS2|17",
+      "DURATION" : "226",
+      "MUSICBRAINZ_TRACKID" : "21a28e3a-f7ae-491d-9bd2-e089237c216b",
+      "TITLE" : "Dark Zone",
+      "TRACKNUMBER" : "18"
+   }
+]

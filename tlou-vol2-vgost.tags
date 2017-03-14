@@ -1,0 +1,222 @@
+﻿[
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV",
+      "ALBUM" : "The Last of Us, Volume 2",
+      "ALBUM ARTIST" : "Gustavo Santaolalla",
+      "ARTIST" : "Gustavo Santaolalla",
+      "DATE" : "2014-02-07",
+      "DURATION" : "180",
+      "LABEL" : "Masterworks",
+      "MUSICBRAINZ_ALBUMARTISTID" : "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+      "MUSICBRAINZ_ALBUMID" : "1eb3b107-4176-4c2f-92dd-f54b8494615b",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Soundtrack",
+      "MUSICBRAINZ_ARTISTID" : "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+      "MUSICBRAINZ_RELEASEGROUPID" : "84b9ae7e-ceb5-4369-8c12-f7e280a52ab8",
+      "MUSICBRAINZ_TRACKID" : "6fe2928d-4fb5-4263-9b96-5132b087382f",
+      "TITLE" : "Fleeting",
+      "TOTALTRACKS" : "25",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|1",
+      "DURATION" : "120",
+      "MUSICBRAINZ_TRACKID" : "30972a2f-5f78-4629-81fc-30d80e89db0e",
+      "TITLE" : "All Gone (Seasons)",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|2",
+      "ARTIST" : "Andrew Buresh",
+      "DURATION" : "80",
+      "MUSICBRAINZ_ARTISTID" : "ae468d68-c9c7-456a-9b2a-8ed1a0648a0c",
+      "MUSICBRAINZ_TRACKID" : "18c0d464-8d5b-4223-ba0b-4494ad70cfbf",
+      "TITLE" : "Evasion",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|3",
+      "ARTIST" : "Gustavo Santaolalla",
+      "DURATION" : "137",
+      "MUSICBRAINZ_ARTISTID" : "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+      "MUSICBRAINZ_TRACKID" : "180dc352-7243-4054-b4c4-41849d1efc0c",
+      "TITLE" : "All Gone (Partners)",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|4",
+      "ARTIST" : "JD Mayer",
+      "DURATION" : "135",
+      "MUSICBRAINZ_ARTISTID" : "20c51cfb-de0d-4b94-a09b-c4e8e97d9908",
+      "MUSICBRAINZ_TRACKID" : "bdb0ff05-529a-484e-9cf7-ed1f41e1a23a",
+      "TITLE" : "Cause and Effect",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|5",
+      "ARTIST" : "Gustavo Santaolalla",
+      "DURATION" : "108",
+      "MUSICBRAINZ_ARTISTID" : "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+      "MUSICBRAINZ_TRACKID" : "bb9677d5-892d-4830-aa22-fe1cc87fa4b5",
+      "TITLE" : "All Gone (Reunion)",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|6",
+      "DURATION" : "119",
+      "MUSICBRAINZ_TRACKID" : "4200ba5a-2cb8-40a1-bbff-79ddeb5921bc",
+      "TITLE" : "Stalking",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|7",
+      "DURATION" : "163",
+      "MUSICBRAINZ_TRACKID" : "d24f5f3c-2987-4bec-b107-56a7c0b01325",
+      "TITLE" : "Left Behind (Together)",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|8",
+      "ARTIST" : "Anthony Caruso",
+      "DURATION" : "201",
+      "MUSICBRAINZ_ARTISTID" : "3983c4ec-8c2c-4842-838b-22a2178b3f3b",
+      "MUSICBRAINZ_TRACKID" : "99d2fdbd-19e7-4931-8a01-90fb9ba3411b",
+      "TITLE" : "The Capitol",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|9",
+      "ARTIST" : "Gustavo Santaolalla",
+      "DURATION" : "206",
+      "MUSICBRAINZ_ARTISTID" : "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+      "MUSICBRAINZ_TRACKID" : "3eb3cbc0-c035-4cfc-8792-d649e1ef34eb",
+      "TITLE" : "Head Rush",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|10",
+      "DURATION" : "127",
+      "MUSICBRAINZ_TRACKID" : "8b18ad9d-542c-436f-975d-83314d761f9d",
+      "TITLE" : "Wandering",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|11",
+      "DURATION" : "113",
+      "MUSICBRAINZ_TRACKID" : "021ee520-870e-4334-a0c2-eb41d1688286",
+      "TITLE" : "All Gone (Overcome)",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|12",
+      "DURATION" : "111",
+      "MUSICBRAINZ_TRACKID" : "eab73375-4925-48d8-b3b7-2caab3c9e2b6",
+      "TITLE" : "Unstable",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|13",
+      "DURATION" : "209",
+      "MUSICBRAINZ_TRACKID" : "4cb7194b-4b60-4e60-b6cd-4a23fa8d8b81",
+      "TITLE" : "The Last of Us (Astray)",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|14",
+      "ARTIST" : "JD Mayer",
+      "DURATION" : "75",
+      "MUSICBRAINZ_ARTISTID" : "20c51cfb-de0d-4b94-a09b-c4e8e97d9908",
+      "MUSICBRAINZ_TRACKID" : "4ef1c097-1884-4957-b931-21cde8e5b26d",
+      "TITLE" : "Answers",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|15",
+      "ARTIST" : "Gustavo Santaolalla",
+      "DURATION" : "70",
+      "MUSICBRAINZ_ARTISTID" : "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+      "MUSICBRAINZ_TRACKID" : "ed87027b-d85e-4f8b-8e4c-b6bc2c599e59",
+      "TITLE" : "Drawn In",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|16",
+      "ARTIST" : "JD Mayer",
+      "DURATION" : "93",
+      "MUSICBRAINZ_ARTISTID" : "20c51cfb-de0d-4b94-a09b-c4e8e97d9908",
+      "MUSICBRAINZ_TRACKID" : "9851af8b-6bd9-4af6-a553-a757ed1f1c65",
+      "TITLE" : "Apprehension",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|17",
+      "ARTIST" : "Gustavo Santaolalla",
+      "DURATION" : "179",
+      "MUSICBRAINZ_ARTISTID" : "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+      "MUSICBRAINZ_TRACKID" : "a74802ff-4854-4d19-b893-4889deba40dd",
+      "TITLE" : "The Path (Vacant)",
+      "TRACKNUMBER" : "18"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|18",
+      "ARTIST" : "JD Mayer",
+      "DURATION" : "170",
+      "MUSICBRAINZ_ARTISTID" : "20c51cfb-de0d-4b94-a09b-c4e8e97d9908",
+      "MUSICBRAINZ_TRACKID" : "3c8eee50-1dd3-49f0-bace-d453d0510a93",
+      "TITLE" : "Convergence",
+      "TRACKNUMBER" : "19"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|19",
+      "ARTIST" : "Gustavo Santaolalla",
+      "DURATION" : "59",
+      "MUSICBRAINZ_ARTISTID" : "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+      "MUSICBRAINZ_TRACKID" : "ef833c7b-9912-4bff-8b0e-509262aaa70a",
+      "TITLE" : "Shadows",
+      "TRACKNUMBER" : "20"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|20",
+      "DURATION" : "154",
+      "MUSICBRAINZ_TRACKID" : "565b1216-feb5-45c4-9795-dcfb6ed1281f",
+      "TITLE" : "No Mercy",
+      "TRACKNUMBER" : "21"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|21",
+      "DURATION" : "108",
+      "MUSICBRAINZ_TRACKID" : "3f13ae8c-3421-47b7-8ef4-b64c2b656354",
+      "TITLE" : "Fleeting (Affection)",
+      "TRACKNUMBER" : "22"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|22",
+      "ARTIST" : "Andrew Buresh",
+      "DURATION" : "116",
+      "MUSICBRAINZ_ARTISTID" : "ae468d68-c9c7-456a-9b2a-8ed1a0648a0c",
+      "MUSICBRAINZ_TRACKID" : "2d6f0a33-26ab-4f24-bff2-6dfa7108a8b7",
+      "TITLE" : "Extinction",
+      "TRACKNUMBER" : "23"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|23",
+      "ARTIST" : "Anthony Caruso & JD Mayer",
+      "DURATION" : "255",
+      "MUSICBRAINZ_ARTISTID" : [
+         "3983c4ec-8c2c-4842-838b-22a2178b3f3b",
+         "20c51cfb-de0d-4b94-a09b-c4e8e97d9908"
+      ],
+      "MUSICBRAINZ_TRACKID" : "99d5423a-fd2b-489a-9a78-1071d44a4cd8",
+      "TITLE" : "Consumed",
+      "TRACKNUMBER" : "24"
+   },
+   {
+      "@" : "spotify:album:4NXjMFIEp6eJWM3ZRxWDoV|24",
+      "ARTIST" : "Gustavo Santaolalla",
+      "DURATION" : "235",
+      "MUSICBRAINZ_ARTISTID" : "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+      "MUSICBRAINZ_TRACKID" : "271ecd18-40dc-4bd7-adfc-9c685ea0aac5",
+      "TITLE" : "Left Behind",
+      "TRACKNUMBER" : "25"
+   }
+]

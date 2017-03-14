@@ -1,0 +1,87 @@
+﻿[
+   {
+      "@" : "spotify:album:38yH5jK8lotnt1HfVvXLEP",
+      "ALBUM" : "The Beyond",
+      "ARTIST" : "Cult of Luna",
+      "BARCODE" : "745316026329",
+      "CATALOGNUMBER" : "MOSH 263CD",
+      "DATE" : "2003-02-10",
+      "DURATION" : "45",
+      "LABEL" : "Earache Records",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "649d1c49-3018-4a0b-b0cc-3ed64c39e373",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "d347406f-839d-4423-9a28-188939282afa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "236316f7-c919-3986-918b-25e135ba8000",
+      "MUSICBRAINZ_TRACKID" : "30031f61-2030-4c43-ba9b-af5bdbe83760",
+      "ORIGINAL RELEASE DATE" : "2002",
+      "RELEASECOUNTRY" : "US",
+      "TITLE" : "Inside Fort Meade",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:38yH5jK8lotnt1HfVvXLEP|1",
+      "DURATION" : "489",
+      "MUSICBRAINZ_TRACKID" : "dfeca430-1108-4a28-bf52-69b4f40be3a1",
+      "TITLE" : "Receiver",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:38yH5jK8lotnt1HfVvXLEP|2",
+      "DURATION" : "698",
+      "MUSICBRAINZ_TRACKID" : "728e675a-4ad4-4e5f-9a87-21251f4b0340",
+      "TITLE" : "Genesis",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:38yH5jK8lotnt1HfVvXLEP|3",
+      "DURATION" : "379",
+      "MUSICBRAINZ_TRACKID" : "eb9b3ca1-fa20-452f-ba89-a739055e03a6",
+      "TITLE" : "The Watchtower",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:38yH5jK8lotnt1HfVvXLEP|4",
+      "DURATION" : "491",
+      "MUSICBRAINZ_TRACKID" : "78ca50f2-55e3-449f-a1da-db2e260f029e",
+      "TITLE" : "Circle",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:38yH5jK8lotnt1HfVvXLEP|5",
+      "DURATION" : "574",
+      "MUSICBRAINZ_TRACKID" : "0e15b73b-051c-4187-a4f9-af0440d4c5f0",
+      "TITLE" : "Arrival",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:38yH5jK8lotnt1HfVvXLEP|6",
+      "DURATION" : "469",
+      "MUSICBRAINZ_TRACKID" : "c30fa8b5-1e59-481d-ae0c-382497a146d5",
+      "TITLE" : "Leash",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:38yH5jK8lotnt1HfVvXLEP|7",
+      "DURATION" : "140",
+      "MUSICBRAINZ_TRACKID" : "89ea141f-6063-4f3d-a648-6028d49f76f8",
+      "TITLE" : "Clones",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:38yH5jK8lotnt1HfVvXLEP|8",
+      "DURATION" : "528",
+      "MUSICBRAINZ_TRACKID" : "10ab1e1a-06ee-4db2-b615-19ba96b0753d",
+      "TITLE" : "Deliverance",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:38yH5jK8lotnt1HfVvXLEP|9",
+      "DURATION" : "684",
+      "MUSICBRAINZ_TRACKID" : "95aedcab-1943-4138-b628-dde3bec8de93",
+      "TITLE" : "Further",
+      "TRACKNUMBER" : "10"
+   }
+]

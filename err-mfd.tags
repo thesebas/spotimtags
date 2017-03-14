@@ -1,0 +1,72 @@
+﻿[
+   {
+      "@" : "spotify:track:1fLOvLE1XRpvHpLkRHzSym",
+      "ALBUM" : "Marked For Death",
+      "ARTIST" : "Emma Ruth Rundle",
+      "BARCODE" : "634457726529",
+      "CATALOGNUMBER" : "SH 162",
+      "DATE" : "2016-09-30",
+      "DURATION" : "220",
+      "LABEL" : "Sargent House",
+      "MUSICBRAINZ_ALBUMID" : "03bfbbea-d619-4124-b554-400b02eefab6",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "7ba593b9-79d4-4860-92c8-ade2a1ef4551",
+      "MUSICBRAINZ_RELEASEGROUPID" : "54ec3bc5-e3b2-4f62-ae82-8f763fd4babf",
+      "MUSICBRAINZ_TRACKID" : "3b468c85-2ccf-4a32-8e78-0314caafc1de",
+      "SPOTIFY:ALBUM" : "spotify:album:6e5Hr71kvlsrTaNoiuqWu4",
+      "SPOTIFY:ARTIST" : "spotify:artist:34gLicNdz493863yZTanvC",
+      "TITLE" : "Marked for Death",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:39XuNEmD3MFlC5l55vJQFC",
+      "DURATION" : "299",
+      "MUSICBRAINZ_TRACKID" : "6ee29bf3-3f28-427f-af15-ff002997d96c",
+      "TITLE" : "Protection",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:2N6n44RiTxC4pAsB21vZb8",
+      "DURATION" : "320",
+      "MUSICBRAINZ_TRACKID" : "c3018f60-3209-4e7a-a573-915686bbd021",
+      "TITLE" : "Medusa",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5sjzuV5VngL4KmhYCf8ic3",
+      "DURATION" : "274",
+      "MUSICBRAINZ_TRACKID" : "0f567ec0-5f09-4035-8b58-0d826f6ef903",
+      "TITLE" : "Hand of God",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6PSrvpO0vKMkQVqZjQOfcw",
+      "DURATION" : "310",
+      "MUSICBRAINZ_TRACKID" : "f1e22338-0b58-47ed-b3c5-86af681effc6",
+      "TITLE" : "Heaven",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:2FFafYYCkfqRWvaUeY9kVC",
+      "DURATION" : "264",
+      "MUSICBRAINZ_TRACKID" : "f50b159c-4aa1-428f-ba5e-b618afe472f0",
+      "TITLE" : "So, Come",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:71S3QIyBSJiBeRVPeCKehm",
+      "DURATION" : "255",
+      "MUSICBRAINZ_TRACKID" : "77b36f4e-36cf-40bd-9436-d4dbf29600c3",
+      "TITLE" : "Furious Angel",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:06CSQJvga0V5o3T2mSLu82",
+      "DURATION" : "353",
+      "MUSICBRAINZ_TRACKID" : "8489a9e5-8cfc-4bf5-bac8-9404b1c204af",
+      "TITLE" : "Real Big Sky",
+      "TRACKNUMBER" : "8"
+   }
+]

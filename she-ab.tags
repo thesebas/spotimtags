@@ -1,0 +1,54 @@
+﻿[
+   {
+      "@" : "spotify:album:6YidzvYHgMBY9UMxRT19RN",
+      "ALBUM" : "Abyss",
+      "ARTIST" : "she",
+      "DATE" : "2016-10-10",
+      "DURATION" : "141",
+      "LABEL" : "[no label]",
+      "MUSICBRAINZ_ALBUMID" : "7f40bb6c-cc00-46a2-ba49-558b3c0db534",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "EP",
+      "MUSICBRAINZ_ARTISTID" : "99e34e68-0320-4c3e-901d-0a307ed504a4",
+      "MUSICBRAINZ_RELEASEGROUPID" : "e1e1cb1d-3fbc-4281-8ae0-0e34fc8a072e",
+      "MUSICBRAINZ_TRACKID" : "ac1563fb-b9a6-4e75-aa81-cc7000fd014a",
+      "TITLE" : "Abyss",
+      "TOTALTRACKS" : "6",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6YidzvYHgMBY9UMxRT19RN|1",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "0a946cce-c5c8-4312-b943-9b52bf231822",
+      "TITLE" : "Dualism",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6YidzvYHgMBY9UMxRT19RN|2",
+      "DURATION" : "182",
+      "MUSICBRAINZ_TRACKID" : "e3629a7a-11b9-42c9-87e9-5c7d9ff16528",
+      "TITLE" : "Prismatic",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6YidzvYHgMBY9UMxRT19RN|3",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "ab4206cb-092d-40b9-b1ac-f8b146f3f1e6",
+      "TITLE" : "Waves",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6YidzvYHgMBY9UMxRT19RN|4",
+      "DURATION" : "152",
+      "MUSICBRAINZ_TRACKID" : "071282cd-fda9-407c-8179-ab05bbb203b1",
+      "TITLE" : "Love in Motion",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6YidzvYHgMBY9UMxRT19RN|5",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "7bb84c73-fb39-488d-8a7f-705506d0f09a",
+      "TITLE" : "Submerge",
+      "TRACKNUMBER" : "6"
+   }
+]

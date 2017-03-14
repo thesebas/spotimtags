@@ -1,0 +1,57 @@
+﻿[
+   {
+      "@" : "spotify:album:1rS1OcTQvrz4tmSinC1wnW",
+      "ALBUM" : "III",
+      "ARTIST" : "Toundra",
+      "CATALOGNUMBER" : "Aloud026CD",
+      "DATE" : "2012-08-27",
+      "DURATION" : "477",
+      "LABEL" : "Aloud Music Ltd.",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "ceaa4406-4225-4e3a-89d5-8bbe69af9f47",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "68766d21-1668-4e06-b49d-e881446afc02",
+      "MUSICBRAINZ_RELEASEGROUPID" : "406c439b-6193-4044-9eb6-7153d1cdb72f",
+      "MUSICBRAINZ_TRACKID" : "66a90d83-b627-497a-ae78-701fb88696ff",
+      "RELEASECOUNTRY" : "ES",
+      "TITLE" : "Ara Caeli",
+      "TOTALTRACKS" : "6",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:1rS1OcTQvrz4tmSinC1wnW|1",
+      "DURATION" : "360",
+      "MUSICBRAINZ_TRACKID" : "6844918f-9784-41c7-9158-7aba02e7be41",
+      "TITLE" : "Cielo Negro (Black Sky)",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:1rS1OcTQvrz4tmSinC1wnW|2",
+      "DURATION" : "335",
+      "MUSICBRAINZ_TRACKID" : "f82e021b-bbfd-4e88-901f-79498d0f81f7",
+      "TITLE" : "Requiem",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:1rS1OcTQvrz4tmSinC1wnW|3",
+      "DURATION" : "325",
+      "MUSICBRAINZ_TRACKID" : "27cac4eb-48b2-467d-92ed-f3cdfb45a81b",
+      "TITLE" : "Marte (Mars)",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:1rS1OcTQvrz4tmSinC1wnW|4",
+      "DURATION" : "445",
+      "MUSICBRAINZ_TRACKID" : "52fa957e-b4cd-486d-a00d-b48bb32f9a36",
+      "TITLE" : "Lilim",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:1rS1OcTQvrz4tmSinC1wnW|5",
+      "DURATION" : "477",
+      "MUSICBRAINZ_TRACKID" : "9c43c0d7-861b-4d7a-a939-fec9eae06d3d",
+      "TITLE" : "Espírita",
+      "TRACKNUMBER" : "6"
+   }
+]

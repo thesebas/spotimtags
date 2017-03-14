@@ -1,0 +1,59 @@
+﻿[
+   {
+      "@" : "spotify:album:4bQAT0zEt7tMKUgXUivZA8",
+      "ALBUM" : "asbestoscape",
+      "ARTIST" : "asbestoscape",
+      "DATE" : "2007",
+      "DURATION" : "301",
+      "MUSICBRAINZ_ALBUMID" : "b3f2ae39-05f4-4940-8f98-8c5615a98083",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b295f1be-5b53-4cb5-aff6-1ab9b66d5007",
+      "MUSICBRAINZ_RELEASEGROUPID" : "137cabc3-7a80-36aa-81d0-00fc440b63d6",
+      "MUSICBRAINZ_TRACKID" : "3a9f0876-b2c6-4db5-bd51-4bb59fe94596",
+      "TITLE" : "Arctic",
+      "TOTALTRACKS" : "7",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:4bQAT0zEt7tMKUgXUivZA8|1",
+      "DURATION" : "282",
+      "MUSICBRAINZ_TRACKID" : "2451d539-6322-4dcc-9a39-79e74c67834b",
+      "TITLE" : "Return",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:4bQAT0zEt7tMKUgXUivZA8|2",
+      "DURATION" : "458",
+      "MUSICBRAINZ_TRACKID" : "7aad560b-9380-4b0e-89e9-e72637a3fd51",
+      "TITLE" : "Mono",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:4bQAT0zEt7tMKUgXUivZA8|3",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "ba9d4ff7-691c-4610-b451-d0b732836ed8",
+      "TITLE" : "And So the Story Goes...",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:4bQAT0zEt7tMKUgXUivZA8|4",
+      "MUSICBRAINZ_TRACKID" : "b995a28d-11c4-4f62-aa89-fa79e40e15b5",
+      "TITLE" : "Like Shit Attracting Flies",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:4bQAT0zEt7tMKUgXUivZA8|5",
+      "DURATION" : "165",
+      "MUSICBRAINZ_TRACKID" : "5742095f-4079-4a67-9f48-9d9b2b7270b8",
+      "TITLE" : "Ashen",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:4bQAT0zEt7tMKUgXUivZA8|6",
+      "DURATION" : "366",
+      "MUSICBRAINZ_TRACKID" : "10b9c6b1-6a96-4043-b0e4-078379303f2d",
+      "TITLE" : "Thursday",
+      "TRACKNUMBER" : "7"
+   }
+]

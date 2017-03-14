@@ -1,0 +1,87 @@
+﻿[
+   {
+      "@" : "spotify:album:51fF4JNsyx99YAWixRgmVh",
+      "ALBUM" : "Eternal Kingdom",
+      "ARTIST" : "Cult of Luna",
+      "BARCODE" : "745316035925",
+      "CATALOGNUMBER" : "MOSH359",
+      "DATE" : "2008",
+      "DURATION" : "460",
+      "LABEL" : "Earache Records",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "154bdebf-9bc8-3c27-9089-c42ed5e7aa2b",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "d347406f-839d-4423-9a28-188939282afa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "8859f36d-cb3b-3cbe-b6f1-1ecee2adf17f",
+      "MUSICBRAINZ_TRACKID" : "b59dc228-8d69-4924-b454-9a25d13ed7fe",
+      "ORIGINAL RELEASE DATE" : "2008-06-16",
+      "RELEASECOUNTRY" : "US",
+      "TITLE" : "Owlwood",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:51fF4JNsyx99YAWixRgmVh|1",
+      "DURATION" : "401",
+      "MUSICBRAINZ_TRACKID" : "c233274e-d40f-4135-8572-a1e6d44f37ab",
+      "TITLE" : "Eternal Kingdom",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:51fF4JNsyx99YAWixRgmVh|2",
+      "DURATION" : "710",
+      "MUSICBRAINZ_TRACKID" : "5d2c30ad-4c8e-4be9-be9f-c779d9f98296",
+      "TITLE" : "Ghost Trail",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:51fF4JNsyx99YAWixRgmVh|3",
+      "DURATION" : "154",
+      "MUSICBRAINZ_TRACKID" : "5e302e1a-041b-4746-8b6e-0f54df0d7a86",
+      "TITLE" : "The Lure (interlude)",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:51fF4JNsyx99YAWixRgmVh|4",
+      "DURATION" : "311",
+      "MUSICBRAINZ_TRACKID" : "e5c25bb1-858a-43bb-bf1c-cfcb45f17d18",
+      "TITLE" : "Mire Deep",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:51fF4JNsyx99YAWixRgmVh|5",
+      "DURATION" : "392",
+      "MUSICBRAINZ_TRACKID" : "bf99463f-ee47-46c0-96f8-31afa460b879",
+      "TITLE" : "The Great Migration",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:51fF4JNsyx99YAWixRgmVh|6",
+      "DURATION" : "139",
+      "MUSICBRAINZ_TRACKID" : "6693258e-aeb7-440c-aa28-3d0145a51368",
+      "TITLE" : "Österbotten",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:51fF4JNsyx99YAWixRgmVh|7",
+      "DURATION" : "391",
+      "MUSICBRAINZ_TRACKID" : "045f7b8b-b500-4a14-81db-68f6f003524a",
+      "TITLE" : "Curse",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:51fF4JNsyx99YAWixRgmVh|8",
+      "DURATION" : "164",
+      "MUSICBRAINZ_TRACKID" : "502f66c6-f826-44bf-b880-de7e6ed0d345",
+      "TITLE" : "Ugín",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:51fF4JNsyx99YAWixRgmVh|9",
+      "DURATION" : "536",
+      "MUSICBRAINZ_TRACKID" : "b5bd2a8b-0628-4ac9-b5ed-f2756d789b1d",
+      "TITLE" : "Following Betulas",
+      "TRACKNUMBER" : "10"
+   }
+]

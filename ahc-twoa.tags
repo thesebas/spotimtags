@@ -1,0 +1,128 @@
+﻿[
+   {
+      "@" : "spotify:track:0e9u4wSCIrTAPZdMv71lDQ",
+      "ALBUM" : "The War of Art",
+      "ARTIST" : "American Head Charge",
+      "BARCODE" : "731458632726",
+      "CATALOGNUMBER" : "314 586 327-2",
+      "DATE" : "2001-08-21",
+      "DURATION" : "252",
+      "LABEL" : "American Recordings",
+      "MUSICBRAINZ_ALBUMID" : "4cd3b9e0-4944-455b-9ecb-209f17656c0d",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "9d4e0a6c-7b56-4c51-99e2-5bb03995c5b1",
+      "MUSICBRAINZ_RELEASEGROUPID" : "f0f5ebc5-d6fa-32d2-97c4-e64f34ac79fe",
+      "MUSICBRAINZ_TRACKID" : "6fc248d7-a43b-4cef-8057-8d17badf8a31",
+      "SPOTIFY:ALBUM" : "spotify:album:4J1sDftkKHy8ohSvjOgUc9",
+      "SPOTIFY:ARTIST" : "spotify:artist:6Ig4qybKXgMN2FLSM7GKau",
+      "TITLE" : "A Violent Reaction",
+      "TOTALTRACKS" : "16",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:39Y0pK0TGtOdaDr90zg5C3",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "0bb5f3a4-a8f3-485a-8a24-47e623b09bb5",
+      "TITLE" : "Pushing the Envelope",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:1bAz8u5d0enlXIUFIqbMha",
+      "DURATION" : "251",
+      "MUSICBRAINZ_TRACKID" : "836a6b68-ea7a-4c40-a316-f22aea14526c",
+      "TITLE" : "Song for the Suspect",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:3iVxNT8RD1gZmmY90JZbTR",
+      "DURATION" : "296",
+      "MUSICBRAINZ_TRACKID" : "313c348d-2983-47c3-94a0-bbad0c0fe7a4",
+      "TITLE" : "Never Get Caught",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:33hZKyMf7l6J3B9XSZoX5M",
+      "DURATION" : "261",
+      "MUSICBRAINZ_TRACKID" : "a228e1f3-24df-475c-b17e-e218bf119c02",
+      "TITLE" : "Self",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:22BfiVybhTRsSTZAtS4YMv",
+      "DURATION" : "332",
+      "MUSICBRAINZ_TRACKID" : "25bf2431-391e-4fbf-bdba-ce7bb637754b",
+      "TITLE" : "Just So You Know",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:0c0EsKuM5zAZn56RvRmmj3",
+      "DURATION" : "268",
+      "MUSICBRAINZ_TRACKID" : "524502ae-d454-4779-8913-fcfec0a1a816",
+      "TITLE" : "Seamless",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:3qMbRAaGv9ldQdFTFVHyEl",
+      "DURATION" : "250",
+      "MUSICBRAINZ_TRACKID" : "d9eac80b-8ba9-47c3-a7ca-01c4c5345558",
+      "TITLE" : "Effigy 23",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:4MTjTnKBXYZhdWWmoAa4Q1",
+      "DURATION" : "153",
+      "MUSICBRAINZ_TRACKID" : "25ee9102-2911-4609-af8d-8d403bc40149",
+      "TITLE" : "Americunt Evolving Into Useless Psychic Garbage",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:4gBs8uooKVDdm3eVaURFkJ",
+      "DURATION" : "306",
+      "MUSICBRAINZ_TRACKID" : "0859f8f0-57f6-4883-8d55-40c4879134ee",
+      "TITLE" : "Shutdown",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:3nHsT3z415GWOiY40swg7r",
+      "DURATION" : "195",
+      "MUSICBRAINZ_TRACKID" : "0977a959-23b3-40b2-9a8c-86269eb53a8e",
+      "TITLE" : "We Believe",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:6FZT15QAA3LpX98EoGpoP6",
+      "DURATION" : "268",
+      "MUSICBRAINZ_TRACKID" : "21222478-6c65-465c-ae43-e2f6a6488b43",
+      "TITLE" : "Breathe In, Bleed Out",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:14ShDanrC0eANhwUjRiZCP",
+      "DURATION" : "270",
+      "MUSICBRAINZ_TRACKID" : "ba608205-1e1a-40c5-93c8-82e9ac37ddfb",
+      "TITLE" : "Fall",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:26TYu4ByC4lAVnJkh7bGRM",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "07a6d6f8-2c76-4d80-a303-603ce12b1a75",
+      "TITLE" : "Reach and Touch",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:4PU7cQPw2qSLbW0KLjhgsV",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "91947097-c963-40b0-8f9a-81911af75b22",
+      "TITLE" : "All Wrapped Up",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:5vKDBvZ2vU48q3AeiRHk5Q",
+      "DURATION" : "329",
+      "MUSICBRAINZ_TRACKID" : "ac4eeb54-1f34-43e8-b708-5c8481093a17",
+      "TITLE" : "Nothing Gets Nothing",
+      "TRACKNUMBER" : "16"
+   }
+]

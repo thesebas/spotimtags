@@ -1,0 +1,84 @@
+﻿[
+   {
+      "@" : "spotify:album:15BHLThT6hNPPpFhrDegNg",
+      "ALBUM" : "Hewi Metal",
+      "ARTIST" : "Nocny Kochanek",
+      "BARCODE" : "5901844914537",
+      "DATE" : "2015-11-06",
+      "DURATION" : "268",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "2f10ada6-bece-4b93-9df2-517e6e91f957",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "460cd979-52d1-48a8-95be-d37248d71fd1",
+      "MUSICBRAINZ_RELEASEGROUPID" : "b65a12c6-d94e-4a96-8070-124b8a8bea2d",
+      "MUSICBRAINZ_TRACKID" : "e3328d07-2235-4a3f-ae74-3e289ddf6760",
+      "RELEASECOUNTRY" : "PL",
+      "TITLE" : "Karate",
+      "TOTALTRACKS" : "10",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:15BHLThT6hNPPpFhrDegNg|1",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "38ebf54d-ab95-4857-9879-d016fa44c175",
+      "TITLE" : "Dej mu",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:15BHLThT6hNPPpFhrDegNg|2",
+      "DURATION" : "209",
+      "MUSICBRAINZ_TRACKID" : "dff9cd29-a77b-4996-9632-32fe3e58a517",
+      "TITLE" : "Wielki Wojownik",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:15BHLThT6hNPPpFhrDegNg|3",
+      "DURATION" : "205",
+      "MUSICBRAINZ_TRACKID" : "c06e86bc-5235-47f6-bbb4-7c454c60dfd1",
+      "TITLE" : "Andżeju…",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:15BHLThT6hNPPpFhrDegNg|4",
+      "DURATION" : "361",
+      "MUSICBRAINZ_TRACKID" : "482bc9fd-8fb9-47b6-900f-3f9b30dc353c",
+      "TITLE" : "Zaplątany",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:15BHLThT6hNPPpFhrDegNg|5",
+      "DURATION" : "262",
+      "MUSICBRAINZ_TRACKID" : "021fb3ff-60d4-4e05-a3e3-78c5eef281e4",
+      "TITLE" : "Wakacyjny",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:15BHLThT6hNPPpFhrDegNg|6",
+      "DURATION" : "137",
+      "MUSICBRAINZ_TRACKID" : "4c1082f4-e996-4f33-9de7-fedd0a7e0f96",
+      "TITLE" : "Minerał Fiutta",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:15BHLThT6hNPPpFhrDegNg|7",
+      "DURATION" : "321",
+      "MUSICBRAINZ_TRACKID" : "7444d424-cfa2-4d3c-9754-9cb285126012",
+      "TITLE" : "Diabeł z piekła",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:15BHLThT6hNPPpFhrDegNg|8",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "614130d5-c77c-4178-b739-4f4ff544f04e",
+      "TITLE" : "Piątunio",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:15BHLThT6hNPPpFhrDegNg|9",
+      "DURATION" : "200",
+      "MUSICBRAINZ_TRACKID" : "fbbbe0df-5807-4f01-a1a6-57489baac1c2",
+      "TITLE" : "Ostatni numer",
+      "TRACKNUMBER" : "10"
+   }
+]

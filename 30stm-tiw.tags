@@ -1,0 +1,103 @@
+﻿[
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx",
+      "ALBUM" : "This Is War",
+      "ALBUM ARTIST" : "Thirty Seconds to Mars",
+      "ARTIST" : "30 Seconds to Mars",
+      "BARCODE" : "5099996511121",
+      "CATALOGNUMBER" : "509999 65111 2 1",
+      "DATE" : "2009-12-08",
+      "DURATION" : "144",
+      "LABEL" : "Virgin Records America",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMARTISTID" : "d8354b38-e942-4c89-ba93-29323432abc3",
+      "MUSICBRAINZ_ALBUMID" : "d5f58593-2736-369a-b620-fd2b4fa1bc9b",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "d8354b38-e942-4c89-ba93-29323432abc3",
+      "MUSICBRAINZ_RELEASEGROUPID" : "016f0068-f33e-4a46-9d60-d7db6100d24a",
+      "MUSICBRAINZ_TRACKID" : "ac19c697-373f-41af-9293-51c9deebacb4",
+      "ORIGINAL RELEASE DATE" : "2009-12-04",
+      "RELEASECOUNTRY" : "US",
+      "TITLE" : "Escape",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx|1",
+      "DURATION" : "341",
+      "MUSICBRAINZ_TRACKID" : "233fc194-8482-43e0-beb2-51704d613887",
+      "TITLE" : "Night of the Hunter",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx|2",
+      "DURATION" : "348",
+      "MUSICBRAINZ_TRACKID" : "de918f75-8cee-4947-a6c4-05ba57af8998",
+      "TITLE" : "Kings and Queens",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx|3",
+      "DURATION" : "327",
+      "MUSICBRAINZ_TRACKID" : "4cf64261-5349-4d8a-8a8a-6a64f531e6cf",
+      "TITLE" : "This Is War",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx|4",
+      "DURATION" : "118",
+      "MUSICBRAINZ_TRACKID" : "97159196-bba6-4aa5-8e7a-c403ae0e74c7",
+      "TITLE" : "100 Suns",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx|5",
+      "DURATION" : "372",
+      "MUSICBRAINZ_TRACKID" : "412249be-a554-4b47-9397-29b7442e4eff",
+      "TITLE" : "Hurricane",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx|6",
+      "DURATION" : "273",
+      "MUSICBRAINZ_TRACKID" : "73ec03b0-7d49-46d7-84c8-a9314405384c",
+      "TITLE" : "Closer to the Edge",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx|7",
+      "DURATION" : "343",
+      "MUSICBRAINZ_TRACKID" : "3a5010fe-8d08-43df-a6c3-33799e0e733e",
+      "TITLE" : "Vox Populi",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx|8",
+      "DURATION" : "338",
+      "MUSICBRAINZ_TRACKID" : "54f1a364-b123-4f26-b2b0-c1af88901c5d",
+      "TITLE" : "Search and Destroy",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx|9",
+      "DURATION" : "360",
+      "MUSICBRAINZ_TRACKID" : "907df426-6d87-40a6-b7d4-4cc7dc1b1abb",
+      "TITLE" : "Alibi",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx|10",
+      "DURATION" : "414",
+      "MUSICBRAINZ_TRACKID" : "f031eadc-8b49-4d87-9926-26834564b6d3",
+      "TITLE" : "Stranger in a Strange Land",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:6OlCoydaNFUU7v1Xo5ZJPx|11",
+      "DURATION" : "266",
+      "MUSICBRAINZ_TRACKID" : "4c99eb57-3f8d-44d6-ab28-9fcf0b3cb02d",
+      "TITLE" : "L490",
+      "TRACKNUMBER" : "12"
+   }
+]

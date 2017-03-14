@@ -1,0 +1,141 @@
+﻿[
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4",
+      "ALBUM" : "Babylon",
+      "ARTIST" : "Skindred",
+      "BARCODE" : "075679330420",
+      "CATALOGNUMBER" : "7567-93304-2",
+      "DATE" : "2004",
+      "DURATION" : "29",
+      "LABEL" : [ "Bieler Bros. Records", "Lava" ],
+      "MUSICBRAINZ_ALBUMID" : "8277caf4-70e9-410b-a80d-a26aceec5b0c",
+      "MUSICBRAINZ_ALBUMSTATUS" : "(None)",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "36e371e9-e76b-4b66-b813-e1d1af6d7128",
+      "MUSICBRAINZ_RELEASEGROUPID" : "c28f7412-db28-34bd-9515-68ceb57c1ad8",
+      "MUSICBRAINZ_TRACKID" : "96c6d6f6-84aa-4c65-9679-bb58eae4d149",
+      "ORIGINAL RELEASE DATE" : "2002-06-01",
+      "TITLE" : "Intro",
+      "TOTALTRACKS" : "18",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|1",
+      "DURATION" : "237",
+      "MUSICBRAINZ_TRACKID" : "73d50fc0-6dc2-4e38-845d-497a1574b91a",
+      "TITLE" : "Nobody",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|2",
+      "DURATION" : "211",
+      "MUSICBRAINZ_TRACKID" : "dfdefd84-bef1-4a99-8cbf-c9603ed2e1ea",
+      "TITLE" : "Pressure",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|3",
+      "DURATION" : "169",
+      "MUSICBRAINZ_TRACKID" : "5566d6bc-2417-47d1-aeb8-44443ff2693f",
+      "TITLE" : "Start First",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|4",
+      "DURATION" : "17",
+      "MUSICBRAINZ_TRACKID" : "c33a84a7-dd81-4afe-a096-70dd28ed69f5",
+      "TITLE" : "Interlude 1",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|5",
+      "DURATION" : "143",
+      "MUSICBRAINZ_TRACKID" : "c90e5aea-67a9-46d3-9096-57150857539e",
+      "TITLE" : "Selector",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|6",
+      "DURATION" : "162",
+      "MUSICBRAINZ_TRACKID" : "66a0cd14-c132-4c02-90e9-2a2424977e54",
+      "TITLE" : "Bruises",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|7",
+      "DURATION" : "181",
+      "MUSICBRAINZ_TRACKID" : "884edc68-d0b8-44bd-a275-3643e1b52814",
+      "TITLE" : "We Want",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|8",
+      "DURATION" : "28",
+      "MUSICBRAINZ_TRACKID" : "8bfabef5-081b-4797-a1a0-a7c40332a753",
+      "TITLE" : "Interlude 2",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|9",
+      "DURATION" : "184",
+      "MUSICBRAINZ_TRACKID" : "3c81c408-f261-4ea1-b8ab-3386defdbe5b",
+      "TITLE" : "Set It Off",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|10",
+      "DURATION" : "217",
+      "MUSICBRAINZ_TRACKID" : "dc670892-a765-431a-8b77-16753564de47",
+      "TITLE" : "Firing the Love",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|11",
+      "DURATION" : "181",
+      "MUSICBRAINZ_TRACKID" : "14fe73ce-81e3-43c0-bdcf-7a4b91bb3004",
+      "TITLE" : "Tears",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|12",
+      "DURATION" : "144",
+      "MUSICBRAINZ_TRACKID" : "ab84abc9-5369-4dfd-97a3-be5ae31ae903",
+      "TITLE" : "World Domination",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|13",
+      "DURATION" : "226",
+      "MUSICBRAINZ_TRACKID" : "69395a37-eabd-43fb-bdd5-287896c545c1",
+      "TITLE" : "The Fear",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|14",
+      "DURATION" : "26",
+      "MUSICBRAINZ_TRACKID" : "232b3537-fc2b-46be-b4a8-ee49494f5038",
+      "TITLE" : "Interlude 3",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|15",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "a77ba1e4-bf69-4abf-b9ac-b8e67f046959",
+      "TITLE" : "Babylon",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|16",
+      "DURATION" : "231",
+      "MUSICBRAINZ_TRACKID" : "df4d7637-8067-443d-800a-f43fe26e1193",
+      "TITLE" : "The Beginning of Sorrows",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:album:6OZIaKS03Zn8B7Ov7F2Rx4|17",
+      "DURATION" : "229",
+      "MUSICBRAINZ_TRACKID" : "a504484f-eb85-45af-a089-0d450d3ed73f",
+      "TITLE" : "Pressure (acoustic)",
+      "TRACKNUMBER" : "18"
+   }
+]

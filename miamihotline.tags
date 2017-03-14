@@ -1,0 +1,203 @@
+﻿[
+   {
+      "@" : "spotify:track:2rYZETHlA6JTDbbkAWj9jD",
+      "ALBUM" : "Hotline Miami Soundtrack",
+      "ALBUM ARTIST" : "Various Artists",
+      "ARTIST" : "Sun Araw",
+      "CATALOGNUMBER" : "[none]",
+      "DATE" : "2013-01-24",
+      "DURATION" : "628",
+      "LABEL" : "Devolver Digital",
+      "MUSICBRAINZ_ALBUMARTISTID" : "89ad4ac3-39f7-470e-963a-56509c546377",
+      "MUSICBRAINZ_ALBUMID" : "f2c9734d-707c-4d09-92e6-244d741bf94e",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Soundtrack",
+      "MUSICBRAINZ_ARTISTID" : "521c4601-9145-41d4-8275-6644eca4fab2",
+      "MUSICBRAINZ_RELEASEGROUPID" : "6fc8cc23-c86d-453d-a24a-c1e4353b194f",
+      "MUSICBRAINZ_TRACKID" : "56a5759c-df16-4629-99ca-fb9570ae5cd9",
+      "ORIGINAL RELEASE DATE" : "2012-08-22",
+      "TITLE" : "Horse Steppin",
+      "TOTALTRACKS" : "22",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:38rMZCtAPuRgOuV3pyFDmF",
+      "ARTIST" : "M|O|O|N",
+      "DURATION" : "289",
+      "MUSICBRAINZ_ARTISTID" : "162c7a95-9b96-4b7a-bac2-6f2c2e2357e7",
+      "MUSICBRAINZ_TRACKID" : "9d01c042-40e8-48d5-a084-78ec7bd136f4",
+      "TITLE" : "Hydrogen",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:4PbZ1dClx4HnT67mPcbyXz",
+      "DURATION" : "271",
+      "MUSICBRAINZ_TRACKID" : "be8f9857-572a-43be-850e-6dc1a59527e0",
+      "TITLE" : "Paris",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5isHndEunT9J7bv4Mz9jgs",
+      "DURATION" : "289",
+      "MUSICBRAINZ_TRACKID" : "3a56ae4a-4032-4215-af93-dad082604bab",
+      "TITLE" : "Crystals",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6f0sKFgjcesnolqU8Fz8kB",
+      "ARTIST" : "Perturbator",
+      "DURATION" : "300",
+      "MUSICBRAINZ_ARTISTID" : "45c25199-fa62-4d4c-b0a2-11eeed6923c3",
+      "MUSICBRAINZ_TRACKID" : "37629818-2f29-4f56-ae0c-abd72a55fcec",
+      "TITLE" : "Vengeance (The Return of the Night Driving Avenger)",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:6rne7RR7YOkAuRYeNP9GQT",
+      "ARTIST" : "Sun Araw",
+      "DURATION" : "482",
+      "MUSICBRAINZ_ARTISTID" : "521c4601-9145-41d4-8275-6644eca4fab2",
+      "MUSICBRAINZ_TRACKID" : "53995237-4498-49bd-ad0a-562544f3c0b6",
+      "TITLE" : "Deep Cover",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:6zEGOVxDlKdv7kauGS20X8",
+      "ARTIST" : "Jasper Byrne",
+      "DURATION" : "271",
+      "MUSICBRAINZ_ARTISTID" : "83531e92-35b2-45b9-be5b-fdde574f7ba7",
+      "MUSICBRAINZ_TRACKID" : "d30bab43-f2f6-4e48-8dc6-5da52c9c7255",
+      "TITLE" : "Miami",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:22VoYx9y3MTOVC71iYtbCM",
+      "DURATION" : "210",
+      "MUSICBRAINZ_TRACKID" : "cef34c45-e852-4ae2-8afe-e52b540e8b03",
+      "TITLE" : "Hotline",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:6cthJIumjsMpJBeDJ2w6Dn",
+      "ARTIST" : "Scattle",
+      "DURATION" : "244",
+      "MUSICBRAINZ_ARTISTID" : "ba73fdc5-17e4-4d5b-b652-65a224c96135",
+      "MUSICBRAINZ_TRACKID" : "66a08e04-994b-4306-bf7d-b08eaaa00e5b",
+      "TITLE" : "Knock Knock",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "",
+      "ARTIST" : "Elliott Berlin",
+      "DURATION" : "0",
+      "MUSICBRAINZ_ARTISTID" : "ed957a6b-13a4-4516-b8f7-e6a29ff0c88a",
+      "MUSICBRAINZ_TRACKID" : "b44bbbc2-3094-490f-8714-18dc40001e78",
+      "TITLE" : "Musikk per automatikk",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:5QyvmZYiOuK0saTv6J77Yg",
+      "ARTIST" : "Perturbator",
+      "DURATION" : "271",
+      "MUSICBRAINZ_ARTISTID" : "45c25199-fa62-4d4c-b0a2-11eeed6923c3",
+      "MUSICBRAINZ_TRACKID" : "fc34748a-7e25-46c3-956d-ba0a81da3b60",
+      "TITLE" : "Miami Disco",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:2vRSzbCIMogeAoCmleuCIy",
+      "ARTIST" : "M|O|O|N",
+      "DURATION" : "362",
+      "MUSICBRAINZ_ARTISTID" : "162c7a95-9b96-4b7a-bac2-6f2c2e2357e7",
+      "MUSICBRAINZ_TRACKID" : "28916bcb-5035-4e80-9638-419da6624737",
+      "TITLE" : "Release",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "",
+      "ARTIST" : "Eirik Suhrke",
+      "DURATION" : "0",
+      "MUSICBRAINZ_ARTISTID" : "b15a6fe6-8863-444c-bfc6-8d885e8896d1",
+      "MUSICBRAINZ_TRACKID" : "b24d2f55-5b17-4ecd-ae45-c97e2627e223",
+      "TITLE" : "A New Morning",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:4e6tEXni2K0cZYFmku6Htf",
+      "ARTIST" : "Scattle",
+      "DURATION" : "134",
+      "MUSICBRAINZ_ARTISTID" : "ba73fdc5-17e4-4d5b-b652-65a224c96135",
+      "MUSICBRAINZ_TRACKID" : "751ecb6b-5768-4362-ae44-2cfbf9000767",
+      "TITLE" : "Flatline",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "",
+      "ARTIST" : "Coconuts",
+      "DURATION" : "0",
+      "MUSICBRAINZ_ARTISTID" : "0c05eafe-5b31-45d5-b854-529f791599f8",
+      "MUSICBRAINZ_TRACKID" : "c6df86e9-be14-42cc-9c4a-f88426b60635",
+      "TITLE" : "Silver Lights",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:1hGRe4d3LJCg1VszAU8Cy1",
+      "ARTIST" : "El Huervo feat. Shelby Cinca",
+      "DURATION" : "161",
+      "MUSICBRAINZ_ARTISTID" : [
+         "e601a215-1921-4ec6-b88e-b21868a35d6a",
+         "eeebda45-381f-48fd-ac55-fde8c7f12f4d"
+      ],
+      "MUSICBRAINZ_TRACKID" : "5768cc1e-1863-443b-8d49-41b4a5076baf",
+      "TITLE" : "Daisuke",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:5cxO0FSGGKa5xHkpedIpP6",
+      "ARTIST" : "El Huervo",
+      "DURATION" : "304",
+      "MUSICBRAINZ_ARTISTID" : "e601a215-1921-4ec6-b88e-b21868a35d6a",
+      "MUSICBRAINZ_TRACKID" : "d9510419-ee3a-4e8e-a205-db9bbd6183ae",
+      "TITLE" : "Turf",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:track:5euv2IRthAk2vzFppYTQEb",
+      "DURATION" : "159",
+      "MUSICBRAINZ_TRACKID" : "1f42e6e6-72af-4d6f-a731-42a15a0f08dc",
+      "TITLE" : "Crush",
+      "TRACKNUMBER" : "18"
+   },
+   {
+      "@" : "spotify:track:4NGNiR0zwa26sxjeKbv59z",
+      "ARTIST" : "Perturbator",
+      "DURATION" : "286",
+      "MUSICBRAINZ_ARTISTID" : "45c25199-fa62-4d4c-b0a2-11eeed6923c3",
+      "MUSICBRAINZ_TRACKID" : "a44f3581-77d9-4ccb-baa5-ebafa6e80af9",
+      "TITLE" : "Electric Dreams",
+      "TRACKNUMBER" : "19"
+   },
+   {
+      "@" : "spotify:track:3lunKcmf2thdxi686Y4Q0i",
+      "ARTIST" : "Scattle",
+      "DURATION" : "220",
+      "MUSICBRAINZ_ARTISTID" : "ba73fdc5-17e4-4d5b-b652-65a224c96135",
+      "MUSICBRAINZ_TRACKID" : "07ee65d6-74cc-4d53-8f6d-03b510bbe5ed",
+      "TITLE" : "Inner Animal",
+      "TRACKNUMBER" : "20"
+   },
+   {
+      "@" : "spotify:track:6KTv9CuZL52fRdOJ7IUl3Q",
+      "DURATION" : "163",
+      "MUSICBRAINZ_TRACKID" : "fe892493-a167-4500-a3a1-349b417ac180",
+      "TITLE" : "It’s Safe Now",
+      "TRACKNUMBER" : "21"
+   },
+   {
+      "@" : "spotify:track:5fEwL4VuYKnPyxU1d4TMoC",
+      "DURATION" : "118",
+      "MUSICBRAINZ_TRACKID" : "e051f555-7a0b-482f-a9d0-c7ac7a7cc7c2",
+      "TITLE" : "To the Top",
+      "TRACKNUMBER" : "22"
+   }
+]

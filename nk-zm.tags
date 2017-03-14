@@ -1,0 +1,98 @@
+﻿[
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4",
+      "ALBUM" : "Zdrajcy Metalu",
+      "ARTIST" : "Nocny Kochanek",
+      "BARCODE" : "5904941311018",
+      "DATE" : "2017-01-12",
+      "DURATION" : "273",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "816a5d67-4e42-4423-8744-e73c181db16a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "460cd979-52d1-48a8-95be-d37248d71fd1",
+      "MUSICBRAINZ_RELEASEGROUPID" : "9d76e238-58ac-45fb-88de-07613cd37bb0",
+      "MUSICBRAINZ_TRACKID" : "c4f036d2-8fd6-4ffc-a671-9c0022993a2c",
+      "RELEASECOUNTRY" : "PL",
+      "TITLE" : "Poniedziałek",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4|1",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "fd3799a3-e488-423a-9b98-ffa960eb378b",
+      "TITLE" : "Dżentelmeni metalu",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4|2",
+      "DURATION" : "273",
+      "MUSICBRAINZ_TRACKID" : "b86fe422-7b2b-4d2d-8074-eafdd86610a0",
+      "TITLE" : "Pigułka somogwałtu",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4|3",
+      "DURATION" : "234",
+      "MUSICBRAINZ_TRACKID" : "160de489-de36-451d-9c33-eb32e7e9bc8c",
+      "TITLE" : "Dziabnięty",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4|4",
+      "DURATION" : "236",
+      "MUSICBRAINZ_TRACKID" : "243d030f-195b-46da-925c-c7d21c9cf68c",
+      "TITLE" : "Łatwa nie była",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4|5",
+      "DURATION" : "375",
+      "MUSICBRAINZ_TRACKID" : "e279d8de-081b-40ae-849e-17a37407c683",
+      "TITLE" : "Dziewczyna z kebabem",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4|6",
+      "DURATION" : "208",
+      "MUSICBRAINZ_TRACKID" : "115347d0-9a05-45ea-844f-7a28da8706ed",
+      "TITLE" : "Smoki i gołe baby",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4|7",
+      "DURATION" : "265",
+      "MUSICBRAINZ_TRACKID" : "d8855222-d934-41ff-92e3-3412e6809d36",
+      "TITLE" : "De Pajrat Bej",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4|8",
+      "DURATION" : "85",
+      "MUSICBRAINZ_TRACKID" : "6ea8d11c-825f-404e-b092-4854c8fb0eb9",
+      "TITLE" : "Piosenka o niczym",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4|9",
+      "DURATION" : "273",
+      "MUSICBRAINZ_TRACKID" : "e8019c9e-b4d9-4d6b-b913-8a66bf05e15d",
+      "TITLE" : "Zdrajca metalu",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4|10",
+      "DURATION" : "241",
+      "MUSICBRAINZ_TRACKID" : "d074f73b-692f-4abf-9192-f9b4d3c68449",
+      "TITLE" : "Pierwszego nie przepijam",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:3hEWSTHddLUQvegmX0wOk4|11",
+      "DURATION" : "123",
+      "MUSICBRAINZ_TRACKID" : "f3f7d4c4-30c8-4ee2-a078-cf5341cdca79",
+      "TITLE" : "Gdzie jesteś?",
+      "TRACKNUMBER" : "12"
+   }
+]

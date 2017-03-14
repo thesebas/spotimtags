@@ -1,0 +1,104 @@
+﻿[
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh",
+      "ALBUM" : "Dreamrider",
+      "ARTIST" : "Lazerhawk",
+      "DATE" : "2017",
+      "DURATION" : "322",
+      "LABEL" : "Rosso Corsa Records",
+      "MUSICBRAINZ_ALBUMID" : "fb592ec1-51d5-4e80-876b-fd6b1bb48770",
+      "MUSICBRAINZ_ALBUMSTATUS" : "(None)",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "b9e46d1a-9068-4615-9200-90b3d5eae68b",
+      "MUSICBRAINZ_RELEASEGROUPID" : "4b58ac04-7288-47ad-8b82-10b962edf608",
+      "MUSICBRAINZ_TRACKID" : "9ce81560-c74b-4887-9290-3eda6b8d6505",
+      "ORIGINAL RELEASE DATE" : "2017-01-18",
+      "TITLE" : "Neon Dawn",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|1",
+      "DURATION" : "264",
+      "MUSICBRAINZ_TRACKID" : "0953a9c1-4742-4674-b335-60eb7ef65d40",
+      "TITLE" : "Cruise",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|2",
+      "DURATION" : "332",
+      "MUSICBRAINZ_TRACKID" : "6dbdd4ee-7a97-47bb-8ec2-b98c48fb1024",
+      "TITLE" : "Feel the Rush Tonight (feat. GUNSHIP)",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|3",
+      "DURATION" : "256",
+      "MUSICBRAINZ_TRACKID" : "23997235-f994-48f3-bad5-405aba646e8a",
+      "TITLE" : "Somnus",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|4",
+      "DURATION" : "298",
+      "MUSICBRAINZ_TRACKID" : "41b78f19-e93a-46e1-81a4-384f0525e487",
+      "TITLE" : "Dreamrider",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|5",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "a5d726df-9672-4b67-bb69-d99f78dcea5a",
+      "TITLE" : "Hypnic",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|6",
+      "DURATION" : "277",
+      "MUSICBRAINZ_TRACKID" : "f88e0d11-99de-491f-ae18-3d2e7ef38d2e",
+      "TITLE" : "Cool Breeze",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|7",
+      "DURATION" : "273",
+      "MUSICBRAINZ_TRACKID" : "9dd80444-2a46-425a-9989-931b2dcff95d",
+      "TITLE" : "Mirror Between Worlds",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|8",
+      "DURATION" : "335",
+      "MUSICBRAINZ_TRACKID" : "a2b7533d-8d64-4cb9-9d15-fdeebac84a6c",
+      "TITLE" : "REM",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|9",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "4f178d77-d5bb-49c1-881f-907210d005e3",
+      "TITLE" : "Dream Within a Dream",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|10",
+      "DURATION" : "256",
+      "MUSICBRAINZ_TRACKID" : "653e5027-d708-4915-bbba-296042481bcb",
+      "TITLE" : "Oneiric",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|11",
+      "DURATION" : "302",
+      "MUSICBRAINZ_TRACKID" : "c7d43a2e-3592-4986-b18f-695d1888ae3b",
+      "TITLE" : "Awakening",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:5sE8JtVAJH23pYT4ZRAVwh|12",
+      "DURATION" : "299",
+      "MUSICBRAINZ_TRACKID" : "1c97cdde-42b2-419c-b0c7-30c746f15b13",
+      "TITLE" : "Dreams in the Dusk",
+      "TRACKNUMBER" : "13"
+   }
+]

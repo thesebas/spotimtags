@@ -1,0 +1,111 @@
+﻿[
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX",
+      "ALBUM" : "Vertikal",
+      "ARTIST" : "Cult of Luna",
+      "DATE" : "2013",
+      "DURATION" : "126",
+      "LABEL" : "Indie Recordings",
+      "MEDIA" : "Digital Media",
+      "MUSICBRAINZ_ALBUMID" : "e70b0ea2-b7ed-4816-a5ca-445957a0e1cc",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Compilation",
+      "MUSICBRAINZ_ARTISTID" : "d347406f-839d-4423-9a28-188939282afa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "1122eaed-f403-4feb-af98-63a63d3e083a",
+      "MUSICBRAINZ_TRACKID" : "14056048-592e-414d-9f42-ac2cea731d18",
+      "TITLE" : "The One",
+      "TOTALTRACKS" : "14",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|1",
+      "DURATION" : "560",
+      "MUSICBRAINZ_TRACKID" : "6513c16e-f251-4b29-ba7e-b56bf006f7aa",
+      "TITLE" : "I: The Weapon",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|2",
+      "DURATION" : "1125",
+      "MUSICBRAINZ_TRACKID" : "3418124d-b66b-45f0-b5b5-d5b652473743",
+      "TITLE" : "Vicarious Redemption",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|3",
+      "DURATION" : "161",
+      "MUSICBRAINZ_TRACKID" : "a6fa8c9c-d2ad-4d49-ad14-ec880de6387d",
+      "TITLE" : "The Sweep",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|4",
+      "DURATION" : "433",
+      "MUSICBRAINZ_TRACKID" : "deecef25-b86e-4632-a83c-5fca90ffd2fe",
+      "TITLE" : "Synchronicity",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|5",
+      "DURATION" : "547",
+      "MUSICBRAINZ_TRACKID" : "66f2acfe-e971-437b-899e-fe266c5c78bb",
+      "TITLE" : "Mute Departure",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|6",
+      "DURATION" : "45",
+      "MUSICBRAINZ_TRACKID" : "1c2c563c-94d5-4bf0-81f4-125683fea435",
+      "TITLE" : "Disharmonia",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|7",
+      "DURATION" : "597",
+      "MUSICBRAINZ_TRACKID" : "ff2b2abb-a15f-4480-b664-f56bc3decaa9",
+      "TITLE" : "In Awe Of",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|8",
+      "DURATION" : "342",
+      "MUSICBRAINZ_TRACKID" : "3672a6c8-369e-43ed-a429-1da3a954af4e",
+      "TITLE" : "Passing Through",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|9",
+      "DURATION" : "406",
+      "MUSICBRAINZ_TRACKID" : "79dfd570-0eca-495f-b7ea-ece6252ae995",
+      "TITLE" : "The Flow Reversed",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|10",
+      "DURATION" : "441",
+      "MUSICBRAINZ_TRACKID" : "99f7ea77-0719-4606-9f38-4fd12e7479aa",
+      "TITLE" : "Oro",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|11",
+      "DURATION" : "383",
+      "MUSICBRAINZ_TRACKID" : "2273ac5a-416e-4237-b8fb-567ffe958a67",
+      "TITLE" : "Light Chaser",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|12",
+      "DURATION" : "718",
+      "MUSICBRAINZ_TRACKID" : "cf2b8b6b-9ff7-45cc-a33b-a1b891bdb93b",
+      "TITLE" : "Shun the Mask",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:5qeRIq2wL59NIOOWkKBnOX|13",
+      "DURATION" : "578",
+      "MUSICBRAINZ_TRACKID" : "ac58a5f0-83b9-4e63-88ce-af0f491bf2b7",
+      "TITLE" : "Vicarious Redemption (Justin K. Broadrick Remix)",
+      "TRACKNUMBER" : "14"
+   }
+]

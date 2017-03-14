@@ -1,0 +1,65 @@
+﻿[
+   {
+      "@" : "spotify:album:0z9JgQqj6XQfvBfr0gBb6j",
+      "ALBUM" : "The Beyond",
+      "ARTIST" : "Cult Of Luna",
+      "DISCNUMBER" : "1",
+      "DURATION" : "45",
+      "TITLE" : "Inside Fort Meade",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:0z9JgQqj6XQfvBfr0gBb6j|1",
+      "DURATION" : "489",
+      "TITLE" : "Receiver",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:0z9JgQqj6XQfvBfr0gBb6j|2",
+      "DURATION" : "698",
+      "TITLE" : "Genesis",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:0z9JgQqj6XQfvBfr0gBb6j|3",
+      "DURATION" : "379",
+      "TITLE" : "The Watchtower",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:0z9JgQqj6XQfvBfr0gBb6j|4",
+      "DURATION" : "491",
+      "TITLE" : "Circle",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:0z9JgQqj6XQfvBfr0gBb6j|5",
+      "DURATION" : "574",
+      "TITLE" : "Arrival",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:0z9JgQqj6XQfvBfr0gBb6j|6",
+      "DURATION" : "469",
+      "TITLE" : "Leash",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:0z9JgQqj6XQfvBfr0gBb6j|7",
+      "DURATION" : "140",
+      "TITLE" : "Clones",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:0z9JgQqj6XQfvBfr0gBb6j|8",
+      "DURATION" : "528",
+      "TITLE" : "Deliverance",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:0z9JgQqj6XQfvBfr0gBb6j|9",
+      "DURATION" : "684",
+      "TITLE" : "Further",
+      "TRACKNUMBER" : "10"
+   }
+]

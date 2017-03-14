@@ -1,0 +1,47 @@
+﻿[
+   {
+      "@" : "spotify:album:3qvLT8dpPqx1EBLdZ2OKHx",
+      "ALBUM" : "(I)",
+      "ARTIST" : "Toundra",
+      "DISCNUMBER" : "1",
+      "DURATION" : "301",
+      "TITLE" : "Bajamar",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:3qvLT8dpPqx1EBLdZ2OKHx|1",
+      "DURATION" : "199",
+      "TITLE" : "Pleamar",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:3qvLT8dpPqx1EBLdZ2OKHx|2",
+      "DURATION" : "465",
+      "TITLE" : "Medusa",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:3qvLT8dpPqx1EBLdZ2OKHx|3",
+      "DURATION" : "449",
+      "TITLE" : "Órbita",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:3qvLT8dpPqx1EBLdZ2OKHx|4",
+      "DURATION" : "330",
+      "TITLE" : "Jauría",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:3qvLT8dpPqx1EBLdZ2OKHx|5",
+      "DURATION" : "346",
+      "TITLE" : "Génesis",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:3qvLT8dpPqx1EBLdZ2OKHx|6",
+      "DURATION" : "195",
+      "TITLE" : "Tesalia",
+      "TRACKNUMBER" : "7"
+   }
+]

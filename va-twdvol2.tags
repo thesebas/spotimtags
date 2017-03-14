@@ -1,0 +1,57 @@
+﻿[
+   {
+      "@" : "spotify:album:13OkOMXSrWYIbw6scZSzif",
+      "ALBUM" : "The Walking Dead: AMC Original Soundtrack, Volume 2",
+      "ALBUM ARTIST" : "Various Artists",
+      "ARTIST" : "Portugal. The Man",
+      "DATE" : "2014-03-25",
+      "DURATION" : "199",
+      "LABEL" : "Universal Republic Records",
+      "MUSICBRAINZ_ALBUMARTISTID" : "89ad4ac3-39f7-470e-963a-56509c546377",
+      "MUSICBRAINZ_ALBUMID" : "0d65b99b-fc7c-44a6-8dbc-47f09a37c2ac",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Soundtrack",
+      "MUSICBRAINZ_ARTISTID" : "3599a39e-4e10-4cb5-90d4-c8a015ebc73b",
+      "MUSICBRAINZ_RELEASEGROUPID" : "64fe63fd-0345-4a53-973c-563ec87cd54f",
+      "MUSICBRAINZ_TRACKID" : "657f049d-97ae-47c7-958b-518a6b0b14cb",
+      "TITLE" : "Heavy Games",
+      "TOTALTRACKS" : "5",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:13OkOMXSrWYIbw6scZSzif|1",
+      "ARTIST" : "Sharon Van Etten",
+      "DURATION" : "249",
+      "MUSICBRAINZ_ARTISTID" : "5a2e9cd3-010a-4aae-9f83-629253284202",
+      "MUSICBRAINZ_TRACKID" : "4aae1503-8ce4-466f-a148-5bffda7c9d81",
+      "TITLE" : "Serpents (Basement)",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:13OkOMXSrWYIbw6scZSzif|2",
+      "ARTIST" : "Lee DeWyze",
+      "DURATION" : "255",
+      "MUSICBRAINZ_ARTISTID" : "4006c69a-c50f-483a-bd1f-4f55e32ea7c9",
+      "MUSICBRAINZ_TRACKID" : "2fc6d293-f4f8-4ff8-9e68-8d620883899e",
+      "TITLE" : "Blackbird Song",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:13OkOMXSrWYIbw6scZSzif|3",
+      "ARTIST" : "A.C. Newman",
+      "DURATION" : "139",
+      "MUSICBRAINZ_ARTISTID" : "bb40af12-0dfd-4a53-bfe1-666a9e49dfb2",
+      "MUSICBRAINZ_TRACKID" : "8ea248e9-cd17-42d1-a94d-9314a8a94db4",
+      "TITLE" : "Be Not So Fearful",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:13OkOMXSrWYIbw6scZSzif|4",
+      "ARTIST" : "Ben Nichols",
+      "DURATION" : "203",
+      "MUSICBRAINZ_ARTISTID" : "ba132a74-82a8-4702-a60b-ca2098113581",
+      "MUSICBRAINZ_TRACKID" : "b756313e-e465-4666-984f-0c00a6d7e08b",
+      "TITLE" : "This Old Death",
+      "TRACKNUMBER" : "5"
+   }
+]

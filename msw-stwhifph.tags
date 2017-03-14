@@ -1,0 +1,72 @@
+﻿[
+   {
+      "@" : "spotify:album:72fTLMisjc8p4zrjzLs2kJ",
+      "ALBUM" : "Sing the Word Hope in Four-Part Harmony",
+      "ARTIST" : "Maybeshewill",
+      "BARCODE" : "5060195510130",
+      "CATALOGNUMBER" : "FIELD012",
+      "DATE" : "2009-06-08",
+      "DURATION" : "164",
+      "LABEL" : "Field Records",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "162892dc-49d4-4540-80f6-b7127a147ad4",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "62495254-237e-4e9e-8ffb-31fede562cfd",
+      "MUSICBRAINZ_RELEASEGROUPID" : "8bbc8407-5909-3fb2-9486-1c6979bfb7f7",
+      "MUSICBRAINZ_TRACKID" : "d72d4b06-e22e-4fb9-9dd8-a7f18e361122",
+      "RELEASECOUNTRY" : "GB",
+      "TITLE" : "You Can’t Shake Hands With a Clenched Fist",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:72fTLMisjc8p4zrjzLs2kJ|1",
+      "DURATION" : "247",
+      "MUSICBRAINZ_TRACKID" : "35657fc8-bb61-4607-8184-6fd71ddad200",
+      "TITLE" : "Co-Conspirators",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:72fTLMisjc8p4zrjzLs2kJ|2",
+      "DURATION" : "245",
+      "MUSICBRAINZ_TRACKID" : "cce39cda-2662-413b-bb9a-c9f73ef88574",
+      "TITLE" : "This Time Last Year",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:72fTLMisjc8p4zrjzLs2kJ|3",
+      "DURATION" : "384",
+      "MUSICBRAINZ_TRACKID" : "bc5832e4-ade8-4d50-b817-b95c1b49f3fe",
+      "TITLE" : "Accept and Embrace",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:72fTLMisjc8p4zrjzLs2kJ|4",
+      "DURATION" : "209",
+      "MUSICBRAINZ_TRACKID" : "8218cc0a-3639-44a8-896c-593da2f4478d",
+      "TITLE" : "How to Have Sex With a Ghost",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:72fTLMisjc8p4zrjzLs2kJ|5",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "720394af-7b56-412b-88ff-8d63e4052ada",
+      "TITLE" : "Our History Will Be What We Make of It",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:72fTLMisjc8p4zrjzLs2kJ|6",
+      "DURATION" : "352",
+      "MUSICBRAINZ_TRACKID" : "0b1751a4-3ffe-4568-8eb4-85ee8fa4e009",
+      "TITLE" : "Last Time This Year",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:72fTLMisjc8p4zrjzLs2kJ|7",
+      "DURATION" : "491",
+      "MUSICBRAINZ_TRACKID" : "e0eb15d1-9a59-410a-b61b-31cd447585b9",
+      "TITLE" : "Sing the Word Hope in Four-Part Harmony",
+      "TRACKNUMBER" : "8"
+   }
+]

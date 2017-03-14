@@ -1,0 +1,87 @@
+﻿[
+   {
+      "@" : "spotify:album:6dpT05za5nh7IQWtfBdfEK",
+      "ALBUM" : "The Walking Dead: AMC Original Soundtrack, Volume 1",
+      "ALBUM ARTIST" : "Various Artists",
+      "ARTIST" : "Jamie N Commons",
+      "DATE" : "2013-03-17",
+      "DURATION" : "117",
+      "LABEL" : "Universal Republic Records",
+      "MUSICBRAINZ_ALBUMARTISTID" : "89ad4ac3-39f7-470e-963a-56509c546377",
+      "MUSICBRAINZ_ALBUMID" : "27eb6f13-6949-4e9b-a752-53b0768a1c27",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Soundtrack",
+      "MUSICBRAINZ_ARTISTID" : "84b453d8-84d0-4de1-9cd8-9daf2378923e",
+      "MUSICBRAINZ_RELEASEGROUPID" : "f330c72d-94d7-4fe4-bafa-193d2373b861",
+      "MUSICBRAINZ_TRACKID" : "942b7210-f238-48cc-b754-a6a6f25fe0b6",
+      "TITLE" : "Lead Me Home",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6dpT05za5nh7IQWtfBdfEK|1",
+      "ARTIST" : "Bear McCreary",
+      "DURATION" : "263",
+      "MUSICBRAINZ_ARTISTID" : "78192f3c-607b-4190-a02b-8e036887b9a7",
+      "MUSICBRAINZ_TRACKID" : "f5269fd4-daa8-4d97-abb7-a5106cae6a6a",
+      "TITLE" : "Main Title Theme Song (UNKLE remix)",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6dpT05za5nh7IQWtfBdfEK|2",
+      "ARTIST" : "Voxhaul Broadcast",
+      "DURATION" : "316",
+      "MUSICBRAINZ_ARTISTID" : "33490f31-7649-41a5-a21c-9b3c8d1a687e",
+      "MUSICBRAINZ_TRACKID" : "e74ab884-744d-4abe-8d43-d8418475662a",
+      "TITLE" : "You Are the Wilderness",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6dpT05za5nh7IQWtfBdfEK|3",
+      "ARTIST" : "Baby Bee",
+      "DURATION" : "171",
+      "MUSICBRAINZ_ARTISTID" : "2e90f6c1-f26b-4325-a05f-e1e0adb84ffa",
+      "MUSICBRAINZ_TRACKID" : "c221bb4c-9cfd-47be-9537-d8c5f4ca5b53",
+      "TITLE" : "Love Bug",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6dpT05za5nh7IQWtfBdfEK|4",
+      "ARTIST" : "Fink",
+      "DURATION" : "333",
+      "MUSICBRAINZ_ARTISTID" : "aa1d542d-11c6-4bf3-8219-28a781de29ea",
+      "MUSICBRAINZ_TRACKID" : "dc623899-2c22-4615-bc2a-fe0d114d127d",
+      "TITLE" : "Warm Shadow (Dactyl remix)",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6dpT05za5nh7IQWtfBdfEK|5",
+      "ARTIST" : "Of Monsters and Men",
+      "DURATION" : "167",
+      "MUSICBRAINZ_ARTISTID" : "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+      "MUSICBRAINZ_TRACKID" : "976573a1-22ac-4e58-b227-46410719c140",
+      "TITLE" : "Sinking Man",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6dpT05za5nh7IQWtfBdfEK|6",
+      "ARTIST" : "Maggie & Beth Greene",
+      "DURATION" : "177",
+      "MUSICBRAINZ_ARTISTID" : [
+         "4e1188b0-160d-484e-90a4-e7c790f9550c",
+         "b63b58d7-cb6c-4349-8534-b7d594235630"
+      ],
+      "MUSICBRAINZ_TRACKID" : "1c5cc91a-45d3-4464-b468-156c16a5d251",
+      "TITLE" : "The Parting Glass",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6dpT05za5nh7IQWtfBdfEK|7",
+      "ARTIST" : "Delta Spirit",
+      "DURATION" : "193",
+      "MUSICBRAINZ_ARTISTID" : "574a5acd-3e0a-418b-9a8e-fb260be389bf",
+      "MUSICBRAINZ_TRACKID" : "eab071a3-250d-4d6f-9272-888a5d428a11",
+      "TITLE" : "Running",
+      "TRACKNUMBER" : "8"
+   }
+]

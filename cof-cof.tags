@@ -1,0 +1,73 @@
+﻿[
+   {
+      "@" : "spotify:album:6rddtxg7JBg8cFUYxcN2ew",
+      "ALBUM" : "Cult of Luna",
+      "ARTIST" : "Cult of Luna",
+      "BARCODE" : "5055006527117",
+      "CATALOGNUMBER" : "MOSH 271CD",
+      "DATE" : "2008-09-05",
+      "DURATION" : "465",
+      "LABEL" : "Earache Records",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "f71cce3e-215d-4127-b10b-8ae919d42097",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "d347406f-839d-4423-9a28-188939282afa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "d4182616-a773-383f-a74a-ebf2f4b81a62",
+      "MUSICBRAINZ_TRACKID" : "5711e763-7d94-4f66-94ba-31f451f44c91",
+      "ORIGINAL RELEASE DATE" : "2001-09-14",
+      "RELEASECOUNTRY" : "XE",
+      "TITLE" : "The Revelation Embodied",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:6rddtxg7JBg8cFUYxcN2ew|1",
+      "DURATION" : "600",
+      "MUSICBRAINZ_TRACKID" : "1231cd4e-7472-46bf-b556-af5ad5779f6e",
+      "TITLE" : "Hollow",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:6rddtxg7JBg8cFUYxcN2ew|2",
+      "DURATION" : "193",
+      "MUSICBRAINZ_TRACKID" : "a9bf2411-c745-4f67-ac70-8b63e8264257",
+      "TITLE" : "Dark Side of the Sun",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:6rddtxg7JBg8cFUYxcN2ew|3",
+      "DURATION" : "842",
+      "MUSICBRAINZ_TRACKID" : "b5956dec-8d21-4c40-9439-4f2b76534e4b",
+      "TITLE" : "Sleep",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:6rddtxg7JBg8cFUYxcN2ew|4",
+      "DURATION" : "357",
+      "MUSICBRAINZ_TRACKID" : "a92d4b49-cee1-49d9-a723-da9156eca5bc",
+      "TITLE" : "To Be Remembered",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:6rddtxg7JBg8cFUYxcN2ew|5",
+      "DURATION" : "525",
+      "MUSICBRAINZ_TRACKID" : "b7ed7a1a-800e-4e33-bc67-5ccd7bf7a39b",
+      "TITLE" : "Beyond Fate",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:6rddtxg7JBg8cFUYxcN2ew|6",
+      "DURATION" : "103",
+      "MUSICBRAINZ_TRACKID" : "7f077a95-e1f3-4bd0-af8b-04d5cc70d543",
+      "TITLE" : "101",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:6rddtxg7JBg8cFUYxcN2ew|7",
+      "DURATION" : "545",
+      "MUSICBRAINZ_TRACKID" : "33f4465a-639c-497d-bf29-e9824b950567",
+      "TITLE" : "The Sacrifice",
+      "TRACKNUMBER" : "8"
+   }
+]

@@ -1,0 +1,102 @@
+﻿[
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc",
+      "ALBUM" : "Phonetic Symphony",
+      "ARTIST" : "chipzel",
+      "DATE" : "2012-02-11",
+      "DURATION" : "229",
+      "MUSICBRAINZ_ALBUMID" : "af59a017-7c1b-4303-a700-de1ef3099116",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "a09cea0e-9d05-48f7-9507-7f60532cf53f",
+      "MUSICBRAINZ_RELEASEGROUPID" : "ee5cd782-ee01-49ed-9d2d-1b31b76939dc",
+      "MUSICBRAINZ_TRACKID" : "bb00bc6f-88cf-4f38-9ef4-f92fc50026c5",
+      "TITLE" : "To the Sky",
+      "TOTALTRACKS" : "13",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|1",
+      "DURATION" : "188",
+      "MUSICBRAINZ_TRACKID" : "315ef34b-c9fd-4e0c-bf18-27f6807726bb",
+      "TITLE" : "Hello Earth!",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|2",
+      "DURATION" : "192",
+      "MUSICBRAINZ_TRACKID" : "2e05c97d-3b17-4177-a3cf-fc3a73dea309",
+      "TITLE" : "Engage Apocalypse",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|3",
+      "DURATION" : "188",
+      "MUSICBRAINZ_TRACKID" : "52bafef5-6644-4b06-9b9a-81125e96cf0b",
+      "TITLE" : "Venice",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|4",
+      "DURATION" : "174",
+      "MUSICBRAINZ_TRACKID" : "cc353cd9-8fb1-405c-92b0-f43ccfa614b9",
+      "TITLE" : "Come Home",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|5",
+      "DURATION" : "162",
+      "MUSICBRAINZ_TRACKID" : "388340a0-cc79-465c-8f2f-941ce1a80d08",
+      "TITLE" : "Focus",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|6",
+      "DURATION" : "199",
+      "MUSICBRAINZ_TRACKID" : "23c4d8d1-4a76-4cad-b7d6-99ff5c7bedc2",
+      "TITLE" : "Ordinary",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|7",
+      "DURATION" : "196",
+      "MUSICBRAINZ_TRACKID" : "d389c3c2-40a5-4bb8-a80b-c0bde31692bc",
+      "TITLE" : "4²",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|8",
+      "DURATION" : "171",
+      "MUSICBRAINZ_TRACKID" : "50f933c6-bdac-4ef4-923d-e52623e5f771",
+      "TITLE" : "Super Boy of Little Powers",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|9",
+      "DURATION" : "174",
+      "MUSICBRAINZ_TRACKID" : "7a79b979-e999-4045-94a2-817e2de05d85",
+      "TITLE" : "Catch Twenty Two",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|10",
+      "DURATION" : "161",
+      "MUSICBRAINZ_TRACKID" : "8914f5e5-2143-4e5f-b627-2026f4e273f0",
+      "TITLE" : "Child’s Play",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|11",
+      "DURATION" : "270",
+      "MUSICBRAINZ_TRACKID" : "4f607376-9afb-4fdd-8ae4-9cb6ebfc3676",
+      "TITLE" : "Phonetic Symphony",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:5Rb5c3Dlx2GVGstAc5Vwmc|12",
+      "DURATION" : "149",
+      "MUSICBRAINZ_TRACKID" : "c36c8bd0-0080-49a7-b59f-b5a43779525b",
+      "TITLE" : "With Love (outro)",
+      "TRACKNUMBER" : "13"
+   }
+]

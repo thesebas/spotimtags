@@ -1,0 +1,69 @@
+﻿[
+   {
+      "@" : "spotify:track:3npRfvQxNB0vBVKsr2oEKe",
+      "ALBUM" : "Path of Eight",
+      "ARTIST" : "Mouth of the Architect",
+      "DATE" : "2016-10-07",
+      "DURATION" : "266",
+      "MUSICBRAINZ_ALBUMID" : "2cac907e-93e9-4a9f-b0e4-e4aa8272132a",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "e3a3c55a-b95e-47e9-b4cb-7bfd63c51bfa",
+      "MUSICBRAINZ_RELEASEGROUPID" : "cf86ae19-3541-4086-9a64-52e421488e7e",
+      "MUSICBRAINZ_TRACKID" : "171d424c-5bfa-48f9-af29-635c5450a5d3",
+      "SPOTIFY:ALBUM" : "spotify:album:2JCvG0P6eb3ND17YCEFhLq",
+      "SPOTIFY:ARTIST" : "spotify:artist:74Lk7WdgkYm19XoHvEsr5F",
+      "TITLE" : "Ritual Bell",
+      "TOTALTRACKS" : "8",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:3g1kYfdteRniQnvHc0o5EO",
+      "DURATION" : "351",
+      "MUSICBRAINZ_TRACKID" : "70059ba4-8c6c-4e35-b651-2c4eafec9664",
+      "TITLE" : "Fever Dream",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:7eNg38n7KoZ8VsPo34ahq3",
+      "DURATION" : "362",
+      "MUSICBRAINZ_TRACKID" : "cbc02a5d-d5ea-4954-a6db-e3da21aa9c9b",
+      "TITLE" : "The Priestess",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:2ZspsYYIEWOnnURvoqlmwI",
+      "DURATION" : "355",
+      "MUSICBRAINZ_TRACKID" : "13b99990-4e99-499e-a934-ed3c923cf5cc",
+      "TITLE" : "Sever The Soul",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:2gBr3gwRhWcErQ8Ymngm7I",
+      "DURATION" : "293",
+      "MUSICBRAINZ_TRACKID" : "f7878354-fcb7-4ee9-95eb-ae1d4286f5d2",
+      "TITLE" : "Drown the Old",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:7ybelv1yr6EoABOpxVIjp9",
+      "DURATION" : "440",
+      "MUSICBRAINZ_TRACKID" : "022b2a23-5028-4a34-8955-3d2d1bce3b12",
+      "TITLE" : "Stretching Out",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:0Py3Sy4a577wRzY7GAd407",
+      "DURATION" : "333",
+      "MUSICBRAINZ_TRACKID" : "38a85928-82b0-4380-a12c-10f3bff90e65",
+      "TITLE" : "Fallen Star",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:6J5QZTdYxxaWb2mTnFU8D3",
+      "DURATION" : "249",
+      "MUSICBRAINZ_TRACKID" : "42d90037-ebbd-475d-a716-edc486e1fa2d",
+      "TITLE" : "Path of Eight",
+      "TRACKNUMBER" : "8"
+   }
+]

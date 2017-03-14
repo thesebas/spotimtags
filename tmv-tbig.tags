@@ -1,0 +1,103 @@
+﻿[
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ",
+      "ALBUM" : "The Bedlam in Goliath",
+      "ARTIST" : "The Mars Volta",
+      "BARCODE" : "602517575318",
+      "CATALOGNUMBER" : "B0010617-02",
+      "DATE" : "2008-01-29",
+      "DISCNUMBER" : "1",
+      "DURATION" : "345",
+      "LABEL" : "Universal Records",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "3553a4ac-e0bb-4a67-acf3-eca3bb500e4d",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "20883363-1ea4-4d72-ad72-c0e767038f3e",
+      "MUSICBRAINZ_RELEASEGROUPID" : "089061bd-2a4a-387f-b617-9228b7ec378c",
+      "MUSICBRAINZ_TRACKID" : "fe5ee900-b039-4130-92a6-48d1d6020018",
+      "ORIGINAL RELEASE DATE" : "2008-01-23",
+      "RELEASECOUNTRY" : "US",
+      "TITLE" : "Aberinkula",
+      "TOTALDISCS" : "2",
+      "TOTALTRACKS" : "12",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ|1",
+      "DURATION" : "492",
+      "MUSICBRAINZ_TRACKID" : "66676fb7-44d2-4384-bc7a-430681195077",
+      "TITLE" : "Metatron",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ|2",
+      "DURATION" : "336",
+      "MUSICBRAINZ_TRACKID" : "7324677b-7c0d-4e3a-a2a5-34e9c498f588",
+      "TITLE" : "Ilyena",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ|3",
+      "DURATION" : "159",
+      "MUSICBRAINZ_TRACKID" : "24fe4656-ca15-4e60-92a9-d21b8f25ba9c",
+      "TITLE" : "Wax Simulacra",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ|4",
+      "DURATION" : "435",
+      "MUSICBRAINZ_TRACKID" : "8c09377e-57c4-431d-be1c-fc656da0b6d3",
+      "TITLE" : "Goliath",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ|5",
+      "DURATION" : "158",
+      "MUSICBRAINZ_TRACKID" : "5c6eb447-0426-4b7f-af4b-56e209a47f88",
+      "TITLE" : "Tourniquet Man",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ|6",
+      "DURATION" : "572",
+      "MUSICBRAINZ_TRACKID" : "067c9a65-924e-49ef-9e6f-8878678ef14a",
+      "TITLE" : "Cavalettas",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ|7",
+      "DURATION" : "404",
+      "MUSICBRAINZ_TRACKID" : "d373c5a4-d998-4b47-9889-9a021b5801e2",
+      "TITLE" : "Agadez",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ|8",
+      "DURATION" : "311",
+      "MUSICBRAINZ_TRACKID" : "4a2a912f-48b9-449b-8bf0-aa027d5390a3",
+      "TITLE" : "Askepios",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ|9",
+      "DURATION" : "396",
+      "MUSICBRAINZ_TRACKID" : "489764be-1e1f-4c2b-bec0-dcfe16ac9437",
+      "TITLE" : "Ouroborous",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ|10",
+      "DURATION" : "548",
+      "MUSICBRAINZ_TRACKID" : "27850624-9d3e-4802-bdbc-97e386342bef",
+      "TITLE" : "Soothsayer",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:1VRFcp0YHZKG2nUSgSOOiQ|11",
+      "DURATION" : "396",
+      "MUSICBRAINZ_TRACKID" : "1baac6cd-d22e-4109-bd3a-ac520ed3284e",
+      "TITLE" : "Conjugal Burns",
+      "TRACKNUMBER" : "12"
+   }
+]

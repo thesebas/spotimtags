@@ -1,0 +1,92 @@
+﻿[
+   {
+      "@" : "spotify:album:5SAKjXWExtHJArL2HZIDbd",
+      "ALBUM" : "Fair Youth",
+      "ARTIST" : "Maybeshewill",
+      "BARCODE" : "5052205068489",
+      "DATE" : "2014-08-22",
+      "DURATION" : "54",
+      "LABEL" : "Superball Music",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "59021bf9-f6a3-4cb1-8ed1-878e4df6f011",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "62495254-237e-4e9e-8ffb-31fede562cfd",
+      "MUSICBRAINZ_RELEASEGROUPID" : "7aa9f5f7-2b29-452f-95b0-8aea92311e86",
+      "MUSICBRAINZ_TRACKID" : "56fde0e9-f20b-410f-854b-16c4d5ef0d04",
+      "RELEASECOUNTRY" : "GB",
+      "TITLE" : "…",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:5SAKjXWExtHJArL2HZIDbd|1",
+      "DURATION" : "347",
+      "MUSICBRAINZ_TRACKID" : "4e0dfe1d-eeda-43ce-aff7-499307e0b7bf",
+      "TITLE" : "In Amber",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:5SAKjXWExtHJArL2HZIDbd|2",
+      "DURATION" : "242",
+      "MUSICBRAINZ_TRACKID" : "0081f079-e546-4170-9ad0-e178f03be2de",
+      "TITLE" : "You and Me and Everything in Between",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:5SAKjXWExtHJArL2HZIDbd|3",
+      "DURATION" : "263",
+      "MUSICBRAINZ_TRACKID" : "83ac0088-c833-4371-ad82-c73bf6b1eaaa",
+      "TITLE" : "Fair Youth",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:5SAKjXWExtHJArL2HZIDbd|4",
+      "DURATION" : "254",
+      "MUSICBRAINZ_TRACKID" : "5af467c2-2935-469a-9251-b775541c1c19",
+      "TITLE" : "All Things Transient",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:5SAKjXWExtHJArL2HZIDbd|5",
+      "DURATION" : "225",
+      "MUSICBRAINZ_TRACKID" : "35a2fd19-460d-4f93-8c3e-dffb6beeec13",
+      "TITLE" : "Sanctuary",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:5SAKjXWExtHJArL2HZIDbd|6",
+      "DURATION" : "258",
+      "MUSICBRAINZ_TRACKID" : "e553a58e-195e-4416-80c6-dd2b71b54371",
+      "TITLE" : "Asiatic",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:5SAKjXWExtHJArL2HZIDbd|7",
+      "DURATION" : "358",
+      "MUSICBRAINZ_TRACKID" : "17252e44-fe84-497f-a08b-0388eb567275",
+      "TITLE" : "Waking Life",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:5SAKjXWExtHJArL2HZIDbd|8",
+      "DURATION" : "269",
+      "MUSICBRAINZ_TRACKID" : "151d03d1-9f42-4299-908a-24d4654b4486",
+      "TITLE" : "Permanence",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:5SAKjXWExtHJArL2HZIDbd|9",
+      "DURATION" : "333",
+      "MUSICBRAINZ_TRACKID" : "4fec1f57-c286-4a07-a018-1b5413cc3bad",
+      "TITLE" : "In the Blind",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:5SAKjXWExtHJArL2HZIDbd|10",
+      "DURATION" : "393",
+      "MUSICBRAINZ_TRACKID" : "4b911c98-aa1d-416e-9741-6a3c1566cd8f",
+      "TITLE" : "Volga",
+      "TRACKNUMBER" : "11"
+   }
+]

@@ -1,0 +1,115 @@
+﻿[
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr",
+      "ALBUM" : "Not for Want of Trying + 4",
+      "ARTIST" : "Maybeshewill",
+      "BARCODE" : "5060195510451",
+      "CATALOGNUMBER" : "Field011X4",
+      "DATE" : "2010-02-22",
+      "DURATION" : "102",
+      "LABEL" : "Field Records",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "7ddc5272-79e5-4480-91e1-7af2d1279ec9",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "62495254-237e-4e9e-8ffb-31fede562cfd",
+      "MUSICBRAINZ_RELEASEGROUPID" : "cd2cf429-0ae8-33bb-b0c3-b069aab5108b",
+      "MUSICBRAINZ_TRACKID" : "161eaf57-01e7-430b-b114-e4061f9e74af",
+      "ORIGINAL RELEASE DATE" : "2008-05-12",
+      "RELEASECOUNTRY" : "GB",
+      "TITLE" : "Ixnay on the Autoplay",
+      "TOTALTRACKS" : "14",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|1",
+      "DURATION" : "197",
+      "MUSICBRAINZ_TRACKID" : "90e3ecdb-19e5-4d50-8def-e6efbf0a9412",
+      "TITLE" : "Seraphim & Cherubim",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|2",
+      "DURATION" : "214",
+      "MUSICBRAINZ_TRACKID" : "e31edfc2-35a8-414b-a153-940b593bf25e",
+      "TITLE" : "The Paris Hilton Sex Tape",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|3",
+      "DURATION" : "219",
+      "MUSICBRAINZ_TRACKID" : "459087ee-1940-43c3-9fe3-4b90ddba2d17",
+      "TITLE" : "I’m in Awe, Amadeus!",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|4",
+      "DURATION" : "203",
+      "MUSICBRAINZ_TRACKID" : "e917f79d-ae9e-447c-be5a-9db977a9b943",
+      "TITLE" : "We Called for an Ambulance but a Fire Engine Came",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|5",
+      "DURATION" : "228",
+      "MUSICBRAINZ_TRACKID" : "08b6d297-f10e-45ad-9726-7925f4214dad",
+      "TITLE" : "Heartflusters",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|6",
+      "DURATION" : "147",
+      "MUSICBRAINZ_TRACKID" : "9f7e9d85-a416-4f3b-9d5b-dbdb27df579d",
+      "TITLE" : "C.N.T.R.C.K.T.",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|7",
+      "DURATION" : "403",
+      "MUSICBRAINZ_TRACKID" : "c5af371e-677a-46e1-8b81-9b334aeaa64d",
+      "TITLE" : "He Films the Clouds, Part Two",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|8",
+      "DURATION" : "334",
+      "MUSICBRAINZ_TRACKID" : "157fb084-1072-45c1-8b2b-fd4bef489b44",
+      "TITLE" : "Not for Want of Trying",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|9",
+      "DURATION" : "117",
+      "MUSICBRAINZ_TRACKID" : "fccaf048-4610-4843-bc02-6501af97c06f",
+      "TITLE" : "Takotsubo",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|10",
+      "DURATION" : "133",
+      "MUSICBRAINZ_TRACKID" : "d83236ab-1ec9-4e4b-81ca-268a65c123a4",
+      "TITLE" : "He Films the Clouds",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|11",
+      "DURATION" : "213",
+      "MUSICBRAINZ_TRACKID" : "f57265ef-f648-4100-a9b3-d4b24e12989f",
+      "TITLE" : "The Paris Hilton Sex Tape",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|12",
+      "DURATION" : "316",
+      "MUSICBRAINZ_TRACKID" : "b5bba6de-a65e-48af-a9e4-f74e2db3439b",
+      "TITLE" : "...In Another Life, When We Are Both Cats",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:album:2cpuM4JjRuTCq3sJVoMYHr|13",
+      "DURATION" : "239",
+      "MUSICBRAINZ_TRACKID" : "89c14b38-7881-48ad-871a-d9853efbe50a",
+      "TITLE" : "Japanese Spy Transcript",
+      "TRACKNUMBER" : "14"
+   }
+]

@@ -1,0 +1,160 @@
+﻿[
+   {
+      "@" : "spotify:track:3QVnGueurqxRTQi5uLIv55",
+      "ALBUM" : "State of Decay",
+      "ARTIST" : "Jesper Kyd",
+      "DATE" : "2013-06-05",
+      "DURATION" : "246",
+      "MUSICBRAINZ_ALBUMID" : "bc26cebe-11df-4eb0-9371-ddaeeebcba48",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Soundtrack",
+      "MUSICBRAINZ_ARTISTID" : "5156bb2c-45d7-4660-8234-4d84452c93e1",
+      "MUSICBRAINZ_RELEASEGROUPID" : "a7e7d38c-9cc0-4b47-b84e-93d669a776f3",
+      "MUSICBRAINZ_TRACKID" : "4a13e992-6dec-4a0c-a9d7-7576e7b815b1",
+      "SPOTIFY:ALBUM" : "spotify:album:1HGRCNW0F0BpN4u6fG2bye",
+      "SPOTIFY:ARTIST" : "spotify:artist:3m6alJyeKYSCZ8078ttfaH",
+      "TITLE" : "Welcome to Decay",
+      "TOTALTRACKS" : "21",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:track:2KKVTe1UHsMr3Yl3GORcta",
+      "DURATION" : "195",
+      "MUSICBRAINZ_TRACKID" : "2e776ef2-feec-4f32-9f30-02562ad6714d",
+      "TITLE" : "State of Decay Main Theme",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:track:3Gvq8yrOAG4TbqK0mgBytT",
+      "DURATION" : "261",
+      "MUSICBRAINZ_TRACKID" : "8710bea4-635d-45f4-a832-31aefca5f167",
+      "TITLE" : "Armageddon Rides to Town",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:track:5laDX6MlEJ71syMOcZg7Te",
+      "DURATION" : "202",
+      "MUSICBRAINZ_TRACKID" : "5a443cef-e7ac-49c7-ad53-fe4a546d3bbf",
+      "TITLE" : "Civilization Falls",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:track:6yO16kFKVdGjzZE76vTVQH",
+      "DURATION" : "221",
+      "MUSICBRAINZ_TRACKID" : "4e2738e7-85d1-4c39-9795-3c93c2e307cf",
+      "TITLE" : "We Fight Back",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:track:3w6EVCa69r7BBpsor6jeZv",
+      "DURATION" : "85",
+      "MUSICBRAINZ_TRACKID" : "b8ba9925-3f18-4cb7-9fd3-b9e197d87b79",
+      "TITLE" : "Payback",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:track:4SOh1ZnCAd8Yydc3yIiB2S",
+      "DURATION" : "30",
+      "MUSICBRAINZ_TRACKID" : "c8ee8d5b-f387-451d-a8fb-020aeca39b03",
+      "TITLE" : "Blaze of Glory",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:track:2FR9mbKBlDw9h4XirrPL3s",
+      "DURATION" : "62",
+      "MUSICBRAINZ_TRACKID" : "d0901635-fcdf-4fae-a0bf-c5af3cdede7c",
+      "TITLE" : "Funeral for Friends",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:track:31k8NDIb4YRCjlLuuL3Lla",
+      "DURATION" : "194",
+      "MUSICBRAINZ_TRACKID" : "4c89a912-5f9d-44c4-bd86-10fb540119e1",
+      "TITLE" : "Hope Prevails",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:track:7w4NOTWGKQfryYuawBOE7G",
+      "DURATION" : "238",
+      "MUSICBRAINZ_TRACKID" : "40ead7a9-1e54-4971-b158-05c316117374",
+      "TITLE" : "After Dark",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:track:5Ibn0Pe6I3s62PMKfvhS90",
+      "DURATION" : "131",
+      "MUSICBRAINZ_TRACKID" : "e64d41b1-4015-4af4-86dd-069977cc216b",
+      "TITLE" : "Imminent Attack",
+      "TRACKNUMBER" : "11"
+   },
+   {
+      "@" : "spotify:track:30yJ05Uytt3RVEt7ANn6wH",
+      "DURATION" : "39",
+      "MUSICBRAINZ_TRACKID" : "ac1c4157-b523-4d89-aa1f-6446a8115000",
+      "TITLE" : "Death!",
+      "TRACKNUMBER" : "12"
+   },
+   {
+      "@" : "spotify:track:1wjxm6IRgfUhxKPWOaPgCT",
+      "DURATION" : "120",
+      "MUSICBRAINZ_TRACKID" : "92e80ba9-3e28-424b-b3de-479fcfab8e1c",
+      "TITLE" : "Zombie Decay",
+      "TRACKNUMBER" : "13"
+   },
+   {
+      "@" : "spotify:track:7ebW8Sk4FqTm8LGNvPUPUh",
+      "DURATION" : "141",
+      "MUSICBRAINZ_TRACKID" : "3c609d8d-27bf-42f1-b959-e6b4f83f291f",
+      "TITLE" : "Sunset of the Undead",
+      "TRACKNUMBER" : "14"
+   },
+   {
+      "@" : "spotify:track:03e4BzunQigIjygdH9T3NA",
+      "DURATION" : "244",
+      "MUSICBRAINZ_TRACKID" : "11792fb1-2125-4811-954e-1c56b9bce641",
+      "TITLE" : "Flesh Eating Zombies",
+      "TRACKNUMBER" : "15"
+   },
+   {
+      "@" : "spotify:track:6YEuN8XBU0AZCG8RHUfUfb",
+      "DURATION" : "69",
+      "MUSICBRAINZ_TRACKID" : "0e7d3ea2-effe-4e73-9bbf-7ed05a69ee1f",
+      "TITLE" : "Bad News",
+      "TRACKNUMBER" : "16"
+   },
+   {
+      "@" : "spotify:track:6HNLpX8UfghEiPMfNmslwd",
+      "DURATION" : "288",
+      "MUSICBRAINZ_TRACKID" : "e86b329f-77a4-43a2-b626-36992b9452d5",
+      "TITLE" : "Chance Encounter",
+      "TRACKNUMBER" : "17"
+   },
+   {
+      "@" : "spotify:track:05Fji9T9LXE8CFZ6X2CriC",
+      "DURATION" : "146",
+      "MUSICBRAINZ_TRACKID" : "8f4c0e2f-89fa-4a86-aedc-894f0d7ccdc0",
+      "TITLE" : "Invasion of the Zombie Hoarder",
+      "TRACKNUMBER" : "18"
+   },
+   {
+      "@" : "spotify:track:0B0SfMwMNWnKj6u2x0cdNu",
+      "DURATION" : "117",
+      "MUSICBRAINZ_TRACKID" : "ee0973f9-c503-4ac7-acf5-80bbfba28604",
+      "TITLE" : "Zombie Truckin'",
+      "TRACKNUMBER" : "19"
+   },
+   {
+      "@" : "spotify:track:58lgCz6mDYoQ6B0teBU3pB",
+      "DURATION" : "353",
+      "MUSICBRAINZ_TRACKID" : "e34f2069-f904-449c-b418-bc1d06322fec",
+      "TITLE" : "Revenge",
+      "TRACKNUMBER" : "20"
+   },
+   {
+      "@" : "spotify:track:21tTouEzUJFrmhATeEHzAk",
+      "DURATION" : "458",
+      "MUSICBRAINZ_TRACKID" : "6a217acc-77a9-43e9-bac3-df54c9ebc3d5",
+      "TITLE" : "Broken World",
+      "TRACKNUMBER" : "21"
+   }
+]

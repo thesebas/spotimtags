@@ -1,0 +1,63 @@
+﻿[
+   {
+      "@" : "spotify:album:2uHI3iVgRwk1IQKIjw1ddp",
+      "ALBUM" : "(II)",
+      "ARTIST" : "Toundra",
+      "DATE" : "2010",
+      "DURATION" : "169",
+      "LABEL" : "Aloud Music Ltd.",
+      "MEDIA" : "CD",
+      "MUSICBRAINZ_ALBUMID" : "a2d4fef5-8cab-432f-ba3c-8b7c4fd58595",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "68766d21-1668-4e06-b49d-e881446afc02",
+      "MUSICBRAINZ_RELEASEGROUPID" : "74f3235d-c242-4415-98c0-3ee08cb9a519",
+      "MUSICBRAINZ_TRACKID" : "2486868b-8daf-423c-9c88-973de060074b",
+      "RELEASECOUNTRY" : "ES",
+      "TITLE" : "Tchod",
+      "TOTALTRACKS" : "7",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:2uHI3iVgRwk1IQKIjw1ddp|1",
+      "DURATION" : "659",
+      "MUSICBRAINZ_TRACKID" : "6df5c96b-d70f-4e3d-a265-e784c6b3967b",
+      "TITLE" : "Magreb",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:2uHI3iVgRwk1IQKIjw1ddp|2",
+      "DURATION" : "295",
+      "MUSICBRAINZ_TRACKID" : "b58ce48c-c14b-4b50-8c45-a602ac7e1b54",
+      "TITLE" : "Zanzíbar",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:2uHI3iVgRwk1IQKIjw1ddp|3",
+      "DURATION" : "133",
+      "MUSICBRAINZ_TRACKID" : "2ce9ba78-1488-4e5e-830e-62d2acc56c98",
+      "TITLE" : "Völand",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:2uHI3iVgRwk1IQKIjw1ddp|4",
+      "DURATION" : "437",
+      "MUSICBRAINZ_TRACKID" : "c4f5c595-0e25-42dc-a6a4-fdf40a825f81",
+      "TITLE" : "Danubio / Danube",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:2uHI3iVgRwk1IQKIjw1ddp|5",
+      "DURATION" : "215",
+      "MUSICBRAINZ_TRACKID" : "fcdaf050-9c5f-4a0d-92ec-aa6af1822802",
+      "TITLE" : "Koschei",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:2uHI3iVgRwk1IQKIjw1ddp|6",
+      "DURATION" : "518",
+      "MUSICBRAINZ_TRACKID" : "1c56bd5f-81a5-477b-aa64-69e9b271deef",
+      "TITLE" : "Bizancio / Byzantium",
+      "TRACKNUMBER" : "7"
+   }
+]

@@ -1,0 +1,91 @@
+﻿[
+   {
+      "@" : "spotify:album:52hA4AUoiCwTuXXuClt0SR",
+      "ALBUM" : "Dissociation",
+      "ARTIST" : "The Dillinger Escape Plan",
+      "BARCODE" : "711297315523",
+      "CATALOGNUMBER" : "PSI005CD",
+      "DATE" : "2016-10-14",
+      "DURATION" : "246",
+      "LABEL" : "Party Smasher Inc.",
+      "MUSICBRAINZ_ALBUMID" : "305f8338-90bc-444d-8155-a59cedd4b9df",
+      "MUSICBRAINZ_ALBUMSTATUS" : "Official",
+      "MUSICBRAINZ_ALBUMTYPE" : "Album",
+      "MUSICBRAINZ_ARTISTID" : "1bc41dff-5397-4c53-bb50-469d2c277197",
+      "MUSICBRAINZ_RELEASEGROUPID" : "18c29ff8-b6bc-497e-a362-683978c2cdd2",
+      "MUSICBRAINZ_TRACKID" : "058eb917-41e3-49f8-9773-23e36d96cab5",
+      "TITLE" : "Limerent Death",
+      "TOTALTRACKS" : "11",
+      "TRACKNUMBER" : "1"
+   },
+   {
+      "@" : "spotify:album:52hA4AUoiCwTuXXuClt0SR|1",
+      "DURATION" : "243",
+      "MUSICBRAINZ_TRACKID" : "ca659cc6-320c-4fe4-8e4c-42bc003b7a24",
+      "TITLE" : "Symptom of Terminal Illness",
+      "TRACKNUMBER" : "2"
+   },
+   {
+      "@" : "spotify:album:52hA4AUoiCwTuXXuClt0SR|2",
+      "DURATION" : "323",
+      "MUSICBRAINZ_TRACKID" : "2a002f44-85b6-4503-b6fd-d8bf7df6fdb7",
+      "TITLE" : "Wanting Not So Much to as To",
+      "TRACKNUMBER" : "3"
+   },
+   {
+      "@" : "spotify:album:52hA4AUoiCwTuXXuClt0SR|3",
+      "DURATION" : "229",
+      "MUSICBRAINZ_TRACKID" : "b89dc270-82d2-4fa8-b1ac-f6b309b15159",
+      "TITLE" : "Fugue",
+      "TRACKNUMBER" : "4"
+   },
+   {
+      "@" : "spotify:album:52hA4AUoiCwTuXXuClt0SR|4",
+      "DURATION" : "245",
+      "MUSICBRAINZ_TRACKID" : "b6f25a14-c956-4e43-a87f-832fd685b3e5",
+      "TITLE" : "Low Feels Blvd",
+      "TRACKNUMBER" : "5"
+   },
+   {
+      "@" : "spotify:album:52hA4AUoiCwTuXXuClt0SR|5",
+      "DURATION" : "305",
+      "MUSICBRAINZ_TRACKID" : "0ef38933-f9f7-4a2b-919e-f2f744b1a7f7",
+      "TITLE" : "Surrogate",
+      "TRACKNUMBER" : "6"
+   },
+   {
+      "@" : "spotify:album:52hA4AUoiCwTuXXuClt0SR|6",
+      "DURATION" : "262",
+      "MUSICBRAINZ_TRACKID" : "a19d8db2-2b41-405a-b4b8-cf3445bd321e",
+      "TITLE" : "Honeysuckle",
+      "TRACKNUMBER" : "7"
+   },
+   {
+      "@" : "spotify:album:52hA4AUoiCwTuXXuClt0SR|7",
+      "DURATION" : "264",
+      "MUSICBRAINZ_TRACKID" : "b63dc1d1-15aa-43ec-9f8e-dbeb7b5382dd",
+      "TITLE" : "Manufacturing Discontent",
+      "TRACKNUMBER" : "8"
+   },
+   {
+      "@" : "spotify:album:52hA4AUoiCwTuXXuClt0SR|8",
+      "DURATION" : "203",
+      "MUSICBRAINZ_TRACKID" : "40f7053c-7506-467a-8bbd-b614e626b492",
+      "TITLE" : "Apologies Not Included",
+      "TRACKNUMBER" : "9"
+   },
+   {
+      "@" : "spotify:album:52hA4AUoiCwTuXXuClt0SR|9",
+      "DURATION" : "315",
+      "MUSICBRAINZ_TRACKID" : "663515fa-056f-4508-8580-25ee4a68ed6e",
+      "TITLE" : "Nothing to Forget",
+      "TRACKNUMBER" : "10"
+   },
+   {
+      "@" : "spotify:album:52hA4AUoiCwTuXXuClt0SR|10",
+      "DURATION" : "374",
+      "MUSICBRAINZ_TRACKID" : "c1f2adf8-dd3a-4f1b-850f-622379f549b3",
+      "TITLE" : "Dissociation",
+      "TRACKNUMBER" : "11"
+   }
+]
